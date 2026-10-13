@@ -39,7 +39,7 @@ IDP 须由原籍国授权机构签发，并与有效境外驾照一起使用。�
 - 非英文驾照按转换清单取得新加坡注册翻译公司的正式英文翻译。
 - 近期白底彩色证件照，以及发证国家对应的认可或证明文件。
 
-例如马来西亚驾照另须 JPJ 所列驾照类别及签发日期的信件和付款收据；印度驾照另列使馆有效性认可文件。按 [SPF 驾照页的国家清单](https://www.police.gov.sg/Knowledge-Hub/Traffic/Traffic-Matters/Singapore-Driving-Licence)逐项准备，不用其他国家的文件清单替代。
+例如马来西亚驾照另须 JPJ 所列驾照类别及签发日期的信件和付款收据；印度驾照另列使馆有效性认可文件。按 [SPF 驾照页的国家清单](https://www.police.gov.sg/Knowledge-Hub/Traffic/Traffic-Matters/Singapore-Driving-Licence)逐项准备。
 
 境外居住证明也有条件：PR 或准证持有人如果在取得 PR 身份或首个准证后才取得境外驾照，须证明在发照国的12个月期间内实际居住至少6个月；公民以境外驾照申请转换也须这类证明。保留相关护照、工作、教育及税务记录，按预评估要求补交。[转换资格与居住证明分支](https://www.police.gov.sg/E-Services/Book-Appointment-to-Convert-Foreign-Driving-Licence)
 
@@ -83,7 +83,7 @@ Class 3C／3CA 持有人要学 Class 4／4P，须有雇主支持，并先通过�
 
 PDL、模拟器及 QDL 的条件分别见 [PDL 详页](https://www.police.gov.sg/Knowledge-Hub/Traffic/Traffic-Matters/Provisional-Driving-Licence)、[模拟器训练](https://www.police.gov.sg/Knowledge-Hub/Traffic/Traffic-Matters/Simulator-Training-for-Learner-Motorists)和 [QDL 申请](https://www.police.gov.sg/E-Services/Apply-for-Qualified-Driving-Licence)。持有效 MOM 工作准证或 ICA Student／Long-Term Visit Pass 的合格考生，QDL 页明确列有 Singpass 网上申请路线；首次报名时带本人 FIN／准证，遇到账户或材料问题让中心及 Traffic Police 核对。
 
-以下是2026年10月查阅的政府申请／测试费用， **不等于全部学车费用** ：
+以下是2026年10月查阅的政府申请／测试费用：
 
 | 项目 | 当前金额 |
 |---|---|
@@ -94,13 +94,13 @@ PDL、模拟器及 QDL 的条件分别见 [PDL 详页](https://www.police.gov.sg
 
 中心另有登记、课时、模拟器、行政费、考试用车及热身等费用。理论测试四语和课程语言也须分别核对，例如 BBDC 所列理论测试可选英文、中文、马来文、淡米尔文。不要把中心的平均课数当作保证获证次数；排期、取消、缺席和账户续期按所选中心处理。[BBDC 当期费用及语言](https://info.bbdc.sg/course/class-3-3a-driving-course/)，[PDL 申请费](https://www.police.gov.sg/E-Services/Apply-for-Provisional-Driving-Licence)，[QDL 申请费](https://www.police.gov.sg/E-Services/Apply-for-Qualified-Driving-Licence)
 
-警方已公布下一阶段测试费：2027年3月13日起预约的理论测试 S$8、实操 S$45；2028年3月13日起预约的实操 S$50。看 **预约日期** ，而不是自行按考试当天日期套价。[SPF 测试费生效规则](https://www.police.gov.sg/Media-Hub/News/2026/03/20260313_revised_test_fees_and_mandatory_road_assessment_for_class_3c_3ca_license)
+警方已公布下一阶段测试费：2027年3月13日起预约的理论测试 S$8、实操 S$45；2028年3月13日起预约的实操 S$50。适用费率看 **预约日期** 。[SPF 测试费生效规则](https://www.police.gov.sg/Media-Hub/News/2026/03/20260313_revised_test_fees_and_mandatory_road_assessment_for_class_3c_3ca_license)
 
 第一次取得普通汽车驾照后，试用期为一年，驾驶时按要求在车前后显示 P 牌。2026年现行试用期撤证门槛为13分；警方已宣布2027年1月1日起改为12分，非试用驾驶人的首次停牌门槛也由24个月24分改为18分，并有过渡扣分安排。查看官方记录和通知，不凭旧攻略计算还能违反几次规则。[SPF 基本理论教材，第5页](https://www.police.gov.sg/-/media/SPF/Knowledge-Hub/Traffic/BT-ENG-24126.pdf)，[2027年记分制度变更](https://www.police.gov.sg/Media-Hub/News/2026/07/20260731_tightening_of_the_driver_improvement_points)
 
 ## 续证、适驾与数字证件
 
-外国准证持有人查看自己驾照的到期日；QDL 网上续期须持有效 MOM 工作准证或 ICA Student／Long-Term Visit Pass，并在到期前一个月内办理。不要把公民／PR 的长期驾照安排推给外国居民。[QDL 续期资格](https://www.police.gov.sg/E-Services/Apply-for-Qualified-Driving-Licence)
+外国准证持有人查看自己驾照的到期日；QDL 网上续期须持有效 MOM 工作准证或 ICA Student／Long-Term Visit Pass，并在到期前一个月内办理。[QDL 续期资格](https://www.police.gov.sg/E-Services/Apply-for-Qualified-Driving-Licence)
 
 65岁及以上须按 Traffic Police 医检通知，经新加坡注册医生评估适驾；普通 Class 3 系列获适驾确认后通常每3年再检查。任何年龄若有影响驾驶的病况或身体障碍，也须取得适驾医学证明，可能另做职业治疗师及驾驶教练的评估。先与医生处理所需评估或车辆调整。[SPF 适驾及残障驾驶分支](https://www.police.gov.sg/Knowledge-Hub/Traffic/Traffic-Matters/Singapore-Driving-Licence)
 
@@ -124,7 +124,7 @@ Singpass 中的 Digital Driving Licence 可在本地核验，核验时打开真�
 
 COE（拥车证）让对应车辆在新加坡登记并使用，通常首次为10年。新车按相应类别取得 COE；个人投标须至少18岁，用本人身份和银行账户，外国人使用 FIN。让车商把是否包 COE、竞价不成功怎么办、最终车价及交车期限写入合同。[OneMotoring：COE、类别与竞价](https://onemotoring.lta.gov.sg/content/onemotoring/home/buying/upfront-vehicle-costs/certificate-of-entitlement--coe-.html)
 
-目前普通汽车分 A、B 类，另有适用的 E 类。2026年10月8日启动的 A／B 合并及新费用抵减方案仍为公众咨询，咨询至11月2日；不能按提案假定自己已适用合并后的类别或价格。[LTA 当期 COE 咨询说明](https://www.lta.gov.sg/content/ltagov/en/newsroom/2026/10/news-releases/launch-of-public-consultation-on-coe-categorisation-for-cars.html)
+目前普通汽车分 A、B 类，另有适用的 E 类。2026年10月8日启动的 A／B 合并及新费用抵减方案仍为公众咨询，咨询至11月2日；咨询期间购车仍按现行 A／B 类别与费用。[LTA 当期 COE 咨询说明](https://www.lta.gov.sg/content/ltagov/en/newsroom/2026/10/news-releases/launch-of-public-consultation-on-coe-categorisation-for-cars.html)
 
 签约前把报价拆开，再估每月实际支出：
 
@@ -136,9 +136,9 @@ COE（拥车证）让对应车辆在新加坡登记并使用，通常首次为10
 | 每次出行与保养 | ERP、短时停车、油／电、维修、轮胎和故障拖车 |
 | 停止持车 | 剩余 COE、PARF 资格、出售或注销处置及相应费用 |
 
-普通汽车当前 RF 为 S$350；ARF 按 OMV 及适用批次分档，不是一个全车统一百分比。纯电车路税还有 Additional Flat Component；其 EEAI 在2026年末终止，不能把2026优惠直接用来预算2027登记的新车。按具体车型、登记日期与 COE 批次核报价。[OneMotoring：汽车税费结构](https://onemotoring.lta.gov.sg/content/onemotoring/home/buying/upfront-vehicle-costs/tax-structure.html)
+普通汽车当前 RF 为 S$350；ARF 按 OMV 及适用批次分档。纯电车路税还有 Additional Flat Component；其 EEAI 在2026年末终止。按具体车型、登记日期与 COE 批次核报价。[OneMotoring：汽车税费结构](https://onemotoring.lta.gov.sg/content/onemotoring/home/buying/upfront-vehicle-costs/tax-structure.html)
 
-PARF 是合资格汽车注销时按年龄和实际支付 ARF 计算的退还安排。2026年2月第二次 COE 竞价起的新批次，退还上限为 S$30,000，5年以内为实际 ARF 的30%，超过9年但不超过10年为5%；旧批次有不同百分比及上限。超过10年没有 PARF。买二手车先查这辆车的资格，不能把旧车的退还比例当作新车将来一定取得的金额。[PARF 三批次明细](https://onemotoring.lta.gov.sg/content/onemotoring/home/buying/upfront-vehicle-costs/tax-structure.html)
+PARF 是合资格汽车注销时按年龄和实际支付 ARF 计算的退还安排。2026年2月第二次 COE 竞价起的新批次，退还上限为 S$30,000，5年以内为实际 ARF 的30%，超过9年但不超过10年为5%；旧批次有不同百分比及上限。超过10年没有 PARF。买二手车先查这辆车的资格。[PARF 三批次明细](https://onemotoring.lta.gov.sg/content/onemotoring/home/buying/upfront-vehicle-costs/tax-structure.html)
 
 普通汽车 COE 到期可按条件注销或续5／10年，续期按当期 PQP；汽车选择5年续期只能一次，期满不能再续。买已有续期的二手车，把“还能用多久”和日后可否再续写进自己的持车计划。[COE 续期与5年限制](https://onemotoring.lta.gov.sg/content/onemotoring/home/owning/coe-renewal.html)
 

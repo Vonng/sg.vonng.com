@@ -12,7 +12,7 @@ weight: 30
 search_keywords: ["工伤", "WICA", "职业病", "工伤保险", "病假工资", "平台工作", "永久伤残", "热应激", "SnapSAFE"]
 ---
 
-工作中受伤，先脱离危险并就医，尽快通知雇主或平台经营者，保存事故、任务、工资和医疗记录，再确认由谁处理工伤索偿。新加坡的Work Injury Compensation Act（WICA）保障多数本地及外籍雇员，符合定义的平台工作者也有相应保障；一般自雇者和家政人员另走各自保险与责任路径。不要因雇主说“没有买保险”、已经离职或准证已取消，就自行认定不能索偿。[MOM：WICA适用人员](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/who-is-covered)、[平台工伤保障](https://www.mom.gov.sg/employment-practices/platform-workers-act/work-injury-compensation-for-platform-workers)
+工作中受伤，先脱离危险并就医，尽快通知雇主或平台经营者，保存事故、任务、工资和医疗记录，再确认由谁处理工伤索偿。新加坡的Work Injury Compensation Act（WICA）保障多数本地及外籍雇员，符合定义的平台工作者也有相应保障；一般自雇者和家政人员另走各自保险与责任路径。雇主说“没有买保险”、已经离职或准证已取消，都不决定索偿资格。[MOM：WICA适用人员](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/who-is-covered)、[平台工伤保障](https://www.mom.gov.sg/employment-practices/platform-workers-act/work-injury-compensation-for-platform-workers)
 
 ## 先就医，把发生经过留下来
 
@@ -58,11 +58,11 @@ WICA要求事故因工作而起，并在工作过程中发生；职业病及因�
 
 [MOM：可索偿事故及具体情境](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/eligible-claims)
 
-心脏病或中风也不能只看发生地点：MOM列明，须涉及因工作而起、在工作过程中发生的触发事件。故意自伤、故意加重伤情，以及列明的酒精或非医师处方药物影响情形有排除规则。平台任务阶段的边界另见下文，不把一般雇员的通勤判断直接套给骑手或网约车司机。[MOM：事故关联与排除](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/eligible-claims)
+心脏病或中风也不能只看发生地点：MOM列明，须涉及因工作而起、在工作过程中发生的触发事件。故意自伤、故意加重伤情，以及列明的酒精或非医师处方药物影响情形有排除规则。平台任务阶段的边界见下文平台工作者一节。[MOM：事故关联与排除](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/eligible-claims)
 
 ## 报告事故，并确认索偿已经开始
 
-对2020年9月1日起发生的雇员工伤，雇主获知事故后，WICA索偿即视为提出；MOM收到事故报告后启动处理。 **这不表示员工可以不通知、不交材料或不跟进。** 尽快向雇主报告，确认其已向MOM及保险公司提交，并索取编号；不要误把“再向MOM填一张索赔申请”当作所有现行案件的统一第一步。[MOM：视为提出索偿的规则](https://www.mom.gov.sg/faq/work-injury-compensation/do-employees-or-representatives-still-need-to-file-claim-for-wica-with-mom)
+对2020年9月1日起发生的雇员工伤，雇主获知事故后，WICA索偿即视为提出；MOM收到事故报告后启动处理。 **员工仍须自己报告、交材料并跟进。** 尽快向雇主报告，确认其已向MOM及保险公司提交，并索取编号。[MOM：视为提出索偿的规则](https://www.mom.gov.sg/faq/work-injury-compensation/do-employees-or-representatives-still-need-to-file-claim-for-wica-with-mom)
 
 | 报告事项 | 责任人与时间 |
 | --- | --- |
@@ -92,7 +92,7 @@ WICA要求事故因工作而起，并在工作过程中发生；职业病及因�
 
 ## 休养期间的工资与轻工作
 
-雇员工伤病假工资按 **平均月收入AME** 计算，通常看事故前12个月的收入，包括加班费和奖金，但不包括交通津贴及报销款；它不等于基本工资，也不一定等于最近一个月的gross salary。用工资单、出勤和奖金记录核对经办人的计算，入职不足12个月或收入有特殊情况时交其核算。[MOM：AME与工资计算](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/types-of-compensation)
+雇员工伤病假工资按 **平均月收入AME** 计算，通常看事故前12个月的收入，包括加班费和奖金，但不包括交通津贴及报销款。用工资单、出勤和奖金记录核对经办人的计算，入职不足12个月或收入有特殊情况时交其核算。[MOM：AME与工资计算](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/types-of-compensation)
 
 下表是雇员规则，只计算新加坡注册医师或牙医签发MC、住院假或轻工作证明所覆盖的 **工作日** ，不把休息日、公共假日自动计入。门诊MC与轻工作共用前14天额度；住院假另按60天计算：
 
@@ -104,11 +104,11 @@ WICA要求事故因工作而起，并在工作过程中发生；职业病及因�
 | 住院假，第61天起 | 按AME的三分之二，最迟至事故满一年。 |
 | 轻工作 | 实际工资低于适用的全额AME或三分之二AME时，补足差额；实际工资较高则保留实际工资。轻工作天数与门诊MC合并计前14天。 |
 
-**教学虚构：** 同一工伤先有5个应计门诊病假日，再有15个应计轻工作日。前9个轻工作日仍落在全额AME档，余下6个进入三分之二AME档；轻工作实际工资若较高，不因此降低。具体支付额还须按工资资料和工作日计算，不能把每一行“AME”理解为每天支付整个月工资。[MOM：病假、住院假与轻工作表及算例](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/types-of-compensation)
+**教学虚构：** 同一工伤先有5个应计门诊病假日，再有15个应计轻工作日。前9个轻工作日仍落在全额AME档，余下6个进入三分之二AME档；轻工作实际工资若较高，不因此降低。具体支付额还须按工资资料和工作日计算。[MOM：病假、住院假与轻工作表及算例](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/types-of-compensation)
 
-工伤病假赔偿不属于应税收入，也不缴CPF；轻工作中实际做工取得的工资仍须按适用CPF规则处理，不能把整笔款项都当成免缴赔偿。离职后仍可就同一工伤的MC、住院假，以及在原雇主处工作期间获发的轻工作证明主张相应病假工资。[MOM：赔偿与实际工资的区别](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/types-of-compensation)
+工伤病假赔偿不属于应税收入，也不缴CPF；轻工作中实际做工取得的工资仍须按适用CPF规则处理。离职后仍可就同一工伤的MC、住院假，以及在原雇主处工作期间获发的轻工作证明主张相应病假工资。[MOM：赔偿与实际工资的区别](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/types-of-compensation)
 
-拿到light duty不等于获准自行在家休息，应按医嘱安排轻工作或办理假期；雇主没有合适轻工作时，告诉主治医生。病假期间想提前复工，也先请主治医生确认适工并向经办人核对后续：MOM现行说明，复工后随后的病假不再可索偿，不能自行认为回来试做一天不会影响余下病假待遇。[MOM：轻工作与复工说明](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/types-of-compensation)
+拿到light duty，应按医嘱安排轻工作或办理假期；雇主没有合适轻工作时，告诉主治医生。病假期间想提前复工，也先请主治医生确认适工并向经办人核对后续：MOM现行说明，复工后随后的病假不再可索偿。[MOM：轻工作与复工说明](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/types-of-compensation)
 
 ## 永久伤残和死亡赔偿怎样核对
 
@@ -118,18 +118,18 @@ WICA要求事故因工作而起，并在工作过程中发生；职业病及因�
 
 | 项目 | 现行公式的金额限制 |
 | --- | --- |
-| 永久失能 | 最低S$116,000 × PI百分比，最高S$346,000 × PI百分比。不能把S$116,000理解为任何程度伤残均可获的最低金额。 |
+| 永久失能 | 最低S$116,000 × PI百分比，最高S$346,000 × PI百分比。 |
 | 死亡 | 最低S$91,000，最高S$269,000，支付给符合条件的家属或受养人。 |
 
 医师或牙医评定100% PI时，另在赔偿额上增加25%。2025年11月1日前事故使用旧限额：永久失能为S$97,000—289,000再乘PI百分比，死亡为S$76,000—225,000。最终核对通知中的事故日期、AME、年龄乘数、医学百分比及适用上下限；不同批次不能混算。[MOM：一次性赔偿公式与新旧限额](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/types-of-compensation)
 
 ## 职业病不一定在一次事故后立即出现
 
-听力逐渐受损、因重复动作或搬运出现肌肉骨骼问题，或因工作接触感染，都应把工作经历和暴露情况告诉医生。是否属于职业病由医生诊断并判断工作关联；不确定时可转职业医学或相关专科。MOM要求，医生确认的职业病即使不在列出的38项中，也应报告；不能只因系统里没有自己熟悉的旧名称就不处理。[MOM：职业病诊断与报告](https://www.mom.gov.sg/workplace-safety-and-health/od-under-wsha-and-wica/faqs-wsha-wica)
+听力逐渐受损、因重复动作或搬运出现肌肉骨骼问题，或因工作接触感染，都应把工作经历和暴露情况告诉医生。是否属于职业病由医生诊断并判断工作关联；不确定时可转职业医学或相关专科。MOM要求，医生确认的职业病即使不在列出的38项中，也应报告。[MOM：职业病诊断与报告](https://www.mom.gov.sg/workplace-safety-and-health/od-under-wsha-and-wica/faqs-wsha-wica)
 
 2025年12月1日起更新的范围包括：工作相关肌肉骨骼障碍不再只限上肢，也涵盖符合工作关联的下背部等情况；职业感染不再只以结核病为列名范围。针刺后感染与单纯针刺伤不同：前者由医生确认职业感染，检查未感染但因针刺获病假或轻工作者，仍应按工作事故处理。已经康复或复工，也不免除确诊职业病的报告责任。[MOM：更新范围与临床情境](https://www.mom.gov.sg/workplace-safety-and-health/od-under-wsha-and-wica/faqs-wsha-wica)
 
-职业病有两组须同时核的期限：通常须在 **诊断日起一年内提出索偿** ；若已经离开相关工作，还要看该职业病的诊断是否落在最后工作或危险因素暴露之后的法定期限内，不同病种一般为一至三年。把最后工作日、最后暴露日、诊断日和报告日全部留下，交MOM核具体病种；不要把“一至三年”当成可以等三年才报的统一宽限期。法定例外须由主管判断，不自行预期获延长。[MOM：职业病索偿与限制期间](https://www.mom.gov.sg/workplace-safety-and-health/od-under-wsha-and-wica/faqs-wsha-wica)
+职业病有两组须同时核的期限：通常须在 **诊断日起一年内提出索偿** ；若已经离开相关工作，还要看该职业病的诊断是否落在最后工作或危险因素暴露之后的法定期限内，不同病种一般为一至三年。把最后工作日、最后暴露日、诊断日和报告日全部留下，交MOM核具体病种；不要把“一至三年”当成可以等三年才报的统一宽限期。法定例外须由主管判断。[MOM：职业病索偿与限制期间](https://www.mom.gov.sg/workplace-safety-and-health/od-under-wsha-and-wica/faqs-wsha-wica)
 
 截至2026年10月，原列“二氧化碳气体中毒”和“眼角膜表面溃疡”的移出过渡仍在进行：可按原职业病过渡规则索偿至 **2026年11月30日** ；12月1日起，相关事故改按工作事故判断。MOM另说明，慢性工作接触造成的角膜溃疡仍可能按未列名职业病的一般条款报告，应交医生和MOM分辨原因。[MOM：移出项目与过渡日期](https://www.mom.gov.sg/workplace-safety-and-health/od-under-wsha-and-wica/faqs-wsha-wica)
 
@@ -147,9 +147,9 @@ WICA要求事故因工作而起，并在工作过程中发生；职业病及因�
 | 摩托车、电动脚踏车（PAB）、机动PMD | 35% |
 | 脚踏车、步行、公共交通 | 20% |
 
-这不是把所有接单收入直接除以实际出勤天数，也不是按自己的油费收据逐笔扣算。应把各平台收入单与交通方式交经办人，核其回溯期、服务类别及ADE。[MOM：ADE与固定开支比例](https://www.mom.gov.sg/employment-practices/platform-workers-act/work-injury-compensation-for-platform-workers)
+应把各平台收入单与交通方式交经办人，核其回溯期、服务类别及ADE。[MOM：ADE与固定开支比例](https://www.mom.gov.sg/employment-practices/platform-workers-act/work-injury-compensation-for-platform-workers)
 
-门诊病假前14天按全额ADE，此后按三分之二ADE；住院假前60天按全额ADE，此后按三分之二ADE，两者最迟至事故满一年。平台工作者 **不适用轻工作补偿** 。医疗费用及伤残、死亡赔偿采用相应WICA范围与限额；计算一次性赔偿时，平台的AME为ADE × 30，不直接套雇员的12个月工资基数。病假期间也须遵守主治医生和MOM的复工说明。[MOM：平台收入损失与赔偿计算](https://www.mom.gov.sg/employment-practices/platform-workers-act/work-injury-compensation-for-platform-workers)
+门诊病假前14天按全额ADE，此后按三分之二ADE；住院假前60天按全额ADE，此后按三分之二ADE，两者最迟至事故满一年。平台工作者 **不适用轻工作补偿** 。医疗费用及伤残、死亡赔偿采用相应WICA范围与限额；计算一次性赔偿时，平台的AME为ADE × 30。病假期间也须遵守主治医生和MOM的复工说明。[MOM：平台收入损失与赔偿计算](https://www.mom.gov.sg/employment-practices/platform-workers-act/work-injury-compensation-for-platform-workers)
 
 同时做多平台任务时，先按任务判断责任：若同时在为一家取件、为另一家送达，优先由送达任务对应的平台承担；若同处取件或同处送达阶段，可能由多家分担。分担通常再按回溯期相关平台收入比例计算。若承担责任的平台同时来自载客与配送两类服务，赔偿基数取回溯期收入较高的那一类， **不能把两类收入直接相加** 。记录事实交经办人计算，不必自行选一家后删掉其他平台的任务。[MOM：多平台责任与收入计算](https://www.mom.gov.sg/employment-practices/platform-workers-act/work-injury-compensation-for-platform-workers)
 
@@ -157,7 +157,7 @@ WICA要求事故因工作而起，并在工作过程中发生；职业病及因�
 
 指定保险公司或MOM会发Notice of Computation（NOC）或Notice of Assessment（NOA）。读通知、附上的医疗报告和异议表，核对AME、PI、事故是否认定与工作有关，以及金额。 **异议须在通知送达日起14天内提交** ，不要把口头向雇主表示不满当成已正式提出异议。无人异议时，雇主或保险公司一般须在通知送达日起21天内支付。[MOM：通知、异议和付款时限](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/employees-how-to-claim)
 
-可从 **Management of Work Injury Compensation (WIC) Claims** 提交异议；网上办理困难时，向处理案件的保险公司或MOM取得异议表，寄至 **MOM Services Centre，1500 Bendemeer Road，Singapore 339946** 。按通知提早准备并核实提交，不要把截止日当成可以当天才开始寄件的日期。[MOM：异议与纸本路径](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/disputing-a-claim)
+可从 **Management of Work Injury Compensation (WIC) Claims** 提交异议；网上办理困难时，向处理案件的保险公司或MOM取得异议表，寄至 **MOM Services Centre，1500 Bendemeer Road，Singapore 339946** 。按通知提早准备并核实提交。[MOM：异议与纸本路径](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/disputing-a-claim)
 
 | 争议内容 | 接下来怎样处理 |
 | --- | --- |
@@ -169,11 +169,11 @@ WICA要求事故因工作而起，并在工作过程中发生；职业病及因�
 
 若考虑另向雇主或第三方提民事诉讼，先了解 **WICA与普通法诉讼不能就同一伤害同时提出索偿** 。WICA按公式和限额处理，要证明工作关联但不必证明他人过失，不强制聘请律师，MOM或指定保险公司会提供程序指引；普通法诉讼须证明有关过失及损失，并涉及律师与诉讼费用。撤回WICA转民事诉讼有独立期限：NOA/NOC发出前可申请撤回；送达后，无异议时14天内、有异议时28天内。只有本人或合法代表可通知撤回，不能让雇主代作决定。已经接受并获支付结案的案件，不能再转普通法索偿。[MOM：两条索偿路径及撤回期限](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/wica-versus-common-law)
 
-不要把“MOM说一年内选择”理解为NOA/NOC来了以后还能忽略14或28天。若先提民事诉讼再撤回转WICA，MOM要求在事故或疾病诊断后一年内提出WICA索偿。准备撤回、签和解或放弃请求前，把案件文件和日期交律师说明具体后果。[MOM：选择与转换期限](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/wica-versus-common-law)
+若先提民事诉讼再撤回转WICA，MOM要求在事故或疾病诊断后一年内提出WICA索偿。准备撤回、签和解或放弃请求前，把案件文件和日期交律师说明具体后果。[MOM：选择与转换期限](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/wica-versus-common-law)
 
 ## 外籍员工：离职、准证和离境分别处理
 
-离职、终止雇佣或准证取消，不会自动消灭已有WICA索偿。雇佣关系是否可终止仍按相应劳动规则判断；工伤赔偿继续处理，涉嫌不当解雇另可向TADM提出，不能用一项程序替代另一项。通知期、最后工资和准证取消见[离职与失业时的手续]({{< relref "/book/work/employment/leaving-job" >}})。[MOM：工伤后的终止雇佣](https://www.mom.gov.sg/faq/work-injury-compensation/can-i-terminate-my-employees-services-after-a-work-accident)
+离职、终止雇佣或准证取消，不会自动消灭已有WICA索偿。雇佣关系是否可终止仍按相应劳动规则判断；工伤赔偿继续处理，涉嫌不当解雇另可向TADM提出。通知期、最后工资和准证取消见[离职与失业时的手续]({{< relref "/book/work/employment/leaving-job" >}})。[MOM：工伤后的终止雇佣](https://www.mom.gov.sg/faq/work-injury-compensation/can-i-terminate-my-employees-services-after-a-work-accident)
 
 Work Permit持有人受伤后，雇主仍须承担应有的照料、食物和住宿责任；即使WP到期或终止，相关照料责任持续至返国。雇主不能违背工人意愿、在未结工伤索偿期间强行送其回国。没有食宿、被催促提前离境或费用未付时，尽快用MOM员工索偿页的求助入口，说明FIN、案件编号和具体情况。[MOM：员工求助](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/employees-how-to-claim)、[WP到期后的照料责任](https://www.mom.gov.sg/faq/work-injury-compensation/am-i-still-responsible-formy-injured-foreign-employees-wellbeing-after-their-work-permit-has-expired)、[雇主不得强行送返](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/employers-what-to-do-during-a-claim)
 
@@ -181,9 +181,9 @@ Work Permit持有人受伤后，雇主仍须承担应有的照料、食物和住
 
 ## 家政移工与一般自雇者另核责任
 
-家政移工不适用一般WICA，但雇主须购买住院及日间手术医疗险，年度索赔限额至少 **S$60,000** ，并购买个人意外险，保额至少 **每年S$60,000** ，保障突发意外造成的永久残障或死亡，赔款给家政人员或其受益人。这两项保险作用不同，不能把医费额度当作伤残现金赔偿。雇主不得转嫁保费，也不能要求家政人员承担必要医费，包括保险未赔或超出保险的部分。[MOM：家政移工保险](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/eligibility-and-requirements/insurance-requirements)、[不得让家政人员自付医费](https://www.mom.gov.sg/faq/work-permit-for-fdw/can-i-get-my-fdw-to-co-pay-her-medical-expenses-that-exceed-the-insurance-benefit-limit)
+家政移工不适用一般WICA，但雇主须购买住院及日间手术医疗险，年度索赔限额至少 **S$60,000** ，并购买个人意外险，保额至少 **每年S$60,000** ，保障突发意外造成的永久残障或死亡，赔款给家政人员或其受益人。雇主不得转嫁保费，也不能要求家政人员承担必要医费，包括保险未赔或超出保险的部分。[MOM：家政移工保险](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/eligibility-and-requirements/insurance-requirements)、[不得让家政人员自付医费](https://www.mom.gov.sg/faq/work-permit-for-fdw/can-i-get-my-fdw-to-co-pay-her-medical-expenses-that-exceed-the-insurance-benefit-limit)
 
-事故后让雇主、医护及保险公司明确各自办理的事项，保存账单和保单；雇主不安排治疗、要求危险工作或双方有争议时，使用[家政移工的安全与求助入口]({{< relref "/book/people/family/domestic-workers" >}})。一般自雇者则核自己的医疗、意外或收入保障及委托合同；若实际关系可能是雇佣，或伤害涉及他人责任，应带合同、工作控制及事故证据向MOM或律师核实，不只看对方给的职位名称。[MOM：覆盖边界](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/who-is-covered)
+事故后让雇主、医护及保险公司明确各自办理的事项，保存账单和保单；雇主不安排治疗、要求危险工作或双方有争议时，使用[家政移工的安全与求助入口]({{< relref "/book/people/family/domestic-workers" >}})。一般自雇者则核自己的医疗、意外或收入保障及委托合同；若实际关系可能是雇佣，或伤害涉及他人责任，应带合同、工作控制及事故证据向MOM或律师核实。[MOM：覆盖边界](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/who-is-covered)
 
 ## 没有受伤，也可以报告不安全工作
 
@@ -195,19 +195,19 @@ MOM说明，WSH Act禁止雇主因工人报告安全问题而解雇或威胁解�
 
 ## 户外炎热：核WBGT、休息和生效日期
 
-户外热风险用 **湿球黑球温度WBGT** 衡量，考虑气温、湿度、风和太阳辐射，不能只看普通天气温度。现行措施要求监测工作时段的WBGT；合同额至少S$500万的建筑工地、船厂和流程工业须有现场仪器，其他场所可参考myENV。新来或长假后返回等须适应热环境者，应逐步增加暴露；MOM户外措施列明至少七天的适应安排。[MOM：户外热应激措施](https://www.mom.gov.sg/heat-stress-measures-for-outdoor-work)
+户外热风险用 **湿球黑球温度WBGT** 衡量，考虑气温、湿度、风和太阳辐射。现行措施要求监测工作时段的WBGT；合同额至少S$500万的建筑工地、船厂和流程工业须有现场仪器，其他场所可参考myENV。新来或长假后返回等须适应热环境者，应逐步增加暴露；MOM户外措施列明至少七天的适应安排。[MOM：户外热应激措施](https://www.mom.gov.sg/heat-stress-measures-for-outdoor-work)
 
 对 **WBGT达到32°C及以上时的重体力户外工作** ，每小时至少安排连续10分钟休息，不可切碎，也不可合并成每两小时休20分钟。热应激休息算有薪工作时间；该小时已有至少10分钟的既定休息，例如15分钟茶休，不要求再叠加一段。更高WBGT时应增加休息和保护，具体看工作强度、身体状态及现行措施。头晕、乏力、恶心等出现时停止工作、告知同伴或主管并求助；出现嗜睡、意识不清或昏迷，应拨995。[MOM：休息、工资与不适处置FAQ](https://www.mom.gov.sg/heat-stress-measures-for-outdoor-work/faqs-on-heat-stress-measures-for-outdoor-work)
 
 截至2026年10月13日，下列四项仍属于已公布、将于 **2026年12月1日** 转为强制的措施：为暴露于热环境的人员建立培训、在工作区附近提供凉饮用水、备妥冷水／冰袋／喷水等应急降温物资，以及提供适当防热衣物。雇主现在即可准备；现有补水、遮阴休息、风险评估和应急责任仍须执行。[MOM：12月起新增强制措施及细节](https://www.mom.gov.sg/heat-stress-measures-for-outdoor-work)、[培训、水源和衣物FAQ](https://www.mom.gov.sg/heat-stress-measures-for-outdoor-work/faqs-on-heat-stress-measures-for-outdoor-work)
 
-平台配送的工作形态不同，不能直接套上述雇员休息工资安排。MOM在2026年10月7日说明，平台服务ACOP要求经营者提醒平台工作者不适时停工就医、补水、尽可能到阴凉或室内处休息，并鼓励穿宽松浅色衣物。平台工作者可向经营者报告危险负重、热风险和事故，保存联系记录；平台仍有风险评估、培训和应急责任。[MOM：平台热风险措施](https://www.mom.gov.sg/newsroom/parliament-questions-and-replies/2026/1007-written-answer-to-pq-on-heat-stress-protections-for-platform-delivery-workers)、[平台安全责任](https://www.mom.gov.sg/workplace-safety-and-health/workplace-safety-and-health-act/responsibilities-of-stakeholders)
+平台配送不适用上述雇员休息工资安排。MOM在2026年10月7日说明，平台服务ACOP要求经营者提醒平台工作者不适时停工就医、补水、尽可能到阴凉或室内处休息，并鼓励穿宽松浅色衣物。平台工作者可向经营者报告危险负重、热风险和事故，保存联系记录；平台仍有风险评估、培训和应急责任。[MOM：平台热风险措施](https://www.mom.gov.sg/newsroom/parliament-questions-and-replies/2026/1007-written-answer-to-pq-on-heat-stress-protections-for-platform-delivery-workers)、[平台安全责任](https://www.mom.gov.sg/workplace-safety-and-health/workplace-safety-and-health-act/responsibilities-of-stakeholders)
 
 ## 家属遇到工作死亡事故
 
 先确认医院、警方、雇主和保险经办人的联系资料及案件编号，再由经办人说明谁属受养人、由谁接收文件。MOM索偿指南列出的材料包括死亡证明、事故日有效的WIC保单、事故前12个月工资资料、亲属资料，以及外籍死者护照副本；保险公司会进一步索取证明受养人身份的材料。身在境外的家属应问清文件认证、翻译和递交要求，不因没有本人Singpass就让其他人代用死者账户。[MOM：死亡索偿材料，指南印刷第25页](https://www.mom.gov.sg/-/media/mom/documents/safety-health/publications/wica-2019/wic-guide-for-employers.pdf#page=27)
 
-死亡赔偿按事故日期和受养人条件核算，不把一笔款项直接当作任何亲属均可平均领取。雇主未付时，保存通知、命令和沟通记录交MOM；MOM说明，雇主有正当理由无法支付的情形，可通过Workers’ Fund协助近亲，具体由主管处理，不是每宗死亡事故自动另发同额补助。基本生活、法律及心理支援还须各自核资格，家属可请经办人转介。[MOM：工作死亡家属的赔偿与支援](https://www.mom.gov.sg/newsroom/parliament-questions-and-replies/2025/1014-written-answer-to-pq-on-assistance-for-families-of-work-related-death-victims)
+死亡赔偿按事故日期和受养人条件核算。雇主未付时，保存通知、命令和沟通记录交MOM；MOM说明，雇主有正当理由无法支付的情形，可通过Workers’ Fund协助近亲，具体由主管处理。基本生活、法律及心理支援还须各自核资格，家属可请经办人转介。[MOM：工作死亡家属的赔偿与支援](https://www.mom.gov.sg/newsroom/parliament-questions-and-replies/2025/1014-written-answer-to-pq-on-assistance-for-families-of-work-related-death-victims)
 
 ## 迟迟没有进展，怎样找人处理
 

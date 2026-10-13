@@ -26,9 +26,9 @@ weight: 60
 | 访客或跨境往返者 | 出发地／居住地适用的旅行或国际医疗保单 | 承保对象、旅程起终点、停留长度、境外急救和送返目的地 |
 | 为家政移工投保的雇主 | 家政移工医疗、个人意外等实际保单 | MOM规定及雇主责任，另见家政移工篇；不能把家庭成员保单当移工保障 |
 
-MediShield Life覆盖公民和PR；外国人的商业医疗资格应逐个产品查。雇主对不同准证的医疗责任、补贴及MediSave能否使用，见[医疗费用与支付]({{< relref "/book/people/healthcare/healthcare-payments" >}})；家政移工另有[雇用手续与保障要求]({{< relref "/book/people/family/domestic-workers" >}})。居留准证、就业关系、国籍与投保人身份不能互相替代。[MOH：MediShield Life与私人综合保障](https://www.moh.gov.sg/managing-expenses/schemes-and-subsidies/integrated-shield-plans/about-integrated-shield-plans/)
+MediShield Life覆盖公民和PR；外国人的商业医疗资格应逐个产品查。雇主对不同准证的医疗责任、补贴及MediSave能否使用，见[医疗费用与支付]({{< relref "/book/people/healthcare/healthcare-payments" >}})；家政移工另有[雇用手续与保障要求]({{< relref "/book/people/family/domestic-workers" >}})。[MOH：MediShield Life与私人综合保障](https://www.moh.gov.sg/managing-expenses/schemes-and-subsidies/integrated-shield-plans/about-integrated-shield-plans/)
 
-例如Income当前Enhanced IncomeShield资料把公民／PR的综合计划与符合条件外国人的非综合计划分开。外国人须有该产品认可的有效准证；这不是所有FIN持有人必获承保的承诺。申请前把准证类别、有效期、通常居住地、既往病史和预计离境安排交给保险公司，取得实际核保答复。[Income：产品资格与外国人计划](https://www.income.com.sg/health-insurance/enhanced-incomeshield)
+例如Income当前Enhanced IncomeShield资料把公民／PR的综合计划与符合条件外国人的非综合计划分开。外国人须有该产品认可的有效准证。申请前把准证类别、有效期、通常居住地、既往病史和预计离境安排交给保险公司，取得实际核保答复。[Income：产品资格与外国人计划](https://www.income.com.sg/health-insurance/enhanced-incomeshield)
 
 ## 按损失选择保障，再确定保额和期限
 
@@ -53,7 +53,7 @@ MediShield Life覆盖公民和PR；外国人的商业医疗资格应逐个产品
 
 Integrated Shield Plan（IP）包含MediShield Life部分和额外私人保险部分，由私人保险公司统一处理相应保费及理赔。MediShield Life覆盖的既往病症，并不表示私人部分也接受同一病症；私人部分可能另有排除或核保条件。[MOH：IP组成及既往病症](https://www.moh.gov.sg/managing-expenses/schemes-and-subsidies/integrated-shield-plans/about-integrated-shield-plans/)
 
-比较IP时，把自己愿意使用的医院、病房等级及医生网络写下来，再看相应保障。MOH比较表可以帮助查同类计划，但当前保费表的适用年龄、是否包含MediShield Life和附加险、所依据日期都要看清；它不会保证未来续保价。计划还可能区分主要医生网络、扩展网络和非网络医生，不应把其中一种待遇套到另一种。[MOH：IP保障与保费比较](https://www.moh.gov.sg/managing-expenses/schemes-and-subsidies/integrated-shield-plans/comparision-of-integrated-shield-plans/)
+比较IP时，把自己愿意使用的医院、病房等级及医生网络写下来，再看相应保障。MOH比较表可以帮助查同类计划，但当前保费表的适用年龄、是否包含MediShield Life和附加险、所依据日期都要看清；它不会保证未来续保价。计划还可能区分主要医生网络、扩展网络和非网络医生。[MOH：IP保障与保费比较](https://www.moh.gov.sg/managing-expenses/schemes-and-subsidies/integrated-shield-plans/comparision-of-integrated-shield-plans/)
 
 自 **2026年4月1日** 起销售的新IP附加险（rider），不得覆盖MOH规定的最低自付额；最低共付比例仍为5%，年度共付上限须至少S$6,000，且 **该上限不包含最低自付额** 。上限保护还可能限于网络医生或预先授权等合资格理赔，不能直接理解为“全年所有医疗支出最多六千元”。[MOH：新IP附加险要求](https://www.moh.gov.sg/newsroom/new-requirements-for-integrated-shield-plan-riders-to-strengthen-sustainability-of-private-health-insurance-and-address-rising-healthcare-costs/)
 
@@ -92,9 +92,9 @@ Integrated Shield Plan（IP）包含MediShield Life部分和额外私人保险�
 
 按申请表如实回答健康、家庭病史及其他要求。遇到不确定的检查结果、既往症状、正在等报告等问题，把情况写下并要求保险公司答复；不能因为销售人员说“无需填”，就让最终表格与本人已知情况不符。不要签空白申请，提交后保留完整副本；保费付给保险公司指定渠道并取得收据。[MoneySense：寿险申请、健康告知和付款](https://www.moneysense.gov.sg/life-insurance/)
 
-收到合同后核本人资料、保额、保费、排除、额外收费和生效日是否与接受的条件一致。特别看核保后新增的批注，不要只保存最初报价。地址或职业变化需要向保险公司更新时，保留递交记录。[MoneySense：最终合同及资料变化](https://www.moneysense.gov.sg/interpreting-your-insurance-documents/)
+收到合同后核本人资料、保额、保费、排除、额外收费和生效日是否与接受的条件一致。特别看核保后新增的批注。地址或职业变化需要向保险公司更新时，保留递交记录。[MoneySense：最终合同及资料变化](https://www.moneysense.gov.sg/interpreting-your-insurance-documents/)
 
-冷静期通常从收到保单文件之日起计算。MoneySense列明，一般适用保单至少14天， **IP为21天** ；决定取消应在期限内书面通知保险公司。旅行、汽车和家政移工保险等并不统一适用一般14天安排；退款也可能扣除已发生的体检等费用，ILP还涉及单位市值变化。先查自己这一份的取消条款，不要把任何付款都当作可全额退回。[MoneySense：健康保险冷静期](https://www.moneysense.gov.sg/health-insurance-terms-know-what-you-re-paying-for/)、[一般保险冷静期例外与退款](https://www.moneysense.gov.sg/insurance-basics/)
+冷静期通常从收到保单文件之日起计算。MoneySense列明，一般适用保单至少14天， **IP为21天** ；决定取消应在期限内书面通知保险公司。旅行、汽车和家政移工保险等并不统一适用一般14天安排；退款也可能扣除已发生的体检等费用，ILP还涉及单位市值变化。先查自己这一份的取消条款。[MoneySense：健康保险冷静期](https://www.moneysense.gov.sg/health-insurance-terms-know-what-you-re-paying-for/)、[一般保险冷静期例外与退款](https://www.moneysense.gov.sg/insurance-basics/)
 
 ## 家庭财物、旅行与车辆保障各看哪一层
 
@@ -104,7 +104,7 @@ Integrated Shield Plan（IP）包含MediShield Life部分和额外私人保险�
 
 旅行保险先确认承保对象、单次或年度计划、起终点和每次最长旅程。新加坡销售的常见旅行计划要求旅程从新加坡开始并返回；单程迁居、已经在境外、海外长住或来新访客应直接核该产品能否承接，不要默认“全球保障”就包括这些情况。[GIA：旅行保险与行程形式](https://gia.org.sg/consumers/travel)
 
-接着查既往病症、活动风险、旅行地区、取消原因、医疗及送返安排。滑雪、潜水或其他活动，是否属于排除或须加购，要按实际活动说明；自然灾害、战乱和既知事件也可能有不同的承保条件。GIA旅行指南列的是常见排除与差异，不能据此说所有产品一律不保某类事件。[GIA：旅行保险指南，第8及16页](https://gia.org.sg/images/resources/For-Consumers-PDF-file/GIA_TravelInsurance_Guide.pdf)
+接着查既往病症、活动风险、旅行地区、取消原因、医疗及送返安排。滑雪、潜水或其他活动，是否属于排除或须加购，要按实际活动说明；自然灾害、战乱和既知事件也可能有不同的承保条件。GIA旅行指南列的是常见排除与差异，具体以所选保单为准。[GIA：旅行保险指南，第8及16页](https://gia.org.sg/images/resources/For-Consumers-PDF-file/GIA_TravelInsurance_Guide.pdf)
 
 ## 出事后按理赔流程留证和提交
 

@@ -1,16 +1,18 @@
 # 全书“说人话”校对任务与进度跟踪（2026-10-13 用户指令）
 
-正文存在 AI 说教腔：品格训导句、撇责性免责、无信息量的否定/对比尾巴。本库量化（2026-10-13 grep）：`不要把/不能把/避免把` 式过度概括警告 **50 处、分布在 28 个文件**，是最大病灶；另有“不等于/并非”类对比 24 处、软对冲堆叠（“可以先……也可以……再确认”）集中于文化与社会类页面。本文件给出任务提示词、改写规则与全部 94 个内容文件的处理进度；每个文件都要过一遍。
+正文存在 AI 说教腔：品格训导句、撇责性免责、无信息量的否定/对比尾巴。2026-10-13 二次量化（B04 批次集成后，140 源）：`不要把/不能把/避免把` 式过度概括警告 **134 处、分布在 51 个文件**，较首轮 50 处/28 文件接近两倍，重灾区是新集成的工伤、驾驶、心理健康、债务与教育类稿件。本文件给出任务提示词（v2）、改写规则与全部内容文件的处理进度；每个文件都要过一遍，已完成 17 篇（HUM01 两篇＋HUM02 P1 十五篇）。
 
 ## 一、任务提示词（投给执行会话，整段复制）
 
-> 你是《新加坡生活指南》的“说人话”校对执行者，工作区 `/Users/vonng/www/sg.vonng.com`。任务：对 `content/` 下全部 Markdown 文件逐个做一轮全文表达清理——删说教、删废话、把负向对冲改成正面直陈。规则、本库真实例句、禁改清单和进度表在 `ops/HUMANIZE.md`，开始前完整读一遍。
+> 你是《新加坡生活指南》的“说人话”校对执行者，工作区 `/Users/vonng/www/sg.vonng.com`。任务：对 `content/` 下全部 Markdown 文件（二核为 140 个，以 `find content -name '*.md'` 实际输出为准）逐个做一轮全文表达清理——删说教、删废话、把负向对冲改成正面直陈。开始前完整读一遍 `ops/HUMANIZE.md`：规则、本库真实例句、禁改清单、优先队列和进度表都在里面。进度表已勾选的 2 篇不要重做；标 ○ 的在途草稿（当前 4 篇：`people/school/admission`、`people/learning/adult-learning`、`people/accessibility/caregiver-support`、`work/tax/property-tax`）跳过，等集成后补。
 >
 > 唯一判据：每一处文字只问一个问题——**“删掉它，读者会做错什么？读者会漏掉什么重要信息？”**答不上来，就删掉，或把有用的部分并进正面句。
 >
-> 边界：只改表达，不动事实。数字、日期、金额、法条、机构名、URL、链接文本、H2 标题、表格结构、frontmatter、“教学虚构”标注、加粗标记、法定规则句一律保留；不新增事实断言；不提升 `verified`/`status`。进度表标 ○ 的在途 draft 文件跳过，等集成后再处理。
+> 边界：只改表达，不动事实。数字、日期、金额、法条、机构名、URL、链接文本、H2 标题、表格结构、frontmatter、“教学虚构”标注、加粗标记、法定规则句一律保留；不新增事实断言；不提升 `verified`/`status`。
 >
-> 流程：每个文件先通读全文再动笔 → 逐段按判据处理 → 改完自读一遍 → `git diff` 确认事实层未动 → 更新 `ops/HUMANIZE.md` 进度表并记改动量。按优先队列推进；提交时只 add 本任务处理过的文件。构建与生产验收由主控执行。
+> 顺序：先做第七节 P1 队列（当前密度最高的工伤、驾驶、心理健康、债务争议、学费资助、分居安全、学校学习、保险等），再按目录顺序 life → people → work → rights → foundations → docs 清完其余。新稿作者自称已按规则自审的，仍逐篇全文过判据，以本次处理为准。
+>
+> 流程：每个文件先通读全文再动笔 → 逐段按判据处理 → 改完自读一遍 → `git diff -- <file>` 确认事实层未动 → 更新进度表并记一行改动量（删 N 处／改写 M 处）。提交只 add 本任务处理过的文件并注明 HUM 批次；不运行构建，构建与生产验收由主控执行。
 
 ## 二、唯一判据
 
@@ -62,13 +64,13 @@
 
 ## 七、范围、优先队列与协调
 
-范围：`content/` 全部 94 个 .md，含 `_index` 导读与 `docs/` 选路页。导航页处理其中的说教句，不删条目与链接。`ops/` 内部记录不在范围。
+范围：`content/` 全部 .md（2026-10-13 二核为 140 个），含 `_index` 导读与 `docs/` 选路页。导航页处理其中的说教句，不删条目与链接。`ops/` 内部记录不在范围。进度表＝初始 94＋两段追增＋补登；以 `find content -name '*.md'` 实际输出为准，发现缺登先补登再处理。
 
-优先队列 P1（实测密度最高，先做）：`culture/everyday-etiquette`、`culture/hawker-social-life`、`society/religion-festivals`、`life/housing/renting`、`life/digital/telecom`、`life/community/neighbourhood`、`life/community/connections`、`life/documents/permanent-residence`、`life/documents/documents`、`work/finance/household-budget`。之后按目录顺序：life → people → work → rights → foundations → docs。
+优先队列 P1（2026-10-13 二核密度，先做）：`work/employment/injury`（13）、`life/transport/driving`（10）、`people/accessibility/mental-health`（8）、`work/finance/debt-disputes`（7）、`people/school/learning`（7）、`people/learning/tuition-grant`（7）、`people/family/separation-safety`（7）、`work/finance/insurance`（6）、`work/finance/srs`（5）、`work/finance/saving-investing`（5）、`work/business/starting-business`（5）、`people/accessibility/disability`（5）、`life/housing/buying-private`（5）、`life/documents/permanent-residence`（5）、`foundations/society/religion-festivals`（5）。HUM02 已于 2026-10-13 完成全部 P1 十五篇：三核心模式 101→36，残留均逐句过判据（失权、违法、安全后果类保留为具体规则）。之后按目录顺序：life → people → work → rights → foundations → docs。
 
-在途协调：标 ○ 的 8 个 draft 文件属 B03C 在途稿件，本任务跳过，待其 `integrated` 后补处理；各稿所有者在自审时直接套用本规则。
+在途协调：当前 4 个 draft（`people/school/admission`、`people/learning/adult-learning`、`people/accessibility/caregiver-support`、`work/tax/property-tax`）本任务跳过，待集成后补处理；各稿作者自审时直接套用本规则。B04I 注记“学校生活/工伤/税务更正已处理”仅指各自第三编辑动过的句段，队列仍须逐篇全文过判据。
 
-## 八、进度表（94 文件；○＝在途 draft，待集成后处理）
+## 八、进度表（初始 94＋追增＋补登；○＝在途 draft，待集成后处理；总数以 `find` 实际输出为准）
 
 ### foundations（25）
 
@@ -92,7 +94,7 @@
 - [ ] `content/book/foundations/society/_index.md`
 - [ ] `content/book/foundations/society/communities.md`
 - [ ] `content/book/foundations/society/migration.md`
-- [ ] `content/book/foundations/society/religion-festivals.md`
+- [x] `content/book/foundations/society/religion-festivals.md` — HUM02删7处改写1处，2026-10-13全文过判据。
 - [ ] `content/book/foundations/world/_index.md`
 - [ ] `content/book/foundations/world/perspectives.md`
 - [ ] `content/book/foundations/world/regional-ties.md`
@@ -111,7 +113,7 @@
 - [ ] `content/book/life/documents/_index.md`
 - [ ] `content/book/life/documents/documents.md`
 - [ ] `content/book/life/documents/national-service.md`
-- [ ] `content/book/life/documents/permanent-residence.md`
+- [x] `content/book/life/documents/permanent-residence.md` — HUM02删4处改写1处（含第四节示例句），2026-10-13全文过判据。
 - [ ] `content/book/life/documents/status-and-eligibility.md`
 - [ ] `content/book/life/documents/work-passes.md`
 - [ ] `content/book/life/household/_index.md`
@@ -189,11 +191,11 @@
 - [ ] `content/book/life/community/_index.md`
 - [ ] `content/book/life/documents/arrival-renewal.md`
 - [ ] `content/book/life/documents/pass-management.md`
-- [ ] `content/book/life/housing/buying-private.md`
+- [x] `content/book/life/housing/buying-private.md` — HUM02删6处，2026-10-13全文过判据。
 - [ ] `content/book/life/housing/neighbours.md`
 - [ ] `content/book/life/housing/purchase-costs.md`
 - [ ] `content/book/life/transport/airport-checkpoints.md`
-- [ ] `content/book/life/transport/driving.md`
+- [x] `content/book/life/transport/driving.md` — HUM02删5处改写2处，2026-10-13全文过判据。
 - [ ] `content/book/people/family/childcare.md`
 - [ ] `content/book/people/family/relationships.md`
 - [ ] `content/book/people/family/sexual-health.md`
@@ -210,28 +212,35 @@
 2026-10-13：当前138个源文件。补齐下列未列入历史队列的实际路径；○仍为草稿。学校生活13处、工伤2处与税務更正2处表达在各自第三编辑中已处理并完成限定事实继承及B04I工程，具体SHA和范围见对应审稿报告；全书HUM队列仍未整体闭合。
 
 - [ ] `content/book/people/accessibility/_index.md`
-- [ ] `content/book/people/accessibility/disability.md`
-- [ ] `content/book/people/accessibility/mental-health.md`
-- [ ] `content/book/people/family/separation-safety.md`
+- [x] `content/book/people/accessibility/disability.md` — HUM02删13处，2026-10-13全文过判据。
+- [x] `content/book/people/accessibility/mental-health.md` — HUM02删8处，2026-10-13全文过判据。
+- [x] `content/book/people/family/separation-safety.md` — HUM02删1处（否定多绑定安全与失权后果，逐句保留），2026-10-13全文过判据。
 - [ ] `content/book/people/healthcare/medicines.md`
 - [ ] `content/book/people/healthcare/preventive-care.md`
 - [ ] `content/book/people/learning/_index.md`
 - [○] `content/book/people/learning/adult-learning.md`
 - [ ] `content/book/people/learning/higher-education.md`
-- [ ] `content/book/people/learning/tuition-grant.md`
+- [x] `content/book/people/learning/tuition-grant.md` — HUM02删8处改写1处，2026-10-13全文过判据。
 - [ ] `content/book/people/school/_index.md`
-- [ ] `content/book/people/school/learning.md`
+- [x] `content/book/people/school/learning.md` — HUM02删16处，2026-10-13全文过判据。
 - [ ] `content/book/people/school/school-life.md`
 - [ ] `content/book/work/business/_index.md`
-- [ ] `content/book/work/business/starting-business.md`
+- [x] `content/book/work/business/starting-business.md` — HUM02删7处改写1处，2026-10-13全文过判据。
 - [ ] `content/book/work/employment/employment-rights.md`
-- [ ] `content/book/work/employment/injury.md`
-- [ ] `content/book/work/finance/debt-disputes.md`
-- [ ] `content/book/work/finance/insurance.md`
-- [ ] `content/book/work/finance/saving-investing.md`
-- [ ] `content/book/work/finance/srs.md`
+- [x] `content/book/work/employment/injury.md` — HUM02删19处改写4处，2026-10-13全文过判据。
+- [x] `content/book/work/finance/debt-disputes.md` — HUM02删12处改写1处，2026-10-13全文过判据。
+- [x] `content/book/work/finance/insurance.md` — HUM02删5处改写1处，2026-10-13全文过判据。
+- [x] `content/book/work/finance/saving-investing.md` — HUM02删5处，2026-10-13全文过判据。
+- [x] `content/book/work/finance/srs.md` — HUM02删4处，2026-10-13全文过判据。
 - [ ] `content/book/work/tax/corrections-disputes.md`
 - [ ] `content/book/work/tax/cross-border.md`
 - [ ] `content/docs/routes/family-separation.md`
 - [ ] `content/docs/routes/higher-study.md`
 - [ ] `content/docs/routes/tax-problem.md`
+
+## 补登（2026-10-13 二核）
+
+B04I 追增后新增、此前未入队的源，均为在途 draft：
+
+- [○] `content/book/people/accessibility/caregiver-support.md`
+- [○] `content/book/work/tax/property-tax.md`

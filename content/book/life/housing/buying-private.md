@@ -26,7 +26,7 @@ Residential Property Act（RPA）下， **不是新加坡公民（SC）的个人
 | Sentosa Cove 有地住宅 | 外国个人仍须批准，并适用该类别的专门条件 |
 | EC、HDB 或其他带有专门制度的物业 | SLA 的“无需 RPA 批准”不能代替 HDB 购房资格；先按该物业的主管规则判断 |
 
-SLA 还把非商业用途店屋、工人宿舍／serviced apartments、商住混合物业等列为须批准的类别。这些物业的批准用途、分层形式及可住部分要查原记录；有商铺外观或商业用途字样，不足以决定按哪一类住宅买。[SLA：须批与免批类别](https://www.sla.gov.sg/regulatory/foreign-ownership-of-property/)
+SLA 还把非商业用途店屋、工人宿舍／serviced apartments、商住混合物业等列为须批准的类别。这些物业的批准用途、分层形式及可住部分要查原记录。[SLA：须批与免批类别](https://www.sla.gov.sg/regulatory/foreign-ownership-of-property/)
 
 共同买家逐人核国籍／PR 状态和所购权益。SC 配偶或亲属一起买，不能替外国共同买家省略其适用的 RPA 审批；拟用信托、替未成年人持有或购买后改变份额，也先由律师核产权与税务文件。ABSD 的 FTA 待遇属于税务分支，不能拿来代替 SLA 批准。[SLA：外国自然人及变更条件](https://app.sla.gov.sg/ldau1/Application/FAQs.aspx)、[购房税与资金安排]({{< relref "/book/life/housing/purchase-costs.md" >}})
 
@@ -50,7 +50,7 @@ SLA 还把非商业用途店屋、工人宿舍／serviced apartments、商住混
 
 普通外国个人受限住宅的 FAQ 列：一般地块不超过 15,000 平方英尺、且不在 Good Class Bungalow 区域；超出者面对更严格资格评估。批准条件包括本人及家庭自住、不能整屋或部分出租、不能未经书面批准分割物业，以及五年内不得处分。五年通常从法律完成购买日算；在建物业从 TOP 或 CSC 发出日中较早者算。住宅空地获批后，建设也有从批准通知起三年的条件。[SLA：普通受限住宅的面积、用途和期限](https://app.sla.gov.sg/ldau1/Application/FAQs.aspx)
 
-Sentosa Cove 的 FAQ 则单列土地面积不超过 **1,800 平方米** 、本人及家庭自住、不得出租等条件，换购时须在新物业法律完成购买日前处分既有受限物业。按实际批准信逐条核，不把普通地屋的全部条件自动套在这个分支上。[SLA：Sentosa Cove 的专门条件](https://app.sla.gov.sg/ldau1/Application/FAQs.aspx)
+Sentosa Cove 的 FAQ 则单列土地面积不超过 **1,800 平方米** 、本人及家庭自住、不得出租等条件，换购时须在新物业法律完成购买日前处分既有受限物业，按实际批准信逐条核。[SLA：Sentosa Cove 的专门条件](https://app.sla.gov.sg/ldau1/Application/FAQs.aspx)
 
 普通受限地屋换购，还须先符合既有物业的五年不处分条件；获准新购后，旧物业的处分期限按新房状况区分：现房通常须在新购法律完成当日或之前处分；楼花通常从 TOP／CSC 中较早者算三个月；已获 TOP 但尚无独立产权的房，则按卖家交付空置房屋日起算三个月。无法满足批准信条件或拟改份额、重建、延后处置，要先向 LDAU 申请变更；不能只凭交易双方同意延后。[SLA：换购与变更批准条件](https://app.sla.gov.sg/ldau1/Application/FAQs.aspx)
 
@@ -78,9 +78,9 @@ EC 有自己的购买、MOP 与转售身份条件，新 EC 也不能当普通私
 | 管理与费用 | MCST 管理费、未付费用、物业税、拟进行工程及分摊；把入住后的固定支出纳入预算 |
 | 本次合同与资金 | 买家姓名、所购份额、OTP／买卖协议版本、行使及付款日期、贷款／CPF 放款条件与 RPA 批准 |
 
-这些是 CEA completed private property buyer checklist 的核查方向，不能由卖家一张广告或代理口头保证代替。[CEA：已完成私人住宅买家原件清单](https://isomer-user-content.by.gov.sg/71/3e471684-fbdd-4134-b8ff-087984cf47e0/Checklist%20for%20Buyer%20for%20Sale%20of%20Completed%20Private%20Residential%20Property.pdf)
+这些是 CEA completed private property buyer checklist 的核查方向。[CEA：已完成私人住宅买家原件清单](https://isomer-user-content.by.gov.sg/71/3e471684-fbdd-4134-b8ff-087984cf47e0/Checklist%20for%20Buyer%20for%20Sale%20of%20Completed%20Private%20Residential%20Property.pdf)
 
-产权查询可从 SLA 的 INLIS 及 Land Titles Search 入口处理。地址只是辅助，要与 Lot Number、Survey District 或 Title Number 对上；记录不在线上时，SLA 也列出人工查询路径。线上访问或身份安排受阻，就让律师办理查询，或按 SLA 指引查纸本／未电脑化记录；不要用没有查到结果推断卖家没有产权。[SLA：产权查询与线下记录](https://www.sla.gov.sg/regulatory/property-ownership/land-titles-search/)
+产权查询可从 SLA 的 INLIS 及 Land Titles Search 入口处理。地址只是辅助，要与 Lot Number、Survey District 或 Title Number 对上；记录不在线上时，SLA 也列出人工查询路径。线上访问或身份安排受阻，就让律师办理查询，或按 SLA 指引查纸本／未电脑化记录。[SLA：产权查询与线下记录](https://www.sla.gov.sg/regulatory/property-ownership/land-titles-search/)
 
 已有或拟做的改建，向卖家要 approved plans，必要时用 URA 的 DC15 查询规划记录。未经批准的工程或用途，取得物业后可能成为买家的责任；安排复核及合同处理，再决定是否接受。[URA：批准图则与未经批准工程](https://www.ura.gov.sg/guidelines/property-and-business-owners/property/buying-property/)
 
@@ -121,7 +121,7 @@ CEA 提供私人住宅 OTP 和 S&PA 模板，但供交易双方自愿采用、�
 
 采用 CEA OTP 模板时，行使方式包括签接受书、按约向卖家律师递交并付约定 deposit；不行使可能没收 option money，但须连同合同中的条件条款判断。若双方采用别的版本，以自己签妥的文件核截止、付款、法律查询、批准条件和解除后果。外国受限住宅仍先取得所需 LDAU 批准，再行使 OTP。[CEA：OTP Version 1.2 原件](https://isomer-user-content.by.gov.sg/71/3dd19d9d-6017-4cf0-b07f-1e3aff65c7ff/Option%20to%20Purchase%20for%20Private%20Residential%20Property.pdf)、[SLA：外国买家签约与批准](https://app.sla.gov.sg/ldau1/Application/FAQs.aspx)
 
-把空置交付或连租约出售、所含家具、未经批准工程的处理、费用分摊、卖家代理权与法律查询结果写清。款项按合同指定的合法收款人与方式支付，变更账户或收款指示时通过已核的律师／交易方渠道再确认，并保留收据。合同采用调解条款，也核它是否保留及适用的机构，不能把邻里调解或 CDRT 当所有房产买卖合同争议的办理途径。[CEA：私人住宅 S&PA Version 1.2 原件](https://isomer-user-content.by.gov.sg/71/673ef193-daad-489f-b44b-82d4c53ae291/Agreement%20for%20the%20Sale%20and%20Purchase%20of%20Private%20Residential%20Property.pdf)
+把空置交付或连租约出售、所含家具、未经批准工程的处理、费用分摊、卖家代理权与法律查询结果写清。款项按合同指定的合法收款人与方式支付，变更账户或收款指示时通过已核的律师／交易方渠道再确认，并保留收据。合同采用调解条款，也核它是否保留及适用的机构。[CEA：私人住宅 S&PA Version 1.2 原件](https://isomer-user-content.by.gov.sg/71/673ef193-daad-489f-b44b-82d4c53ae291/Agreement%20for%20the%20Sale%20and%20Purchase%20of%20Private%20Residential%20Property.pdf)
 
 法律完成前，与律师核最终结算、贷款、CPF、印花税、交接日期及尚未解除的产权负担。收楼按合同约定查房、钥匙、家具、表计及租约／押金交接，留双方确认；有差异先记录，再按合同处理。[CEA：已完成私宅交易核查清单](https://isomer-user-content.by.gov.sg/71/3e471684-fbdd-4134-b8ff-087984cf47e0/Checklist%20for%20Buyer%20for%20Sale%20of%20Completed%20Private%20Residential%20Property.pdf)
 
@@ -135,4 +135,4 @@ TOP 是有关建筑获准使用的阶段，不等于本单位已经完全没有�
 
 按 URA 所示标准合同，开发商须最迟在 **S&PA 所定日期与实际空置交付后三年中的较早日期** 发出 Notice to Complete。收到通知后 14 天内完成买卖，并取得适当转移文件及产权证书；开发商未在 S&PA 所定期限发出通知时，买家可按合同公式申索约定赔偿。Land Titles System 下，登记才使土地权益转移生效；与律师确认本物业的登记结果及结算，分别保存产权、贷款、税证、付款和交屋文件。[URA：Notice to Complete、期限、赔偿与证书，第 11 页](https://file.go.gov.sg/home-buyers-guide-full.pdf)、[SLA：产权登记](https://www.sla.gov.sg/regulatory/property-ownership/sla-land-titles-registry/)
 
-开发商延迟交付、完成产权或修复缺陷，先依合同发通知、保存回应，再让律师核赔偿及下一步骤。URA 建议先与开发商协商，必要时考虑法律意见和调解；第三方调解帮助双方达成协议，不自动替代合同裁判或保证追回款项。[URA：开发商合同争议，第 12 页](https://file.go.gov.sg/home-buyers-guide-full.pdf)
+开发商延迟交付、完成产权或修复缺陷，先依合同发通知、保存回应，再让律师核赔偿及下一步骤。URA 建议先与开发商协商，必要时考虑法律意见和调解。[URA：开发商合同争议，第 12 页](https://file.go.gov.sg/home-buyers-guide-full.pdf)

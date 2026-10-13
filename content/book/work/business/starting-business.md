@@ -12,7 +12,7 @@ weight: 10
 search_keywords: ["创业", "开公司", "ACRA", "Bizfile", "UEN", "Corppass", "CSP", "独资", "LLP", "Home Office", "EntrePass"]
 ---
 
-开始接单或开店前，先确认自己可以经营这项业务、拟用场所允许该活动，以及是否需要行业牌照。再选企业形式、安排合伙人与负责人，通过ACRA的Bizfile完成注册；取得UEN后还要设置企业办事权限、账户和开业所需记录。注册成功，只完成了其中一项手续。[ACRA：注册要求](https://www.acra.gov.sg/register/business/requirements-eligibility/)、[注册后的开业事项](https://www.acra.gov.sg/register/business/after-registering/local-company/)
+开始接单或开店前，先确认自己可以经营这项业务、拟用场所允许该活动，以及是否需要行业牌照。再选企业形式、安排合伙人与负责人，通过ACRA的Bizfile完成注册；取得UEN后还要设置企业办事权限、账户和开业所需记录。[ACRA：注册要求](https://www.acra.gov.sg/register/business/requirements-eligibility/)、[注册后的开业事项](https://www.acra.gov.sg/register/business/after-registering/local-company/)
 
 ## 哪些活动需要登记
 
@@ -32,14 +32,14 @@ search_keywords: ["创业", "开公司", "ACRA", "Bizfile", "UEN", "Corppass", "
 | PEP | 不能用PEP自由接单或创业；独资、合伙及同时持股的董事等有明确限制。 |
 | ONE Pass | 可按该准证条件同时创办、经营和为多家公司工作；仍须履行ACRA及行业要求。 |
 | EntrePass | 对企业、持股、融资或创新条件有专门要求，见下文；一般店铺注册不自动取得EntrePass。 |
-| DP家属 | 核经营者LOC；ONE Pass持有人的配偶另有专门LOC入口，不能把配偶规则套给其他家属。 |
+| DP家属 | 核经营者LOC；ONE Pass持有人的配偶另有专门LOC入口。 |
 | ICA LTVP／LTVP+ | PLOC明确不允许自雇。拟经营者应先向MOM核适用工作许可，不能把可受雇直接理解为可创业。 |
 | Student’s Pass | ICA条款对经营和工作有限制；学生打工豁免须按MOM具体条件判断，不能据此推定可自行经营企业。 |
 | 访客、居住海外的外国人 | 不居住新加坡者登记为董事有专门规则，但STVP不能用于在新实际经营；须分别核注册安排、入境目的和工作许可。 |
 
 来源：[ACRA：个人与本地负责人条件](https://www.acra.gov.sg/register/business/choosing-business-structure/)、[MOM：EP持股](https://www.mom.gov.sg/faq/employment-pass/can-an-ep-holder-be-a-shareholder-of-a-singapore-registered-company)、[S Pass／WP职务限制](https://www.mom.gov.sg/faq/work-pass-general/can-s-pass-or-work-permit-holders-be-registered-as-company-directors)、[PEP条件](https://www.mom.gov.sg/passes-and-permits/personalised-employment-pass/eligibility)、[ONE Pass经营范围](https://www.mom.gov.sg/faq/one-pass/do-onepass-holders-require-a-letter-of-consent-to-hold-secondary-directorship)、[PLOC不含自雇](https://www.mom.gov.sg/passes-and-permits/pre-approved-letter-of-consent/key-facts)、[ICA学生准证第12条](https://www.ica.gov.sg/docs/default-source/ica/files/docs/terms_-_conditions_stp.pdf?sfvrsn=964f6531_38)、[STVP限制](https://www.ica.gov.sg/enter-transit-depart/extend-stay)、[MOM：非本地居住董事](https://www.mom.gov.sg/faq/employment-pass/is-a-foreigner-required-to-apply-for-an-ep-if-he-is-registered-as-a-director-of-a-company-in-singapore-but-not-a-resident-of-singapore)。
 
-EP的第二董事职务由拟聘任公司申请LOC，须先取得现雇主不反对，并通常与现雇主有ACRA记录可见的股权关联及本职需要；批准后才登记。无股权关联公司的申请，MOM另按主管行业机构支持等条件评估，不能仅凭个人兼任意愿推定会批。[MOM：第二董事职务程序](https://www.mom.gov.sg/passes-and-permits/employment-pass/taking-up-secondary-directorship)、[无关联公司分支](https://www.mom.gov.sg/faq/employment-pass/can-ep-holders-be-registered-as-directors-in-another-company)
+EP的第二董事职务由拟聘任公司申请LOC，须先取得现雇主不反对，并通常与现雇主有ACRA记录可见的股权关联及本职需要；批准后才登记。无股权关联公司的申请，MOM另按主管行业机构支持等条件评估。[MOM：第二董事职务程序](https://www.mom.gov.sg/passes-and-permits/employment-pass/taking-up-secondary-directorship)、[无关联公司分支](https://www.mom.gov.sg/faq/employment-pass/can-ep-holders-be-registered-as-directors-in-another-company)
 
 EntrePass现行详页要求设立或拟设立ACRA注册私人有限公司、本人至少持股30%、企业有创投支持或创新技术，并符合至少一项指定条件。公司在申请时已注册超过 **12个月** ，按续期标准评估；ACRA概述仍写六个月，应以MOM这项现行详页核申请。咖啡店、小贩中心、酒吧、按摩、中医及职业介绍所等列为不适用业务，应在支付注册及租赁费用前先检查。[MOM：EntrePass完整资格与排除](https://www.mom.gov.sg/passes-and-permits/entrepass/eligibility)、[ACRA概述](https://www.acra.gov.sg/register/business/requirements-eligibility/)
 
@@ -67,11 +67,11 @@ ONE Pass持有人的 **配偶** 要经营业务，可由本人或就业中介申
 
 公司须至少一名符合本地居住要求的董事。董事不能因被称为“挂名”或“不参与经营”而免去记录、申报和公司管理责任；唯一董事不能兼任公司秘书。接受职务前应看清授权、取阅账目的安排和服务合同。[ACRA：董事与秘书职责](https://www.acra.gov.sg/register/business/registering-different-business-structures/local-company/appointing-company-directors-other-key-officers/)
 
-已有外国企业的读者，另比较代表处、本地子公司、外国公司分支及迁册。代表处用于市场研究等目的，不能赚取收入；分支与新设本地子公司的法律关系不同。外国企业须由CSP办理，不宜直接套个人独资流程。[ACRA：外国既有企业四种路径](https://www.acra.gov.sg/register/foreign-business/ways-to-set-up/)
+已有外国企业的读者，另比较代表处、本地子公司、外国公司分支及迁册。代表处用于市场研究等目的，不能赚取收入；分支与新设本地子公司的法律关系不同。外国企业须由CSP办理。[ACRA：外国既有企业四种路径](https://www.acra.gov.sg/register/foreign-business/ways-to-set-up/)
 
 ## 谁提交，怎样选择服务提供者
 
-有资格自行提交的人使用本人的Singpass；CSP以其企业身份办理。ACRA总则及疑难指南要求外国人、含外国职务持有人的登记由CSP处理；独资、LP及LLP步骤页另列有“外国人有Singpass”的情况。遇到这一差异，应把具体准证、是否本地居住及拟任角色交ACRA确认，不能只因能登录就承诺可以自己递交。[ACRA：外国人总则](https://www.acra.gov.sg/register/business/requirements-eligibility/)、[职务持有人与提交权限](https://www.acra.gov.sg/resources/guides-forms/troubleshooting-guide-name-application-business-registration/)、[独资步骤页](https://www.acra.gov.sg/register/business/registering-different-business-structures/sole-proprietorship-or-partnership/)
+有资格自行提交的人使用本人的Singpass；CSP以其企业身份办理。ACRA总则及疑难指南要求外国人、含外国职务持有人的登记由CSP处理；独资、LP及LLP步骤页另列有“外国人有Singpass”的情况。遇到这一差异，应把具体准证、是否本地居住及拟任角色交ACRA确认，不能只因能登录就自行递交。[ACRA：外国人总则](https://www.acra.gov.sg/register/business/requirements-eligibility/)、[职务持有人与提交权限](https://www.acra.gov.sg/resources/guides-forms/troubleshooting-guide-name-application-business-registration/)、[独资步骤页](https://www.acra.gov.sg/register/business/registering-different-business-structures/sole-proprietorship-or-partnership/)
 
 找CSP时，先在Bizfile的实体查询核其是否登记为CSP，再要求书面列出政府费用与服务费。尤其核清注册地址、秘书、本地董事、会计税务、年度申报是否分别收费，哪些只含第一年，停止服务时怎样交回记录和权限。ACRA把企业设立、地址、职务安排及代申报等列为CSP服务；一个代收邮件地址不能替代实际经营场所的许可。[ACRA：CSP范围及查询](https://www.acra.gov.sg/register/corporate-service-provider/checking-if-you-must-register/)
 
@@ -99,7 +99,7 @@ ACRA登记名称不产生商标专有权，也不自动取得同名网站域名�
 
 公司另备财务年度截止日FYE、股东及股份分配、已发行与实缴股本、章程、代名人与实际控制人资料；LLP也须判断RORC实际控制人登记要求及豁免，无法识别控制人时按规定填实际执行控制者。[ACRA：公司材料与控制人](https://www.acra.gov.sg/register/business/registering-different-business-structures/local-company/registering-via-bizfile/)、[LLP控制人](https://www.acra.gov.sg/register/business/registering-different-business-structures/limited-liability-partnership/)
 
-需要股本的公司，ACRA列的起始股本最低为S$1；实缴股本是股东实际支付的部分。这个登记最低额不能说明企业有足够租金、工资或周转金。股份数量、金额和各股东权利应先谈妥，经营预算另按实际支出准备。[ACRA：股本与实缴](https://www.acra.gov.sg/register/business/registering-different-business-structures/local-company/deciding-on-share-capital-share-types/)
+需要股本的公司，ACRA列的起始股本最低为S$1；实缴股本是股东实际支付的部分。股份数量、金额和各股东权利应先谈妥，经营预算另按实际支出准备。[ACRA：股本与实缴](https://www.acra.gov.sg/register/business/registering-different-business-structures/local-company/deciding-on-share-capital-share-types/)
 
 公司可以上传自订章程或采用范本。范本可选择以后随法规更新，或固定采用设立时版本；选择前要理解对股权转让、会议和任职的影响。全体初始认购股东须在设立时签署留存版本，保存于注册地址。[ACRA：章程准备与两种范本选择](https://www.acra.gov.sg/register/business/registering-different-business-structures/local-company/company-constitution/)
 
@@ -118,7 +118,7 @@ ACRA登记名称不产生商标专有权，也不自动取得同名网站域名�
 
 公司、LP与LLP自行提交时，其他职务持有人须在 **60天内** 完成endorsement；CSP代办时不要求这一系统确认。全部确认完成后，提交人在Bizfile收件箱取得付款通知。没有付款入口时，先核所有需要确认的人是否已完成，再用原提交账户进入“Pending actions”查看付款。[ACRA：LP确认](https://www.acra.gov.sg/register/business/registering-different-business-structures/limited-partnership/)、[LLP确认](https://www.acra.gov.sg/register/business/registering-different-business-structures/limited-liability-partnership/)、[付款受阻处理](https://www.acra.gov.sg/resources/guides-forms/troubleshooting-guide-name-application-business-registration/)
 
-多数登记付款后很快获准，复杂申请可能需15个工作日，须其他机关批准的可能需14—60天。不能只凭已扣款就宣布注册成功；到Bizfile收件箱取得成功通知、UEN及Business Profile下载链接，并核资料。公司免费Business Profile须在注册后60天内下载保存。[ACRA：结果与处理期](https://www.acra.gov.sg/register/business/registering-different-business-structures/local-company/registering-via-bizfile/)、[公司资料下载期限](https://www.acra.gov.sg/register/business/after-registering/local-company/)
+多数登记付款后很快获准，复杂申请可能需15个工作日，须其他机关批准的可能需14—60天。到Bizfile收件箱取得成功通知、UEN及Business Profile下载链接，并核资料。公司免费Business Profile须在注册后60天内下载保存。[ACRA：结果与处理期](https://www.acra.gov.sg/register/business/registering-different-business-structures/local-company/registering-via-bizfile/)、[公司资料下载期限](https://www.acra.gov.sg/register/business/after-registering/local-company/)
 
 ## 取得UEN后，完成开业准备
 
@@ -126,7 +126,7 @@ ACRA登记名称不产生商标专有权，也不自动取得同名网站域名�
 
 再把以下事项安排到具体负责人和日期：
 
-- **账户与账目。** 向银行确认该企业形式、股东与签字人的开户材料，把业务收支单独记录；不要假设个人账户的开户流程可原样用于公司。
+- **账户与账目。** 向银行确认该企业形式、股东与签字人的开户材料，把业务收支单独记录。
 - **公司人员与名册。** 公司秘书须在设立后6个月内任命；未获审计豁免的公司须在3个月内任命审计师。按适用条件从设立日维护控制人、代名董事和代名股东等名册。
 - **牌照与场地。** 从GoBusiness的牌照指引按实际活动核要求，完成所需批准再开业。涉及进出口货物，另须安排Customs账户及贸易许可；普通ACRA登记不能替代它们。
 - **雇人及资料处理。** 开始聘人前安排CPF Submission Number和适用雇主义务；处理个人资料的组织须安排DPO责任。姓名、电邮、客户名单等资料应由谁管理，也要在开业前说清。

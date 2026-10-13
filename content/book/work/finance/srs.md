@@ -22,7 +22,7 @@ SRS 是自愿参加的补充退休计划，与 [CPF](/book/work/finance/cpf-basi
 
 缴款减免抵扣的是计税收入，实际少缴多少税取决于适用税率。所有个人所得税减免合计每个课税年度最多 **S$80,000** ，包括 SRS；已经用满这个额度，继续缴款也不会增加该年度的减免。IRAS 明确说明，不能因没有获得预期减免而要求退回已缴的 SRS 款项。[IRAS：年度减免上限](https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/special-tax-schemes/srs-contributions)
 
-**教学虚构** ：某人其他合资格减免合计 S$75,000，当年向 SRS 缴 S$10,000，且符合税务居民等条件。受总上限限制，SRS 最多再增加 S$5,000 的收入减免；这不等于退税 S$5,000。做决定时还要查看本人应纳税收入，而不能只看缴款额度。
+**教学虚构** ：某人其他合资格减免合计 S$75,000，当年向 SRS 缴 S$10,000，且符合税务居民等条件。受总上限限制，SRS 最多再增加 S$5,000 的收入减免；这不等于退税 S$5,000。做决定时还要查看本人应纳税收入。
 
 ## 身份、银行开户与税务居民分开核对
 
@@ -37,7 +37,7 @@ SRS 制度允许符合条件的新加坡公民、PR 和外国人参加。开户�
 | 学生或家属 | 须先满足18岁门槛；再核本人准证、银行材料与是否已有账户 | 学生证、DP 或 LTVP 本身不保证有可抵扣的收入或减免 |
 | 访客或主要居于海外的人 | 外国人制度资格之外，还须取得营运银行对本人证件、地址和开户渠道的确认 | 能开户也不表示可以取得新加坡税务居民的缴款减免 |
 
-上表的制度资格和减免条件来自 [IRAS](https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/special-tax-schemes/srs-contributions)；税务居民的具体判断接[个人所得税](/book/work/tax/personal-tax/)。银行材料必须按本行清单处理，不能把某银行列有 EP、S Pass 的页面推广到所有准证。
+上表的制度资格和减免条件来自 [IRAS](https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/special-tax-schemes/srs-contributions)；税务居民的具体判断接[个人所得税](/book/work/tax/personal-tax/)。银行材料必须按本行清单处理。
 
 ## 选一家营运银行，完成开户并留存记录
 
@@ -116,7 +116,7 @@ SRS 制度允许符合条件的新加坡公民、PR 和外国人参加。开户�
 
 ## 实际提款时，核金额、投资转出与到账
 
-联系自己的 SRS 营运银行，确认适用理由、证明材料、现金是否足够、税和罚金如何扣，以及净到账金额。例如 DBS 当前要求到 DBS／POSB 分行办理提前或免罚提款。人在海外、行动不便或需要代理协助时，先取得营运银行对本人情况的办理安排，不能假设普通网银转账就能完成。[DBS：提款常见问题](https://www.dbs.com.sg/personal/accounts/supplementary-retirement-scheme)
+联系自己的 SRS 营运银行，确认适用理由、证明材料、现金是否足够、税和罚金如何扣，以及净到账金额。例如 DBS 当前要求到 DBS／POSB 分行办理提前或免罚提款。人在海外、行动不便或需要代理协助时，先取得营运银行对本人情况的办理安排。[DBS：提款常见问题](https://www.dbs.com.sg/personal/accounts/supplementary-retirement-scheme)
 
 退休、合资格医疗、符合条件的外国人全额提款，以及已视同关闭账户后的实际转出，可按规则申请以投资形式提款；其他提款通常须用现金。准备转出股票或基金时，先让银行确认产品、估值日、接收账户、所需现金及税费，不能把证券转出视为没有发生提款。[IRAS：以投资形式提款](https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/special-tax-schemes/tax-on-srs-withdrawals)
 
@@ -132,7 +132,7 @@ SRS 制度允许符合条件的新加坡公民、PR 和外国人参加。开户�
 
 最终税款按税务居民身份判断：新加坡税务居民采用累进税率；非税务居民的 SRS 应税部分，按15%或居民累进税率计算，取较高者。次年申报及评税时，已经预扣的税会用于抵税，多扣部分按最终税款处理退款。离境后仍须向 IRAS 保持姓名、税号及可联系地址等资料正确。[IRAS：预扣与最终税款、退款](https://www.iras.gov.sg/taxes/withholding-tax/withdrawal-from-supplementary-retirement-scheme-(srs)-account-(foreigners-prs)/calculating-withholding-tax)
 
-因此，PR 的缴款上限与公民相同，提款时却仍有针对非公民的预扣税；长期居住或持 PR，也不能直接推定某次提款最终按居民税率。
+因此，PR 的缴款上限与公民相同，提款时却仍有针对非公民的预扣税。
 
 ## 换银行、离境与身故后的账户安排
 

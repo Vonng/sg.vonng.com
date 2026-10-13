@@ -62,7 +62,7 @@ MAS 规定 SSB 与个人 T-bills 投资者须至少18岁，并允许外国人及
 
 SSB 每次最低申请 **S$500** ，以 S$500 为单位；个人同时持有的现金和SRS购买部分 **合计最多S$200,000** 。不能用 CPF 买SSB，也不能用联名CDP、公司或一般经纪托管账户替代所需的个人账户。现金购买用 DBS／POSB、OCBC 或 UOB 银行账户，并准备已开通 Direct Crediting Service，DCS，的个人CDP；SRS购买则通过自己的SRS营运银行。[MAS：申请准备](https://www.mas.gov.sg/bonds-and-bills/investing-in-singapore-savings-bonds/how-to-buy)、[2026年FAQ，第7、9、28页](https://www.mas.gov.sg/-/media/mas/ssb/2020-pdf/2026-pdf/2026-03-16-ssb-faqs.pdf)
 
-DCS 是把利息和本金付到指定银行账户的服务。开户后须等CDP开户和DCS启用两项通知到齐，才申请现金SSB；若忘了CDP账号，先用SGX的本人查询渠道或 **6535 7511** 查询，避免临近截止日重复开户。[MAS：CDP与DCS，第28—30页](https://www.mas.gov.sg/-/media/mas/ssb/2020-pdf/2026-pdf/2026-03-16-ssb-faqs.pdf)
+DCS 是把利息和本金付到指定银行账户的服务。开户后须等CDP开户和DCS启用两项通知到齐，才申请现金SSB；若忘了CDP账号，先用SGX的本人查询渠道或 **6535 7511** 查询。[MAS：CDP与DCS，第28—30页](https://www.mas.gov.sg/-/media/mas/ssb/2020-pdf/2026-pdf/2026-03-16-ssb-faqs.pdf)
 
 到 [MAS SSB当前发行页](https://www.mas.gov.sg/bonds-and-bills/singapore-savings-bonds)核发行代码、各年利率、申请截止与发行日期。每月新一期申请一般在首个工作日18时开放、倒数第四个工作日21时截止，实际按该期日历及银行渠道办理。
 
@@ -71,7 +71,7 @@ DCS 是把利息和本金付到指定银行账户的服务。开户后须等CDP�
 3. 保存确认号，查看配售结果。申请总额超过当期发行额时，可能只获部分配售；多扣现金通常在当月倒数第二个工作日结束前退回原申请账户。
 4. 发行后核CDP或SRS持仓。首次利息在发行六个月后支付，随后每半年一次，现金利息进入DCS银行账户，SRS利息回SRS。
 
-银行柜台不受理SSB购买申请。不能使用线上渠道者可查看ATM方式，并提前取得操作协助；不要把“到银行开账户”当成柜台能代为申购。[MAS：完整申购与结果步骤](https://www.mas.gov.sg/bonds-and-bills/investing-in-singapore-savings-bonds/how-to-buy)
+银行柜台不受理SSB购买申请。不能使用线上渠道者可查看ATM方式，并提前取得操作协助。[MAS：完整申购与结果步骤](https://www.mas.gov.sg/bonds-and-bills/investing-in-singapore-savings-bonds/how-to-buy)
 
 ## SSB：赎回、到期与找不到利息
 
@@ -128,9 +128,9 @@ T-bills期限为六个月或一年，最低S$1,000、以S$1,000递增；折价�
 
 ## 持有期间、税务、搬家与账户问题
 
-保存申请确认、成交单、现金流水、持仓和收费记录，定期对照总额。股票持有人还要读配股、收购、派息、合并等公司行动通知及截止日；经纪代持账户可能有自己的回复渠道，不能只等银行收到股息。[MoneySense：持有后的公司行动](https://www.moneysense.gov.sg/investments/guide-to-shares-how-to-invest/)
+保存申请确认、成交单、现金流水、持仓和收费记录，定期对照总额。股票持有人还要读配股、收购、派息、合并等公司行动通知及截止日；经纪代持账户可能有自己的回复渠道。[MoneySense：持有后的公司行动](https://www.moneysense.gov.sg/investments/guide-to-shares-how-to-invest/)
 
-个人买卖股票和金融工具的收益，在IRAS列明的一般个人投资情形下通常不征税；这不能替代对自己全部收入的判断。获准新加坡银行的存款利息一般免税，债券利息亦有合伙持有或交易业务存货等例外；借钱给公司或个人收到的利息则可能应税。[IRAS：个人投资收益](https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/what-is-taxable-what-is-not/gains-from-sale-of-property-shares-and-financial-instruments)、[利息](https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/what-is-taxable-what-is-not/interest)
+个人买卖股票和金融工具的收益，在IRAS列明的一般个人投资情形下通常不征税。获准新加坡银行的存款利息一般免税，债券利息亦有合伙持有或交易业务存货等例外；借钱给公司或个人收到的利息则可能应税。[IRAS：个人投资收益](https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/what-is-taxable-what-is-not/gains-from-sale-of-property-shares-and-financial-instruments)、[利息](https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/what-is-taxable-what-is-not/interest)
 
 新加坡居民公司按单层公司税制派发的股息一般免税；居民个人在新加坡收到的外国股息也有规定的免税安排，但经新加坡合伙企业取得等情形另查。投资账户位于新加坡，并不能说明另一税务管辖区也免税；保留税务声明、股息及已扣税记录。[IRAS：股息与适用例外](https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/what-is-taxable-what-is-not/dividends)
 
@@ -138,4 +138,4 @@ T-bills期限为六个月或一年，最低S$1,000、以S$1,000递增；折价�
 
 搬家、换国籍或税务居民身份、长期离境前，向银行及经纪更新资料，确认新居所能否继续交易和持有产品，以及海外登录、认证、收款和转仓安排。DBS Vickers条款要求及时书面通知国籍、居住地、税务居民及联系方式等变化。决定关户时，先处理未成交指令、尚未交割交易、持仓转出和现金余额，下载结单后再办关闭。[DBS Vickers：资料变化与税务要求](https://www.dbsvickers.com/vickers/compliance-with-tax-requirements.page)
 
-发现订单、收费、派息或余额不对，先把账号、交易日期、确认号、金额和对应条款交机构书面查询，保存回复。争议未解决时，再按[银行与金融投诉的FIDReC路径](/book/work/finance/banking/)核适用机构、事项和期限；市场价格下跌本身不能直接当作机构算错账。
+发现订单、收费、派息或余额不对，先把账号、交易日期、确认号、金额和对应条款交机构书面查询，保存回复。争议未解决时，再按[银行与金融投诉的FIDReC路径](/book/work/finance/banking/)核适用机构、事项和期限。

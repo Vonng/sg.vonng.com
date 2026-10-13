@@ -28,7 +28,7 @@ MSF的Disability Verification用于其残障服务及部分其他政府计划，
 
 申请前按以下顺序准备：
 
-1. **先查是否已有验证记录。** 本人或未满21岁子女的父母，可用Singpass在SupportGoWhere查询；曾就读SPED学校或获相关MSF服务的人尤其应先查，避免重复付费。
+1. **先查是否已有验证记录。** 本人或未满21岁子女的父母，可用Singpass在SupportGoWhere查询；曾就读SPED学校或获相关MSF服务的人尤其应先查。
 2. **没有记录时，取得现行Disability Verification Form（DVF）。** 预约时告诉机构年龄和残障类别，确认可填写的专业人员、收费和需要带的旧报告；儿童身体障碍可先联系儿科团队。听力、视力、智力或自闭症所需专业不同，应按接收机构采用的名单核对。
 3. **完成后按所申请服务提交。** 已有验证通常毋须再交DVF；尚未验证者可以随服务申请递交，也可单独申请验证。保留完整表件、申请编号和结果通知。
 
@@ -44,11 +44,11 @@ MSF的Disability Verification用于其残障服务及部分其他政府计划，
 
 Enabling Village内的 **Tech Able，20 Lengkok Bahru，#01-06** 提供展示和体验，工作日9:00—17:30。一般参观可以直接到访；个人评估和训练须预约，可经原有治疗师、社工转介，没有现有服务团队者可查SPD的转介表或联系 **atc@spd.org.sg** 。Tech Able本身不销售设备，评估及借用费用应先确认。[Tech Able：地点](https://techable.enablingvillage.sg/aboutus)、[参观与评估FAQ](https://techable.enablingvillage.sg/aboutus/FAQ)
 
-想在日常环境试用，可问SPD的Assistive Technology Loan Library。借用通常为两周，需付押金和租金；续借须至少在到期前三天提出，并视设备供应决定。借出前可能需要评估，经济困难可询问个别协助，不能把名录中的设备当作随时有货或人人免费。联系 **6473 0446** 了解实际安排。[SPD：辅具借用](https://spd.org.sg/what-we-do/assistive-technology/assistive-technology-loan-library/)
+想在日常环境试用，可问SPD的Assistive Technology Loan Library。借用通常为两周，需付押金和租金；续借须至少在到期前三天提出，并视设备供应决定。借出前可能需要评估，经济困难可询问个别协助。联系 **6473 0446** 了解实际安排。[SPD：辅具借用](https://spd.org.sg/what-we-do/assistive-technology/assistive-technology-loan-library/)
 
 ## ATF资助及60岁后的分流
 
-Assistive Technology Fund（ATF）面向符合永久残障条件的 **公民或PR** ，按经济状况和设备评估资助购买、更换、升级或维修，终身累计上限为 **S$40,000** 。从2026年1月起，家庭人均月收入（PCHI）上限提高至 **S$4,800** ；没有家庭收入者另按NRIC地址房屋年值（AV）判断。工作准证、学生、家属和访客不能只因在新居住或有残障证明，就套用这项公民／PR资助。[ATF资格与申请](https://www.enablingguide.sg/im-looking-for-disability-support/assistive-technology/assistive-technology-fund)
+Assistive Technology Fund（ATF）面向符合永久残障条件的 **公民或PR** ，按经济状况和设备评估资助购买、更换、升级或维修，终身累计上限为 **S$40,000** 。从2026年1月起，家庭人均月收入（PCHI）上限提高至 **S$4,800** ；没有家庭收入者另按NRIC地址房屋年值（AV）判断。[ATF资格与申请](https://www.enablingguide.sg/im-looking-for-disability-support/assistive-technology/assistive-technology-fund)
 
 有家庭收入时，2026年现行ATF补贴比例为：
 
@@ -64,13 +64,13 @@ Assistive Technology Fund（ATF）面向符合永久残障条件的 **公民或P
 
 申请从公共医院或社会服务机构的接触点开始，由评估人员与社工处理。没有现有服务团队，可先到综合诊疗所转介；听力设备通常要经公共医院耳鼻喉／听力评估，视力辅具可询问SAVH。递交完整申请后一般15个工作日处理，经接触点告知结果。 **不要先买或先维修再要求报销** ：ATF不追付已经购买或维修的费用，付款安排由接触点与供货商处理。[ATF申请流程](https://www.enablingguide.sg/im-looking-for-disability-support/assistive-technology/assistive-technology-fund)、[FAQ，第4—7页](https://www.enablingguide.sg/docs/default-source/default-document-library/assistive-technology-fund--website-faqs_may2025.pdf?sfvrsn=fb47e09a_8#page=4)
 
-ATF目前没有统一的更换等待期，但仍要评估必要性；耗材不在一般ATF辅具资助范围内。60岁以下的ATF不资助医疗设备；60岁及以上的既有受助者，可按条件用剩余终身额度申请医疗设备及眼镜。 **60岁前已经获得ATF资助的人，之后继续走ATF** ；60岁及以上、此前未获ATF者，一般转查AIC的Seniors’ Mobility and Enabling Fund（SMF）。SMF当前适用于符合条件的公民或PR，另核年龄、住处、收入、设备评估及替换间隔，也须先获批准再购买。SMF电动设备还有安全使用能力、照顾安排等附加条件，不宜拿ATF的规则直接套用。同一用途已符合SMF、HDB EASE或其他资金计划时，ATF不重复承担。[ATF FAQ，第5—8页](https://www.enablingguide.sg/docs/default-source/default-document-library/assistive-technology-fund--website-faqs_may2025.pdf?sfvrsn=fb47e09a_8#page=5)、[AIC：SMF完整条件及申请](https://www.aic.sg/Financial-Assistance/Seniors-Mobility-and-Enabling-Fund---Mobility-and-Assistive-Devices)
+ATF目前没有统一的更换等待期，但仍要评估必要性；耗材不在一般ATF辅具资助范围内。60岁以下的ATF不资助医疗设备；60岁及以上的既有受助者，可按条件用剩余终身额度申请医疗设备及眼镜。 **60岁前已经获得ATF资助的人，之后继续走ATF** ；60岁及以上、此前未获ATF者，一般转查AIC的Seniors’ Mobility and Enabling Fund（SMF）。SMF当前适用于符合条件的公民或PR，另核年龄、住处、收入、设备评估及替换间隔，也须先获批准再购买。SMF电动设备还有安全使用能力、照顾安排等附加条件。同一用途已符合SMF、HDB EASE或其他资金计划时，ATF不重复承担。[ATF FAQ，第5—8页](https://www.enablingguide.sg/docs/default-source/default-document-library/assistive-technology-fund--website-faqs_may2025.pdf?sfvrsn=fb47e09a_8#page=5)、[AIC：SMF完整条件及申请](https://www.aic.sg/Financial-Assistance/Seniors-Mobility-and-Enabling-Fund---Mobility-and-Assistive-Devices)
 
-不能获政府补贴时，仍可询问评估、租用或自费服务。例如SAVH低视力门诊为非登记客户列有收费，明确包括外国人；现行初次咨询 **S$60** 、复诊 **S$40** ，预约及其他费用应事先确认。SAVH一般登记客户资格限公民或PR，不能把这项自费门诊推成全部服务都开放或免费。低视力门诊联系 **6251 4331转721** 、 **lvc@savh.org.sg** 。[SAVH：低视力门诊及收费](https://savh.org.sg/low-vision-clinic/)、[登记客户范围](https://savh.org.sg/who-we-serve/)
+不能获政府补贴时，仍可询问评估、租用或自费服务。例如SAVH低视力门诊为非登记客户列有收费，明确包括外国人；现行初次咨询 **S$60** 、复诊 **S$40** ，预约及其他费用应事先确认。SAVH一般登记客户资格限公民或PR。低视力门诊联系 **6251 4331转721** 、 **lvc@savh.org.sg** 。[SAVH：低视力门诊及收费](https://savh.org.sg/low-vision-clinic/)、[登记客户范围](https://savh.org.sg/who-we-serve/)
 
 ## 调整住宅，先问使用者的需要
 
-家里可以从清理动线、固定常用物品位置、加触觉或高对比标记、改用视觉门铃与警报、在适当位置放图示步骤开始。改变布局前先与使用者讨论；对视障人士，调整后重新熟悉位置尤其重要。轮椅转弯、床椅转移、洗澡和如厕的安排，可请治疗师在实际环境评估，避免买了设备才发现门宽、位置或操作方式不合适。[SG Enable：不同需要的居家调整](https://www.enablingguide.sg/caregiver-learning-roadmap/adapting-the-home-environment)
+家里可以从清理动线、固定常用物品位置、加触觉或高对比标记、改用视觉门铃与警报、在适当位置放图示步骤开始。改变布局前先与使用者讨论；对视障人士，调整后重新熟悉位置尤其重要。轮椅转弯、床椅转移、洗澡和如厕的安排，可请治疗师在实际环境评估。[SG Enable：不同需要的居家调整](https://www.enablingguide.sg/caregiver-learning-roadmap/adapting-the-home-environment)
 
 涉及固定扶手、坡道或装修时，先核住处和工程条件。私人住宅的建筑改动可能需要专业人员及主管批准，公寓还可能涉及MCST；获得器具资助不能代替施工许可。承租者在动工前和屋主谈清同意、费用与退租安排。[BCA：私人住宅改动及其他批准](https://www1.bca.gov.sg/guidelines-and-requirements/building-works-not-requiring-approval/)
 
@@ -91,21 +91,21 @@ EASE Private通过官方门户申请，准备长者资料、地址、拟装设�
 
 听障、视障儿童还须看实际沟通方式和学校可提供的支持。使用手语、口语、盲文或辅具的需要不同，先同学校讨论授课、同伴沟通、考试、移动和紧急安排。需要学习辅具时，通常由学校协助安排专业评估，再申请和采购；正常损耗的维修与疏忽损坏由谁承担，也要问清。治疗和学校支持可以并行，不宜等资助结果出来才让学校知道困难。[MOE：感官支持、辅具及维修问答](https://www.moe.gov.sg/faq?categoryid=34EAA566E17245A0B500E4B0482F4831)
 
-SPED学校按个人教育计划（IEP）安排学习，并从13岁起制订个人转衔计划（ITP），逐步准备毕业后的生活、工作或成人服务。临近转衔时，向学校问清下一家机构、谁负责转介、等待期间的安排，以及原有设备或支持是否延续。高教阶段先联系院校无障碍或学生支援办公室，相关入口见[高等教育]({{< relref "/book/people/learning/higher-education" >}})。服务内容、入学资格与费用资助仍按学校及身份判断，不能把公民的资助条件套给外国学生。[MOE：IEP与13岁起ITP](https://www.moe.gov.sg/faq?categoryid=34EAA566E17245A0B500E4B0482F4831)
+SPED学校按个人教育计划（IEP）安排学习，并从13岁起制订个人转衔计划（ITP），逐步准备毕业后的生活、工作或成人服务。临近转衔时，向学校问清下一家机构、谁负责转介、等待期间的安排，以及原有设备或支持是否延续。高教阶段先联系院校无障碍或学生支援办公室，相关入口见[高等教育]({{< relref "/book/people/learning/higher-education" >}})。服务内容、入学资格与费用资助仍按学校及身份判断。[MOE：IEP与13岁起ITP](https://www.moe.gov.sg/faq?categoryid=34EAA566E17245A0B500E4B0482F4831)
 
 ## 就业、复工与岗位调整
 
 把工作困难具体化：是到达工作地点、使用电脑、理解指令、与同事沟通，还是体力、工作节奏或治疗时间需要调整。可以同雇主讨论书面指令、设备、培训和工作安排，并写清试行及复查时间。SG Enable的Job Placement and Job Support（JPJS）会安排就业准备评估、岗位匹配、工作场地与辅具建议，以及入职后的短期辅导。[JPJS服务](https://www.enablingguide.sg/im-looking-for-disability-support/training-employment/job-placement-and-job-support)
 
-JPJS面向符合指定永久残障条件的公民或PR。已验证残障状态者不用重交DVF；可经SupportGoWhere申请，或按页面下载One Referral Form，连同所需证明发至 **employment@sgenable.sg** ，也可到Information and Career Centre寻求协助。外国工作者应先向自己的治疗团队、雇主及保险方讨论康复和工作需要，不能直接套用JPJS资助资格；准证和工作安排见[劳动权益]({{< relref "/book/work/employment/employment-rights" >}})。[JPJS资格与提交](https://www.enablingguide.sg/im-looking-for-disability-support/training-employment/job-placement-and-job-support)
+JPJS面向符合指定永久残障条件的公民或PR。已验证残障状态者不用重交DVF；可经SupportGoWhere申请，或按页面下载One Referral Form，连同所需证明发至 **employment@sgenable.sg** ，也可到Information and Career Centre寻求协助。外国工作者应先向自己的治疗团队、雇主及保险方讨论康复和工作需要，准证和工作安排见[劳动权益]({{< relref "/book/work/employment/employment-rights" >}})。[JPJS资格与提交](https://www.enablingguide.sg/im-looking-for-disability-support/training-employment/job-placement-and-job-support)
 
-因疾病或事故取得后天残障，可再查Hospital-to-Work（H2W）。它面向公民或PR、 **超过16岁** 、经医疗证明可工作，并符合指定永久身体、视力或听力障碍条件的人；已有工作而需要复工支持者也可申请。除必要DVF外，还须准备工作及康复适合性表、申请与同意资料。个案管理、岗位匹配和工作支持免费，额外康复可能收费并作经济状况评估；不在列明类别内者可联系团队讨论，但不能据此保证获准。[H2W条件、材料与费用](https://www.enablingguide.sg/im-looking-for-disability-support/training-employment/hospital-to-work-(h2w)-programme)
+因疾病或事故取得后天残障，可再查Hospital-to-Work（H2W）。它面向公民或PR、 **超过16岁** 、经医疗证明可工作，并符合指定永久身体、视力或听力障碍条件的人；已有工作而需要复工支持者也可申请。除必要DVF外，还须准备工作及康复适合性表、申请与同意资料。个案管理、岗位匹配和工作支持免费，额外康复可能收费并作经济状况评估；不在列明类别内者可联系团队讨论。[H2W条件、材料与费用](https://www.enablingguide.sg/im-looking-for-disability-support/training-employment/hospital-to-work-(h2w)-programme)
 
 雇主可查Open Door Programme（ODP）的Job Redesign Grant，评估设备、环境或流程调整。当前申请期为2025年4月1日至2028年3月31日，符合条件的项目最高资助不含GST费用的90%，每名残障雇员上限S$20,000；须按雇主登记、合格公民／PR雇员、聘期和项目条件申请，并在批准后才开展项目。这是雇主申请的计划，不能当作雇员自动取得一笔现金或雇主必须批准所有调整的依据。[SG Enable：ODP岗位重设](https://www.sgenable.sg/your-first-stop/hiring-employment/employers/employ/open-door-programme)
 
 ## 出行、电话与线上服务
 
-出门前，把到门口的路径也算进去：电梯出口、最后一段人行道、轮椅位、坡道、厕所和目的地入口。公共交通的无障碍路径、Helping Hand标识及PWD优惠卡见[公共交通]({{< relref "/book/life/transport/public-transport" >}})；优惠卡有公民／PR等资格，不能因车站可使用就推定票价获补贴。预订车辆时说明能否转移到普通座位、轮椅尺寸及连人重量；需全程留在轮椅上的乘客，应直接确认轮椅专车，详见[出租车与网约车]({{< relref "/book/life/transport/taxis-phv" >}})。
+出门前，把到门口的路径也算进去：电梯出口、最后一段人行道、轮椅位、坡道、厕所和目的地入口。公共交通的无障碍路径、Helping Hand标识及PWD优惠卡见[公共交通]({{< relref "/book/life/transport/public-transport" >}})；优惠卡有公民／PR等资格。预订车辆时说明能否转移到普通座位、轮椅尺寸及连人重量；需全程留在轮椅上的乘客，应直接确认轮椅专车，详见[出租车与网约车]({{< relref "/book/life/transport/taxis-phv" >}})。
 
 听觉或言语沟通需要可以在预约时先提出，例如文字联系、现场口译、字幕或辅助沟通设备。SADeaf的手语电话转接和现场口译是不同服务，开放时间、费用及提前预约办法见[手语与机构沟通]({{< relref "/book/people/language/communication" >}})；紧急危险不要等待一般预约或转接，使用[紧急求助渠道]({{< relref "/book/rights/safety/emergencies" >}})。
 
@@ -117,12 +117,12 @@ JPJS面向符合指定永久残障条件的公民或PR。已验证残障状态�
 
 未满21岁的申请人需要父母或法定监护人同意；21岁及以上而缺乏相关决定能力者，按要求由合法委任的deputy或donee处理。完整申请后通常10个工作日内由SG Enable联系，实际入读须看评估、中心与学额。询问半日或全日、交通、照护内容、饮食、费用及候补安排，并请中心说明无法到访时怎样收费。[DAC申请与同意](https://www.enablingguide.sg/im-looking-for-disability-support/child-adult-care/day-activity-centres)
 
-DAC的公民与PR费表不同，月费与按日收费也不同。网页所附费用矩阵标为2025年1月，应向拟入读中心取得当前书面报价，核GST、补贴及缺席安排，不能把旧表金额当作2026年的保证价格。[公民费表](https://www.enablingguide.sg/docs/default-source/default-document-library/dac-fees-matrix-sc.pdf?sfvrsn=ad01c187_8)、[PR费表](https://www.enablingguide.sg/docs/default-source/default-document-library/dac-fees-matrix-pr.pdf?sfvrsn=ad6749f1_6)
+DAC的公民与PR费表不同，月费与按日收费也不同。网页所附费用矩阵标为2025年1月，应向拟入读中心取得当前书面报价，核GST、补贴及缺席安排。[公民费表](https://www.enablingguide.sg/docs/default-source/default-document-library/dac-fees-matrix-sc.pdf?sfvrsn=ad01c187_8)、[PR费表](https://www.enablingguide.sg/docs/default-source/default-document-library/dac-fees-matrix-pr.pdf?sfvrsn=ad6749f1_6)
 
-希望先参加社区活动或找附近服务，可查Enabling Services Hubs（ESH）的住区目录。其信息与转介、向公众开放的活动面向所有人；固定课程、喘息等服务则另核客户资格。公民、PR以外的家庭也可以从开放信息与活动问起，说明语言、行动、陪同及费用需要，避免把某项政府资助不适用误认为所有社区入口都关闭。[ESH覆盖地区、服务及联系](https://www.enablingguide.sg/service-directory/enabling-services-hubs-(enabling-guide))
+希望先参加社区活动或找附近服务，可查Enabling Services Hubs（ESH）的住区目录。其信息与转介、向公众开放的活动面向所有人；固定课程、喘息等服务则另核客户资格。公民、PR以外的家庭也可以从开放信息与活动问起，说明语言、行动、陪同及费用需要。[ESH覆盖地区、服务及联系](https://www.enablingguide.sg/service-directory/enabling-services-hubs-(enabling-guide))
 
 ## 申请受阻时，保留记录再推进
 
-被要求补件或不符合条件时，保存原通知，问清欠的是残障验证、经济状况资料、身份条件、临床评估，还是服务名额；请机构列出应补文件及联系对象。设备尚未获批时先核可用的短期租借或过渡安排，避免自行购买后失去报销可能。用同一份简短需要清单联系医生、社工、学校或雇主，记录谁负责下一步和预计何时答复。
+被要求补件或不符合条件时，保存原通知，问清欠的是残障验证、经济状况资料、身份条件、临床评估，还是服务名额；请机构列出应补文件及联系对象。设备尚未获批时先核可用的短期租借或过渡安排。用同一份简短需要清单联系医生、社工、学校或雇主，记录谁负责下一步和预计何时答复。
 
 没有适用补贴、长时间候补或原机构无法处理时，可请SG Enable寻找其他服务方向；60岁及以上的辅具问题也可联系AIC。评估、设备、自费服务和社区活动各有入口，先把最影响生活的一项安排起来，再跟进其余申请。[SG Enable联系](https://www.sgenable.sg/get-in-touch)、[AIC辅具及人工帮助](https://www.aic.sg/Financial-Assistance/Seniors-Mobility-and-Enabling-Fund---Mobility-and-Assistive-Devices)

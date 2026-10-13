@@ -12,7 +12,7 @@ weight: 50
 search_keywords: ["PR", "REP", "SCJ", "ORAL", "PRSEP", "入籍", "再入境许可"]
 ---
 
-PR 申请、公民申请和 Re-Entry Permit（REP，再入境许可）处理的是不同事项。先确认要取得什么身份、谁负责申请或担保，再准备文件；已经是 PR 而准备出境的人，应先核对 REP。申请回执、原则批准信和正式完成身份手续，也分别对应不同阶段。
+PR 申请、公民申请和 Re-Entry Permit（REP，再入境许可）处理的是不同事项。先确认要取得什么身份、谁负责申请或担保，再准备文件；已经是 PR 而准备出境的人，应先核对 REP。
 
 ## 哪些情况可以申请 PR
 
@@ -41,13 +41,13 @@ ICA 列出的主要申请类别如下。符合类别只是进入评估的起点�
 | 在新加坡就学的 PR | 在新居住超过三年，其中至少一年为 PR，并通过指定全国考试或在 IP 就读；满 15 岁用 Singpass，未满 15 岁用非 Singpass 入口 |
 | 公民的年长父母 | 父母本身须为 PR，由年满 21 岁的公民子女担保 |
 
-学生路径的指定考试同为 PSLE、GCE N／O／A 水准。公民申请同样是综合评估；不要把达到年数或与公民结婚理解为自动获批。准备材料时，也要确认原有国籍的退出程序会怎样影响护照、旅行及在原居地的事务。
+学生路径的指定考试同为 PSLE、GCE N／O／A 水准。公民申请同样是综合评估；居住年数或与公民结婚都不自动获得批准。准备材料时，也要确认原有国籍的退出程序会怎样影响护照、旅行及在原居地的事务。
 
 ## 先备齐材料，再启动网上草稿
 
-分别打开 [PR 文件清单](https://www.ica.gov.sg/docs/default-source/ica/ipses/pr-document-checklist.pdf)或[公民文件清单](https://www.ica.gov.sg/docs/default-source/ica/ipses/sc-document-checklist)，按“申请人、未同时申请的配偶、担保人”逐栏准备适用文件。常见范围包括护照、出生和家庭关系、婚姻或离婚及子女照顾文件、学历、工作与收入；自雇者另看企业和财务材料。不是每个人都要交表内所有项目，也不能只准备主申请人一人的文件。
+分别打开 [PR 文件清单](https://www.ica.gov.sg/docs/default-source/ica/ipses/pr-document-checklist.pdf)或[公民文件清单](https://www.ica.gov.sg/docs/default-source/ica/ipses/sc-document-checklist)，按“申请人、未同时申请的配偶、担保人”逐栏准备适用文件。常见范围包括护照、出生和家庭关系、婚姻或离婚及子女照顾文件、学历、工作与收入；自雇者另看企业和财务材料。
 
-工作证明清单要求雇主信注明职业、入职日、基本及总月薪，并在网上申请日前三个月内出具；适用者还要准备最近六个月工资单。原件不是英文时，须按 ICA 接受的方式提供正式英文翻译，普通自行翻译不能直接当作合格文件。[PR 材料清单](https://www.ica.gov.sg/docs/default-source/ica/ipses/pr-document-checklist.pdf)、[ICA 翻译要求](https://www.ica.gov.sg/reside/citizenship/apply)
+工作证明清单要求雇主信注明职业、入职日、基本及总月薪，并在网上申请日前三个月内出具；适用者还要准备最近六个月工资单。原件不是英文时，须按 ICA 接受的方式提供正式英文翻译。[PR 材料清单](https://www.ica.gov.sg/docs/default-source/ica/ipses/pr-document-checklist.pdf)、[ICA 翻译要求](https://www.ica.gov.sg/reside/citizenship/apply)
 
 准备好后，从上述 ICA 申请页进入 e-Service，由正确的申请人或担保人登录。加入申请的人员还须按系统要求各自复核和声明；具备资格者使用自己的 Singpass，不具备 Singpass 资格者由 ICA 提供相应登录凭据。[ICA：申请人与声明要求](https://www.ica.gov.sg/reside/PR/apply)
 
@@ -118,7 +118,7 @@ REP 用于 PR 离境后保有身份并返回， **REP 有效期不等于身份�
 
 在期限内申请，可在等待结果期间保留 PR；申请不成功，会在结果发出翌日失去 PR。没有在 180 日内申请，也会在该期限结束翌日失去 PR。 **期间回到新加坡不会免除申请要求** ，已经回来且在拒绝结果发出时人在境内者，也会受此影响。[ICA：REP 有效性规则](https://www.ica.gov.sg/enter-depart/for-PR/check-REP-validity)、[2025 年 11 月 12 日版问答，第 2—5 页](https://www.ica.gov.sg/files/faqs_revisions-to-permanent-resident-re-entry-permit-application-process-from-1-december-2025)
 
-这段期间可能获准以 Permanent Resident’s Single-Entry Pass（PRSEP）返回，但仍受入境及公共卫生条件限制；PRSEP 只供在指定日期单次入境，不替代新的 REP。因超期未申请而失去 PR，ICA 不接受恢复身份上诉，须重新申请 PR；窗口内 REP 被拒后也须重新申请 PR，不能套用下面普通 PR 初次申请的上诉服务。在新加坡失去 PR 时，ICA 会发 Visit Pass，应立即核对新的停留及工作条件。[ICA：PRSEP 与身份失去后的处理，第 3—5 页](https://www.ica.gov.sg/files/faqs_revisions-to-permanent-resident-re-entry-permit-application-process-from-1-december-2025)
+这段期间可能获准以 Permanent Resident’s Single-Entry Pass（PRSEP）返回，但仍受入境及公共卫生条件限制；PRSEP 只供在指定日期单次入境，不替代新的 REP。因超期未申请而失去 PR，ICA 不接受恢复身份上诉，须重新申请 PR；窗口内 REP 被拒后也须重新申请 PR。在新加坡失去 PR 时，ICA 会发 Visit Pass，应立即核对新的停留及工作条件。[ICA：PRSEP 与身份失去后的处理，第 3—5 页](https://www.ica.gov.sg/files/faqs_revisions-to-permanent-resident-re-entry-permit-application-process-from-1-december-2025)
 
 与担保配偶离婚，本身不会自动撤销已经取得的 PR。正式离婚后按 ICA 要求提交最终离婚及适用的照顾权文件，REP 续期会按个人情况评估。[ICA：离婚与 PR](https://ask.gov.sg/ica/questions/clxwhkiyt00iydsotpvw2gww8)
 

@@ -24,9 +24,9 @@ TG 用于指定全日制 diploma 和本科课程，涉及理工学院、ITE、�
 | PR | 可选择申请；须按通知完成申请和签约，获资助者毕业后履行三年服务 |
 | 国际学生 | 名额有限，按资格及竞争结果授予；录取和TG批准分开确认，获批同样承担三年服务 |
 | 持工作准证、DP或LTVP的外国人 | 居留准证不能把外国人变成公民或PR资助类别；让学校按本人国籍、课程、既有资助和录取条件确认是否获TG |
-| 访客、来新读短课的人 | 先核课程与合法学习停留条件；不能因能报名一门课，就把它当作TG资助的全日制学历课程 |
+| 访客、来新读短课的人 | 先核课程与合法学习停留条件 |
 
-公民、PR及国际学生的层级与义务可看 [TP的资格说明](https://www.tp.edu.sg/about-tp/faq.html?filterCategory=tuition-grant-eligibility)；外国人的学习准证及豁免由 [ICA另行规定](https://www.ica.gov.sg/reside/STP/apply)。本人是公民而父母是外国人，或本人是外国人而父母持工作准证，都应填本人真实身份，不以家长的准证代替学生的资助资格。
+公民、PR及国际学生的层级与义务可看 [TP的资格说明](https://www.tp.edu.sg/about-tp/faq.html?filterCategory=tuition-grant-eligibility)；外国人的学习准证及豁免由 [ICA另行规定](https://www.ica.gov.sg/reside/STP/apply)。本人是公民而父母是外国人，或本人是外国人而父母持工作准证，都应填本人真实身份。
 
 向学校申报曾经获得的政府津贴、奖学金和已完成学历。已经用政府资助完成同等或更高学历，通常不能再用TG读同等或较低课程；曾获资助但未完成的学期或学分，也会影响新课程剩余额度。以 TP 全日制 diploma 为例，一般最多十个学期，直接入第二年者最多八个学期，须把过去相关课程已用的TG期数算进去；不要把这个理工例子套为所有本科的资助年限。[TP：既有学历、转课及学期上限](https://www.tp.edu.sg/about-tp/faq.html?filterCategory=tuition-grant-eligibility)
 
@@ -40,7 +40,7 @@ TG与奖学金可以同时存在，MOE允许同时履行TG和奖学金的服务�
 
 PR和国际学生申请TG须指定 **两名担保人，sureties** 。他们承担实际的协议责任，不能只把签名视为申请手续。让两人先读完整拟签协议，并讨论学生退学、未能履约或资金不足时的承担能力。[MOE：担保人准备表](https://file.go.gov.sg/tg-sureties-criteria.pdf)
 
-主管准备表列明担保人可为任何国籍，年龄须 **超过21岁、未满65岁** ，并且不能是未解除的破产人、本人仍有未完成TG或SO服务义务者，或为另一已失约的TG或SO受资助者担保。不得自己替自己担保；没有工作的亲属也应有能力承担可能的赔偿，不因退休或是家庭主妇就当作无需财力考虑。[MOE：年龄及其他条件](https://file.go.gov.sg/tg-sureties-criteria.pdf)、[MOE：担保能力与本人排除，FAQ第3—4页](https://file.go.gov.sg/tg-application-faq.pdf)
+主管准备表列明担保人可为任何国籍，年龄须 **超过21岁、未满65岁** ，并且不能是未解除的破产人、本人仍有未完成TG或SO服务义务者，或为另一已失约的TG或SO受资助者担保。不得自己替自己担保；没有工作的亲属也应有能力承担可能的赔偿。[MOE：年龄及其他条件](https://file.go.gov.sg/tg-sureties-criteria.pdf)、[MOE：担保能力与本人排除，FAQ第3—4页](https://file.go.gov.sg/tg-application-faq.pdf)
 
 父母已经为仍在读书的兄弟姊妹担保，MOE当前问答仍允许他们为本人担保。拟找已替其他TG学生签过约的人时，应把与其他学生的关系及履约状态交学校或MOE核对：新生FAQ的限制写得较广，当前网页问答及担保人准备表则明确提到其他受资助者已经失约的情形。恰好21岁的边界也先核清，不能把学校概述中的“21岁及以上”直接代替主管表的“超过21岁”。[MOE：担保资格问答](https://www.moe.gov.sg/faq?categoryid=454AD72B2FFA495FB82F293B5B70DBEB)、[MOE：新生FAQ A11、A20](https://file.go.gov.sg/tg-application-faq.pdf)
 
@@ -50,7 +50,7 @@ TG申请和签约日期由各校通知，没有统一的全岛截止日。以本
 
 先备好学生与两名担保人的姓名、身份证件、地址和各自可长期使用的个人邮箱。外国身份证件须清楚显示姓名和本国住址，正反面或相关页一并准备；证件未显示现址，可补政府签发的地址文件。PR已在新加坡住多年，TG表要求的home country address仍是回本国时实际居住的地址；住父母或亲属家，可按主管指引提供他们的证件或政府文件。非英文资料要按要求附英文译本及公证。[MOE：材料和地址准备](https://file.go.gov.sg/tg-sureties-criteria.pdf)、[MOE：2026年7月申请注意事项](https://file.go.gov.sg/imptnotefortgapplication.pdf)
 
-新申请者按学校开放日期，以Singpass开始TG&S注册。需要办Student’s Pass的国际学生，应把取得FIN、完成ICA登记及Singpass启用安排在前面；MOE提示ICA生物资料登记后同步可需五个工作日，Singpass设置也应预留约两周。已有有效DP、LTVP而符合ICA学习豁免的人，先让学校确认本人的FIN及注册安排，不照搬另一身份的准证步骤。[MOE：申请准备时间](https://file.go.gov.sg/imptnotefortgapplication.pdf)、[ICA：学生准证及豁免](https://www.ica.gov.sg/reside/STP/apply)
+新申请者按学校开放日期，以Singpass开始TG&S注册。需要办Student’s Pass的国际学生，应把取得FIN、完成ICA登记及Singpass启用安排在前面；MOE提示ICA生物资料登记后同步可需五个工作日，Singpass设置也应预留约两周。已有有效DP、LTVP而符合ICA学习豁免的人，先让学校确认本人的FIN及注册安排。[MOE：申请准备时间](https://file.go.gov.sg/imptnotefortgapplication.pdf)、[ICA：学生准证及豁免](https://www.ica.gov.sg/reside/STP/apply)
 
 申请人和担保人各用不同邮箱，避免毕业后停用的学校邮箱或离职后失效的公司邮箱。担保人在境外也可依电子邮件完成签约，无须为了这一数字签约步骤来新加坡。[MOE：邮箱要求](https://file.go.gov.sg/imptnotefortgapplication.pdf)、[MOE：境外担保签约，FAQ A4](https://file.go.gov.sg/tg-application-faq.pdf)
 
@@ -69,7 +69,7 @@ TG申请和签约日期由各校通知，没有统一的全岛截止日。以本
 
 本人或担保人换地址、电话等联系方式，要在TG&S更新。要更换担保人本人，则使用 **Application for Change of Surety** ，提交新担保人的资料，并由学生和相关担保人签署变更协议，Variation Agreement。只在Contact Updates改姓名或电话，不能完成担保责任的替换。[MOE：资料更新与更换担保人，完整指南物理第28—37页](https://tgs.moe.gov.sg/protected/nr/dkSdF/TGR_User_Guide_Public_V0.6.pdf)
 
-已获TG的国际学生成为PR，应立即通知学校；当前MOE问答说明，从下一个学期或term按PR层级处理， **三年服务义务不变** 。已经取得新加坡公民身份者，也应立即通知学校；从下一学期或term适用最高层TG，并获解除TG服务义务。此前没有申请或获得TG者，取得PR或公民身份后仍先联系学校处理，不能跳过资格和申请核定。ICA原则批准、等待身份登记和已经取得身份应分开向学校说明；已获批的TG申请不要自行删除或取消，留存学校及MOE对身份和义务状态的确认。[MOE：身份变化问答](https://www.moe.gov.sg/faq?categoryid=454AD72B2FFA495FB82F293B5B70DBEB)、[MOE：公民登记及已签协议，FAQ C1—C6](https://file.go.gov.sg/tg-application-faq.pdf)
+已获TG的国际学生成为PR，应立即通知学校；当前MOE问答说明，从下一个学期或term按PR层级处理， **三年服务义务不变** 。已经取得新加坡公民身份者，也应立即通知学校；从下一学期或term适用最高层TG，并获解除TG服务义务。此前没有申请或获得TG者，取得PR或公民身份后仍先联系学校处理。ICA原则批准、等待身份登记和已经取得身份应分开向学校说明；已获批的TG申请不要自行删除或取消，留存学校及MOE对身份和义务状态的确认。[MOE：身份变化问答](https://www.moe.gov.sg/faq?categoryid=454AD72B2FFA495FB82F293B5B70DBEB)、[MOE：公民登记及已签协议，FAQ C1—C6](https://file.go.gov.sg/tg-application-faq.pdf)
 
 ## 毕业后，哪些工作能计入三年
 
@@ -87,7 +87,7 @@ TG服务以毕业后合资格的 **全职工作** 计算，可以换公司，累
 
 毕业前就开始求职，向学校career centre、招聘渠道和熟人网络找机会，必要时扩大到本专业以外的合资格岗位。MOE要求毕业后立即开始履约；新生FAQ提到求职通常约需半年，这不是六个月免申报期，也不是合法停留期限。[MOE：求职安排](https://www.moe.gov.sg/financial-matters/tuition-grant-scheme/employment/types-of-employment)、[MOE：求职FAQ B5](https://file.go.gov.sg/tg-application-faq.pdf)
 
-首次就业状态更新的公开时限有差异：就业详页写毕业后三个月内，TG问答写一年内。实际准备按较早的三个月完成状态更新，找到工作后及时提交，并按本人的MOE通知处理；没有工作也应说明求职、所在国家及准证情况，不把较晚的文字当作一年无需回应。拟毕业后回本国休息，先核停留、返回及服务安排；TG的相关问答不能替代ICA的入境或居留批准。[MOE：三个月更新说明](https://www.moe.gov.sg/financial-matters/tuition-grant-scheme/employment/types-of-employment)、[MOE：首次更新与毕业后回国问答](https://www.moe.gov.sg/faq?categoryid=454AD72B2FFA495FB82F293B5B70DBEB)
+首次就业状态更新的公开时限有差异：就业详页写毕业后三个月内，TG问答写一年内。实际准备按较早的三个月完成状态更新，找到工作后及时提交，并按本人的MOE通知处理；没有工作也应说明求职、所在国家及准证情况。拟毕业后回本国休息，先核停留、返回及服务安排；TG的相关问答不能替代ICA的入境或居留批准。[MOE：三个月更新说明](https://www.moe.gov.sg/financial-matters/tuition-grant-scheme/employment/types-of-employment)、[MOE：首次更新与毕业后回国问答](https://www.moe.gov.sg/faq?categoryid=454AD72B2FFA495FB82F293B5B70DBEB)
 
 在TG&S选择Programs下的Employment Updates，填就业资料、上传证明并完成提交。按情况准备：
 
@@ -117,9 +117,9 @@ TG服务以毕业后合资格的 **全职工作** 计算，可以换公司，累
 | 已有旧TG，下一课程合格并再取TG | 请学校安排Supplemental Agreement，延期旧义务；毕业工作后可同时履行新旧TG义务 |
 | 海外工作不符合可计入的就业类型 | 工作开始前取得延期批准及所需银行保证 |
 
-具体条件见 [MOE升学延期](https://www.moe.gov.sg/financial-matters/tuition-grant-scheme/bond-deferment/deferment-to-pursue-further-studies)和[海外工作延期](https://www.moe.gov.sg/financial-matters/tuition-grant-scheme/bond-deferment/deferment-to-work-overseas)。另有资助不表示自动适用补充协议；应由学校按实际课程和新旧TG状态安排。
+具体条件见 [MOE升学延期](https://www.moe.gov.sg/financial-matters/tuition-grant-scheme/bond-deferment/deferment-to-pursue-further-studies)和[海外工作延期](https://www.moe.gov.sg/financial-matters/tuition-grant-scheme/bond-deferment/deferment-to-work-overseas)。是否适用补充协议，由学校按实际课程和新旧TG状态安排。
 
-收到录取后就提出申请，并留时间取得正式批准。升学详页说明完整流程可能需两个月，新生FAQ对研究生升学另写至少开课前八周取得批准；因此应尽早安排，而不能把“八周前才提交”当作稳妥截止。若学校仅在开课前四周发录取，MOE当前问答允许收到结果后尽快提交，但这不等于可以先开课再等批准。已经擅自开始升学者，应立即申请并补所需银行保证，仍可能因违反协议而被追偿。[MOE：申请时点及流程](https://www.moe.gov.sg/financial-matters/tuition-grant-scheme/bond-deferment/deferment-to-pursue-further-studies)、[新生FAQ B9](https://file.go.gov.sg/tg-application-faq.pdf)、[MOE：迟发录取与未批先读问答](https://www.moe.gov.sg/faq?categoryid=454AD72B2FFA495FB82F293B5B70DBEB)
+收到录取后就提出申请，并留时间取得正式批准。升学详页说明完整流程可能需两个月，新生FAQ对研究生升学另写至少开课前八周取得批准；因此应尽早安排。若学校仅在开课前四周发录取，MOE当前问答允许收到结果后尽快提交。已经擅自开始升学者，应立即申请并补所需银行保证，仍可能因违反协议而被追偿。[MOE：申请时点及流程](https://www.moe.gov.sg/financial-matters/tuition-grant-scheme/bond-deferment/deferment-to-pursue-further-studies)、[新生FAQ B9](https://file.go.gov.sg/tg-application-faq.pdf)、[MOE：迟发录取与未批先读问答](https://www.moe.gov.sg/faq?categoryid=454AD72B2FFA495FB82F293B5B70DBEB)
 
 在TG&S先更新已完成的就业，再开Application for Bond Deferment。升学上传含开始和结束日期的录取信；海外工作上传雇用期间证明。MOE处理后会通知银行保证金额、生效和到期日，银行办妥后再等正式延期批准。遇到疾病、照顾家人或其他变化，应尽早提交原因及证明让MOE评估，不能按系统里的Others选项自行认定延期已获准。[MOE：延期申请及状态，指南物理第46—52页](https://tgs.moe.gov.sg/protected/nr/dkSdF/TGR_User_Guide_Public_V0.6.pdf)
 
@@ -153,6 +153,6 @@ MOE的BG详页提示银行可需三周；其他延期说明的分步时间较短
 
 把各份工作可计入的起止日期、雇主证明、获准的海外期间及延期文件整理完整，再更新TG&S。确认已完成服务后，通过 [TG Enquiry Form](https://go.gov.sg/tg-enquiry)申请bond discharge；MOE处理后，在TG&S核解除状态，保存PDF确认，并将结果告知担保人。自己算满36个月、系统收到更新或BG已经解除，都不能代替这份TG完结记录。[MOE：完成后的discharge程序](https://www.moe.gov.sg/faq?categoryid=454AD72B2FFA495FB82F293B5B70DBEB)
 
-邮箱停用或忘记原登记邮箱，走官方enquiry请求更新，再重设密码；境外仍应维持能收到通知的邮箱和联系方式。姓名、国籍、工作和地址改变，也按相应程序更新，不为旧资料错误反复新建申请。[MOE：TG&S账户处理](https://www.moe.gov.sg/faq?categoryid=1FE5A4CF72D440348D5074D483F7EE32)、[TG&S公开登录说明](https://tgs.moe.gov.sg/res/p/tuition-grant/)
+邮箱停用或忘记原登记邮箱，走官方enquiry请求更新，再重设密码；境外仍应维持能收到通知的邮箱和联系方式。姓名、国籍、工作和地址改变，也按相应程序更新。[MOE：TG&S账户处理](https://www.moe.gov.sg/faq?categoryid=1FE5A4CF72D440348D5074D483F7EE32)、[TG&S公开登录说明](https://tgs.moe.gov.sg/res/p/tuition-grant/)
 
 如果公民、PR、REP或工作准证申请被告知因TG义务受阻，按MOE要求提交本人全名、FIN、毕业学校和过去十二个月活动，包括就业、延期或因失业回国等情况，同时继续处理相应ICA或MOM申请。补报TG资料的作用是让主管重新核实义务记录，不能据此保证另一项申请获批。[MOE：因TG记录影响身份申请的处理](https://www.moe.gov.sg/faq?categoryid=454AD72B2FFA495FB82F293B5B70DBEB)

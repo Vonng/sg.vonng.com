@@ -24,9 +24,9 @@ search_keywords: ["学费", "PSLE", "Full SBB", "SEC", "PSE", "母语", "FAS", "
 | --- | --- |
 | 政府与政府辅助学校 | 核国家课程、年级和科目层级、全国考试，以及按孩子身份计收的学费与杂费。 |
 | 自主学校（Autonomous School） | 除学校所属类别的费用外，另核自主学校费及实际课程；这个名称不能直接当作独立学校收费。 |
-| 独立学校及综合课程（Integrated Programme，IP） | 独立学校自行确定费用；IP要看六年课程最终通往哪种资格、转段条件和中途转换路径，不能把所有独立学校都当作同一课程。 |
+| 独立学校及综合课程（Integrated Programme，IP） | 独立学校自行确定费用；IP要看六年课程最终通往哪种资格、转段条件和中途转换路径。 |
 | 特殊教育学校（SPED School） | 核孩子的学习与适应需要，学校提供国家课程还是定制课程、IEP个人教育计划、治疗及日常照顾安排。 |
-| 外国学制、国际或其他私立学校 | 核具体课程与毕业资格、升学接受情况、注册及准证安排、完整合同和全年总支出。名称里有“国际”，不能代替这些检查。 |
+| 外国学制、国际或其他私立学校 | 核具体课程与毕业资格、升学接受情况、注册及准证安排、完整合同和全年总支出。 |
 
 来源：[MOE：各类别费用](https://www.moe.gov.sg/financial-matters/fees)、[特殊教育问答](https://www.moe.gov.sg/faq?categoryid=34EAA566E17245A0B500E4B0482F4831)、[TPGateway：私立教育机构及学历接受情况](https://www.tpgateway.gov.sg/faq/private-education-institutions)。
 
@@ -42,7 +42,7 @@ IP也有不同终点。例如Victoria School与合作学校的六年IP通往Vict
 | 中学 | S$25 | S$700 | S$1,111.80 | S$2,211.80 |
 | 初级学院／Millennia Institute | S$33 | S$787 | S$1,319.43 | S$2,569.43 |
 
-公民及PR的相关GST获补贴，国际学生表中金额已含GST。自主学校另收的月费上限为本地学生S$18、国际学生S$19.62，实际看所选学校。独立学校、特殊独立学校、专门学校和SPED学校的收费要逐校查，不能套上表。[MOE：收费说明](https://www.moe.gov.sg/financial-matters/fees)
+公民及PR的相关GST获补贴，国际学生表中金额已含GST。自主学校另收的月费上限为本地学生S$18、国际学生S$19.62，实际看所选学校。独立学校、特殊独立学校、专门学校和SPED学校的收费要逐校查。[MOE：收费说明](https://www.moe.gov.sg/financial-matters/fees)
 
 **全年十二个月都收月费，包括学校假期。** 预算时再列一次性入学项目、教材与校服、每天餐费、接送或公共交通、电脑及维修、活动和考试费用。MK在2026年的月费为公民S$160、PR S$320，六月和十二月也收费；KCare的课前课后照顾另计，补贴条件见[学前费用与补贴]({{< relref "/book/people/family/childcare.md" >}})。[MOE：缴费安排与说明](https://www.moe.gov.sg/financial-matters/fees)、[MK费用](https://www.moe.gov.sg/preschool/moe-kindergarten/fees)
 
@@ -56,11 +56,11 @@ IP也有不同终点。例如Victoria School与合作学校的六年IP通往Vict
 
 孩子取得PR或公民身份后，把证明交学校核系统。按MOE费用问答，身份在当月15日或以前改变，适用该月新费率；之后改变则从下月起。系统更新可能需两个月，已多付部分可抵后续费用；超过两个月仍未调整，持身份文件和账单找学校行政人员处理。费用不按月内天数比例退算；准备退学或离境时，先核MOE的在籍截点和学校手续，再决定最后就读日期。[MOE：国籍变化、退学和费用调整](https://www.moe.gov.sg/faq?categoryid=16209AFB5BEB4959AE8F5ADD6007566A)
 
-2026年的MOE Financial Assistance Scheme（FAS）面向符合条件的公民学生，家庭月总收入不超过S$4,000，或人均月收入不超过S$1,000。政府及政府辅助学校的获批学生可得到相应学杂费、教材、校服、餐饮和交通支持；高中阶段的资助结构另有安排。以Greendale Secondary公布的2026执行表为例，中学全额学杂费、免费教材和校服、每周十份学校餐食及每月S$21公共交通补助分别列明；这些项目不能合并理解为可以自由提现的统一现金额。[Greendale Secondary：2026 FAS项目](https://www.greendalesec.moe.edu.sg/student-and-admin-service/administration/financial-assistance-bursary/)
+2026年的MOE Financial Assistance Scheme（FAS）面向符合条件的公民学生，家庭月总收入不超过S$4,000，或人均月收入不超过S$1,000。政府及政府辅助学校的获批学生可得到相应学杂费、教材、校服、餐饮和交通支持；高中阶段的资助结构另有安排。以Greendale Secondary公布的2026执行表为例，中学全额学杂费、免费教材和校服、每周十份学校餐食及每月S$21公共交通补助分别列明。[Greendale Secondary：2026 FAS项目](https://www.greendalesec.moe.edu.sg/student-and-admin-service/administration/financial-assistance-bursary/)
 
 可在年内随时向学校申请FAS，提交家庭成员、住址、收入和其他要求的证明；家庭人均数、收入期间及纳入哪些同住成员，按申请要求填写。通常在批准后的下个月起享有资助，批准前已购买的教材、校服或已付费用不因此追溯报销。资助到当年十二月，下一年须续申请；小六家庭可通过现有小学申请来年的中一资助。收入变化、转校或不符合全国方案门槛时，及时向学校询问重新评估或校本帮助。[MOE：FAS申请、期限与家庭收入问答](https://www.moe.gov.sg/faq?categoryid=85B0516024DB47B8B38087911E1BAE6C)
 
-Edusave与现金补助用途不同。合资格公民学生的账户可用于获准学校项目及相应费用，不能用来买一般校服、鞋或支付私人补习；使用前核本人余额、授权和该项目是否可扣。PR及国际学生不能因同班公民获FAS或Edusave便预设同样资格，可直接问学校有无校本基金、分期或其他援助，要求说明所需材料及批准前的缴费责任。独立学校和SPED学校须看各自计划及学校通知。[MOE：Edusave用途](https://www.moe.gov.sg/faq?categoryid=9162ED3B73DE4FE8A8413006209AD0C5)、[FAS与校本帮助](https://www.moe.gov.sg/faq?categoryid=85B0516024DB47B8B38087911E1BAE6C)
+Edusave与现金补助用途不同。合资格公民学生的账户可用于获准学校项目及相应费用，不能用来买一般校服、鞋或支付私人补习；使用前核本人余额、授权和该项目是否可扣。PR及国际学生可直接问学校有无校本基金、分期或其他援助，要求说明所需材料及批准前的缴费责任。独立学校和SPED学校须看各自计划及学校通知。[MOE：Edusave用途](https://www.moe.gov.sg/faq?categoryid=9162ED3B73DE4FE8A8413006209AD0C5)、[FAS与校本帮助](https://www.moe.gov.sg/faq?categoryid=85B0516024DB47B8B38087911E1BAE6C)
 
 ## 小学课程、分科与PSLE成绩
 
@@ -77,7 +77,7 @@ PSLE按英语、母语、数学和科学四科的Achievement Level（AL）相加
 | 80—84 | 3 | 20—44 | 7 |
 | 75—79 | 4 | 低于20 | 8 |
 
-Foundation科目另按A（75—100）、B（30—74）、C（低于30）报告，计算PSLE总分时分别映射为AL6、7、8。获准母语豁免，或获准以特定亚洲／外国语替代母语的学生，母语部分仍按MOE办法赋AL6至8，并非只加其余三科，也不是自动取得最好一档。[MOE：Foundation及母语豁免赋分](https://www.moe.gov.sg/psle-fsbb/psle/psle-scoring-system)
+Foundation科目另按A（75—100）、B（30—74）、C（低于30）报告，计算PSLE总分时分别映射为AL6、7、8。获准母语豁免，或获准以特定亚洲／外国语替代母语的学生，母语部分仍按MOE办法赋AL6至8。[MOE：Foundation及母语豁免赋分](https://www.moe.gov.sg/psle-fsbb/psle/psle-scoring-system)
 
 ## 母语、替代语言与豁免怎样申请
 
@@ -109,7 +109,7 @@ Foundation科目另按A（75—100）、B（30—74）、C（低于30）报告�
 
 科目能力较强时可从中一修更高层级。例如Posting Group 2学生相关Standard科目达到AL5或更好，可修该科G3；Posting Group 1学生相关Standard科目AL5或更好可修G2或G3，AL6或Foundation A则可修G2。之后仍可按学习情况调整；问学校申请和复核时间、课堂适应支持及会影响哪些升学组合。[MOE：更高层级科目及后续调整](https://www.moe.gov.sg/psle-fsbb/full-subject-based-banding/secondary-school-experience)、[Full SBB问答](https://www.moe.gov.sg/psle-fsbb/full-subject-based-banding/faq)
 
-混合编班的学生共同修艺术、品格与公民教育、设计与工艺、食物与消费教育、音乐和体育六类共同课程，再按科目层级上相应课。学校安排更高或较低层级时会考虑学习能力和实际支持，不能只凭家长意愿要求所有科目一律调级；也要留意某些学校未提供拟选组合或课程。[MOE：共同课程与选科安排](https://www.moe.gov.sg/psle-fsbb/full-subject-based-banding/faq)
+混合编班的学生共同修艺术、品格与公民教育、设计与工艺、食物与消费教育、音乐和体育六类共同课程，再按科目层级上相应课。学校安排更高或较低层级时会考虑学习能力和实际支持；也要留意某些学校未提供拟选组合或课程。[MOE：共同课程与选科安排](https://www.moe.gov.sg/psle-fsbb/full-subject-based-banding/faq)
 
 ## 分清2026、2027与2028的制度过渡
 
@@ -144,13 +144,13 @@ PSE公布的申请安排为自成绩发放当日起六个日历日，可填最�
 
 收到批准后，请学校尽早在校内考试练习相应安排。有些AA会在成绩证书上作符号说明，但不公开疾病诊断；若要撤回，须通过规定渠道并至少提前五个工作日，获准撤回后不能再恢复，考试当天不用也不等于已经撤回。已经获得AA，或因同一状况迟申、被拒后，不应预设可以改用Special Consideration取得另一处理。[SEAB：结果、证书注明、撤回及特别考虑](https://www.seab.gov.sg/access-arrangements/)
 
-PSLE成绩需要复核时，须在成绩发放后 **五个工作日内** 向学校提出并完成付款，迟申请或迟付款不受理。复核包括由另一名资深阅卷员重新阅卷，以及核成绩录入，并非只把分数再加一次；费用及提交方式向学校核。等候结果期间仍须按原PSLE成绩和可升读课程参加升中一选择，不能因此错过志愿截止。[SEAB：复核期限](https://ask.gov.sg/seab/questions/cm1ugigkc009nux9s27p6y78j?from=topics)、[复核范围](https://ask.gov.sg/seab/questions/cm8mionof00cu6vqh4n3c2jhh?from=topics)、[等候期间的升学](https://ask.gov.sg/seab/questions/cm1ugigk90089ux9swzx3xlsi?from=topics)
+PSLE成绩需要复核时，须在成绩发放后 **五个工作日内** 向学校提出并完成付款，迟申请或迟付款不受理。复核包括由另一名资深阅卷员重新阅卷，以及核成绩录入；费用及提交方式向学校核。等候结果期间仍须按原PSLE成绩和可升读课程参加升中一选择，不能因此错过志愿截止。[SEAB：复核期限](https://ask.gov.sg/seab/questions/cm1ugigkc009nux9s27p6y78j?from=topics)、[复核范围](https://ask.gov.sg/seab/questions/cm8mionof00cu6vqh4n3c2jhh?from=topics)、[等候期间的升学](https://ask.gov.sg/seab/questions/cm1ugigk90089ux9swzx3xlsi?from=topics)
 
 ## 学习困难时，先把需要交给学校
 
 孩子持续在阅读、注意力、语言、社交、感官或日常自理上吃力时，先把具体情境告诉班主任：在哪种任务中遇到什么困难、已尝试哪些帮助、家里与学校表现是否不同。请学校的SEN人员、辅导员和相关教师一起讨论支持与评估。选择主流或SPED学校，要看认知、适应能力和所需支持，不能只凭一个诊断名称或一次智力测验决定。[MOE：特殊需要的评估与学校选择](https://www.moe.gov.sg/faq?categoryid=34EAA566E17245A0B500E4B0482F4831)
 
-主流学校可有学习和社交支持，例如小学低年级英语或数学Learning Support、小三小四的School-based Dyslexia Remediation，以及为部分小一学生提供的TRANSIT支持。具体对象、学校资源与介入计划须由学校评估；不是提交诊断后所有项目都会同时开给孩子。学校也可转介治疗或评估，但校内学习支持不能直接当作已安排完整医疗治疗。[MOE：主流学校支持问答](https://www.moe.gov.sg/faq?categoryid=34EAA566E17245A0B500E4B0482F4831)
+主流学校可有学习和社交支持，例如小学低年级英语或数学Learning Support、小三小四的School-based Dyslexia Remediation，以及为部分小一学生提供的TRANSIT支持。具体对象、学校资源与介入计划须由学校评估。学校也可转介治疗或评估，但校内学习支持不能直接当作已安排完整医疗治疗。[MOE：主流学校支持问答](https://www.moe.gov.sg/faq?categoryid=34EAA566E17245A0B500E4B0482F4831)
 
 需要辅助科技设备时，向学校说明实际学习任务，再按要求取得专业评估和申请。设备是否适用、使用培训、维护及损坏责任都要一起问清；普通维修与因不当使用产生的费用不同。有听障或视障的孩子，还应比较学校的沟通方式和专业资源：例如手语与口语支持分别在不同指定学校提供，视障学生的点字及设备需要也须在转段前交接。[MOE：辅助科技、听障与视障学校支持](https://www.moe.gov.sg/faq?categoryid=34EAA566E17245A0B500E4B0482F4831)
 
@@ -158,30 +158,30 @@ PSLE成绩需要复核时，须在成绩发放后 **五个工作日内** 向学�
 
 ## SPED申请、费用与长期转衔
 
-如果综合评估显示需要SPED课程，宜至少提前一年准备，先确认学校服务的年龄、主要需要、课程及照顾能力，再排适当志愿。国家课程与定制课程的目标不同；后者会结合语言、读写数、社交情绪、自理、运动、职业准备等领域制定Individual Education Plan（IEP），逐步形成转衔计划，不能把所有SPED理解为同一张考试或毕业文凭。[MOE：SPED课程与申请问答](https://www.moe.gov.sg/faq?categoryid=34EAA566E17245A0B500E4B0482F4831)
+如果综合评估显示需要SPED课程，宜至少提前一年准备，先确认学校服务的年龄、主要需要、课程及照顾能力，再排适当志愿。国家课程与定制课程的目标不同；后者会结合语言、读写数、社交情绪、自理、运动、职业准备等领域制定Individual Education Plan（IEP），逐步形成转衔计划。[MOE：SPED课程与申请问答](https://www.moe.gov.sg/faq?categoryid=34EAA566E17245A0B500E4B0482F4831)
 
 申请材料通常包括家长信息、现有或以往学校报告、医疗及心理评估。以Eden School公布的2027入学程序为例，医疗报告须在一年有效期内，心理评估涉及认知及适应功能且须在两年内，并有相应自闭症诊断材料；2027常规申请窗为2026年2月2日至5月22日，已过期者应直接核后续安排，不假设全年随到随入。学校列公民优先，其次PR，国际学生再视余位；这不能当作每所SPED都承诺招收外国学生。[Eden School：2027申请程序](https://www.edenschool.edu.sg/admissions/application-process)
 
-没有在主流学校就读的申请者按主管及学校公布的电子流程，通常可列三个适合的学校志愿； **已经在主流学校的学生须先由校长通过MOE渠道转介** ，家长自行将报告交另一所学校，不能代替这个步骤。在SPED学校就读而考虑转校，则先告知现有学校，再依所需转学程序办理。学校年龄范围也可能非常具体，例如新设ACS Academy所列2027低年级入学对象及当前招生年级，不代表已提供所有小学、中学和职业阶段学额。[MOE：在校转介与学校申请问答](https://www.moe.gov.sg/faq?categoryid=34EAA566E17245A0B500E4B0482F4831)、[ACS Academy：申请与年级安排](https://acsacademy.edu.sg/)
+没有在主流学校就读的申请者按主管及学校公布的电子流程，通常可列三个适合的学校志愿； **已经在主流学校的学生须先由校长通过MOE渠道转介** ，家长自行将报告交另一所学校，不能代替这个步骤。在SPED学校就读而考虑转校，则先告知现有学校，再依所需转学程序办理。学校年龄范围也可能非常具体，例如新设ACS Academy所列2027低年级入学对象及当前招生年级。[MOE：在校转介与学校申请问答](https://www.moe.gov.sg/faq?categoryid=34EAA566E17245A0B500E4B0482F4831)、[ACS Academy：申请与年级安排](https://acsacademy.edu.sg/)
 
 等候心仪学校时，先处理孩子当下适合的学习安置。主管对小一／Junior 1候补有特定条件，包括已在另一所政府资助SPED学校就读且主要诊断类别相同；不应把主流学校当作等待SPED的临时占位，也不能用延期入学代替完整安置。对评估或安置意见有异议，可补充新的学习进展、评估和支持资料，通过学校请求再交Multi-Agency Advisory Panel（MAAP）评估；SPED转主流也要现有学校配合更新评估和交接。[MOE：候补、延期、MAAP及转学问答](https://www.moe.gov.sg/faq?categoryid=34EAA566E17245A0B500E4B0482F4831)
 
-SPED学费及资助逐校核。Pathlight当前公民月费按小学、中学、职业课程分别为S$60、S$85、S$90，另列PR费用；Maitri列公民S$80、PR在2026年S$250、2027年S$280。Maitri公布2026公民FAS的家庭收入门槛为月总收入不超过S$4,000或人均不超过S$1,000，具体减免、教材、衣物、餐食和交通按学校评估及通知；PR或国际学生的校费与校本援助不能套公民全国资助表。确认申请批准前仍应支付什么，保留账单及书面通知。[Pathlight：费用与补助](https://pathlight.org.sg/admissions/fees-and-subsidies)、[Maitri：费用与经济援助](https://maitrischool.edu.sg/fees-and-financial-assistance/)
+SPED学费及资助逐校核。Pathlight当前公民月费按小学、中学、职业课程分别为S$60、S$85、S$90，另列PR费用；Maitri列公民S$80、PR在2026年S$250、2027年S$280。Maitri公布2026公民FAS的家庭收入门槛为月总收入不超过S$4,000或人均不超过S$1,000，具体减免、教材、衣物、餐食和交通按学校评估及通知。确认申请批准前仍应支付什么，保留账单及书面通知。[Pathlight：费用与补助](https://pathlight.org.sg/admissions/fees-and-subsidies)、[Maitri：费用与经济援助](https://maitrischool.edu.sg/fees-and-financial-assistance/)
 
 交通可能是能否持续到校的关键。Enabling Transport Subsidy从2026年7月1日起，合资格公民及PR家庭人均月收入不超过S$4,800；无家庭收入者还须核NRIC所列住宅年值不超过S$21,000。补贴用于参与计划的学校或社会服务机构所安排专门交通，最高80%，实际看身份、收入、轮椅使用及车费等条件；不是所有学生自行包车都可报销，也不能同时领取Taxi Subsidy。向安排交通的学校或机构申请及办理经济状况核查，并另核车辆和座位。[SG Enable：Enabling Transport Subsidy](https://www.enablingguide.sg/im-looking-for-disability-support/transport/enabling-transport-subsidy)
 
-从约13岁起，SPED学校会逐步与家庭讨论离校后的学习、职业和生活转衔。把孩子需要的沟通、自理、交通、照顾及工作支持写进Individual Transition Plan（ITP），同学校的转衔人员讨论实际体验、训练及将来转介机构。每次升班或转阶段，核计划目标、谁负责跟进及何时回顾，避免只保存一份多年不更新的诊断。[MOE：SPED个人计划与离校转衔](https://www.moe.gov.sg/faq?categoryid=34EAA566E17245A0B500E4B0482F4831)
+从约13岁起，SPED学校会逐步与家庭讨论离校后的学习、职业和生活转衔。把孩子需要的沟通、自理、交通、照顾及工作支持写进Individual Transition Plan（ITP），同学校的转衔人员讨论实际体验、训练及将来转介机构。每次升班或转阶段，核计划目标、谁负责跟进及何时回顾。[MOE：SPED个人计划与离校转衔](https://www.moe.gov.sg/faq?categoryid=34EAA566E17245A0B500E4B0482F4831)
 
 ## 国际与私立学校的合同要逐项核
 
-外国学制学校可有自己的课程、年级和毕业要求。以UWCSEA当前课程为例，九、十年级有本校课程安排，十一、十二年级再读IB Diploma或相应IB课程，同时有本校High School Diploma要求；不能因为旧网页提过某项资格，就预设当前所有年级仍参加同一外部考试。申请时索取孩子拟入读年级的课程说明、语言及SEN支持、评估和毕业条件，并向将来拟申请的学校或机构核资格接受情况。[UWCSEA：九十年级及高中课程](https://www.uwcsea.edu.sg/grade9-and-10-programme)、[TPGateway：学历认可与注册范围](https://www.tpgateway.gov.sg/faq/private-education-institutions)
+外国学制学校可有自己的课程、年级和毕业要求。以UWCSEA当前课程为例，九、十年级有本校课程安排，十一、十二年级再读IB Diploma或相应IB课程，同时有本校High School Diploma要求。申请时索取孩子拟入读年级的课程说明、语言及SEN支持、评估和毕业条件，并向将来拟申请的学校或机构核资格接受情况。[UWCSEA：九十年级及高中课程](https://www.uwcsea.edu.sg/grade9-and-10-programme)、[TPGateway：学历认可与注册范围](https://www.tpgateway.gov.sg/faq/private-education-institutions)
 
-公民家庭先向目标学校确认MOE许可及义务教育安排。UWCSEA说明，符合其申请条件并有学额后，由学校向MOE申请相关豁免；获学校录取不自动等于已获MOE批准，原学校的豁免也不能自动带去另一所学校。居住在新加坡的公民儿童涉及义务教育时，必须把正式学校或已批准安排处理好；外国人、PR和不同年龄的情况分别向主管及学校核，不把一所国际学校的招生政策当成全部法定范围。[UWCSEA：公民申请及MOE批准](https://www.uwcsea.edu.sg/admissions/eligibility/residency-and-citizenship/information-for-singapore-citizens)、[MOE：义务教育问答](https://www.moe.gov.sg/faq?categoryid=E4D97A22CC4543C89E836670C852D835)
+公民家庭先向目标学校确认MOE许可及义务教育安排。UWCSEA说明，符合其申请条件并有学额后，由学校向MOE申请相关豁免；获学校录取不自动等于已获MOE批准，原学校的豁免也不能自动带去另一所学校。居住在新加坡的公民儿童涉及义务教育时，必须把正式学校或已批准安排处理好；外国人、PR和不同年龄的情况分别向主管及学校核。[UWCSEA：公民申请及MOE批准](https://www.uwcsea.edu.sg/admissions/eligibility/residency-and-citizenship/information-for-singapore-citizens)、[MOE：义务教育问答](https://www.moe.gov.sg/faq?categoryid=E4D97A22CC4543C89E836670C852D835)
 
 外国学生在ICA所列Foreign System Schools全日制学习，通常需要Student’s Pass；持有效DP、LTVP或Immigration Exemption Order者按主管例外核。需要Student’s Pass的学校须符合相应注册和EduTrust条件；短期访问许可、已交申请或IPA不能笼统当作正式入学所需有效准证已经完成。外国出生、12岁0天或以下孩子还要按ICA要求核疫苗验证；课程录取和准证办理由学校及ICA分别处理。[ICA：外国学制学校的Student’s Pass](https://www.ica.gov.sg/reside/STP/apply/fss)、[儿童疫苗记录与验证]({{< relref "/book/people/healthcare/preventive-care.md" >}})
 
 查学校时，先核Skills and Workforce Development Agency（SWDA）相关注册及许可，再看需要的EduTrust状态；注册本身不等于政府保证教学质量或每个升学机构都承认其文凭。使用TPGateway的当前私立教育机构资料及学校自己的合同，核经营主体、所读课程和颁证机构是否一致。[TPGateway：私立教育机构问答](https://www.tpgateway.gov.sg/faq/private-education-institutions)、[当前机构名录入口](https://www.tpgateway.gov.sg/resources/information-for-private-education-institutions-(peis)/pei-listing-file)
 
-实际成本应把学费、发展费、申请费、注册费、校车、膳食、设备和考试分开。例如UWCSEA公布2026／27学年二至五年级年学费S$40,743，另有首年发展费S$9,537、一次性注册费S$4,992，以及单校区日校申请费S$627；申请与注册费用有不退条款。付款前再核GST口径、适用学年、各期账单、离校通知日和其他必需费用，不能只拿年学费除以十二与政府学校月费相比。[UWCSEA：2026／27费用及付款退学条件](https://www.uwcsea.edu.sg/admissions/fees-and-scholarships/fees)
+实际成本应把学费、发展费、申请费、注册费、校车、膳食、设备和考试分开。例如UWCSEA公布2026／27学年二至五年级年学费S$40,743，另有首年发展费S$9,537、一次性注册费S$4,992，以及单校区日校申请费S$627；申请与注册费用有不退条款。付款前再核GST口径、适用学年、各期账单、离校通知日和其他必需费用。[UWCSEA：2026／27费用及付款退学条件](https://www.uwcsea.edu.sg/admissions/fees-and-scholarships/fees)
 
 接受录取前保存完整学生合同及费用附表，确认未能获准证、课程取消、需要SEN支持却不适配、家庭提前离境或学生退学时，分别怎样通知、计算退款及处理欠费。私立教育费用保护主要针对学校无法继续授课等情况下尚未使用的课程费用，不是保证每种主动退学都能全退；核保单、受保金额和期间、索偿渠道，以及学校获准预收多少费用。争议先以书面列合同条款、付款记录和所求处理交学校，保留其答复，再按监管及具体合同所列渠道寻求下一步处理。[TPGateway：课程费用保护](https://www.tpgateway.gov.sg/resources/information-for-private-education-institutions-(peis)/protection-of-course-fees)

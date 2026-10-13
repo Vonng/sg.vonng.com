@@ -22,7 +22,7 @@ search_keywords: ["心理健康", "1771", "SOS", "CHAT", "IMH", "抑郁", "焦�
 | --- | --- | --- |
 | 急需医疗救援、已受伤或无法确保安全 | 995，或最近医院急诊 | 警方及不能语音通话时的紧急渠道见[紧急求助]({{< relref "/book/rights/safety/emergencies" >}}) |
 | 想谈心理困扰、需要判断下一步 | national mindline 1771；WhatsApp **6669 1771** ；[网页文字服务](https://mindline.sg/fsmh) | 三种渠道全天候；拨1771按电信商收取一般通话费，并非免通话费号码 |
-| 自杀危机或相关情绪支持 | SOS **1767** ；WhatsApp CareText **9151 1767** | 两者全天候；CareText目前提供英语文字服务，不接收语音、图片或视频，也不能把该号码当语音热线拨打 |
+| 自杀危机或相关情绪支持 | SOS **1767** ；WhatsApp CareText **9151 1767** | 两者全天候；CareText目前提供英语文字服务，不接收语音、图片或视频 |
 | 想用华语谈压力、家庭或情绪困难 | Care Corner华语辅导热线 **1800 353 5800** | 服务免费，每天10:00—22:00，公共假日休息；紧急危险仍走急诊渠道 |
 
 [MOH：1771及SOS](https://www.moh.gov.sg/seeking-healthcare/find-a-facility-or-service/mental-health-services/)、[IMH：1771通话费用](https://www.nhghealth.com.sg/imh/about-us/contact-us)、[SOS：文字服务、语言及保密范围](https://www.sos.org.sg/faq/)、[Care Corner：本机构华语服务](https://www.carecorner.org.sg/services/toll-free-counselling-hotline/)
@@ -31,11 +31,11 @@ IMH在 **10 Buangkok View，Singapore 539747** 提供24小时精神科急诊，�
 
 ## 迁居、孤独与压力，怎样开始处理
 
-搬家、换工作、财务压力、照顾家人和关系变化，都可能让原来熟悉的生活失去节奏。来到新环境后，语言、社交习惯和与亲人相隔的时差，也会影响怎样找到支持。先记下最困扰自己的事情、睡眠和食欲变化、是否开始回避社交或难以完成工作；这些具体变化比笼统地说“适应不好”更便于向医生或辅导员说明。[HealthHub：压力来源及表现](https://www.healthhub.sg/programmes/mindsg/caring-for-ourselves/coping-with-stress-adults)
+搬家、换工作、财务压力、照顾家人和关系变化，都可能让原来熟悉的生活失去节奏。来到新环境后，语言、社交习惯和与亲人相隔的时差，也会影响怎样找到支持。先记下最困扰自己的事情、睡眠和食欲变化、是否开始回避社交或难以完成工作。[HealthHub：压力来源及表现](https://www.healthhub.sg/programmes/mindsg/caring-for-ourselves/coping-with-stress-adults)
 
 可以先把一天安排得容易执行：留出稳定的睡眠和用餐时间，安排适合体力的活动，与一个愿意倾听的人保持联系；把需要处理的事务列出来，先完成当下最要紧的一两件。若搬迁、升学和工作变动同时发生，给自己留出调整时间。朋友、同乡、兴趣小组或宗教社群可以成为支持的一部分；参加本地活动的实际入口见[认识邻里与参加社区]({{< relref "/book/life/community/connections" >}})。[HealthHub：作息、活动、联系他人与分步安排](https://www.healthhub.sg/well-being-and-lifestyle/mental-wellness/beatstressguide)
 
-如果困扰持续、明显影响生活，或靠这些安排仍难以应付，就预约评估。求助时可以直接说“近来睡不好”“总担心出事”“已经不想出门”，不必等到能清楚解释所有原因。治疗或辅导也可能需要多次会面；对方式、语言或沟通感到不合适，可以提出调整或转介。[CHAT：困难时求助与持续治疗](https://www.nhghealth.com.sg/imh/chat/get-help)
+如果困扰持续、明显影响生活，或靠这些安排仍难以应付，就预约评估。求助时可以直接说“近来睡不好”“总担心出事”“已经不想出门”。治疗或辅导也可能需要多次会面；对方式、语言或沟通感到不合适，可以提出调整或转介。[CHAT：困难时求助与持续治疗](https://www.nhghealth.com.sg/imh/chat/get-help)
 
 ## 非紧急情况，从哪里进入服务
 
@@ -61,7 +61,7 @@ CREST一般成人入口为18岁起，CREST-Youth服务12—25岁青年。可在[
 
 CHAT可在现场或通过视频会面，也接受开放时间内的到访。地点为\*SCAPE，2 Orchard Link，#04-07；当前开放时间为星期一09:00—17:00、星期二至六12:00—21:00，星期日及公共假日休息。可从官网提交本人或他人的预约申请，或拨 **6493 6500／6501** 、发邮件至 **CHAT@mentalhealth.sg** 询问。官网说明收到预约表后会在五个工作日内电话联系；未收到确认或情况恶化时，另行联系，不一直等表单回复。[CHAT：当前开放安排](https://www.nhghealth.com.sg/imh/chat/get-help)、[地点与联系](https://www.nhghealth.com.sg/imh/chat/about-chat/contact-us)、[申请后的联系](https://www.nhghealth.com.sg/imh/CHAT/get-help/book-an-appointment)
 
-**webCHAT目前暂停服务** ，不要把旧介绍中的在线辅导时段当成仍可使用。面对面及视频评估继续提供；一般会面约一小时，安排约一个半小时较从容。可以带简单笔记，写下最困扰自己的问题和希望得到什么帮助。[CHAT：webCHAT暂停公告](https://www.nhghealth.com.sg/imh/chat/get-help)、[会面准备](https://www.nhghealth.com.sg/imh/chat/get-help/mental-health-assessment-faq)
+**webCHAT目前暂停服务** 。面对面及视频评估继续提供；一般会面约一小时，安排约一个半小时较从容。可以带简单笔记，写下最困扰自己的问题和希望得到什么帮助。[CHAT：webCHAT暂停公告](https://www.nhghealth.com.sg/imh/chat/get-help)、[会面准备](https://www.nhghealth.com.sg/imh/chat/get-help/mental-health-assessment-faq)
 
 未满21岁时，是否须父母陪同或同意，要按接收服务核。IMH说明会在合理可行范围内让父母或法定监护人参与；有能力为自己作医疗决定、但不愿父母在场者，可与一名 **超过21岁** 的可信任人士来诊。医生若认为涉及重大风险或符合患者最佳利益，仍可能联系父母。NAMS的成瘾治疗则明确要求未满21岁者取得父母同意；其青少年服务从13岁起，未满13岁者转问Child Guidance Clinic。预约前说明家庭情况和顾虑，请团队解释适用于本次服务的安排。[IMH：未满21岁来诊](https://www.nhghealth.com.sg/imh/patients-visitors/appointments-referrals)、[NAMS：青少年与同意](https://www.nhghealth.com.sg/imh/nams/our-services)
 
@@ -71,13 +71,13 @@ IMH专科门诊须预约。可以先由GP或综合诊疗所评估，按需要治
 
 第一次就诊，带转介信、现用药单和已有相关报告。公民及PR带身份证，外国人带护照及适用准证；未满12岁的孩子另准备出生证明。有公司担保函、医疗福利卡或其他支付文件，也一并带上。记录近期睡眠、食欲、工作或学习变化、既往治疗和药物反应，告诉医生目前是否有自伤风险，以及最近是否使用酒精或其他物质。[IMH：初诊证件与福利材料](https://www.nhghealth.com.sg/imh/patients-visitors/appointments-referrals)、[病人须提供的健康资料](https://www.nhghealth.com.sg/imh/patients-visitors/patient-information-sheet)
 
-需要华语、其他语言或听觉沟通协助，在预约时就提出。IMH会尽力事先安排口译，不能把到场一定有某种语言服务当成保证。不会使用网上表单，可先电话联系；担心别人看到预约信息，说明安全的联系号码、时段及能否留言。IMH短信提醒须主动请工作人员开通，也可拨预约电话办理。[IMH：语言协助及短信提醒](https://www.nhghealth.com.sg/imh/patients-visitors/appointments-referrals)
+需要华语、其他语言或听觉沟通协助，在预约时就提出。IMH会尽力事先安排口译。不会使用网上表单，可先电话联系；担心别人看到预约信息，说明安全的联系号码、时段及能否留言。IMH短信提醒须主动请工作人员开通，也可拨预约电话办理。[IMH：语言协助及短信提醒](https://www.nhghealth.com.sg/imh/patients-visitors/appointments-referrals)
 
 会面时可以问：目前怎样理解我的情况，需要哪些治疗选择，预计多久回看效果，费用怎样组成，出现什么变化要提前联系或去急诊。若需要学校或工作的正式医疗文件，向GP或精神科医生说明用途；CHAT不能开具这种正式医疗证明。MC、报告和病历副本的申请见[医疗文件与病历]({{< relref "/book/people/healthcare/medical-records" >}})。[CHAT：正式医疗文件](https://www.nhghealth.com.sg/imh/chat/get-help)、[IMH：知情参与治疗](https://www.nhghealth.com.sg/imh/patients-visitors/patient-information-sheet)
 
 ## 费用、补贴与没有钱时的办法
 
-先把诊费、心理治疗或辅导、药物、检验、复诊及取消预约费用逐项问清。以IMH自2026年9月1日起的 **公民成人初诊** 价表为例，补贴诊费为S$33.44—S$78.02，非补贴诊费因医生职级为S$103.50—S$219.70；延长诊症可能另收费。PR、居新外国人及非居民用不同费率，不能把公民表当成全部人的预算。该例也不是一次完整疗程的总价。[IMH：当前收费与身份说明](https://www.nhghealth.com.sg/imh/patients-visitors/charges-payments)
+先把诊费、心理治疗或辅导、药物、检验、复诊及取消预约费用逐项问清。以IMH自2026年9月1日起的 **公民成人初诊** 价表为例，补贴诊费为S$33.44—S$78.02，非补贴诊费因医生职级为S$103.50—S$219.70；延长诊症可能另收费。PR、居新外国人及非居民用不同费率。[IMH：当前收费与身份说明](https://www.nhghealth.com.sg/imh/patients-visitors/charges-payments)
 
 | 本人情况 | 付款前核对 |
 | --- | --- |
@@ -88,7 +88,7 @@ IMH专科门诊须预约。可以先由GP或综合诊疗所评估，按需要治
 
 [MOH：基层心理服务与CHAS](https://www.moh.gov.sg/seeking-healthcare/find-a-facility-or-service/mental-health-services/for-the-public/)、[CPF：MediSave门诊及亲属条件](https://www.cpf.gov.sg/member/healthcare-financing/using-your-medisave-savings/using-medisave-for-outpatient-treatments)、[一般费用及雇主医疗责任]({{< relref "/book/people/healthcare/healthcare-payments" >}})
 
-CDMP涵盖的心理疾病包括精神分裂症、重度抑郁症、双相情感障碍和焦虑症。2026年MediSave500/700一般为每名患者每年S$500，符合复杂慢性病条件者S$700，并与相关疫苗和筛查共用；CDMP治疗通常有15%现金共付，合资格公民及PR在本人登记的Healthier SG基层医生处接受CDMP治疗，可在适用提款限额内免该15%现金共付。先问诊所能否按相应项目申报，不能仅凭“心理辅导”名称推定可扣MediSave。[CPF：CDMP与现金共付](https://www.cpf.gov.sg/member/healthcare-financing/using-your-medisave-savings/using-medisave-for-outpatient-treatments)、[MOH：Healthier SG适用安排](https://www.moh.gov.sg/managing-expenses/schemes-and-subsidies/medisave/outpatient-care/)
+CDMP涵盖的心理疾病包括精神分裂症、重度抑郁症、双相情感障碍和焦虑症。2026年MediSave500/700一般为每名患者每年S$500，符合复杂慢性病条件者S$700，并与相关疫苗和筛查共用；CDMP治疗通常有15%现金共付，合资格公民及PR在本人登记的Healthier SG基层医生处接受CDMP治疗，可在适用提款限额内免该15%现金共付。先问诊所能否按相应项目申报。[CPF：CDMP与现金共付](https://www.cpf.gov.sg/member/healthcare-financing/using-your-medisave-savings/using-medisave-for-outpatient-treatments)、[MOH：Healthier SG适用安排](https://www.moh.gov.sg/managing-expenses/schemes-and-subsidies/medisave/outpatient-care/)
 
 从 **2027年1月1日** 起，这项计划更名为MediSave Chronic and Preventive Care，限额提高至S$700／S$1,000；较高限额须在该公历年接受两种或以上CDMP疾病治疗，或至少一种CDMP疾病有认可并发症。跨年疗程按治疗日期核适用规则。[MOH：2027年生效条件](https://hpp.moh.gov.sg/guidelines/medisave-for-chronic-disease-management-programme/)
 
@@ -96,7 +96,7 @@ CDMP涵盖的心理疾病包括精神分裂症、重度抑郁症、双相情感�
 
 ## 移工、家政工与学校或公司的支持
 
-HealthServe为移工提供心理支持、危机介入和辅导，24小时热线为 **3129 5000** ；其移工门户可选择英语、孟加拉语、泰米尔语或中文。联系时说明语言、工作和准证情况，请工作人员确认适合的服务。该门户对家政工可用服务另有限定，不能把非家政移工的整套安排套给家政工。[HealthServe：心理支持](https://healthserve.org.sg/mental-health-counselling-services/)、[移工门户及家政工服务范围](https://help.healthserve.org.sg/)
+HealthServe为移工提供心理支持、危机介入和辅导，24小时热线为 **3129 5000** ；其移工门户可选择英语、孟加拉语、泰米尔语或中文。联系时说明语言、工作和准证情况，请工作人员确认适合的服务。该门户对家政工可用服务另有限定。[HealthServe：心理支持](https://healthserve.org.sg/mental-health-counselling-services/)、[移工门户及家政工服务范围](https://help.healthserve.org.sg/)
 
 家政工可通过Centre for Domestic Employees（CDE）取得支持；MOM说明CDE有24小时求助渠道，并可安排辅导或在需要时衔接临床服务。CDE热线为 **1800 225 5233** 。如果压力与欠薪、过劳、食物不足、暴力或不能休息有关，具体劳动问题也要处理，入口见[家政人员的权利与求助]({{< relref "/book/people/family/domestic-workers" >}})。[MOM：家政工心理健康支持](https://www.mom.gov.sg/newsroom/parliament-questions-and-replies/2026/0204-written-answer-to-pq-on-migrant-domestic-workers-mental-health-support-services)、[CDE联络](https://www.cde.org.sg/contact-us)
 
