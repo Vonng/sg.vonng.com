@@ -4,11 +4,12 @@ description: 按时间、预算、语言与照护需要选择可持续参加的�
 page_id: sg-community-connections
 content_kind: guide
 scope: 在新加坡生活的不同年龄、身份和收入读者；社区参与建议与公开报名入口，不提供工作准证或援助个案裁定
-status: written
-draft: true
-verified: ''
-reviewed_by: ''
+status: integrated
+draft: false
+verified: "2026-10-13"
+reviewed_by: "care_finance（独立事实）；identity（第三人编辑）"
 weight: 30
+search_keywords: ["CV", "VC", "SG Cares", "志愿", "交朋友", "互助"]
 ---
 
 建立支持网络，可以从一件愿意重复做的小事开始：固定参加兴趣活动，和邻居散步，或报名一次安排明确的志愿工作。先选自己负担得起的时间、费用和路程，再确认语言与参与要求；需要轮班、照顾家人或休息的人，也可以从短时活动开始。

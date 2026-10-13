@@ -4,11 +4,12 @@ description: 记录公共环境与设施问题，选择 OneService 或主管入�
 page_id: sg-community-neighbourhood
 content_kind: guide
 scope: 新加坡居民与访客；公共环境反馈及居民网络选路，不代替租约、私人住宅管理或邻里纠纷程序
-status: written
-draft: true
-verified: ''
-reviewed_by: ''
+status: integrated
+draft: false
+verified: "2026-10-13"
+reviewed_by: "care_finance（独立事实）；identity（第三人编辑）"
 weight: 20
+search_keywords: ["RN", "RC", "NC", "OneService", "居民网络", "街区问题"]
 ---
 
 看到路面破损、灯具故障或街区清洁问题，先记下准确位置、发现时间和现场情况，再交给负责机构或 OneService。想认识邻居、反映共同需要，可以寻找附近的居民网络；维修报修和参加社区活动各有自己的入口。

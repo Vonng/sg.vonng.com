@@ -17,7 +17,8 @@
 
 ## 2026-10-13 恢复状态
 
-- `taxis-phv.md` 已成完整稿，作者全文自审及轻量静态检查通过，9,496 bytes，完整 SHA `215eabebd8a4ad24c6b33408fd09090f614cbedab2a1a1ad088eed5bd5074fbf`；冻结交 daily_history 事实审，尚未第三编辑／集成。无App叫车和客服、特殊乘客、失败分支与跨境许可入口已闭合。
-- `active-mobility.md` 完整稿已作者全文自审和轻量静态检查后冻结交 daily_history，15,274 bytes，完整 SHA `005539825c605484920a51a1853a1a4f30c082d5d44c6425849b60a1474237d8`；路径图本人再次目视、PMA／PAB／理论测试／未16监督细则均实际补读，尚未第三编辑／集成。
-- `driving.md` 和 `airport-checkpoints.md` 仍在补详细原文，尚无正文；驾驶需要首次学车、COE／买卖／ERP／停车／保险及路税主体，机场需航站间、ICA／Customs、柔佛路线与车辆边界。不得将本批出租车闭合视为交通领域全部完成。
+- `taxis-phv.md` 已成完整稿，作者全文自审及轻量静态检查通过，9,496 bytes，完整 SHA `215eabebd8a4ad24c6b33408fd09090f614cbedab2a1a1ad088eed5bd5074fbf`；daily_history独立事实及全篇可用性通过，冻结交root第三编辑／集成。无App叫车和客服、特殊乘客、失败分支与跨境许可入口已闭合。
+- `active-mobility.md` 完整稿已作者全文自审和轻量静态检查后冻结，15,274 bytes，完整 SHA `005539825c605484920a51a1853a1a4f30c082d5d44c6425849b60a1474237d8`；daily_history独立事实及全篇可用性通过，交root第三编辑／集成。路径图本人再次目视、PMA／PAB／理论测试／未16监督细则均实际补读。
+- `driving.md` 完整稿已作者全文自审和轻量静态检查，25,268 bytes，完整SHA `ab6012ac0019ba7b51555a32fcd1c731e55e8579a128a964f3fa8969229a7b11`；冻结交daily_history事实。首次学车、COE/PARF/买卖/保险事故、ERP/停车/路税及身份和工作驾驶均有详源，未来2027—28变化分开。
+- `airport-checkpoints.md` 仍补详细原文，尚无正文；需航站间、ICA／Customs、柔佛公共路线及跨境自驾车辆边界。不得将前三篇闭合视为交通领域全部完成。
 - LTA 9月23日巴士行为新规已读并已向root报告旧公交维护建议，本人未改冻结 public-transport。

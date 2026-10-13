@@ -81,10 +81,10 @@
 | `/book/life/documents/status-and-eligibility/` | 先查哪些身份事实才知道能办什么 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 | `/book/life/documents/work-passes/` | 不同工作准证及家属工作资格怎样选路 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 | `/book/life/documents/national-service/` | 谁须服国民服役：国籍性别年龄PR途径代际 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
-| `/book/life/documents/arrival-renewal/` | 入境/SGAC/短访停留、NRIC/FIN、ICA学生及LTVP和居民改址 | researched（identity；与MOM管理按办理主体拆分） |
-| `/book/life/documents/pass-management/` | MOM各工作及家属准证怎样签发、领卡、改址、续期与处理受阻 | researched（identity；从arrival-renewal按主管与准证动作拆出） |
+| `/book/life/documents/arrival-renewal/` | 入境/SGAC/短访停留、NRIC/FIN、ICA学生及LTVP和居民改址 | writing（identity已落盘，作者全量自审中） |
+| `/book/life/documents/pass-management/` | MOM各工作及家属准证怎样签发、领卡、改址、续期与处理受阻 | writing（identity已落盘，作者全量自审中） |
 | `/book/life/documents/permanent-residence/` | 怎样申请PR公民和处理REP | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
-| `/book/life/documents/documents/` | 翻译公证认证与文件保存怎样准备 | written（care事实与root第三编辑通过，待下一批工程） |
+| `/book/life/documents/documents/` | 翻译公证认证与文件保存怎样准备 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 
 ### 8. 住房、租赁、购房与居住关系（housing）
 
@@ -93,10 +93,12 @@
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
 | `/book/life/housing/renting/` | 怎样找到可合法入住的住房并签租约 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
-| `/book/life/housing/tenancy/` | 入住维修押金续租退租怎样处理 | written（作者自审冻结，identity事实审中） |
-| `/book/life/housing/buying-hdb/` | BTO与转售怎样判断家庭资格、HFE和贷款 | assigned（B03C；daily_history，尚未研究） |
-| `/book/life/housing/buying-private/` | 私人公寓EC有地住宅和交易税费怎样判断 | assigned（B03C；daily_history，尚未研究） |
-| `/book/life/housing/neighbours/` | 市镇理事会MCST和邻里纠纷找谁 | assigned（B03C；daily_history，尚未研究） |
+| `/book/life/housing/tenancy/` | 入住维修押金续租退租怎样处理 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
+| `/book/life/housing/buying-hdb/` | BTO与转售怎样判断家庭资格、HFE和贷款 | researching（daily；核现行身份/家庭/HFE及2026新政策） |
+| `/book/life/housing/buying-private/` | 私宅类型、外国人产权批准与买卖交接怎样办理 | researching（daily；EC和税贷成本按行动链独立拆篇） |
+| `/book/life/housing/neighbours/` | 市镇理事会MCST和邻里纠纷找谁 | written（daily作者冻结，identity独立事实审中） |
+| `/book/life/housing/buying-ec/` | EC新售、五至十年及十年后购房资格怎样判断 | planned（daily独占；先登记，不建公开空页） |
+| `/book/life/housing/purchase-costs/` | 购房税、现金CPF、HDB银行贷款和共同购买怎样核对 | planned（daily独占；从两购房主文按共同决策拆出） |
 
 ### 9. 衣食、购物与家庭运转（household）
 
@@ -116,9 +118,9 @@
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
 | `/book/life/transport/public-transport/` | MRT巴士怎样支付换乘和查询无障碍 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
-| `/book/life/transport/driving/` | 境外驾照使用转换、买车COEERP路税停车保险 | researched（B03C；care_finance已分派） |
-| `/book/life/transport/taxis-phv/` | 出租车与网约车乘客叫车费用、儿童轮椅、线下与投诉；从驾驶持车任务拆出 | written（daily事实通过，待root第三编辑及工程） |
-| `/book/life/transport/active-mobility/` | 骑行步行PMD有哪些道路规则 | written（作者自审冻结，daily独立事实审中） |
+| `/book/life/transport/driving/` | 境外驾照使用转换、买车COEERP路税停车保险 | written（care作者全文自审冻结，daily独立事实审中） |
+| `/book/life/transport/taxis-phv/` | 出租车与网约车乘客叫车费用、儿童轮椅、线下与投诉；从驾驶持车任务拆出 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
+| `/book/life/transport/active-mobility/` | 骑行步行PMD有哪些道路规则 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 | `/book/life/transport/airport-checkpoints/` | 去机场和柔佛关卡怎样安排行程 | researched（B03C；care_finance已分派） |
 
 ### 11. 数字生活、通信与信息判断（digital）
@@ -138,9 +140,9 @@
 
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
-| `/book/life/community/public-facilities/` | 图书馆社区俱乐部体育公园怎样报名使用 | written（care独立事实通过，identity第三编辑中） |
-| `/book/life/community/neighbourhood/` | 邻里问题怎样反馈与找到居民网络 | written（care独立事实通过，identity第三编辑中） |
-| `/book/life/community/connections/` | 怎样参加志愿宗教兴趣社群并建立支持 | written（care独立事实通过，identity第三编辑中） |
+| `/book/life/community/public-facilities/` | 图书馆社区俱乐部体育公园怎样报名使用 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
+| `/book/life/community/neighbourhood/` | 邻里问题怎样反馈与找到居民网络 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
+| `/book/life/community/connections/` | 怎样参加志愿宗教兴趣社群并建立支持 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 
 ## 人生、健康、家庭与学习
 
@@ -203,8 +205,8 @@
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
 | `/book/people/language/everyday-language/` | 英语华语马来语泰米尔语Singlish如何选场合 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
-| `/book/people/language/communication/` | 电话邮件表格口译怎样清楚表达 | planned |
-| `/book/people/language/multilingual-family/` | 多语家庭怎样选择学习资源与日常练习 | planned |
+| `/book/people/language/communication/` | 电话邮件表格口译怎样清楚表达 | researching（root独占B04；地图/证据与主管原文） |
+| `/book/people/language/multilingual-family/` | 多语家庭怎样选择学习资源与日常练习 | researching（root独占B04；地图/证据与主管原文） |
 
 ### 19. 中老年、退休、衰弱与死亡（ageing）
 

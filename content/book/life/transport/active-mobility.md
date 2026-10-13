@@ -4,11 +4,12 @@ description: "辨认人行道、专用步行道和骑行路径，核对自行车
 page_id: sg-active-mobility
 content_kind: guide
 scope: "新加坡公共路径上的行人、自行车、PAB、PMD与PMA使用者，以及可上道路的骑行者；含居民、准证持有者和访客"
-status: written
-draft: true
-verified: ""
-reviewed_by: ""
+status: integrated
+draft: false
+verified: "2026-10-13"
+reviewed_by: "daily_history（独立事实）；root（第三人编辑）"
 weight: 40
+search_keywords: ["PAB", "PMD", "PMA", "UL2272", "自行车", "骑行", "电滑板车"]
 ---
 
 先辨认脚下的路径，再决定能否骑和怎样骑。普通自行车、电动助力自行车、电滑板车和轮椅适用的场所不同；公民、PR、准证持有者和访客都须遵守相应规则。看到 Pedestrian-Only Path 标识，步行或使用符合规定的个人助行工具，骑行者应走旁边的骑行路径。

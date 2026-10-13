@@ -398,5 +398,75 @@
     "editorial_report": "ops/reviews/b03c-privacy-fraud-editorial.md",
     "body_sha256": "388356e812051a3020400a5945b5230b942c4188765f72ccfb350a191af260ea",
     "reviewed_file_sha256": "21287aa70affe1fb4fe2859b0e58f8959b8cb605599e29253124ba82f827ed49"
+  },
+  "content/book/life/community/public-facilities.md": {
+    "author": "root",
+    "facts": "care_finance",
+    "editor": "identity",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b03c-community-facts.md",
+    "editorial_report": "ops/reviews/b03c-community-editorial.md",
+    "body_sha256": "586c1b3957cfd409ea1faef8500f4266c4d5542d51017898a55925d62925dd80",
+    "reviewed_file_sha256": "a1e8b40f50488855b032be5889287ebe43c4a2aa67fddced19473c32e68db5c9"
+  },
+  "content/book/life/community/neighbourhood.md": {
+    "author": "root",
+    "facts": "care_finance",
+    "editor": "identity",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b03c-community-facts.md",
+    "editorial_report": "ops/reviews/b03c-community-editorial.md",
+    "body_sha256": "cc2a964c0c9fbfded7d9540f416a7fcfdab71d07e11f96e93e6b720c4eac2c47",
+    "reviewed_file_sha256": "2018e01f42c1f62cbd85d6dada4402050884de5e4bfcd59b388cb8133f483df0"
+  },
+  "content/book/life/community/connections.md": {
+    "author": "root",
+    "facts": "care_finance",
+    "editor": "identity",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b03c-community-facts.md",
+    "editorial_report": "ops/reviews/b03c-community-editorial.md",
+    "body_sha256": "c1c4fd69e4bedbbf4d11b96b09d8ed8c584fceec0ab02089e2a2250621e5b455",
+    "reviewed_file_sha256": "dfdd9eca981122c693715a0b4fd6156fd02e2138750e0fcb8ed51e8110d02a85"
+  },
+  "content/book/life/documents/documents.md": {
+    "author": "identity",
+    "facts": "care_finance",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b03c-documents-facts.md",
+    "editorial_report": "ops/reviews/b03c-documents-editorial.md",
+    "body_sha256": "bbf92e4a9f4824112679bfe84c09c985e7ff5df1a495c36c795a7158e4c334d9",
+    "reviewed_file_sha256": "1f00bdafc394b9e47ef11828ae462462f95d9b89227ee9de6e56c0be86e3e562"
+  },
+  "content/book/life/transport/taxis-phv.md": {
+    "author": "care_finance",
+    "facts": "daily_history",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b03c-taxis-phv-facts.md",
+    "editorial_report": "ops/reviews/b03c-transport-editorial.md",
+    "body_sha256": "0383e004578711555dff40f0e761bfdf5cf428e3df93abf84289fe8cfa450f90",
+    "reviewed_file_sha256": "215eabebd8a4ad24c6b33408fd09090f614cbedab2a1a1ad088eed5bd5074fbf"
+  },
+  "content/book/life/transport/active-mobility.md": {
+    "author": "care_finance",
+    "facts": "daily_history",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b03c-active-mobility-facts.md",
+    "editorial_report": "ops/reviews/b03c-transport-editorial.md",
+    "body_sha256": "f7f91901dd0ac4ddaedb12d0436bac9befa935f989b7d0693dc9aa5ff6acd2db",
+    "reviewed_file_sha256": "005539825c605484920a51a1853a1a4f30c082d5d44c6425849b60a1474237d8"
+  },
+  "content/book/life/housing/tenancy.md": {
+    "author": "daily_history",
+    "facts": "identity",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b03c-tenancy-facts.md",
+    "editorial_report": "ops/reviews/b03c-housing-editorial.md",
+    "body_sha256": "a4ca36a16223a188fe66d1e9f0cf5a36afecacf20e5d2c60d0fd9474921dc624",
+    "reviewed_file_sha256": "eee18714f3b868d1bb27c8f77c528ee6da2bbab2a0a3ab5f4c220edef8be0d51"
   }
 }

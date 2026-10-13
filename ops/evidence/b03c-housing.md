@@ -44,3 +44,40 @@
 - 作者自审实际逐段核对现行模板版本／自愿采用、入住清单／缺陷期、维修与许可、续租与 IRAS 文件、提前解约／佣金／合租责任、退房钥匙／正常损耗／押金、SCT 受理／费用／翻译／缴费送达／执行、CMC 非合同范围与 CEA 边界。补充读 HDB Annexure C 印刷 18—19 页，确认其预印 30 天与 Schedule 可填期限亦须协调。
 - 轻量静态检查通过：九项必备元数据及 written/draft:true/核验空值、正文无 H1、全部加粗外侧普通空格、三个正文 relref 实际目标存在。没有运行共享构建或查看实际网页，也没有填独审／集成核验字段。
 - 文字按自然中文作者自审；条款和金额保留具体条件。版本差异、Source FAQ 范围冲突和失败旧入口已在上文披露，未用摘要替代原文或跨制度推定。异人审核应独立读取原件采用段后绑定版本。
+
+## 邻里滋扰与住宅管理：实际采用原文
+
+作者 2026-10-13 逐项直接回源阅读。完整实际工具返回存 `.cache/research/b03c-housing/neighbours-tool-results.json`；仅定位用的首页／链接页和未采用图件，不能据此声称整站或全部图表已经阅读。本轮没有提交任何真实 CMC、CDRT、STB 或管理投诉，没有拨打热线、发送邮件或操作私人账户。
+
+| 编号及真实来源 | 实际原文范围与正文支持 | 适用对象、时间及边界 |
+| --- | --- | --- |
+| HN01 gov.sg [Town Council 职责](https://www.gov.sg/explainers/what-do-town-councils-do-and-who-regulates-them/) | L23—66 全主体：HDB 公共住宅／商业物业共用产业，包括 linkways/gardens/lifts/corridors/void decks，清洁维护、反馈入口 | 原文章 2024-10-15，当前回读；不采用原文 17 个 TC 的旧数量，不从页脚 2026 日期推发布日期。仅分工，未把私人住宅或室内争议都推给 TC |
+| HN02 BCA [What to know as a condo owner](https://www1.bca.gov.sg/home-and-building-owners/condo-strata/condo-living-be-condo-savvy/what-to-know-as-a-condo-owner/) | L22—90 全主体：unit owner 自动 SP/MCST，维护单位、缴费、有效附例、共用产业及外观改动另有批准，争议先协商／调解 | 页内 2026-01-26；不采用自己未详核的所有结构工程审批比例。租客同步房东是作者实用建议，不把业主表决资格推給租客或因国籍推定产权审批 |
+| HN03 BCA [私人住宅常见纠纷](https://www1.bca.gov.sg/guidelines-and-requirements/common-issues-or-disputes-encountered-by-residents-in-private-estates/) | L24—141 全主体：BCA不能介入私人纠纷；CMC非合同、MCST自治／STB列明事项、CDRT不合理干扰；有地界争议需真实边界资料 | 图件只定位未目视，正文不用图表断言；边界测量／其他商事渠道未扩写。严重噪音 CRU 法定介入另用 HN04 新主管源，不能把 BCA 对自身私事权限限制说成全政府永不介入 |
+| HN04 三部委／MinLaw [2026-08-28 全国扩展公告](https://www.mlaw.gov.sg/nationwide-enhancements-to-facilitate-resolution-of-neighbour-disputes/) | L3—34 全实质：自 2026-09-01 Mediation Direction与CRU全国；HDB/PA公共、PA私宅指示；严重持久噪音多户受困，其他方法无效或情形需要，CRU调查／陈述／warnings／abatement orders | 适用于公共／私人住宅，不再写成仅Tampines试点。原公告提严重噪音和既有囤积介入背景；本篇采用全国严重噪音范围，没有保证所有普通投诉转CRU或所有囤积新范围已闭。Annex个案未用于教学事例 |
+| HN05 CMC [Mediation Direction](https://cmc.mlaw.gov.sg/our-service/mediation-direction/) | 先L21—123，再补L79—198，覆盖全部采用主体：HDB/PA/CMC/CRU获授权、同楼／100米、免费且强制出席、现场、四语/无障碍/陪同先申请、照片证件／提前20分钟；已安排冲突须指示前存在、前1工作日资料，医疗／近亲证明及后1工作日；工作理由一般不接受 | 更新2026-08-31。自愿调解可线上不能推至指示调解。无合理理由缺席属13R违法，正文不列未必要处罚表。CMC可协助同意文件，Notification of Consent 与法院 memorandum 入口名称不同，正文保留法院申请材料名称、不保证名称相同 |
+| HN06 CMC [自愿申请](https://cmc.mlaw.gov.sg/e-services/apply-for-mediation/)、[FAQ](https://cmc.mlaw.gov.sg/our-service/faqs/) | 自愿申请L21—48本次重开，FAQ主事实已在HT12实际完整实读L21—161：对方住址、免费、办公热线18002255529、按复杂度现场或线上；公共私宅社区非合同、双方愿意、调解员不裁决 | 两页主要更新2026-09-03。身份按居民及居住关系判断，没有只看公民/PR；短期访客先住宿方选路是行动建议，不保证游客取得所有居民法庭资格。申请／热线仅官方入口，没有真人测试完成 |
+| HN07 Courts [Register a settlement agreement](https://www.judiciary.gov.sg/civil/community-neighbour-dispute-claims/register-a-settlement-agreement) | L53—115全部实质：认可CMC调解员前签协议即合同；仅2026-09-01或后订立／签署协议，所有人书面同意，全部签完后4周、S$10、CJTS CDRT Registration of Settlement Agreement、协议PDF+memorandum、通知获准或拒绝；获准后立即送达Notice和协议，最后由CDRT决定条款／登记 | 更新2026-09-01。不是30天，也不是所有旧协议能登。未登记需先民事起诉得有利命令再执行；CMC另可再调解／按具体干扰提CDRT，正文不把未登记等同无效或直接可执行命令 |
+| HN08 Courts [CDRT eligibility](https://www.judiciary.gov.sg/civil/cases-eligible-neighbour-dispute-claim) | L53—98：同楼或居住处100m、不合理干扰例、非同一住所居住人、S$20k、诉因事件2年；同事项不能其他法院待审或已审裁，预评估不拘束法庭 | 页主要更新2025-10-13；当前回读，家庭／同住与邻居程序分开。没有把CMC方向的邻居对象由本院条款额外推定；正文各自按对应源解释，没有推国籍、签证或产权皆当然受理 |
+| HN09 Courts [How to file and serve CDRT](https://www.judiciary.gov.sg/civil/how-to-file-serve-neighbour-dispute-claim) | 初读L53—165，再完整补L53—222：当事人姓名与地址、业权查不等于行为人、可获准暂用居住地址再查名；chronology/证据/请求；S$150、14天送达申请+证据+会议Notice、首次会议前DOS；律师例外各方同意且法庭批准、语言、L2电脑 | 页主要更新2025-10-13，制度一般流程现回读。不是SCT七天；14天初始送达不套协议登记立即送达，也不套STB五工作日。无姓名可获法庭酌情处理不保证受理；未做真实INLIS付费查人 |
+| HN10 Courts [Prepare CDRT evidence](https://www.judiciary.gov.sg/civil/prepare-evidence-neighbour-dispute-claim) 与 [CJTS CDRT Guide V2.2 PDF](https://cjts.judiciary.gov.sg/assets/docs/CDRT_Guide_V2.2.pdf?v=1.4) | 证据页L53—109：原照片／音视频／来往／机构／邀请等；页码、PDF、专业译者认证英文译文，音视频命名／关键片段转写及截图、CD-R/DVD-R本日或翌工作日交Registry。97页指南实际采用物理页19—29（L196—311）确认PDF/transcript、草稿未收件、付款case no、会议日期；find额外只定位其他段 | 证据页更新2026-04-15，CD/DVD要求虽老式仍有现行原文与该指南一致。指南未见新的协议登记章节，故登记专用HN07新详细页面，不据97页PDF假称包含2026新功能。未逐页目视全部UI截图；采用文字，没有图表位置推断 |
+| HN11 Courts [CJTS](https://www.judiciary.gov.sg/services/cjts) | 复用作者同日本人实际实读HT10的L53—104：Singpass／不具资格可申请Pass、国家法院二楼电脑、65878423 | 仅官方公开协助入口。不声称申请Pass已经核实或任何具体签证获准；用户身份材料按实际要求。无账号／付费／私人案件操作 |
+| HN12 Courts [Respond to CDRT claim](https://www.judiciary.gov.sg/civil/how-to-respond-neighbour-dispute-claim) | L53—117：查看案件，14天内file+serve Reply与证据、S$20、非英文认证译文、收到会议通知仍出席，缺席可default order | 同一程序的被投诉者路径没有遗漏。Reply14天从被送达起算，与申请人提交14天送达不同。没有把回复挂号行疑似“respondent地址”文字误照抄为向自己送达 |
+| HN13 Courts [Outcomes](https://www.judiciary.gov.sg/civil/understand-outcomes-neighbour-dispute-claim)、[Special Direction](https://www.judiciary.gov.sg/civil/apply-special-direction) | Outcomes L53—84全主体：damages/injunction/specific performance/apology/其他，balance与justequitable／日常容忍，CJTS命令。Special L53—157全采用主体：违命令可申请，须原件+具体后续证据、非自动获准、开会／听审后定 | 本篇给执行的真实下一入口，没有许诺立即驱离／报警即执行。Special $100／14天／DOS8天及升级刑事分支已读但未在正文混到初始案件表；如将来写独立法律执行篇须按该新版本细做 |
+| HN14 STB [Types of Orders under BSMA](https://www.stratatb.gov.sg/general-proceedings/application/applicant/types-of-orders-under-bsma/)、[Matters under BSMA](https://www.stratatb.gov.sg/general-proceedings/application/applicant/matters-under-bsma/)、[General Proceedings](https://www.stratatb.gov.sg/general-proceedings/) | Orders L17—41，Matters L17—104、General L17—43全部实际主体：PartVI列明漏水／职责附例／决议／共产／资料；个人Form8所有业主签、chronology/全彩漏水照+plan、电子邮件先核查随后纸本4套／500含两次调解／不退款；acceptance后5工作日送达和Memo、双方调解、再听审、命令国家法院执行 | 页主要更新2026-06-08／06-29／07-29，BSMA当前名由主管页确认，不用旧BMSMA标题掩盖现行名称。全体个人按业主/事项而不是国籍判断；租客联系房东是建议，未推租客全部可直接用Form8。没有执行真实邮件、缴费、听审；正式表件未填/未声称逐栏表单测试 |
+
+### 新 HDB 入口取得情况与限制
+
+通过真实搜索入口请求 [Function of HDB Branches and Town Councils](https://www.hdb.gov.sg/managing-my-home/renovation-and-maintenance/home-maintenance/function-of-hdb-branches-and-town-councils)，web只取得32行导航；一次正常HTTPS直连200取得43,985bytes仍只有可提取的导航，没有所需规则主体。原HTML/TXT存本目录 `hdb-functions-20261013.*`。没有关闭TLS、运行挑战或再做代理重复尝试。正文的TC职责采用实际读到的HN01，室内维修只指向已集成主文；没有假称这张HDB导航页已经证明分工或具体费用分担。旧住房失败列表的四条租赁路径仍未再请求。
+
+真实范围：本篇是HDB／公寓／有地住宅的维修管理与人际滋扰选路；六类身份均先看业主／居住者角色、案件居住关系与期限。访客短住应先找住宿管理，本篇不由短期准证推定CMC/CDRT当然许可；商业合同、家庭／同居暴力、强制驱离、建筑工程全套审批与跨境送达未冒作此篇已闭内容。
+
+## 2026-10-13 neighbours 作者交审
+
+`content/book/life/housing/neighbours.md` 已完成完整正文与作者最终全文通读，逐段对照 HN01—HN14，冻结交 identity 独立事实审、root 第三编辑和工程接收。
+
+- 14,826 bytes；完整 SHA256 `1e040ecb603c56a97b395ee448e637197e8e4c8e5a101a41950152115f05dd72`。
+- 正文 SHA256 `2a99813e685c9d8688cc7bafae1506c31985e6ad3973565d4afa4ae41a8120dd`，统一 UTF-8 `text.split("---",2)[2]`，保留全部空白。
+- 作者全篇核对TC／MCST分工、真实居住关系、自愿／指示调解、2026-09-01全国与协议登记、4周／S$10／立即送达、CDRT20k／2年／100m／非同住所、姓名不明分支、译文／CD材料、S$150／14天初始送达／DOS、Reply14天／S$20、语言／律师例外、命令／违命令、STB事项／Form8／全体业主／500／5工作日、严重CRU边界；修正已安排冲突须在指示发出前，不略掉已由他院裁定的排除条件。
+- 轻量机器检查通过：完整九项元数据、written/draft:true/核验空值、正文无H1、加粗外侧普通空格、四条relref实物目标存在。没有共享构建、真实网页目视、账号／表单／邮件／电话操作声明。
+- 教学消息明示虚构，沟通与整理建议没有冒充法定义务。已披露HDB新入口仅导航、PDF采用阅读范围以及被指示者出席和法院最终判断条件。本文为作者证据，不签发独立事实或集成通过。

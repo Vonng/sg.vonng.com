@@ -1,0 +1,938 @@
+{
+  "date": "2026-10-13",
+  "timezone": "Asia/Singapore",
+  "batch": "B03C second integration",
+  "integrated_topics": [
+    "content/book/life/community/public-facilities.md",
+    "content/book/life/community/neighbourhood.md",
+    "content/book/life/community/connections.md",
+    "content/book/life/documents/documents.md",
+    "content/book/life/transport/taxis-phv.md",
+    "content/book/life/transport/active-mobility.md",
+    "content/book/life/housing/tenancy.md"
+  ],
+  "accepted_total": 48,
+  "goal_status": "active; all five parts and 28 fields remain in scope",
+  "production": {
+    "source_pages": 99,
+    "topics": 53,
+    "drafts": 5,
+    "html": 96,
+    "internal_references": 12433,
+    "external_references_skipped": 2343,
+    "errors": [],
+    "limitations": [
+      "No external URL check; no factual approval; no browser or visual certification."
+    ]
+  },
+  "output_files": 244,
+  "public_sync": "244 relative paths, byte sizes and SHA256 match checked production review output",
+  "pages": [
+    "/",
+    "/book/life/",
+    "/book/life/community/",
+    "/book/life/documents/",
+    "/book/life/housing/",
+    "/book/life/transport/",
+    "/docs/glossary/",
+    "/docs/profiles/pr/",
+    "/book/life/community/public-facilities/",
+    "/book/life/community/neighbourhood/",
+    "/book/life/community/connections/",
+    "/book/life/documents/documents/",
+    "/book/life/transport/taxis-phv/",
+    "/book/life/transport/active-mobility/",
+    "/book/life/housing/tenancy/"
+  ],
+  "versions": {
+    "content/book/life/community/public-facilities.md": {
+      "current_full_sha256": "6d0dd11db635ea81bb275ff0f32ac248f565cd10895eff02d045689923669689",
+      "author": "root",
+      "facts": "care_finance",
+      "editor": "identity",
+      "date": "2026-10-13",
+      "report": "ops/reviews/b03c-community-facts.md",
+      "editorial_report": "ops/reviews/b03c-community-editorial.md",
+      "body_sha256": "586c1b3957cfd409ea1faef8500f4266c4d5542d51017898a55925d62925dd80",
+      "reviewed_file_sha256": "a1e8b40f50488855b032be5889287ebe43c4a2aa67fddced19473c32e68db5c9"
+    },
+    "content/book/life/community/neighbourhood.md": {
+      "current_full_sha256": "9383047c92b41c8a9fb3b8a176b9b5b935758df88b521129a1d497f43da97698",
+      "author": "root",
+      "facts": "care_finance",
+      "editor": "identity",
+      "date": "2026-10-13",
+      "report": "ops/reviews/b03c-community-facts.md",
+      "editorial_report": "ops/reviews/b03c-community-editorial.md",
+      "body_sha256": "cc2a964c0c9fbfded7d9540f416a7fcfdab71d07e11f96e93e6b720c4eac2c47",
+      "reviewed_file_sha256": "2018e01f42c1f62cbd85d6dada4402050884de5e4bfcd59b388cb8133f483df0"
+    },
+    "content/book/life/community/connections.md": {
+      "current_full_sha256": "3433abdba4faec523255adc1401ca18072462e1cde052dafaaa4daf96feeec6a",
+      "author": "root",
+      "facts": "care_finance",
+      "editor": "identity",
+      "date": "2026-10-13",
+      "report": "ops/reviews/b03c-community-facts.md",
+      "editorial_report": "ops/reviews/b03c-community-editorial.md",
+      "body_sha256": "c1c4fd69e4bedbbf4d11b96b09d8ed8c584fceec0ab02089e2a2250621e5b455",
+      "reviewed_file_sha256": "dfdd9eca981122c693715a0b4fd6156fd02e2138750e0fcb8ed51e8110d02a85"
+    },
+    "content/book/life/documents/documents.md": {
+      "current_full_sha256": "b6d5ce170668a152a7e5e24da050c249a2c2aab53d48fd26dffc14b99c3ea8f1",
+      "author": "identity",
+      "facts": "care_finance",
+      "editor": "root",
+      "date": "2026-10-13",
+      "report": "ops/reviews/b03c-documents-facts.md",
+      "editorial_report": "ops/reviews/b03c-documents-editorial.md",
+      "body_sha256": "bbf92e4a9f4824112679bfe84c09c985e7ff5df1a495c36c795a7158e4c334d9",
+      "reviewed_file_sha256": "1f00bdafc394b9e47ef11828ae462462f95d9b89227ee9de6e56c0be86e3e562"
+    },
+    "content/book/life/transport/taxis-phv.md": {
+      "current_full_sha256": "09cc3bac1f7f6167d9158582ba87db656e7bb4191f5b0da16a095f52bf091e82",
+      "author": "care_finance",
+      "facts": "daily_history",
+      "editor": "root",
+      "date": "2026-10-13",
+      "report": "ops/reviews/b03c-taxis-phv-facts.md",
+      "editorial_report": "ops/reviews/b03c-transport-editorial.md",
+      "body_sha256": "0383e004578711555dff40f0e761bfdf5cf428e3df93abf84289fe8cfa450f90",
+      "reviewed_file_sha256": "215eabebd8a4ad24c6b33408fd09090f614cbedab2a1a1ad088eed5bd5074fbf"
+    },
+    "content/book/life/transport/active-mobility.md": {
+      "current_full_sha256": "a9c7f27fd35059168bd98484375dbcc2e93828a905efd9e1fa1492aeea86f05e",
+      "author": "care_finance",
+      "facts": "daily_history",
+      "editor": "root",
+      "date": "2026-10-13",
+      "report": "ops/reviews/b03c-active-mobility-facts.md",
+      "editorial_report": "ops/reviews/b03c-transport-editorial.md",
+      "body_sha256": "f7f91901dd0ac4ddaedb12d0436bac9befa935f989b7d0693dc9aa5ff6acd2db",
+      "reviewed_file_sha256": "005539825c605484920a51a1853a1a4f30c082d5d44c6425849b60a1474237d8"
+    },
+    "content/book/life/housing/tenancy.md": {
+      "current_full_sha256": "253775251a73d60fd42eef48fcaae4d61964bded1d757c11951aec3543fdfd82",
+      "author": "daily_history",
+      "facts": "identity",
+      "editor": "root",
+      "date": "2026-10-13",
+      "report": "ops/reviews/b03c-tenancy-facts.md",
+      "editorial_report": "ops/reviews/b03c-housing-editorial.md",
+      "body_sha256": "a4ca36a16223a188fe66d1e9f0cf5a36afecacf20e5d2c60d0fd9474921dc624",
+      "reviewed_file_sha256": "eee18714f3b868d1bb27c8f77c528ee6da2bbab2a0a3ab5f4c220edef8be0d51"
+    }
+  },
+  "browser": {
+    "report": {
+      "base": "http://127.0.0.1:1328",
+      "at": "2026-10-13T05:03:01.301Z",
+      "checks": [
+        {
+          "label": "desktop",
+          "path": "/",
+          "h1": 1,
+          "width": 1440,
+          "scroll": 1440,
+          "strong": 0,
+          "tables": 0,
+          "brokenImages": []
+        },
+        {
+          "label": "desktop",
+          "path": "/book/life/",
+          "h1": 1,
+          "width": 1440,
+          "scroll": 1440,
+          "strong": 0,
+          "tables": 0,
+          "brokenImages": []
+        },
+        {
+          "label": "desktop",
+          "path": "/book/life/community/",
+          "h1": 1,
+          "width": 1440,
+          "scroll": 1440,
+          "strong": 0,
+          "tables": 0,
+          "brokenImages": []
+        },
+        {
+          "label": "desktop",
+          "path": "/book/life/documents/",
+          "h1": 1,
+          "width": 1440,
+          "scroll": 1440,
+          "strong": 0,
+          "tables": 0,
+          "brokenImages": []
+        },
+        {
+          "label": "desktop",
+          "path": "/book/life/housing/",
+          "h1": 1,
+          "width": 1440,
+          "scroll": 1440,
+          "strong": 0,
+          "tables": 0,
+          "brokenImages": []
+        },
+        {
+          "label": "desktop",
+          "path": "/book/life/transport/",
+          "h1": 1,
+          "width": 1440,
+          "scroll": 1440,
+          "strong": 0,
+          "tables": 0,
+          "brokenImages": []
+        },
+        {
+          "label": "desktop",
+          "path": "/docs/glossary/",
+          "h1": 1,
+          "width": 1440,
+          "scroll": 1440,
+          "strong": 0,
+          "tables": 1,
+          "brokenImages": []
+        },
+        {
+          "label": "desktop",
+          "path": "/docs/profiles/pr/",
+          "h1": 1,
+          "width": 1440,
+          "scroll": 1440,
+          "strong": 0,
+          "tables": 0,
+          "brokenImages": []
+        },
+        {
+          "label": "desktop",
+          "path": "/book/life/community/public-facilities/",
+          "h1": 1,
+          "width": 1440,
+          "scroll": 1440,
+          "strong": 5,
+          "tables": 1,
+          "brokenImages": []
+        },
+        {
+          "label": "desktop",
+          "path": "/book/life/community/neighbourhood/",
+          "h1": 1,
+          "width": 1440,
+          "scroll": 1440,
+          "strong": 3,
+          "tables": 1,
+          "brokenImages": []
+        },
+        {
+          "label": "desktop",
+          "path": "/book/life/community/connections/",
+          "h1": 1,
+          "width": 1440,
+          "scroll": 1440,
+          "strong": 3,
+          "tables": 0,
+          "brokenImages": []
+        },
+        {
+          "label": "desktop",
+          "path": "/book/life/documents/documents/",
+          "h1": 1,
+          "width": 1440,
+          "scroll": 1440,
+          "strong": 2,
+          "tables": 1,
+          "brokenImages": []
+        },
+        {
+          "label": "desktop",
+          "path": "/book/life/transport/taxis-phv/",
+          "h1": 1,
+          "width": 1440,
+          "scroll": 1440,
+          "strong": 9,
+          "tables": 1,
+          "brokenImages": []
+        },
+        {
+          "label": "desktop",
+          "path": "/book/life/transport/active-mobility/",
+          "h1": 1,
+          "width": 1440,
+          "scroll": 1440,
+          "strong": 15,
+          "tables": 2,
+          "brokenImages": []
+        },
+        {
+          "label": "desktop",
+          "path": "/book/life/housing/tenancy/",
+          "h1": 1,
+          "width": 1440,
+          "scroll": 1440,
+          "strong": 15,
+          "tables": 1,
+          "brokenImages": []
+        },
+        {
+          "label": "desktop",
+          "dropdown": "阅读",
+          "children": 5
+        },
+        {
+          "label": "desktop",
+          "dropdown": "事项",
+          "children": 8
+        },
+        {
+          "label": "desktop",
+          "dropdown": "身份",
+          "children": 6
+        },
+        {
+          "label": "desktop",
+          "keyboardCard": "/book/foundations/"
+        },
+        {
+          "label": "desktop",
+          "nonCurrentBranch": true,
+          "keyboardFold": true
+        },
+        {
+          "label": "desktop",
+          "search": "CPF",
+          "results": "全书导读\n银行、CPF与个人财务\n从家庭现金流和CPF账户理解日常开销与长期储蓄。\nCPF 基础：谁要缴、工资怎样扣、钱能做什么\n按身份、年龄、PR 阶段和就业形式判断 CPF 缴纳，并理解住房、医疗与退休账户。\n工作、收入、财务与经营\n理解工作安排、CPF、税务与日常财务。\n富裕城市里的阶层、生活压力与歧视\n区分收入、财富、家庭需要和社会流动，结合本地研究理解生活压力与歧视，并找到具体求助入口。\n家庭预算：让每月收入接得住日常与意外\n从到手收入出发，安排固定账单、年度费用、家庭责任和应急现金，并识别需要求助的缺口。\n医疗费用怎样支付：补贴、MediSave 与保险\n按公民、PR 与外籍身份判断医疗补贴和保险，再核对账单中仍需自己承担的部分。\n工厂、组屋与家庭生活的改变\n从就业、公共住房和家庭照顾理解工业化：新镇带来的便利、搬迁的代价，以及女性劳动和社群关系的变化。\nSingpass 与 Myinfo：注册、使用和找回账户\n按身份选择账户，完成注册与登录，核对资料授权，处理换手机、忘记密码和账户泄露，并找到柜台及照护协助。\n查询入口\n新加坡公民\n从CPF、医疗与家人人生安排进入。\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+        },
+        {
+          "label": "desktop",
+          "search": "地铁",
+          "results": "全书导读\n地铁和巴士怎样乘、怎样付费\n第一次乘新加坡地铁或公共巴士，先准备一张可用的交通卡或感应银行卡，进出站、上下车都用同一张卡。手机与实体卡即使绑定同一个银行账…\n步行、骑行与助行工具可以走哪里\n…，优先查有连续坡道、电梯和安全过街的路线；中途接地铁或巴士，可看公共交通的无障碍安排。雷雨或路面湿滑时，留出步行时间，设备刹车和轮胎也要先检查。 五类工具的路径…\n全书导读\n…理养宠物：住处许可、日常花费与照顾责任交通与出行地铁和巴士怎样乘、怎样付费出租车和网约车怎样叫、怎样付费步行、骑行与助行工具可以走哪里数字生活与通信Singpa…\n小贩中心与日常社交生活\n…026 年 3 月的国会答复说明，部分大型宿舍及地铁站设有前往康乐中心的免费接驳。组织活动时，除了安排项目，也要确认参与者怎样到达和返程。MOM 康乐中心目录、…\n怎样比较新加坡的生活圈\n…经形成的区域中心，商业设施与住宅相邻，并连接两条地铁线。裕廊湖区（Jurong Lake District）则把裕廊东一带的商业活动与湖畔休闲空间联系起来，仍在…\n查询入口\n中英术语与本地用语\n…保健储蓄、退休账户 CPF MRT / LRT 地铁 / 轻轨 乘车 PAB / PMD / PMA 电动助力脚踏车 / 个人移动设备 / 个人代步辅助设备 骑…"
+        },
+        {
+          "label": "desktop",
+          "search": "Singlish",
+          "results": "全书导读\n在多语环境里，把话听懂、把事说清\n理解英语、华语、马来语、泰米尔语与方言的生活位置，学习应对 Singlish、电话和办事沟通。\n约时间、排队与相处的分寸\n在预约、通勤、同事邀约和邻里交往中，怎样把时间、承诺、隐私与衣着要求说清楚。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+        },
+        {
+          "label": "desktop",
+          "darkMode": true
+        },
+        {
+          "label": "mobile",
+          "path": "/",
+          "h1": 1,
+          "width": 390,
+          "scroll": 390,
+          "strong": 0,
+          "tables": 0,
+          "brokenImages": []
+        },
+        {
+          "label": "mobile",
+          "path": "/book/life/",
+          "h1": 1,
+          "width": 390,
+          "scroll": 390,
+          "strong": 0,
+          "tables": 0,
+          "brokenImages": []
+        },
+        {
+          "label": "mobile",
+          "path": "/book/life/community/",
+          "h1": 1,
+          "width": 390,
+          "scroll": 390,
+          "strong": 0,
+          "tables": 0,
+          "brokenImages": []
+        },
+        {
+          "label": "mobile",
+          "path": "/book/life/documents/",
+          "h1": 1,
+          "width": 390,
+          "scroll": 390,
+          "strong": 0,
+          "tables": 0,
+          "brokenImages": []
+        },
+        {
+          "label": "mobile",
+          "path": "/book/life/housing/",
+          "h1": 1,
+          "width": 390,
+          "scroll": 390,
+          "strong": 0,
+          "tables": 0,
+          "brokenImages": []
+        },
+        {
+          "label": "mobile",
+          "path": "/book/life/transport/",
+          "h1": 1,
+          "width": 390,
+          "scroll": 390,
+          "strong": 0,
+          "tables": 0,
+          "brokenImages": []
+        },
+        {
+          "label": "mobile",
+          "path": "/docs/glossary/",
+          "h1": 1,
+          "width": 390,
+          "scroll": 390,
+          "strong": 0,
+          "tables": 1,
+          "brokenImages": []
+        },
+        {
+          "label": "mobile",
+          "path": "/docs/profiles/pr/",
+          "h1": 1,
+          "width": 390,
+          "scroll": 390,
+          "strong": 0,
+          "tables": 0,
+          "brokenImages": []
+        },
+        {
+          "label": "mobile",
+          "path": "/book/life/community/public-facilities/",
+          "h1": 1,
+          "width": 390,
+          "scroll": 390,
+          "strong": 5,
+          "tables": 1,
+          "brokenImages": []
+        },
+        {
+          "label": "mobile",
+          "path": "/book/life/community/neighbourhood/",
+          "h1": 1,
+          "width": 390,
+          "scroll": 390,
+          "strong": 3,
+          "tables": 1,
+          "brokenImages": []
+        },
+        {
+          "label": "mobile",
+          "path": "/book/life/community/connections/",
+          "h1": 1,
+          "width": 390,
+          "scroll": 390,
+          "strong": 3,
+          "tables": 0,
+          "brokenImages": []
+        },
+        {
+          "label": "mobile",
+          "path": "/book/life/documents/documents/",
+          "h1": 1,
+          "width": 390,
+          "scroll": 390,
+          "strong": 2,
+          "tables": 1,
+          "brokenImages": []
+        },
+        {
+          "label": "mobile",
+          "path": "/book/life/transport/taxis-phv/",
+          "h1": 1,
+          "width": 390,
+          "scroll": 390,
+          "strong": 9,
+          "tables": 1,
+          "brokenImages": []
+        },
+        {
+          "label": "mobile",
+          "path": "/book/life/transport/active-mobility/",
+          "h1": 1,
+          "width": 390,
+          "scroll": 390,
+          "strong": 15,
+          "tables": 2,
+          "brokenImages": []
+        },
+        {
+          "label": "mobile",
+          "path": "/book/life/housing/tenancy/",
+          "h1": 1,
+          "width": 390,
+          "scroll": 390,
+          "strong": 15,
+          "tables": 1,
+          "brokenImages": []
+        },
+        {
+          "label": "mobile",
+          "homeMenu": true
+        },
+        {
+          "label": "mobile",
+          "keyboardCard": "/book/foundations/"
+        },
+        {
+          "label": "mobile",
+          "nonCurrentBranch": true,
+          "keyboardFold": true
+        },
+        {
+          "label": "mobile",
+          "search": "CPF",
+          "results": "全书导读\n银行、CPF与个人财务\n从家庭现金流和CPF账户理解日常开销与长期储蓄。\nCPF 基础：谁要缴、工资怎样扣、钱能做什么\n按身份、年龄、PR 阶段和就业形式判断 CPF 缴纳，并理解住房、医疗与退休账户。\n工作、收入、财务与经营\n理解工作安排、CPF、税务与日常财务。\n富裕城市里的阶层、生活压力与歧视\n区分收入、财富、家庭需要和社会流动，结合本地研究理解生活压力与歧视，并找到具体求助入口。\n家庭预算：让每月收入接得住日常与意外\n从到手收入出发，安排固定账单、年度费用、家庭责任和应急现金，并识别需要求助的缺口。\n医疗费用怎样支付：补贴、MediSave 与保险\n按公民、PR 与外籍身份判断医疗补贴和保险，再核对账单中仍需自己承担的部分。\n工厂、组屋与家庭生活的改变\n从就业、公共住房和家庭照顾理解工业化：新镇带来的便利、搬迁的代价，以及女性劳动和社群关系的变化。\nSingpass 与 Myinfo：注册、使用和找回账户\n按身份选择账户，完成注册与登录，核对资料授权，处理换手机、忘记密码和账户泄露，并找到柜台及照护协助。\n查询入口\n新加坡公民\n从CPF、医疗与家人人生安排进入。\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+        },
+        {
+          "label": "mobile",
+          "search": "地铁",
+          "results": "全书导读\n地铁和巴士怎样乘、怎样付费\n第一次乘新加坡地铁或公共巴士，先准备一张可用的交通卡或感应银行卡，进出站、上下车都用同一张卡。手机与实体卡即使绑定同一个银行账…\n步行、骑行与助行工具可以走哪里\n…，优先查有连续坡道、电梯和安全过街的路线；中途接地铁或巴士，可看公共交通的无障碍安排。雷雨或路面湿滑时，留出步行时间，设备刹车和轮胎也要先检查。 五类工具的路径…\n全书导读\n…理养宠物：住处许可、日常花费与照顾责任交通与出行地铁和巴士怎样乘、怎样付费出租车和网约车怎样叫、怎样付费步行、骑行与助行工具可以走哪里数字生活与通信Singpa…\n小贩中心与日常社交生活\n…026 年 3 月的国会答复说明，部分大型宿舍及地铁站设有前往康乐中心的免费接驳。组织活动时，除了安排项目，也要确认参与者怎样到达和返程。MOM 康乐中心目录、…\n怎样比较新加坡的生活圈\n…经形成的区域中心，商业设施与住宅相邻，并连接两条地铁线。裕廊湖区（Jurong Lake District）则把裕廊东一带的商业活动与湖畔休闲空间联系起来，仍在…\n查询入口\n中英术语与本地用语\n…保健储蓄、退休账户 CPF MRT / LRT 地铁 / 轻轨 乘车 PAB / PMD / PMA 电动助力脚踏车 / 个人移动设备 / 个人代步辅助设备 骑…"
+        },
+        {
+          "label": "mobile",
+          "search": "Singlish",
+          "results": "全书导读\n在多语环境里，把话听懂、把事说清\n理解英语、华语、马来语、泰米尔语与方言的生活位置，学习应对 Singlish、电话和办事沟通。\n约时间、排队与相处的分寸\n在预约、通勤、同事邀约和邻里交往中，怎样把时间、承诺、隐私与衣着要求说清楚。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+        },
+        {
+          "label": "mobile",
+          "darkMode": true
+        }
+      ],
+      "errors": [],
+      "screenshots": [
+        ".cache/render-b03c2/desktop-home.png",
+        ".cache/render-b03c2/desktop-topic.png",
+        ".cache/render-b03c2/desktop-navigation.png",
+        ".cache/render-b03c2/desktop-dark.png",
+        ".cache/render-b03c2/mobile-home.png",
+        ".cache/render-b03c2/mobile-topic.png",
+        ".cache/render-b03c2/mobile-topic-table.png",
+        ".cache/render-b03c2/mobile-navigation.png",
+        ".cache/render-b03c2/mobile-dark.png"
+      ],
+      "print": {
+        "pages": 73,
+        "refs": 1425,
+        "sourceLists": 48,
+        "relative": [],
+        "broken": []
+      },
+      "pass": true
+    },
+    "extra-report": {
+      "at": "2026-10-13T05:03:02.208Z",
+      "checks": [
+        {
+          "label": "desktop",
+          "branch": "community",
+          "actualLeafClick": "/book/life/community/public-facilities/",
+          "keyboardFold": true
+        },
+        {
+          "label": "desktop",
+          "branch": "housing",
+          "actualLeafClick": "/book/life/housing/tenancy/",
+          "keyboardFold": true
+        },
+        {
+          "label": "desktop",
+          "branch": "transport",
+          "actualLeafClick": "/book/life/transport/active-mobility/",
+          "keyboardFold": true
+        },
+        {
+          "label": "desktop",
+          "branch": "documents",
+          "actualLeafClick": "/book/life/documents/documents/",
+          "keyboardFold": true
+        },
+        {
+          "label": "desktop",
+          "search": "NLB",
+          "actualResultClick": "community/public-facilities",
+          "results": "全书导读\n使用图书馆、社区课程、运动与文化场所\n按本人身份选择报名入口和费用，准备借阅、预约与入场凭据，并找到人工和无障碍协助。\n工厂、组屋与家庭生活的改变\n从就业、公共住房和家庭照顾理解工业化：新镇带来的便利、搬迁的代价，以及女性劳动和社群关系的变化。\n小贩中心与日常社交生活\n从街头小贩到共同用餐空间，理解饮食传承、摊贩劳动，以及运动、休闲和多语媒体怎样连接日常生活。\n纪念碑、口述与海岛记忆\n理解新加坡公共纪念怎样形成，并通过博物馆、私人档案与南部岛民的自述，看见不同群体保存过去的方式。\n从海峡港口到独立国家\n沿着贸易、殖民、战争与政治选择，理解新加坡怎样从区域港口走到 1965 年独立。\n保护资料、判断信息与应对诈骗\n收到可疑电话和消息时怎样核实，账户或手机出事后怎样止损、留证与报案，并养成保护个人资料和查证信息的习惯。\n宗教生活、节庆与到访礼节\n认识新加坡不同信仰与无宗教者的生活，区分公共假期、家庭庆祝和礼拜仪式，按具体场所准备衣着、摄影与参访安排。\n打理住处：水电燃气、维修与垃圾回收\n开通和核对家庭水电账户，处理漏水停电、空调潮湿及虫害，找合适的维修人员，并安排日常垃圾和大件回收。\n反馈街区问题，找到居民网络\n记录公共环境与设施问题，选择 OneService 或主管入口，并通过邻近居民网络参与社区。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+        },
+        {
+          "label": "desktop",
+          "search": "ActiveSG",
+          "actualResultClick": "community/public-facilities",
+          "results": "全书导读\n使用图书馆、社区课程、运动与文化场所\n按本人身份选择报名入口和费用，准备借阅、预约与入场凭据，并找到人工和无障碍协助。\n小贩中心与日常社交生活\n从街头小贩到共同用餐空间，理解饮食传承、摊贩劳动，以及运动、休闲和多语媒体怎样连接日常生活。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+        },
+        {
+          "label": "desktop",
+          "search": "RN",
+          "actualResultClick": "community/neighbourhood",
+          "results": "全书导读\n反馈街区问题，找到居民网络\n记录公共环境与设施问题，选择 OneService 或主管入口，并通过邻近居民网络参与社区。\n买菜与吃饭：从巴刹、小贩中心到超市\n安排日常采购和外食，读懂食物标签、清真认证、GST与服务费，处理餐具归还、饮料押金和食品问题。\n申请 PR、公民与办理 REP\n按家庭、工作和学习情况找到申请路径，准备及更新材料，完成批准后的手续，并在离境返回前处理 REP。\n通过兴趣、志愿与互助建立联系\n按时间、预算、语言与照护需要选择可持续参加的活动，完成报名，并给彼此保留边界。\n个人所得税：居民身份、申报和缴款\n分清税务居民与准证身份、YA 与所得年度，以及 AIS、NFS、D-NOA、税单更正和缴税各自需要做什么。\nCPF 基础：谁要缴、工资怎样扣、钱能做什么\n按身份、年龄、PR 阶段和就业形式判断 CPF 缴纳，并理解住房、医疗与退休账户。\nSingpass 与 Myinfo：注册、使用和找回账户\n按身份选择账户，完成注册与登录，核对资料授权，处理换手机、忘记密码和账户泄露，并找到柜台及照护协助。\n怀孕到出生：就医、登记与孩子的身份\n安排产检和生产，按时登记出生，并按父母与孩子的身份衔接护照、居留和产假。\n办事找谁：公共服务、街区反馈与预算\n分清部委、法定机构与市镇理事会，完成 OneService 反馈和跟进，并找到公共预算、财政报告与政策咨询入口。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+        },
+        {
+          "label": "desktop",
+          "search": "SG Cares",
+          "actualResultClick": "community/connections",
+          "results": "全书导读\n通过兴趣、志愿与互助建立联系\n按时间、预算、语言与照护需要选择可持续参加的活动，完成报名，并给彼此保留边界。\n迁徙、定居与跨国家庭\n分清本地出生、新移民和外籍工作者的不同含义，理解跨国家庭与不同工作群体的生活条件，找到建立联系和求助的入口。\n使用图书馆、社区课程、运动与文化场所\n按本人身份选择报名入口和费用，准备借阅、预约与入场凭据，并找到人工和无障碍协助。\n纪念碑、口述与海岛记忆\n理解新加坡公共纪念怎样形成，并通过博物馆、私人档案与南部岛民的自述，看见不同群体保存过去的方式。\n工厂、组屋与家庭生活的改变\n从就业、公共住房和家庭照顾理解工业化：新镇带来的便利、搬迁的代价，以及女性劳动和社群关系的变化。\n族群分类与生活中的身份\n认识华族、马来族、印度族、欧亚及其他社群，分清行政族群分类、历史来源与个人的语言、信仰和身份认同。\n生病后去哪看：诊所、专科与急诊\n按病情和身份选择 GP、综合诊疗所或医院，完成预约、转介与后续照护。\n总统、国会、内阁与法院各做什么\n理解新加坡国家机构的分工、政府怎样组成、法律怎样通过，以及读政策消息和寻找办事入口时应区分什么。\n医疗费用怎样支付：补贴、MediSave 与保险\n按公民、PR 与外籍身份判断医疗补贴和保险，再核对账单中仍需自己承担的部分。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+        },
+        {
+          "label": "desktop",
+          "search": "SAL",
+          "actualResultClick": "documents/documents",
+          "results": "全书导读\n翻译、公证与跨境文件认证\n按接收机关、文件出具地和用途选择翻译、公证、Apostille 或其他认证，准备原件、数字文件和代办材料。\n离职时怎样结工资、交接准证和处理争议\n按辞职、解雇和裁员情形核对通知期、最终薪资、工作准证及家属停留，并及时启动税清或劳动申索。\n个人所得税：居民身份、申报和缴款\n分清税务居民与准证身份、YA 与所得年度，以及 AIS、NFS、D-NOA、税单更正和缴税各自需要做什么。\n养宠物：住处许可、日常花费与照顾责任\n养猫养狗前核对住宅限制，办理芯片和执照，安排日常照顾、兽医及旅行寄养，并处理走失和无法继续饲养的情况。\n步行、骑行与助行工具可以走哪里\n辨认人行道、专用步行道和骑行路径，核对自行车、电动工具与轮椅的使用、测试、注册及公交携带条件。\n纪念碑、口述与海岛记忆\n理解新加坡公共纪念怎样形成，并通过博物馆、私人档案与南部岛民的自述，看见不同群体保存过去的方式。\nSingpass 与 Myinfo：注册、使用和找回账户\n按身份选择账户，完成注册与登录，核对资料授权，处理换手机、忘记密码和账户泄露，并找到柜台及照护协助。\n手机、宽带与订阅：开通、搬迁和取消\n按证件和使用需要选通信服务，保住常用号码，安排接网搬迁，并把合约、订阅与自动扣款分别收尾。\n出租车和网约车怎样叫、怎样付费\n选路招、电话或应用叫车，核对计价与附加费，安排儿童、轮椅和行李，并处理取消、遗失物与收费争议。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+        },
+        {
+          "label": "desktop",
+          "search": "Apostille",
+          "actualResultClick": "documents/documents",
+          "results": "全书导读\n翻译、公证与跨境文件认证\n按接收机关、文件出具地和用途选择翻译、公证、Apostille 或其他认证，准备原件、数字文件和代办材料。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+        },
+        {
+          "label": "desktop",
+          "search": "PAB",
+          "actualResultClick": "transport/active-mobility",
+          "results": "全书导读\n步行、骑行与助行工具可以走哪里\n辨认人行道、专用步行道和骑行路径，核对自行车、电动工具与轮椅的使用、测试、注册及公交携带条件。\n宗教生活、节庆与到访礼节\n认识新加坡不同信仰与无宗教者的生活，区分公共假期、家庭庆祝和礼拜仪式，按具体场所准备衣着、摄影与参访安排。\n养宠物：住处许可、日常花费与照顾责任\n养猫养狗前核对住宅限制，办理芯片和执照，安排日常照顾、兽医及旅行寄养，并处理走失和无法继续饲养的情况。\n个人所得税：居民身份、申报和缴款\n分清税务居民与准证身份、YA 与所得年度，以及 AIS、NFS、D-NOA、税单更正和缴税各自需要做什么。\n出租车和网约车怎样叫、怎样付费\n选路招、电话或应用叫车，核对计价与附加费，安排儿童、轮椅和行李，并处理取消、遗失物与收费争议。\n工作准证怎么选，入职前查什么\n比较 EP、S Pass、行业及家政 Work Permit、PEP、ONE Pass 与 EntrePass，并核对 offer、准证状态 …\n翻译、公证与跨境文件认证\n按接收机关、文件出具地和用途选择翻译、公证、Apostille 或其他认证，准备原件、数字文件和代办材料。\n谈中美关系时，谁在表达“新加坡的看法”\n用 2026 年外交讲话、ISEAS 区域调查与 Pew 本地公众调查，理解官方立场、假设选边、国家好感和个人经历之间的区别。\n使用图书馆、社区课程、运动与文化场所\n按本人身份选择报名入口和费用，准备借阅、预约与入场凭据，并找到人工和无障碍协助。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+        },
+        {
+          "label": "desktop",
+          "search": "PMA",
+          "actualResultClick": "transport/active-mobility",
+          "results": "全书导读\n步行、骑行与助行工具可以走哪里\n辨认人行道、专用步行道和骑行路径，核对自行车、电动工具与轮椅的使用、测试、注册及公交携带条件。\n宗教生活、节庆与到访礼节\n认识新加坡不同信仰与无宗教者的生活，区分公共假期、家庭庆祝和礼拜仪式，按具体场所准备衣着、摄影与参访安排。\n个人所得税：居民身份、申报和缴款\n分清税务居民与准证身份、YA 与所得年度，以及 AIS、NFS、D-NOA、税单更正和缴税各自需要做什么。\n土地、水、电和食物从哪里来\n理解新加坡有限土地上的资源系统：四大水源、天然气发电与太阳能、进口食品及本地生产，以及家庭能够作出的选择。\n出租车和网约车怎样叫、怎样付费\n选路招、电话或应用叫车，核对计价与附加费，安排儿童、轮椅和行李，并处理取消、遗失物与收费争议。\nSingpass 与 Myinfo：注册、使用和找回账户\n按身份选择账户，完成注册与登录，核对资料授权，处理换手机、忘记密码和账户泄露，并找到柜台及照护协助。\n手机、宽带与订阅：开通、搬迁和取消\n按证件和使用需要选通信服务，保住常用号码，安排接网搬迁，并把合约、订阅与自动扣款分别收尾。\n入住以后：维修、续租、退房与押金\n用租约、房况和付款记录处理租住期间的责任，完成续租或退房，并在押金与维修争议中找到适用的求助渠道。\n医疗费用怎样支付：补贴、MediSave 与保险\n按公民、PR 与外籍身份判断医疗补贴和保险，再核对账单中仍需自己承担的部分。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+        },
+        {
+          "label": "desktop",
+          "search": "押金",
+          "actualResultClick": "housing/tenancy",
+          "results": "全书导读\n入住以后：维修、续租、退房与押金\n…认谁安排、谁付款；到期前查清通知方式和交房要求。押金结算要有扣款项目、依据及实际退款记录，搬走和归还钥匙也应留下双方确认。 先找到自己的租约和直接联系人 整租、…\n买菜与吃饭：从巴刹、小贩中心到超市\n…具体需要说清，结账再核对服务费、GST及饮料容器押金。 先把住处附近的几种选择找齐 巴刹（market，常指售卖蔬果、肉鱼等的市场）、小贩中心（hawker c…\n全书导读\n…件认证住房与租住关系入住以后：维修、续租、退房与押金租房：从核验房源到拿钥匙入住衣食、购物与家庭运转买菜与吃饭：从巴刹、小贩中心到超市打理住处：水电燃气、维修与…\n家庭预算：让每月收入接得住日常与意外\n…计算距离付款还有几个月，逐月预留 一次发生 租房押金、搬家、添置家具、课程报名 在决定前另算现金需求，确认支付后还剩多少 年度费用除以 12，适合从完整年度开始…\n怀孕到出生：就医、登记与孩子的身份\n…醉、额外住院和宝宝需要进一步治疗时，怎样另计。 押金、可用的 MediSave、保险预先批准及最终自付额怎样估算。 临产或夜间出状况时，从哪个入口到院，由谁接诊…\n手机、宽带与订阅：开通、搬迁和取消\n…5，直接裁定为 S$375；注册时的 S$10 押金与退款条件应一并阅读。SMC：程序及费用 无法使用线上平台者，可依规则在 SMC 办公时间提交纸本申请并询问…\n打理住处：水电燃气、维修与垃圾回收\n…庭回收步骤 要处理的东西 可完成的处理办法 饮料押金瓶罐 留完整条码，按 买菜与吃饭 的退瓶方法领取押金 电池、灯管、手机等电子废物 查 NEA 电子废物回收点…\n租房：从核验房源到拿钥匙入住\n…已登记。URA 临时人数上限 FAQ 支付租金和押金时，核对业主收款信息，用可追踪的转账方式并写明用途。HDB 租赁中，代理不得经手租金和押金；代理佣金支付给其…\n查询入口\n准备租房与搬家\n…的房屋类型，核对业主、代理及出租批准，再用租约、押金与退租检查维修、付款、续租和提前终止条款。 按生活圈比较核对门到门通勤，再用公共交通安排每日路线。 保存签妥…"
+        },
+        {
+          "label": "desktop",
+          "mobilityTables": [
+            {
+              "columns": 6,
+              "width": 770,
+              "parentWidth": 770,
+              "parentScroll": 770,
+              "overflow": "auto"
+            },
+            {
+              "columns": 2,
+              "width": 770,
+              "parentWidth": 770,
+              "parentScroll": 770,
+              "overflow": "auto"
+            }
+          ]
+        },
+        {
+          "label": "desktop",
+          "route": "community/public-facilities",
+          "headings": [
+            "图书馆：按身份开会员，再借阅",
+            "社区课程：找到班次，付款后核对确认",
+            "运动：有无 Singpass 会改变可用入口",
+            "公园：选好入口，组织活动另看许可",
+            "看展与演出：看清门票覆盖范围"
+          ]
+        },
+        {
+          "label": "desktop",
+          "route": "documents/documents",
+          "headings": [
+            "委托前把要求问清楚",
+            "交 ICA 的非英文文件怎样翻译",
+            "外国文件带来新加坡，找出具地的路线",
+            "新加坡文件送境外，先按文件种类分流",
+            "到 SAL 柜台前，付款和代办怎样安排",
+            "文件有错、遗失或核验失败"
+          ]
+        },
+        {
+          "label": "desktop",
+          "route": "housing/tenancy",
+          "headings": [
+            "先找到自己的租约和直接联系人",
+            "入住房况要能在退房时对得上",
+            "报维修时，把费用和安排一起谈清",
+            "续租、换人或提前退租",
+            "退房怎样办到结清",
+            "押金或维修谈不拢，怎样求助"
+          ]
+        },
+        {
+          "label": "mobile",
+          "branch": "community",
+          "actualLeafClick": "/book/life/community/public-facilities/",
+          "keyboardFold": true
+        },
+        {
+          "label": "mobile",
+          "branch": "housing",
+          "actualLeafClick": "/book/life/housing/tenancy/",
+          "keyboardFold": true
+        },
+        {
+          "label": "mobile",
+          "branch": "transport",
+          "actualLeafClick": "/book/life/transport/active-mobility/",
+          "keyboardFold": true
+        },
+        {
+          "label": "mobile",
+          "branch": "documents",
+          "actualLeafClick": "/book/life/documents/documents/",
+          "keyboardFold": true
+        },
+        {
+          "label": "mobile",
+          "search": "NLB",
+          "actualResultClick": "community/public-facilities",
+          "results": "全书导读\n使用图书馆、社区课程、运动与文化场所\n按本人身份选择报名入口和费用，准备借阅、预约与入场凭据，并找到人工和无障碍协助。\n工厂、组屋与家庭生活的改变\n从就业、公共住房和家庭照顾理解工业化：新镇带来的便利、搬迁的代价，以及女性劳动和社群关系的变化。\n小贩中心与日常社交生活\n从街头小贩到共同用餐空间，理解饮食传承、摊贩劳动，以及运动、休闲和多语媒体怎样连接日常生活。\n纪念碑、口述与海岛记忆\n理解新加坡公共纪念怎样形成，并通过博物馆、私人档案与南部岛民的自述，看见不同群体保存过去的方式。\n从海峡港口到独立国家\n沿着贸易、殖民、战争与政治选择，理解新加坡怎样从区域港口走到 1965 年独立。\n保护资料、判断信息与应对诈骗\n收到可疑电话和消息时怎样核实，账户或手机出事后怎样止损、留证与报案，并养成保护个人资料和查证信息的习惯。\n宗教生活、节庆与到访礼节\n认识新加坡不同信仰与无宗教者的生活，区分公共假期、家庭庆祝和礼拜仪式，按具体场所准备衣着、摄影与参访安排。\n打理住处：水电燃气、维修与垃圾回收\n开通和核对家庭水电账户，处理漏水停电、空调潮湿及虫害，找合适的维修人员，并安排日常垃圾和大件回收。\n反馈街区问题，找到居民网络\n记录公共环境与设施问题，选择 OneService 或主管入口，并通过邻近居民网络参与社区。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+        },
+        {
+          "label": "mobile",
+          "search": "ActiveSG",
+          "actualResultClick": "community/public-facilities",
+          "results": "全书导读\n使用图书馆、社区课程、运动与文化场所\n按本人身份选择报名入口和费用，准备借阅、预约与入场凭据，并找到人工和无障碍协助。\n小贩中心与日常社交生活\n从街头小贩到共同用餐空间，理解饮食传承、摊贩劳动，以及运动、休闲和多语媒体怎样连接日常生活。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+        },
+        {
+          "label": "mobile",
+          "search": "RN",
+          "actualResultClick": "community/neighbourhood",
+          "results": "全书导读\n反馈街区问题，找到居民网络\n记录公共环境与设施问题，选择 OneService 或主管入口，并通过邻近居民网络参与社区。\n买菜与吃饭：从巴刹、小贩中心到超市\n安排日常采购和外食，读懂食物标签、清真认证、GST与服务费，处理餐具归还、饮料押金和食品问题。\n申请 PR、公民与办理 REP\n按家庭、工作和学习情况找到申请路径，准备及更新材料，完成批准后的手续，并在离境返回前处理 REP。\n通过兴趣、志愿与互助建立联系\n按时间、预算、语言与照护需要选择可持续参加的活动，完成报名，并给彼此保留边界。\n个人所得税：居民身份、申报和缴款\n分清税务居民与准证身份、YA 与所得年度，以及 AIS、NFS、D-NOA、税单更正和缴税各自需要做什么。\nCPF 基础：谁要缴、工资怎样扣、钱能做什么\n按身份、年龄、PR 阶段和就业形式判断 CPF 缴纳，并理解住房、医疗与退休账户。\nSingpass 与 Myinfo：注册、使用和找回账户\n按身份选择账户，完成注册与登录，核对资料授权，处理换手机、忘记密码和账户泄露，并找到柜台及照护协助。\n怀孕到出生：就医、登记与孩子的身份\n安排产检和生产，按时登记出生，并按父母与孩子的身份衔接护照、居留和产假。\n办事找谁：公共服务、街区反馈与预算\n分清部委、法定机构与市镇理事会，完成 OneService 反馈和跟进，并找到公共预算、财政报告与政策咨询入口。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+        },
+        {
+          "label": "mobile",
+          "search": "SG Cares",
+          "actualResultClick": "community/connections",
+          "results": "全书导读\n通过兴趣、志愿与互助建立联系\n按时间、预算、语言与照护需要选择可持续参加的活动，完成报名，并给彼此保留边界。\n迁徙、定居与跨国家庭\n分清本地出生、新移民和外籍工作者的不同含义，理解跨国家庭与不同工作群体的生活条件，找到建立联系和求助的入口。\n使用图书馆、社区课程、运动与文化场所\n按本人身份选择报名入口和费用，准备借阅、预约与入场凭据，并找到人工和无障碍协助。\n纪念碑、口述与海岛记忆\n理解新加坡公共纪念怎样形成，并通过博物馆、私人档案与南部岛民的自述，看见不同群体保存过去的方式。\n工厂、组屋与家庭生活的改变\n从就业、公共住房和家庭照顾理解工业化：新镇带来的便利、搬迁的代价，以及女性劳动和社群关系的变化。\n族群分类与生活中的身份\n认识华族、马来族、印度族、欧亚及其他社群，分清行政族群分类、历史来源与个人的语言、信仰和身份认同。\n生病后去哪看：诊所、专科与急诊\n按病情和身份选择 GP、综合诊疗所或医院，完成预约、转介与后续照护。\n总统、国会、内阁与法院各做什么\n理解新加坡国家机构的分工、政府怎样组成、法律怎样通过，以及读政策消息和寻找办事入口时应区分什么。\n医疗费用怎样支付：补贴、MediSave 与保险\n按公民、PR 与外籍身份判断医疗补贴和保险，再核对账单中仍需自己承担的部分。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+        },
+        {
+          "label": "mobile",
+          "search": "SAL",
+          "actualResultClick": "documents/documents",
+          "results": "全书导读\n翻译、公证与跨境文件认证\n按接收机关、文件出具地和用途选择翻译、公证、Apostille 或其他认证，准备原件、数字文件和代办材料。\n离职时怎样结工资、交接准证和处理争议\n按辞职、解雇和裁员情形核对通知期、最终薪资、工作准证及家属停留，并及时启动税清或劳动申索。\n个人所得税：居民身份、申报和缴款\n分清税务居民与准证身份、YA 与所得年度，以及 AIS、NFS、D-NOA、税单更正和缴税各自需要做什么。\n养宠物：住处许可、日常花费与照顾责任\n养猫养狗前核对住宅限制，办理芯片和执照，安排日常照顾、兽医及旅行寄养，并处理走失和无法继续饲养的情况。\n步行、骑行与助行工具可以走哪里\n辨认人行道、专用步行道和骑行路径，核对自行车、电动工具与轮椅的使用、测试、注册及公交携带条件。\n纪念碑、口述与海岛记忆\n理解新加坡公共纪念怎样形成，并通过博物馆、私人档案与南部岛民的自述，看见不同群体保存过去的方式。\nSingpass 与 Myinfo：注册、使用和找回账户\n按身份选择账户，完成注册与登录，核对资料授权，处理换手机、忘记密码和账户泄露，并找到柜台及照护协助。\n手机、宽带与订阅：开通、搬迁和取消\n按证件和使用需要选通信服务，保住常用号码，安排接网搬迁，并把合约、订阅与自动扣款分别收尾。\n出租车和网约车怎样叫、怎样付费\n选路招、电话或应用叫车，核对计价与附加费，安排儿童、轮椅和行李，并处理取消、遗失物与收费争议。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+        },
+        {
+          "label": "mobile",
+          "search": "Apostille",
+          "actualResultClick": "documents/documents",
+          "results": "全书导读\n翻译、公证与跨境文件认证\n按接收机关、文件出具地和用途选择翻译、公证、Apostille 或其他认证，准备原件、数字文件和代办材料。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+        },
+        {
+          "label": "mobile",
+          "search": "PAB",
+          "actualResultClick": "transport/active-mobility",
+          "results": "全书导读\n步行、骑行与助行工具可以走哪里\n辨认人行道、专用步行道和骑行路径，核对自行车、电动工具与轮椅的使用、测试、注册及公交携带条件。\n宗教生活、节庆与到访礼节\n认识新加坡不同信仰与无宗教者的生活，区分公共假期、家庭庆祝和礼拜仪式，按具体场所准备衣着、摄影与参访安排。\n养宠物：住处许可、日常花费与照顾责任\n养猫养狗前核对住宅限制，办理芯片和执照，安排日常照顾、兽医及旅行寄养，并处理走失和无法继续饲养的情况。\n个人所得税：居民身份、申报和缴款\n分清税务居民与准证身份、YA 与所得年度，以及 AIS、NFS、D-NOA、税单更正和缴税各自需要做什么。\n出租车和网约车怎样叫、怎样付费\n选路招、电话或应用叫车，核对计价与附加费，安排儿童、轮椅和行李，并处理取消、遗失物与收费争议。\n工作准证怎么选，入职前查什么\n比较 EP、S Pass、行业及家政 Work Permit、PEP、ONE Pass 与 EntrePass，并核对 offer、准证状态 …\n翻译、公证与跨境文件认证\n按接收机关、文件出具地和用途选择翻译、公证、Apostille 或其他认证，准备原件、数字文件和代办材料。\n谈中美关系时，谁在表达“新加坡的看法”\n用 2026 年外交讲话、ISEAS 区域调查与 Pew 本地公众调查，理解官方立场、假设选边、国家好感和个人经历之间的区别。\n使用图书馆、社区课程、运动与文化场所\n按本人身份选择报名入口和费用，准备借阅、预约与入场凭据，并找到人工和无障碍协助。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+        },
+        {
+          "label": "mobile",
+          "search": "PMA",
+          "actualResultClick": "transport/active-mobility",
+          "results": "全书导读\n步行、骑行与助行工具可以走哪里\n辨认人行道、专用步行道和骑行路径，核对自行车、电动工具与轮椅的使用、测试、注册及公交携带条件。\n宗教生活、节庆与到访礼节\n认识新加坡不同信仰与无宗教者的生活，区分公共假期、家庭庆祝和礼拜仪式，按具体场所准备衣着、摄影与参访安排。\n个人所得税：居民身份、申报和缴款\n分清税务居民与准证身份、YA 与所得年度，以及 AIS、NFS、D-NOA、税单更正和缴税各自需要做什么。\n土地、水、电和食物从哪里来\n理解新加坡有限土地上的资源系统：四大水源、天然气发电与太阳能、进口食品及本地生产，以及家庭能够作出的选择。\n出租车和网约车怎样叫、怎样付费\n选路招、电话或应用叫车，核对计价与附加费，安排儿童、轮椅和行李，并处理取消、遗失物与收费争议。\nSingpass 与 Myinfo：注册、使用和找回账户\n按身份选择账户，完成注册与登录，核对资料授权，处理换手机、忘记密码和账户泄露，并找到柜台及照护协助。\n手机、宽带与订阅：开通、搬迁和取消\n按证件和使用需要选通信服务，保住常用号码，安排接网搬迁，并把合约、订阅与自动扣款分别收尾。\n入住以后：维修、续租、退房与押金\n用租约、房况和付款记录处理租住期间的责任，完成续租或退房，并在押金与维修争议中找到适用的求助渠道。\n医疗费用怎样支付：补贴、MediSave 与保险\n按公民、PR 与外籍身份判断医疗补贴和保险，再核对账单中仍需自己承担的部分。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+        },
+        {
+          "label": "mobile",
+          "search": "押金",
+          "actualResultClick": "housing/tenancy",
+          "results": "全书导读\n入住以后：维修、续租、退房与押金\n…认谁安排、谁付款；到期前查清通知方式和交房要求。押金结算要有扣款项目、依据及实际退款记录，搬走和归还钥匙也应留下双方确认。 先找到自己的租约和直接联系人 整租、…\n买菜与吃饭：从巴刹、小贩中心到超市\n…具体需要说清，结账再核对服务费、GST及饮料容器押金。 先把住处附近的几种选择找齐 巴刹（market，常指售卖蔬果、肉鱼等的市场）、小贩中心（hawker c…\n全书导读\n…件认证住房与租住关系入住以后：维修、续租、退房与押金租房：从核验房源到拿钥匙入住衣食、购物与家庭运转买菜与吃饭：从巴刹、小贩中心到超市打理住处：水电燃气、维修与…\n家庭预算：让每月收入接得住日常与意外\n…计算距离付款还有几个月，逐月预留 一次发生 租房押金、搬家、添置家具、课程报名 在决定前另算现金需求，确认支付后还剩多少 年度费用除以 12，适合从完整年度开始…\n怀孕到出生：就医、登记与孩子的身份\n…醉、额外住院和宝宝需要进一步治疗时，怎样另计。 押金、可用的 MediSave、保险预先批准及最终自付额怎样估算。 临产或夜间出状况时，从哪个入口到院，由谁接诊…\n手机、宽带与订阅：开通、搬迁和取消\n…5，直接裁定为 S$375；注册时的 S$10 押金与退款条件应一并阅读。SMC：程序及费用 无法使用线上平台者，可依规则在 SMC 办公时间提交纸本申请并询问…\n打理住处：水电燃气、维修与垃圾回收\n…庭回收步骤 要处理的东西 可完成的处理办法 饮料押金瓶罐 留完整条码，按 买菜与吃饭 的退瓶方法领取押金 电池、灯管、手机等电子废物 查 NEA 电子废物回收点…\n租房：从核验房源到拿钥匙入住\n…已登记。URA 临时人数上限 FAQ 支付租金和押金时，核对业主收款信息，用可追踪的转账方式并写明用途。HDB 租赁中，代理不得经手租金和押金；代理佣金支付给其…\n查询入口\n准备租房与搬家\n…的房屋类型，核对业主、代理及出租批准，再用租约、押金与退租检查维修、付款、续租和提前终止条款。 按生活圈比较核对门到门通勤，再用公共交通安排每日路线。 保存签妥…"
+        },
+        {
+          "label": "mobile",
+          "mobilityScroll": {
+            "scrollLeft": 220,
+            "scrollWidth": 576,
+            "clientWidth": 356
+          }
+        },
+        {
+          "label": "mobile",
+          "mobilityTables": [
+            {
+              "columns": 6,
+              "width": 576,
+              "parentWidth": 356,
+              "parentScroll": 576,
+              "overflow": "auto"
+            },
+            {
+              "columns": 2,
+              "width": 356,
+              "parentWidth": 356,
+              "parentScroll": 356,
+              "overflow": "auto"
+            }
+          ]
+        },
+        {
+          "label": "mobile",
+          "route": "community/public-facilities",
+          "headings": [
+            "图书馆：按身份开会员，再借阅",
+            "社区课程：找到班次，付款后核对确认",
+            "运动：有无 Singpass 会改变可用入口",
+            "公园：选好入口，组织活动另看许可",
+            "看展与演出：看清门票覆盖范围"
+          ]
+        },
+        {
+          "label": "mobile",
+          "route": "documents/documents",
+          "headings": [
+            "委托前把要求问清楚",
+            "交 ICA 的非英文文件怎样翻译",
+            "外国文件带来新加坡，找出具地的路线",
+            "新加坡文件送境外，先按文件种类分流",
+            "到 SAL 柜台前，付款和代办怎样安排",
+            "文件有错、遗失或核验失败"
+          ]
+        },
+        {
+          "label": "mobile",
+          "route": "housing/tenancy",
+          "headings": [
+            "先找到自己的租约和直接联系人",
+            "入住房况要能在退房时对得上",
+            "报维修时，把费用和安排一起谈清",
+            "续租、换人或提前退租",
+            "退房怎样办到结清",
+            "押金或维修谈不拢，怎样求助"
+          ]
+        }
+      ],
+      "errors": [],
+      "pass": true
+    },
+    "print-report": {
+      "at": "2026-10-13T05:06:21.139Z",
+      "base": "http://127.0.0.1:1328",
+      "menuIcons": [
+        "fa-solid fa-book-open",
+        "fa-solid fa-list-check",
+        "fa-solid fa-id-card",
+        "fa-solid fa-language"
+      ],
+      "print": {
+        "background": "rgb(255, 255, 255)",
+        "cells": [
+          "rgb(17, 17, 17)"
+        ],
+        "sources": 48,
+        "relative": [],
+        "broken": []
+      },
+      "pass": true
+    },
+    "order-report": {
+      "pass": true,
+      "order": [
+        "/book/life/housing/",
+        "/book/life/housing/renting/",
+        "/book/life/housing/tenancy/"
+      ],
+      "printTitles": [
+        "全书导读",
+        "认识新加坡",
+        "城市、地理与生活环境",
+        "怎样比较新加坡的生活圈",
+        "读懂地址，按天气安排一天",
+        "土地、水、电和食物从哪里来",
+        "关键历史与社会形成",
+        "从海峡港口到独立国家",
+        "工厂、组屋与家庭生活的改变",
+        "纪念碑、口述与海岛记忆",
+        "国家制度与公共事务",
+        "总统、国会、内阁与法院各做什么",
+        "办事找谁：公共服务、街区反馈与预算",
+        "投票、政策意见与公共参与",
+        "族群、宗教与社会构成",
+        "族群分类与生活中的身份",
+        "宗教生活、节庆与到访礼节",
+        "迁徙、定居与跨国家庭",
+        "日常交往与社会文化",
+        "约时间、排队与相处的分寸",
+        "小贩中心与日常社交生活",
+        "富裕城市里的阶层、生活压力与歧视",
+        "新加坡与世界",
+        "马来西亚、印度尼西亚与东盟怎样进入日常生活",
+        "港口、资本与人流怎样连接新加坡和世界",
+        "谈中美关系时，谁在表达“新加坡的看法”",
+        "建立与经营日常生活",
+        "身份、准证与行政生活",
+        "先看身份，再判断能办什么",
+        "工作准证怎么选，入职前查什么",
+        "谁需要国民服役，怎样安排学业和离境",
+        "申请 PR、公民与办理 REP",
+        "翻译、公证与跨境文件认证",
+        "住房与租住关系",
+        "租房：从核验房源到拿钥匙入住",
+        "入住以后：维修、续租、退房与押金",
+        "衣食、购物与家庭运转",
+        "买菜与吃饭：从巴刹、小贩中心到超市",
+        "打理住处：水电燃气、维修与垃圾回收",
+        "购物、退换与维修：消费问题怎样处理",
+        "养宠物：住处许可、日常花费与照顾责任",
+        "交通与出行",
+        "地铁和巴士怎样乘、怎样付费",
+        "出租车和网约车怎样叫、怎样付费",
+        "步行、骑行与助行工具可以走哪里",
+        "数字生活与通信",
+        "Singpass 与 Myinfo：注册、使用和找回账户",
+        "手机、宽带与订阅：开通、搬迁和取消",
+        "保护资料、判断信息与应对诈骗",
+        "社区、公共设施与休闲",
+        "使用图书馆、社区课程、运动与文化场所",
+        "反馈街区问题，找到居民网络",
+        "通过兴趣、志愿与互助建立联系",
+        "人生、健康、家庭与学习",
+        "医疗与健康",
+        "生病后去哪看：诊所、专科与急诊",
+        "医疗费用怎样支付：补贴、MediSave 与保险",
+        "家庭、生育与孩子的身份",
+        "怀孕到出生：就医、登记与孩子的身份",
+        "英语、华语与多语生活",
+        "在多语环境里，把话听懂、把事说清",
+        "工作、收入、财务与经营",
+        "劳动关系与离职安排",
+        "离职时怎样结工资、交接准证和处理争议",
+        "银行、CPF与个人财务",
+        "家庭预算：让每月收入接得住日常与意外",
+        "CPF 基础：谁要缴、工资怎样扣、钱能做什么",
+        "个人税务与离境税清",
+        "个人所得税：居民身份、申报和缴款",
+        "离职与离境税清：IR21 什么时候要办",
+        "法律、风险与外部环境",
+        "公共安全与应急",
+        "紧急求助：报警、救护与住家火灾"
+      ]
+    }
+  },
+  "manual_visual": {
+    "screens": [
+      "mobile-mobility-table.png",
+      "mobile-mobility-table-right.png",
+      "desktop-documents-content.png",
+      "mobile-public-facilities-content.png",
+      "mobile-tenancy-content.png"
+    ],
+    "final_pdf_pages": [
+      102,
+      131,
+      151
+    ],
+    "additional_pdf_before_order_change": [
+      96,
+      132,
+      155
+    ],
+    "pdf_page_count": 207,
+    "limitations": "指定样本目视，不是207页逐页检查。正文未改变；只变接收元数据、检索关键词与租房导航顺序。"
+  },
+  "engineering_fixes": [
+    "In-flight arrival-renewal bold spaces were fixed by its owner before passed gate.",
+    "Browser dark ink now waits until the OINK 150ms colour transition reaches the target CSS token; theme unchanged.",
+    "Search checks use actual role=option entries and click expected titles to confirm landing routes.",
+    "Renting weight=10 makes renting precede tenancy in real sidebar and print."
+  ]
+}

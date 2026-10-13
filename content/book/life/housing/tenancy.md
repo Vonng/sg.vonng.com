@@ -4,11 +4,12 @@ description: 用租约、房况和付款记录处理租住期间的责任，完�
 page_id: sg-tenancy
 content_kind: task
 scope: 新加坡公开市场租住 HDB 或私人住宅的个人及合租者；处理已签租约后的居住与交接，不包括公共租屋援助申请
-status: written
-draft: true
-verified: ""
-reviewed_by: ""
+status: integrated
+draft: false
+verified: "2026-10-13"
+reviewed_by: "identity（独立事实）；root（第三人编辑）"
 weight: 20
+search_keywords: ["SCT", "CJTS", "CEA", "租约", "押金", "退租", "维修"]
 ---
 
 入住后，把签妥的租约、家具清单、房况照片和付款记录放在一起，维修或退房时逐项核对。报修先说明故障，再确认谁安排、谁付款；到期前查清通知方式和交房要求。押金结算要有扣款项目、依据及实际退款记录，搬走和归还钥匙也应留下双方确认。

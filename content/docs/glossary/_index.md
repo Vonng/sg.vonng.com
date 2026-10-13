@@ -28,6 +28,8 @@ weight: 30
 | MediShield Life / MediFund | 终身健保 / 保健基金 | [付款](/book/people/healthcare/healthcare-payments/) |
 | CPF / OA / SA / MA / RA | 公积金及普通、特别、保健储蓄、退休账户 | [CPF](/book/work/finance/cpf-basics/) |
 | MRT / LRT | 地铁 / 轻轨 | [乘车](/book/life/transport/public-transport/) |
+| PAB / PMD / PMA | 电动助力脚踏车 / 个人移动设备 / 个人代步辅助设备 | [骑行与代步](/book/life/transport/active-mobility/) |
+| PHC / PHV / child restraint | 私人出租车 / 常见网约车称呼 / 儿童约束装置 | [出租车与网约车](/book/life/transport/taxis-phv/) |
 | Singlish / MTL | 新加坡口语英语 / 学校母语科目 | [多语生活](/book/people/language/everyday-language/) |
 | HDB / URA / CEA | 组屋、私宅规划及地产代理监管涉及的机构 | [租房](/book/life/housing/renting/) |
 | IRAS / YA / NOA | 税务局 / 课税年度 / 税单 | [个人所得税](/book/work/tax/personal-tax/) |
@@ -40,6 +42,9 @@ weight: 30
 | PUB / EMA / SFA | 水务、能源、食品主管机构 | [资源与供应](/book/foundations/geography/resources/) |
 | ELD / SMC / GRC | 选举局 / 单选区 / 集选区 | [投票与公共参与](/book/foundations/government/participation/) |
 | OneService / ServiceSG | 街区问题反馈工具 / 政府服务协助中心 | [公共服务](/book/foundations/government/public-services/) |
+| NLB / ActiveSG / CC | 国家图书馆管理局 / 公共体育服务 / 社区俱乐部 | [设施与课程](/book/life/community/public-facilities/) |
+| RN / RC / NC | 居民网络 / 居民委员会 / 邻里委员会 | [街区反馈与居民网络](/book/life/community/neighbourhood/) |
+| CV / VC / SG Cares | 社区志愿者 / 志愿服务中心 / 本地关爱运动 | [兴趣、志愿与互助](/book/life/community/connections/) |
 | CASE / SCT | 消费者协会 / 小额索偿庭 | [消费争议](/book/life/household/consumer-rights/) |
 | AVS / PALS | 动物与兽医事务组 / 宠物执照系统 | [养宠物](/book/life/household/keeping-pets/) |
 | Credit Counselling Singapore | 信贷辅导机构；其缩写CCS须结合语境辨认 | [家庭预算与债务求助](/book/work/finance/household-budget/) |
@@ -47,5 +52,6 @@ weight: 30
 | Singpass / Myinfo / passkey | 数字身份账户 / 资料预填服务 / 通行密钥 | [账户与资料](/book/life/digital/accounts/)、[账户安全](/book/life/digital/privacy-fraud/) |
 | GIRO / telecom ADR | 定期扣款安排 / 电信服务争议解决途径 | [通信合约与订阅](/book/life/digital/telecom/) |
 | SCJ / ORAL / PRSEP | 公民旅程 / 特定未成年入籍者成年宣誓 / PR单次入境通行安排 | [申请PR、公民与REP](/book/life/documents/permanent-residence/) |
+| SAL / Apostille / certified true copy | 新加坡法律学会 / 附加证明书 / 经核证的真实副本 | [翻译、公证与认证](/book/life/documents/documents/) |
 | ASEAN / BBK / RTS Link | 东盟 / 巴淡、民丹和卡里汶 / 柔新捷运项目 | [邻国与区域联系](/book/foundations/world/regional-ties/) |
 | Gini / MIS / TEU | 基尼系数 / 基本生活需要研究 / 标准箱 | [阶层与生活压力](/book/foundations/culture/inequality/)、[开放经济口径](/book/foundations/world/trade-migration/) |

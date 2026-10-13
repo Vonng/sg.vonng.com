@@ -62,6 +62,10 @@ for (const [label,width,height] of [['desktop',1440,1000],['mobile',390,844]]) {
  await page.locator('dialog[open] label').filter({has:page.locator('[data-bs-theme-value="dark"]')}).click();
  await page.keyboard.press('Escape');
  assert.equal(await page.locator('html').getAttribute('data-bs-theme'),'dark');
+ // OINK animates ink for 150 ms. Read the target token and wait for the
+ // painted card to reach it before checking the colour or taking a screenshot.
+ const targetInk=await page.evaluate(()=>{const probe=document.createElement('span');probe.style.cssText='color:var(--bs-body-color);transition:none';document.body.appendChild(probe);const ink=getComputedStyle(probe).color;probe.remove();return ink;});
+ await page.waitForFunction(ink=>getComputedStyle(document.querySelector('.sg-card')).color===ink,targetInk);
  const cardColor=await page.locator('.sg-card').first().evaluate(e=>getComputedStyle(e).color);assert.notEqual(cardColor,'rgb(40, 39, 35)','dark card text uses light theme ink');
  const darkshot=`${dest}/${label}-dark.png`;await page.screenshot({path:darkshot});report.screenshots.push(darkshot);report.checks.push({label,darkMode:true});
  if(label==='desktop'){

@@ -4,11 +4,12 @@ description: 按本人身份选择报名入口和费用，准备借阅、预约�
 page_id: sg-community-public-facilities
 content_kind: guide
 scope: 新加坡公民、PR、工作准证、学生、家属与访客；日常公共设施和文化场所使用，费用示例按2026年10月查阅
-status: written
-draft: true
-verified: ''
-reviewed_by: ''
+status: integrated
+draft: false
+verified: "2026-10-13"
+reviewed_by: "care_finance（独立事实）；identity（第三人编辑）"
 weight: 10
+search_keywords: ["NLB", "CC", "PA", "ActiveSG", "MyActiveSG+", "PAssion", "SG Culture Pass", "图书馆", "社区课程"]
 ---
 
 想读书、参加课程、运动或看展，可以先选离家或工作地点方便到达的设施，再核对自己的会员、票种与报名条件。图书馆借阅、球场预约和文化场所优惠，各有自己的办理入口；带孩子或需要辅助时，把同行者和所需帮助一起确认。

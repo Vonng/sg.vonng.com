@@ -4,11 +4,12 @@ description: "按接收机关、文件出具地和用途选择翻译、公证、
 page_id: sg-documents-translation-legalisation
 content_kind: task
 scope: "向 ICA、MOM 或其他机构提交文件，以及把新加坡文件送境外或将外国文件带来新加坡的个人和家庭；含数字文件、法院文件与线下核对"
-status: written
-draft: true
-verified: ""
-reviewed_by: ""
+status: integrated
+draft: false
+verified: "2026-10-13"
+reviewed_by: "care_finance（独立事实）；root（第三人编辑）"
 weight: 60
+search_keywords: ["SAL", "Apostille", "HCCH", "CTC", "ACO", "翻译", "公证", "文件认证"]
 ---
 
 先取得接收机关的文件清单，确认它要原件、核证副本、英文翻译还是跨境认证，再花钱办理。文件在哪里出具、交到哪里、用于什么事项，会决定后续路线；同一张出生证交给不同机构，要求也可能不同。Singapore Academy of Law（SAL，新加坡法律学会）负责新加坡文件的出境认证，接收机关决定哪些文件必须认证。[SAL：认证要求由谁决定](https://legalisation.sal.sg/App/Templates/LEG_FAQ_v1.4_15Oct2025.pdf)

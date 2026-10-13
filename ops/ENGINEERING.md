@@ -1,5 +1,15 @@
 # 工程与验收
 
+## B03C第二批本地验收（2026-10-13）
+
+接收community三篇、文书认证、出租车/网约车、主动出行和租约，共七主题；累计48主题、94公开源、96HTML、244输出文件。生产最终99源/53主题/5草稿，零错误及警告；public与审查目录逐路径/大小/SHA相同。在途草稿不进入公开书目。只提升已审稿状态及检索元数据，不改变审核正文。
+
+15路径双视口46检查通过；四个新侧栏分支两视口实点与Space/Enter折叠、九个关键词逐个点中所需结果并核落页、六列路权表可横滚、三主题探针共35检查通过。浏览器首轮在OINK 150ms颜色过渡中读到旧手机颜色；脚本现从CSS token取目标色并等待实际绘制达到目标，再截图。主题未修改。额外搜索首轮把结果误认成a，核实现后用真实role=option条目并实际点击；首次失败与修正范围如实保留于此。
+
+打印73书节点/48来源表/207物理页，纸面白底表格黑字、锚点和相对URL均通过。root实际看手机六列路权表左右端、文书桌面、公共设施与租约手机，最终PDF102/131/151页；排序前另看96/132/155页相同正文。六列表跨页重复表头，长来源网址换行。这是抽样目视。租房weight:10后已实查侧栏与打印先租房后租约。
+
+复现：`SG_PATHS_FILE=.cache/b03c-next-browser-paths.json SG_RENDER_DIR=.cache/render-b03c2 SG_TABLE_PATH=/book/life/transport/active-mobility/ node scripts/check_browser.mjs`；`SG_RENDER_DIR=.cache/render-b03c2 node scripts/check_print.mjs`。额外脚本.cache/check-b03c2-extra.mjs与原始图像/PDF保持忽略；可重建路径、审核版本、完整结果与限定范围保存在checks/b03c2-acceptance.json。全书仍待B03C余稿及B04/B05/B06，主题篇数不是覆盖完成。
+
 ## B03B/C恢复批本地验收（2026-10-13）
 
 接续交接的历史文化4、社会3、世界/不平等4、数字3及PR申请1，共新增15主题；同时维护公共交通巴士2026-09-23新规。全部有异人事实及第三编辑，接收只改元数据、排序与检索关键词，正文SHA与相应报告一致。新增society/culture/world/digital导读、防骗事项入口和术语。

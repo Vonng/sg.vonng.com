@@ -1,18 +1,18 @@
 # 当前检查点
 
-2026-10-13 Asia/Singapore。更换订阅号后的完整持续目标已恢复，goal实查active；五部分28领域持续推进，未作完成认定。
+2026-10-13 Asia/Singapore。更换订阅号后的完整持续目标继续active；全书五部分28领域未完成，不停在批次。
 
-恢复后首批已验收：B03B历史文化4、社会3、世界/不平等4，B03C数字3及PR申请1，共新增15主题；公共交通补2026-09-23巴士行为新规。累计41接收主题、86公开源、88HTML、228输出文件。最终生产门禁0错误；public与production-review逐路径/大小/SHA一致。25路径双视口66检查，额外新分支/搜索/PR表格/防骗28检查通过。打印65节点/41来源表/180页，root看过指定桌面/手机及PDF66/86/130页，未声称逐页目视。轻量证据ops/checks/b03bc-acceptance.json，图像/PDF留.cache/render-b03bc。
+恢复首批15主题与巴士维护已本地提交e794764；第二批七主题完成接收：community三篇、文书认证、出租车/网约车、主动出行、租约。累计48已审主题、94公开源、96HTML、244输出文件，最终make check零错误/警告，public与production-review逐路径/大小/SHA完全一致。第二批15路径双视口46检查、额外35检查与打印通过；73打印书节点、48来源表、207物理页。root看过限定手机/桌面及最终PDF102/131/151页，非逐页目视。完整轻量记录checks/b03c2-acceptance.json，复现见ENGINEERING；原始图像/PDF留忽略.cache/render-b03c2。
 
-恢复首轮实查：d9c3c7f上的82源与旧交接快照完全一致、26主题/188输出仍完整；上级AGENTS现已存在并全文读取。当前新源与旧82快照的预期差异来自已推进正文，后续以当前Git、accepted.json及最新验收记录判定。Hugo/OINK锁定版本未改，没有Git远程、外部推送或发布。现有未跟踪ops/PROMPT-ORIGIN.md为用户已有提示词来源记录，保留原样。
+现在待审/写作：driving作者冻结已交daily事实，neighbours作者冻结已交identity事实；arrival-renewal/pass-management已落盘，identity全量作者自审；airport-checkpoints仍care完整写作。daily购房按HDB、私宅、EC、税贷/CPF成本四篇研究；两新增路径先地图登记。MOE admission旧缺口和PDPC privacy-data留真实待审/计划，不重复旧失败URL。root已启动B04 language communication/multilingual-family两稿研究，主管原件在.cache/research/b04-language；地图b04-language独占。三执行者完成各自B03C完整稿后直接接B04：identity家庭，care医疗/心理残障/照护/老年，daily基础/高教/成人教育，root多语。所有完整PROMPT种子与高影响身份分支仍须闭合。
 
-当前待工程/审稿：documents文书已care事实+root第三编辑；community三篇已care事实+identity第三编辑；taxis-phv/active-mobility已daily事实，root第三编辑待做；tenancy已作者冻结，identity事实审中。三社区互引须共同接收，出租车与主动出行互引也须共同接收。root社区稿SHA见作者证据。其余arrival-renewal与新拆pass-management研究中；driving/airport-checkpoints仍care写作；neighbours/buying-hdb/buying-private仍daily研究。学校admission核心MOE与privacy-data主管原文缺口保持真实待审/计划。
+HUM表达清理规则与初始94文件队列在ops/HUMANIZE.md。作者自审按正面动作直陈；已审正文冻结，旧稿表达清理须独立版本和受影响审核绑定，不能绕accepted正文SHA。初始队列需随新增实际文件补充；暂未把全书清理记完成。
 
-当前三条执行线均为恢复后新代理，不沿用旧句柄。identity负责身份及社区第三编辑/租约事实；care负责交通及身份/社区事实；daily负责住房及交通事实；root独占配置、入口、总账、第三编辑接收与共享构建。下一步接文书/社区/交通/租约成熟稿并生产验收，继续B03C住房身份余项，然后B04/B05与B06全书种子和真实情境走查，不停在本批。
+恢复首轮d9c3c7f的82源与旧交接SHA一致、26主题/188输出完整。旧HANDOFF仅历史，当前以Git、accepted.json和最新验收为准。上级AGENTS现已存在且全文读；Hugo0.166.0 Extended/OINK1.2.0锁不变，无远程、外部推送或发布。未跟踪ops/PROMPT-ORIGIN.md是用户已有来源记录，保留原样不擅自提交。
 
-自有静态预览已重启并实查：PID44692，127.0.0.1:1328，scripts/serve_review.py服务.cache/production-review（工具会话16017）；旧PID27216不存在。其他项目预览未动。每次恢复仍先实查，句柄不是持久运行承诺。
+自有静态预览当前实查PID44692，127.0.0.1:1328，scripts/serve_review.py服务.cache/production-review（会话16017）；每次恢复仍实查，不依赖旧句柄。其他项目预览未动。
 
-下一命令：读取最新成熟稿与两轮报告，核完整/正文SHA后接收；有实际内容变化才 make check DESTINATION=.cache/production-review → 本批真实路径的双视口/搜索/打印 → make sync。首批渲染复现见ENGINEERING，后续用新的路径/目录记录，不能冒用旧范围。
+下一步：保存本批轻量文件与真实在途状态，本地提交；补完两篇多语稿→异人回源事实→第三人编辑；接驾驶/邻里/居留/准证/机场成熟稿与两轮报告，再新批 make check → 实际渲染/打印 → make sync。继续B04/B05和B06全书28领域、身份/人生事件/弱势处境走查。
 
 以下为用户暂停时的历史检查点，数量和句柄仅供定位：
 

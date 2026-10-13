@@ -12,20 +12,21 @@
 | B02 租房/应急/离职/个人税/出生/入学 | 三作者共7稿 | integrated 6 / draft 1 | 身份等主概念已稳定，逐篇写审集成 |
 | B03A 政府/地理/家庭日常/预算 | identity政府3；daily_history地理3；care_finance日常4；root预算1 | integrated | 11篇事实/第三编辑/生产构建与渲染通过；预算由care事实、identity第三编辑 |
 | B03B 社群/历史文化/世界与不平等 | identity社群3；daily_history历史文化4；care_finance世界与不平等4 | integrated | 11篇两轮审核、生产/25路径双视口/搜索/打印通过；版本见accepted和b03bc-acceptance |
-| B03C 身份住房交通数字社区余项 | root数字与社区；identity证件3；daily住房4；care交通4（含出租车PHV拆篇） | writing / reviewing | 数字3与PR1已集成；文书两轮通过待工程，社区3事实通过待第三编辑；出租车事实通过，主动出行事实审中，租约事实审中。identity写抵达/新拆MOM管理；daily继续住房，care继续驾驶/机场。root接第三编辑及工程；领域7—12余项持续闭合 |
-| B04 家庭教育照护 | 待分派 | planned | BOOKMAP领域13—19余项逐条闭合 |
+| B03C 身份住房交通数字社区余项 | root数字与社区；identity证件；daily住房；care交通 | writing / reviewing | 数字3、PR/文书2、社区3、出租车/主动出行2及租约1已集成；居留/准证管理作者自审，邻里稿identity事实审；驾驶/机场与HDB/私宅/EC/成本持续研究写作。root接第三编辑及工程；7—12领域缺口不按篇数认定完成 |
+| B04 家庭教育照护 | identity家庭；care医疗/心理残障/照护/老年；daily教育高教成人学习；root多语 | assigned / researching | 执行者B03C完整写审后直接接本人B04；root communication/multilingual-family已研究。13—19全部种子、身份与生命周期分支逐条闭合；所分路径独占，必要拆页先登记 |
 | B05 财务经营法律安全 | 待分派 | planned | BOOKMAP领域20—28余项逐条闭合 |
 | B06 全书覆盖与情境走查 | root+独立审阅者 | planned | 全28领域种子/身份/生命周期/弱势处境逐条证明 |
+| HUM 全书说人话校对 | root | planned | 按 ops/HUMANIZE.md 逐文件清理 content/ 全部94源；删说教/免责/无信息量否定，负向对冲改正面直陈；事实层零变动（diff+grep机检）；○在途draft稿待集成后补；闭环后主控 make check 与渲染验收 |
 
 ## 日期触发与来源缺口
 
 | 触发日 | 重核对象 | 来源与受影响正文 |
 |---|---|---|
-| 2026-11-30 | 出租车临时附加费用结束/延期核查 | CDG current fare FAQ；taxis-phv待工程稿，见b03c-transport证据 |
+| 2026-11-30 | 出租车临时附加费用结束/延期核查 | CDG current fare FAQ；taxis-phv已集成，见b03c-transport证据 |
 | 2026-11-01 | BCRS小型零售商及非营利组织旧货宽限结束 | NEA2026-09-29公告；food-shopping |
 | 2027-01-01 | NRIC验证滥用加强执法（private organisations须2026-12-31前停用，MDDI2026-02-03）；EP/S新申请门槛；CPF老年雇员/平台/自雇年度表；1777停用；SCFA 2027门槛待后续托管页核 | MOM eligibility；CPF缴款；SCDF EMS；work-passes/cpf-basics/getting-care |
 | 2027-02-28 | 泰国Apostille公约EIF及两国适用关系 | HCCH现行状态表；documents通用出具地/目的地查询入口，正文不提前写生效 |
-| 2029-01-01 | 全部mobility scooter注册阶段 | LTA PMA详页；active-mobility待独审，2027中既有设备开放也需回源 |
+| 2029-01-01 | 全部mobility scooter注册阶段 | LTA PMA详页；active-mobility已集成，2027中既有设备开放也需回源 |
 | 2027-01-28 | ONE Pass AI/Tech是否开放及细则 | MOM ONE Pass eligibility；work-passes |
 | 2027-04-01 | PCP范围及流程变化 | MOM What is PCP；healthcare-payments |
 | 2027-10 | NS医学分级与入伍批次 | CMPB FAQ；NS未来体检细页，现主文未用PES等级 |
@@ -40,7 +41,7 @@
 
 B02入学未闭：AEIS/S-AEIS逐年级年龄与CEQ、当期/下一届关键窗口、2027 P1框架主管原文和适用抽签规则。作者与独立审已明确留稿；root新官方范围定位未找到新增核心原文，见evidence/school-access-followup.md。无新URL或版本不重试。学校费用精确表留后续预算专题；不会把旧学校页更新时间当规则年度。
 
-新增维护线索：LTA 2026-09-23公共巴士与换乘站行为规例详页，daily_history研究礼节时发现、尚未用于B01交通正文。应在交通余项研究时回源；见evidence/b03b-history-culture.md，不把线索当成规则已审。
+巴士维护已闭：LTA 2026-09-23行为规例已由daily写入公共交通、identity限定回源事实审及root第三编辑通过并随首恢复批集成；版本与旧审核继承范围见accepted.json，不重复研究未变正文。
 
 RTS维护：care_finance实际读到LTA2026-10-02公告，载客目标改为2027年2月，仍待独立安全认证和最终监管批准；常驻项目页旧写2026年底。由B03B regional-ties承接新公告，交通余项同步交叉检查：https://www.lta.gov.sg/content/ltagov/en/newsroom/2026/10/news-releases/grantors-informed-rts-link-service-targeted-feb-2027.html 。
 

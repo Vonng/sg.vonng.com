@@ -4,11 +4,12 @@ description: "选路招、电话或应用叫车，核对计价与附加费，安
 page_id: sg-taxis-phv
 content_kind: task
 scope: "新加坡境内出租车及私人出租汽车乘客；含居民和访客、无应用叫车、家庭与行动不便者，跨境车仅提供持牌入口"
-status: written
-draft: true
-verified: ""
-reviewed_by: ""
+status: integrated
+draft: false
+verified: "2026-10-13"
+reviewed_by: "daily_history（独立事实）；root（第三人编辑）"
 weight: 30
+search_keywords: ["PHV", "PHC", "CDG", "出租车", "网约车", "儿童座椅", "轮椅"]
 ---
 
 没有叫车应用，也可以在出租车站排队、在允许停车的位置招车，或拨电话预订。用应用时先看选的是计表出租车还是预先定价的车程，再确认上车点、人数、儿童座椅及行李。私人出租汽车（Private Hire Car，PHC，常称网约车）须预订，不能像出租车那样路招。
