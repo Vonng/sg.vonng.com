@@ -4,10 +4,10 @@ description: 按身份和产品准备开户材料，安排工资收款、银行�
 page_id: sg-finance-banking
 content_kind: task
 scope: 公民、PR、工作准证、学生、家属与访客；含未成年人、联名账户、无Singpass或手机及跨境收付款，开户与权限按所列银行和产品判断
-status: written
-draft: true
-verified: ""
-reviewed_by: ""
+status: integrated
+draft: false
+verified: "2026-10-13"
+reviewed_by: "daily_history（独立事实）；identity（第三人编辑）"
 weight: 20
 search_keywords: ["银行开户", "银行卡", "PayNow", "FAST", "GIRO", "eGIRO", "NETS", "工资账户", "POSB", "联名账户", "错汇"]
 ---
@@ -121,7 +121,7 @@ NETS 的具体卡种见[NETS Bank Card](https://www.nets.com.sg/nets/for-you/net
 
 看到本人没有授权的交易，立即用银行官方挂失/欺诈渠道停用相关卡或账户，并按[诈骗与账户泄露处置](/book/life/digital/privacy-fraud/)保存记录、报案和恢复账户。普通账单多扣则同时保留账单及商户答复，说明自己要求更正哪笔交易。
 
-正式投诉先交银行，让它有机会处理，并保存受理编号、银行来往和最终回复。解决不满意且属于 FIDReC 受理范围的，可在 **收到银行最终回复后六个月内** 向 FIDReC 提交。提交投诉免费；调解不成而选择裁决时，先确认当前裁决费用。裁决额度对2024年7月1日后提交的案件为每项申索 **S$150,000** ，调解没有金额上限；银行商业或定价决定、已司法判决及其他所列排除事项按该机构规则判断。[FIDReC：现行 FAQ](https://www.fidrec.com.sg/knowledgebase/article/KA-01013/en-us)、[受理范围](https://www.fidrec.com.sg/knowledgebase/article/KA-01131/en-us)
+正式投诉先交银行，让它有机会处理，并保存受理编号、银行来往和最终回复。解决不满意且属于 FIDReC 受理范围的，可在 **收到银行最终回复后六个月内** 向 FIDReC 提交。提交投诉免费；调解不成而选择裁决时，先确认当前裁决费用。裁决额度对2024年7月1日或以后提交的案件为每项申索 **S$150,000** ，调解没有金额上限；银行商业或定价决定、已司法判决及其他所列排除事项按该机构规则判断。[FIDReC：现行 FAQ](https://www.fidrec.com.sg/knowledgebase/article/KA-01013/en-us)、[受理范围](https://www.fidrec.com.sg/knowledgebase/article/KA-01131/en-us)
 
 准备显示户名、账号及争议交易的结单，银行来往、通知和交易凭证；涉及欺诈或未授权交易的报案记录、联名授权等按具体投诉清单补交。线上登记或提交有困难，可拨 **6327 8878** 询问协助；办公时间周一至五9时至18时，公共假日除外，现场办理须先预约。[FIDReC：支持材料](https://www.fidrec.com.sg/knowledgebase/article/KA-01325/en-us)、[电话及预约](https://www.fidrec.com.sg/contact-us/)
 

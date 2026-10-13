@@ -137,3 +137,130 @@ identity 另指出指南工具 `P19`／`P29` 是从0起索引；作者实际回�
 - HDB couples-and-families / singles 资格目录：已有web导航44/33；各首次正常直连403/4756B，随后各唯一正常8888仍403/4756B，已停止，不继续同URL/别加参数。
 - 新HDB acquiring-private-property：web41行导航、正常直连403/4756B、唯一8888仍403/4756B。新waitout-removal公告：web3行标题、正常直连403/4756B、唯一8888仍403/4756B，已停止。搜索新闻日期27July与列表22Aug冲突，未把搜索主文日期当核验日或生效日。
 - 新购房核心已有AnnexA/B、SLA、URA、CEA、IRAS与银行原文，可推进完整可核分支；HDB家庭／外国配偶／PR3年／retention与新waitout原文仍不假装闭合。普通研究继续，不待新的用户授权。没有表单／真实交易／电话／邮件／外部联络或共享构建。
+
+## 2026-10-13 购房成本主管原文
+
+以下由 daily_history 本人实际读，仍属作者研究。原工具完整返回存 `purchase-costs-tool-results.json`（1—6）、`purchase-costs-tool-results-2.json`（7—11）、`purchase-costs-tool-results-3.json`（12）。搜索结果仅定位，不作为采用原文。CPF 首套图为当前详页真实 image 链接正常 HTTPS 200；IRAS 三个操作／抵押税页另正常直连200，原 HTML 与解析 txt、状态／SHA 元数据保存在同目录，实际全文阅读采用主体。
+
+| ID与真实主管原文 | 本人实际阅读及支持事实 | 适用时期、条件与边界 |
+| --- | --- | --- |
+| HP18 [IRAS BSD](https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/buyer's-stamp-duty-(bsd)) | 原文 L898—965 全采用：价或市值较高、当前住宅六档1/2/3/4/5/6%，2023-02-15起；现金discount条件、非现金benefit不可扣、同交易首份文件全税。旧税表及工业／商住混合例子只定位，不推住宅计算 | 买组屋／私宅及身份不决定BSD档，居住资格另外核。表中逐档不是整价6%。后段不是整页1139行全读；拟写教学例子需独立复算 |
+| HP19 [IRAS SSD](https://www.iras.gov.sg/taxes/stamp-duty/for-property/selling-or-disposing-property/seller's-stamp-duty-(ssd)-for-residential-property) | 实读 L899—996、1021—1058 及已有采用FAQ：2017-03-11至2025-07-03买入三年12/8/4；>=2025-07-04四年16/12/8/4，没有过渡；OTP只是获发不能锁旧率，按实际接受／合同等日期；部分share分别计原买日；SERS MOP与SSD起点不等；不同强制处分豁免与声明 | 是卖出时，现买者须预算退出成本；旧价或当前出售市值较高。没有把MOP年数当SSD计时或将所有换屋视为豁免。更早2010/2011批次表已读，正文指详页，不套现行表 |
+| HP20 [MAS MSR/TDSR](https://www.mas.gov.sg/regulation/explainers/new-housing-loans/msr-and-tdsr-rules)与[LTV/tenure](https://www.mas.gov.sg/regulation/explainers/new-housing-loans/loan-tenure-and-loan-to-value-limits) | 全主体 L24—55、L24—77 实读：FI的MSR30%用于HDB／EC未满MOP，TDSR55%；未偿住房贷0/1/≥2不同LTV与现金；HDB银行最多30yr、非HDB35yr；超过25/30或到65后低档；共同借款收入加权年龄 | LTV页2024-03-27更新、规则OTP>=2018-07-06；不是HDB优惠贷年限，不由住宅套数推贷款套数；银行可进一步收紧，不是承诺贷足75% |
+| HP21 [MAS Calculating TDSR](https://www.mas.gov.sg/regulation/explainers/tdsr-for-property-loans/calculating-tdsr) | 全主体 L32—154 实读：债务含车／学生／装修／信用卡；税前收入不含雇主CPF，variable/rental至少30%haircut／12月平均；新申请住宅按4%与thereafter较高测试，不是报价；旧房偿还额排除须HDBundertaking/批准信或双方SPA＋税证/全还贷款；金融assets只能有条件并受折算 | 页2022-09-29更新，当前读取。不会把有定存当自动全额月薪或口头准备卖房就排旧贷。新购与refinance例外不同，后者另用MoneySense/主管入口核，不用本段泛化 |
+| HP22 [CPF住房主页](https://www.cpf.gov.sg/member/home-ownership/using-your-cpf-to-buy-a-home)、[限额FAQ](https://www.cpf.gov.sg/service/article/how-much-cpf-savings-can-i-use-for-my-property-purchase)及其[首套图原件](https://www.cpf.gov.sg/servicevforcesite/servlet/rtaImage?eid=ka0IW000000KW0X&feoid=00NIW000000NVUe&refid=0EMIW00000JD1rP) | 本人读主页 L299—396、FAQ L177—216，并 `view_image` 实际目视完整首套图全部行／脚注。OA可用于本金、住房贷、税及法律费，HDB的HPS；housinglimit不含税法律upgrading；银行到lowerprice/value可在已留BRS且仍欠贷时多20%；短lease按最年轻CPFbuyer95岁判断。第二套先留BRS/FRS，不能简单“有OA就全用” | FAQ更新2026-09-18；当前图530,329B MIME image/jpeg、SHA `5ac8821a523ac02df26da5a7d40c2270dcfd4e7f8e34de620a7391a1c4b7b319`，缓存虽命名 `.png` 实为原JPEG，原元数据如实记。图首套定义，不把所有贷款或短lease档一律推120% |
+| HP23 [CPF住房完整条款](https://www.cpf.gov.sg/member/tnc/t-c-for-use-of-cpf-under-cpf-housing-scheme) | 实际读全部实质 L253—611（分回源返回）：HDB/DBSS A及私宅B各可/不可付款，现金option/booking/levy/装修/COV、private不可报销自付卖家款；>=2019-05-10 youngest95/≤20yr不能CPF、新HDB/转售HDB贷与FI不同；C第二套BRS/FRS／卖掉能到95的物业要FRS、六个月宽限用TOP或完成各时点；律师申请/先现金差额/直接付受款方；CPFcharge/售时本息及质押返还/市价售不足无需现金补但option仍算售价须还；refinance/tenure变化通知 | 更新2026-09-07。旧2013—2019 lease60/age80规则不写成现购；重建地屋报销六个月TOP等完整已读仅作后续特殊情况入口，本成本正文不堆建设步骤。CPF换屋六个月起点不同于IRAS的TOP/CSC较早，不能互相替代 |
+| HP24 [CPF售转退款](https://www.cpf.gov.sg/service/article/how-much-do-i-need-to-refund-to-my-cpf-account-when-selling-transferring-my-property)、[55岁后住房贷](https://www.cpf.gov.sg/service/article/can-i-use-my-cpf-savings-to-pay-for-my-housing-loan-after-i-turn-55)、[HPS](https://www.cpf.gov.sg/service/article/do-i-need-to-be-insured-under-home-protection-scheme) | 三页完整实质 L177—195／L177—190／L177—201 读：dashboard WhatHappensIf实际退款、有2013前55且已FRS旧人例外；55转SA/OA到RA仍可OA供贷、可提前reserve／新OAalloc降低；用CPF供组屋须申请HPS，但严既往病不获HPS仍可使用CPF | 2026-06-17/02-06/06-18更新。退款正文用“通常本息”并给账户确数，不把历史例外删除；HPS是保险资格另审，不将身体条件写为失去住房CPF权 |
+| HP25 [IRAS单身SC长者减免](https://www.iras.gov.sg/taxes/stamp-duty/for-property/appeals-refunds-reliefs-and-remissions/common-stamp-duty-remissions-and-reliefs-for-property/absd-concession-for-single-singapore-citizen-(sc)-seniors) | 全主体 L921—1005 实读：>=2024-02-16购第二，所有buyers55+singleSC／原owner一起新买／追加须直系含step，各最多1且无新购；新价低于每套旧价；先缴20、六个月卖旧及六个月申请，TOP/CSC早与现房购日区别；税和价值及售日定义；FAQ反例 | 更新2026-08-07。与夫妻分支分开；非婚伴或年轻子女不自动满足，不把“搬小房”当无需ABSD。single含义未从本页推所有婚姻登记类别；个案由详页申请判断 |
+| HP26 [IRAS HDB/newEC减免](https://www.iras.gov.sg/taxes/stamp-duty/for-property/appeals-refunds-reliefs-and-remissions/common-stamp-duty-remissions-and-reliefs-for-property/Acquisition-of-HDB-Flats-and-new-Executive-Condominium-(EC)-Units) | L914—929完整主体实读：HDB批准自动减免，不须另申；HDB/newEC joint有一SC全免，SPR买HDB减到5%，SERS replacement另全免 | 更新2025-12-08。不是一般私人二手EC全部有此减免，不由税条款推出任何人能买HDB或新EC；住房资格需HDB原文独立闭合 |
+| HP27 [IRAS living trust减免](https://www.iras.gov.sg/taxes/stamp-duty/for-property/appeals-refunds-reliefs-and-remissions/common-stamp-duty-remissions-and-reliefs-for-property/remission-of-absd-(trust)) | 全采用 L914—1005 读：65%先付、六个月从文件执行申请；仅identified/vested/nonrevocable/nonvariable/noconditions；退与beneficiaries最高profile差；未出生／只有租金／日后毕业或21才vest不同；通常处理两月完整资料、获准后一个月退，只作估计不保证 | 更新2026-08-14。livingtrust从2022-05-09，当前65%批次从2023-04-27；遗嘱信托不同。正文只给高影响选路及关键条件，不把设信托作为避税推荐 |
+| HP28 [IRAS加购同物业share](https://www.iras.gov.sg/taxes/stamp-duty/for-property/appeals-refunds-reliefs-and-remissions/common-stamp-duty-remissions-and-reliefs-for-property/acquisition-of-additional-interest-in-property-which-buyer-has-interest) | L914—965全部实质读：现有share仍计新增购；符合条件SC现2套30→20/PR现1套30→5/PR现2套35→30；otherjoint须较低、不partner／trust等；BSD仍有 | 更新2026-08-07。正文不给所有share互转统一免税；婚姻／继承／家人转名分别制度不可推。问答里count下一套是交易税计数，不表示物理房多一间 |
+| HP29 [IRAS税期限](https://www.iras.gov.sg/taxes/stamp-duty/for-property/paying-stamp-duty/when-to-pay-stamp-duty)与[电子文件详解](https://www.iras.gov.sg/taxes/stamp-duty/for-property/basics-of-stamp-duty-for-property/learning-the-basics-for-properties) | L897—920及 L901—984/1012—1040 本人读：法要求签前盖，已签Singapore14日／overseas收到SG30日无罚；电子accept与线上签也可生文件，执行时间地点按最后生约方式；SG查看／存储／带入可为received，不能等纸件／完成交易 | 更新2026-02-05与当前详文。refund六个月不延stamping。页面罚可高达4倍未用具体罚数，迟付款若写另找现罚详页，不由租赁旧审自动继承本税办理 |
+| HP30 [IRAS eStamp](https://www.iras.gov.sg/taxes/stamp-duty/for-property/basics-of-stamp-duty-for-property/e-stamping-and-where-to-e-stamp-documents)、[certificate](https://www.iras.gov.sg/taxes/stamp-duty/for-property/basics-of-stamp-duty-for-property/how-do-i-retrieve-my-stamp-certificate)、[mortgage duty](https://www.iras.gov.sg/taxes/stamp-duty/for-property/buying-or-acquiring-property/mortgage-duty) | 三原HTML正常200本人解析全文读主体（页面尾部）：Singpass/外国无Singpass SFA或本地代表/eKiosk，notallvisitorautomaticauthority；certificateInbox或Records按Ref/Case/Address查询/今年＋三年可取；抵押税mortgage0.4%/equitable0.2%上限500、融资新转仍有 | 更新2026-08-27/01-20/08-11；HTML SHA在对应 `iras-*-direct.json`。自己未登录或提交税务文件，没有冒称实际交易／付款成功；原图/页面表不转成人人适用银行价目表。支付入口跳到动态taxfilter总页，只读未保证未知具体付款方式／分期 |
+
+成本范围已有主管证据，可完整写税、现金／CPF、银行与HDB融资预算。HDB购房家庭资格、EC三阶段和新waitout仍为别篇真实未闭，不用本税减免表替住房规则。新 `housing-loan-from-hdb`、`credit-to-finance-a-flat-purchase` 两主管页本次web仍只53/24行导航，不采用资格表；尚未普通直连，若需要按一次正常直连／唯一代理边界调查。已有失败 URL 均不重试。
+
+HP31 补读两条完整MAS主体：[银行优惠扣除](https://www.mas.gov.sg/regulation/explainers/new-housing-loans/deducting-discounts-rebates-or-benefits) L24—48，[borrower/mortgagor/guarantor](https://www.mas.gov.sg/regulation/explainers/new-housing-loans/borrower-mortgagor-guarantor-borrower-requirements) L24—55。前者所有间接折扣、估价／法律／税及deferredpayment要扣银行adjustedprice；后者住宅购房抵押贷款借款人须OTP purchaser/mortgagor、超TDSR加入担保人实为共同借款人并影响以后LTV。不是“所有房屋业主一定都须借款”的反命题，也不推担保一定不占房套数。分别2019-04-08／2023-02-15页面更新；2026-10-13实读，原工具完整在 `purchase-costs-tool-results-4.json`。
+
+`housing-loan-from-hdb` 已在本轮完成首次正常直连403/4756B和唯一普通8888代理403/4756B，原件／状态在 `hdb-housing-loan-{direct,proxy-once}`，已经停止。成本篇采用HDB自有MyNiceHome实际详细表，按75/55银行档限定签Lease首付20%，其他低LTV按实际要约另核；没有把空导航资格表冒称已读。短lease的HDB实际贷款及HFE完整身份家庭由主管批准核，不拿CPF限额推HDB准贷。
+
+## 2026-10-13 purchase-costs 作者交审
+
+`content/book/life/housing/purchase-costs.md` 完整稿已作者逐段全文通读（1—88、89—172、173—结尾），最后补句再读；身份、税率、夫妻／长者／FTA／trust、银行共同借款、签Lease付款与全程房差、CPF限额及售房退款、SSD新旧期、盖印期限／账号受阻／完成税证逐项对照本人实际采用原文。所有引用均是当前已读详文，不把作者证据当异人原文。
+
+- 冻结27,805bytes；完整SHA256 `7c1150ea048a4fcefe159291451ff0b8948d04e53adbd0f5135e0833a019e34f`；正文SHA256 `8d256734fc26200bf334c3dcaf0df8ba676c17528ab4a0a781241f94270bf103`（UTF-8 `text.split("---",2)[2]`）。
+- 作者自审已纠正“直系”可能遗漏兄弟姐妹／step亲属的译法，明确长者两个六个月；银行签Lease20%限定75/55档，BRS表述用留足而不是设目标；第二套CPF按已用CPF／本次物业及95岁分支；livingtrust先缴而非无条件先减免。
+- 九项元数据及written/draft:true/核验空，正文无H1、加粗外侧普通空格静态通过；54个近邻外部引用，没有计划页relref。未运行共享构建或网页目视；没有真实税务／银行／CPF账号操作。
+- 教学例子明确虚构条件，独立脚本按BSD六档复算S$24,600，75%贷款／5%现金，SC／PR／无减免外国总房差加税274600／324600／874600；不用市场利率报价或未知估值套计算。
+- 事实范围HP01/04/05/12—16及HP18—31；优先独立核HP14夫妻、HP25长者、HP23短lease及多物业CPF和HP26新EC减免，不由相邻制度填购房资格。CPF图实际作者目视全部表行／脚注，异人需自己读原图／条款。
+- 交identity独立事实审，root第三编辑；其余三个购房身份家庭稿继续研究，不囤待审完整稿。正文冻结，修订由本作者处理。
+
+## 2026-10-13 私宅交易新原文与 EC 止损
+
+`buying-latest-tool-results.json` 保存四组真实新网页返回，`buying-latest-locating-only.json` 保存仅检索定位结果，后者不作为采用原文。本人又从此前工具原文抽出SLA原始返回实读，保存 `private-sla-adopted-original-blocks.txt`；这只是原文块整理，不是作者摘要。
+
+| ID／真实原文 | 本人实际阅读与支持事实 | 有效时期及边界 |
+| --- | --- | --- |
+| HP32 [HDB MyNiceHome flat types/classification](https://www.mynicehome.gov.sg/get-started/hdb-flat-types-classification-guide/) | 全主体 L14—182 读：不同房型/旧executive1995止新建；MOP从keys扣nonoccupation／出租／lease违规则，MOP不能买私宅；Standard5／可获准whole租／无补贴回收，PlusPrime10／不whole租／回收不同；Oct2024以前unclassified不追套新classification，PLH纳Prime | 主体2026-06-24。不是所有卧室数等于同数rooms；SC/PR能否保留HDB旧房不由这一概述推定。具体SC及corefamily条件未闭 |
+| HP33 [HDB MyNiceHome grants](https://www.mynicehome.gov.sg/get-started/hdb-grants-guide/) | 全主体 L14—148 读：新房EHG max120k/60k、resalemax230k/115k并非自动；EHG9k/4.5k未随普通income上限改，12月employment期截在申信月前两月/working、property30月；mixedfirst/second possibleSingles60k；Resalegrant16/8 currentfamilyflatgroup80/50与single40/25；PHG4km或同住/core继续MOP、30/20与15/10 | 主体2026-08-23，收入16/8须AnnexB申信>=24Aug一起。PHG文字firsttimer与主管专页一次性PHG eligibility可能不同，未来正文不得仅据“first-timer”概述否定曾买但未获PHG者；家庭SC/PR、外国配偶完整需另核 |
+| HP34 [SLA Land Titles Search](https://www.sla.gov.sg/regulatory/property-ownership/land-titles-search/)与[Registry](https://www.sla.gov.sg/regulatory/property-ownership/sla-land-titles-registry/) | 两原文全采用 L23—78、L23—65读：lot/district或title、address辅助需lotcorrelation；INLIS原文types与SLA线下记录入口；LandTitles登记才effecttransfer，不把CommonLawdeeds分支也说所有登记mandatory；业主本人2FA看已digitisedtitle/plan可免费 | 主体2025-05-28／08-04，当前13Oct读取。INLIS actualweb一行、首次正常直连20089122B Angular HTML，解析仅5bytes没有公告主体；不能把检索的2026-04-01全部Singpass/价目/每日限额当已实际读。当前不写这些动态细项，仍可给真实SLA查询/律师/线下入口；没有购买任何真实记录或登入 |
+| HP35 [CEA agent register核验](https://www.cea.gov.sg/consumers/engaging-a-property-agent/check-if-your-property-agent-is-registered/) | 全主体 L17—65读：注册必须licensedagency、以实际联系/广告电话查注册而非只名字/号码；不匹配则可能scam；事例卡图未目视，不假称身份证件图实际看 | 主体2026-09-04。详页交易记录说两年、register检索说36个月未actualregister，不采用年数／全团队统一归属。只写电话/registration/agency/纪律数据 |
+| HP36 [CEA CDD/UCPDD](https://www.cea.gov.sg/regulatory-matters/preventing-money-laundering-proliferation-financing-and-terrorism-financing/) | 全采用 L17—100及有关处理主体实读：私人住宅交易agent对client及unrepresentedcounterparty购买协议前都核资料；fullname/DOB/nationality/ID/occupation/supportcopies，可高risksourceofwealth/funds；不提供required无法履义务不能推进/PDPA；HDBwhollyresidentialrental例外不套购房 | 主体2026-01-22；不把CDD和公众公开完整NRIC混为一件，也不据此允许身份未核者先要求交所有文件。作者未提供真实个人资料、未做筛查或联络 |
+
+本次真新EC `finding-an-ec`、`eligibility`、`conditions-after-buying-an-ec` actualweb12/20/8行导航，各首次正常直连4034756B、唯一正常8888仍4034756B；SSO `Act/ECHSA1996` web403、首次正常直连网络错误、唯一8888 403919B，均停止，原HTML/状态与SHA同目录。检索提示tenderclosed>=2026-05-08 EC10年MOP/15年后无国籍限制，而SSO检索current仍5年定义；两边都未取得采用主体，故仅记录冲突与新旧批次线索，不在正文宣称已核新规。
+
+新 `services-homes.hdb.gov.sg/sales/files/general_conditions_for_purchase.pdf` actualweb跳 `sales/error/404` HTML，不作为PDF、无代理重试。旧resale6Feb2026 PDF404/HDBe-resale403等边界保持；未通过改参数、执行挑战或匿名后端接口绕失败。普通私宅SLA/URA/CEA主体可写，现有HDB/EC的当前corefamily/通知保留资格仍真实未闭，不从RPA免批或ABSD减免推出。
+
+## 2026-10-13 purchase-costs 事实审后作者修订
+
+identity已独立读取主管原文与CPF图，指出原稿长者段未明写旧房共持者的规定近亲关系、trust既得权益未明写不得撤销／变更／后续条件及remainder/reversion排除，住宅转入时点应替信托成立时点；CPF宽限须说明暂不留BRS/FRS的作用。作者本人再次从原工具缓存实读IRAS HP25 L924—948、HP27 L929—949及L981—992、CPF HP23 L504—519后逐项修正；没有把审者摘要替原件。
+
+修订后作者再次全文通读 `purchase-costs.md`，静态九项元数据／written／draft:true／核验空、无正文H1、加粗空格通过。当前冻结28,103bytes，完整SHA `21abfeb73449c3a6d6e7206717b34d1be114907c5989c96684618751938fb506`／正文SHA `22a79ce7f89d294ab8e0ef15ee3a40d8fbe510e0a5b832c35577ecec97501585`。首稿27,805bytes两SHA仅历史交审版本，待identity最终差分核签；未改其事实报告或填独审核验字段。
+
+## 2026-10-13 buying-private 作者交审
+
+`content/book/life/housing/buying-private.md` 已完整写作并作者实际全文通读，最后自然中文补译／serviced apartments范围小改再次逐句读。冻结20,956bytes，完整SHA `1ab15d06bc7121d437e756a38732e772d295850d6098fbb21bb329e9102407b9`；正文SHA `bc782b0a4e7e76a80399b068b03db844936c9c6a7a91f75337e906b2cf8e4b54`（统一UTF8 split方法）。
+
+采用HP06—11/17/32/34—36。本人重新实读SLA普通／Sentosa全部采用段、URA本地原PDF第7/9/10/11/13页付款／缺陷相关采用段；其余14页全读及7/11页实际目视复用本轮作者原阅读，不称全件逐页目视。CEA三个原件采用范围见HP10—11。静态九项元数据、written/draft:true/核验空、无H1、加粗空格及5处relref（4个独立实际目标）存在通过。没有共享构建、网页渲染、律师／SLA真实提交或外部联系。
+
+核对边界明确：普通私宅RPA公民／PR及准证／访客按真实身份；普通地屋五年及面积条件不自动套Sentosa；SLA批文先于exercise，原则批一年不是未知延期；开发商>4units许可及standardcontract／≤4与免许可项目区分，新售5—10%booking、14日文件、三周exercise／可准八周余款、25%booking未exercise与20%price逾期解除不同；二手CEA模板自愿、不统一法定1%＋4%／两周；TOP/交钥匙/DLP/产权完成分开，DLP实际vacant或完整TOP通知第15天较早；登记转移只说LandTitles，不推CommonLawdeeds。
+
+现有HDB段保留本人真实未闭：SC家庭不保证可以保留／出租，列个人核对行动，`acquiring-private-property`只作当前真实办理入口不是已读细则；PR处置仅按HP17明确标出的2013原政策及本地购买／两个六个月起点，不推当前全部角色与通知期限，须HDB确认。EC只给独立制度入口，不把检索的新10/15年或邻近RPA免批推购房资格。INLIS不采用未实际读到的2026登录／价目／每日额度，SLA详文给律师/人工记录路径。住房余项不因本篇成熟而宣称全领域资格闭合。
+
+作者交identity独立事实审，root第三编辑；私宅稿与成本稿真实互链待同批接收。root banking已成熟，按新分派清其独立事实后回HDB／EC与B04本人教育顺序。
+
+## 2026-10-13 成本稿最终事实接续
+
+identity 已独立复核三项作者修订并再次完整读最终正文，正式签 `ops/reviews/b03c-purchase-costs-facts.md`。完整/body SHA 仍 `21abfeb73449c3a6d6e7206717b34d1be114907c5989c96684618751938fb506` / `22a79ce7f89d294ab8e0ef15ee3a40d8fbe510e0a5b832c35577ecec97501585`，28,103 bytes；本文未因此改正文或核验元数据。root 第三编辑与工程接收尚待完成。
+
+## 2026-10-13 HDB 交易与家庭申请新详细原文
+
+本次本人逐篇完整读下列采用主体。原工具返回保存 `.cache/research/b03c-housing/housing-next-primary-01.txt` 至 `-05.txt`；检索另存 `housing-next-locating-01.txt`、`-02.txt`，不作采用原文。日期以 Asia/Singapore 2026-10-13 核实；下列编辑日是页面注明的版本，不能替查阅日。页面工作流程只支持其所写流程，不能反推未闭的家庭购房资格。
+
+| ID／真实原文 | 本人实际读到与支持事实 | 条件、日期与未闭范围 |
+| --- | --- | --- |
+| HP37 [HDB MyNiceHome HFE guide](https://www.mynicehome.gov.sg/get-started/hdb-hfe-guide/) | 全实质 L14—99：preliminary check 填全体买家／occupiers、就业／收入／奖金／私人产权与贷款信息；已填资料变动要重新开始；草稿及完整 HFE 提交须在开始 preliminary check 后30个日历日内，不是填完后另起30日；各申请人与 occupier 核资料、按要求上传；免费，通常收到完整资料约一个月，旺期可延长；有效九个月，新房申请前、转售取得 OTP 前及递交时均须有效；银行 IPA 不等于 LO | 2026-04-13。页面数字身份流程不能推无 Singpass 的境外配偶也必有登录资格；具体人工替代与角色仍待主管详文。作者未实际申请或承诺审批时间 |
+| HP38 [HDB MyNiceHome BTO／SBF buying guide](https://www.mynicehome.gov.sg/get-started/hdb-bto-sbf-buying-guide/) | 全实质 L14—158：典型申请窗口约一周、不是先到先得；S$10不退；通常两月内通知 ballot、booking 约四周后、约两周前可看单位；预约带关系／身份／怀孕文件；option fee 四房及以上2000／三房1000／2-room Flexi及CCA500现金并计首付；通常booking后九月内签Lease；HDB loan及无贷签Lease10%，银行75/55档签Lease20%且现金5/10%、各余款阶段另列；HDB贷钥匙时15%，无贷余额全清；新 HDB 贷须火险、仍有贷每五年续；婚约方案钥匙后三月结婚；银行LO与私人律师付款在前 | 2026-06-29。DIA只记给年轻NS／学生／近毕业者入口，具体资格须独立原文；不把常见时间写成保证，不将FI20%推其他LTV档。旧贷第二次／Staggered首付特殊分支待细则闭合 |
+| HP39 [HDB MyNiceHome resale buying guide](https://www.mynicehome.gov.sg/get-started/hdb-resale-buying-guide/) | 全实质 L14—170：取得OTP前HFE；只能用HDB序号原式OTP，同一份，替代／补充协议无效；option fee S$1—1000、获发无需买家签；21日历日包含周末公假；exercise前在Dashboard确认financial mode、HDB HFE或银行LO；用CPF或住房贷须获发后下一个工作日 Request for Value；exercise付费加option总额不超过5000；双方递交、完整申请通常28工作日内接受，完成通常自接受起八周；文件约三周后通知核签、实际初付及盖税／法律费；首付按价／估值较低、COV现金；HDB贷火险五年更新、有效旧保单不必重买；完成带ID／收据／保单及物业税分摊／首期S&CC | 2026-06-29。完整申请接受与递交、OTP获发与exercise、估价申请时点分开；最长／通常不是批准承诺。贷款／CPF／COV以HP20—24成本详源同步，不用本指南替六类身份资格 |
+| HP40 [HDB MyNiceHome priority schemes](https://www.mynicehome.gov.sg/get-started/hdb-priority-schemes-guide/) | 全实质 L14—183：现行first-timer Standard累计两次或以上落空再加ballot，上限五；FPPS双方首购及SC孩≤18／怀孕；FCS同住或4km及父母／子女SC或PR、单身子女35等，获房后MOP继续；joint balloting两家庭各自房型与同项目／城镇限制；长者40%2Flexi及近住分配不同；TCPS三名合格孩子且第三名1987年后／最小SC／不能之前用过，孩子MOP同住；ASSIST离婚／丧偶幼儿与事件后产权条件；TPS公租至少两年；SPS邻近原自住屋。逐条读分配表及脚注 | 主体更新2026-08-23、尾注24日。**2027-02** 起每名≤18SC孩子／怀孕加一票是未来措施，不写成2026当前。优先不免一般资格，也不是自动获房；家庭关系具体要求不由近住距离替代 |
+| HP41 [HDB MyNiceHome seniors guide](https://www.mynicehome.gov.sg/get-started/hdb-buying-guide-seniors/) | 全实质 L14—87：短租2Flexi55+、15—45年按五年步幅，覆盖申请人与配偶95岁；CCA65+及无障碍／照护内容；FCS/SPS入口；LBS／SHB是保留／缩小住房的不同变现路径，RA与CPF LIFE有条件，不把最高奖金额当到手 | 2026-04-13。只闭本页所写年龄／lease／路径；短租房、CCA的全家庭国籍、产权与服务费／融资条件仍需原条款，不能只靠年龄保证资格。正文若不采用金额，不因读过概述扩成个案计算 |
+| HP42 [Our Marriage Journey：婚姻状态处理期间申请HFE](https://ask.gov.sg/ourmarriagejourney/questions/cmraclzgh000p2o01ln7w30e4?from=topics) | 全44行原文读，采用L19—22：可点Clear MyInfo后手动选择当前婚姻状态继续；技术错误向HDB Write to Us，附错误截图、尝试日期与时间 | AskGov当前标“3mo ago”，未提供精确发布日期，不另造。仅补MyInfo迟更新的成功／受阻动作，不支持非公民配偶资格。完整原返回 `housing-marriage-hfe-original.txt` |
+| HP43 [HDB resale OTP 当前页](https://www.hdb.gov.sg/buying-a-flat/resale-flats/process-for-buying-a-resale-flat/option-to-purchase) | 真实当前网页44行中实读L18—43流程主体：21日期限、议价／grant／exercise／逾期、双方申请步骤与真实估价／完成链接。不是把44行导航当完整家庭法规 | 本次新真实主管部分流程可读，支持HP39相邻行动；未声称取得HDB完整资格正文。详细OTP序号、付款额、next working day来自HP39完整指南 |
+
+### 本次真实新入口与止损
+
+- HDB从当前搜索入口取得真实sitecore路径 `https://www.hdb.gov.sg/sitecore/content/hdbinfoweb/home/buying-a-flat/flat-grant-and-loan-eligibility/couples-and-families`，web44行只有导航；首次正常直连403，唯一正常8888仍403，状态留 `hdb-couples-real-sitecore-{direct,proxy-once}.json`，停止同URL。不重用旧漂亮路径或参数绕失败。
+- MND真实新原链 `https://www.mnd.gov.sg/newsroom/press-releases/view/strengthening-the-executive-condominium-housing-scheme-and-supporting-first-time-home-buyers` 与 `https://www.mnd.gov.sg/newsroom/speeches/view/speech-by-minister-chee-hong-tat-at-nus-ireus-urban-housing-symposium`，web只有JS挑战提示；各首次正常直连200，485755／485503bytes，HTML SHA `342a8cd8819b7c9d30395b0c9c24db135a5111256495e4a6ada12f088a079069`／`2b8b332e0fae884270d8571ce03e230c7ff99efd6c9f8a17a3cc47c32d2d9007`。实际解析仅1675／1652字符的标题／导航／页尾，HTML中不存在MOP、tender、Deferred等政策词，不是取得详细声明。留原HTML／元数据／解析 `ec-mnd-{press,speech}-20260508-direct.*`；未执行JS、未找隐藏后台、未采用媒体转述补正文，也未把200称作政策核实。
+- 问Our Marriage Journey“可否与非公民配偶买HDB”的当前44行答复只指向HDB，不能补配偶准证期限、年龄、房型或家庭资格。本次搜索SGPC与NUS只是定位，仍没有取得新的主管正文；search full片段与地产作者自称verified均不作采用原文。
+
+HFE／新售／转售交易与优先计划已有完整主管原文，但当前家庭、新房单身、非公民配偶、PR年限／既有产权及EC新旧MOP核心身份条件仍分别保留研究缺口；不建不完整购房页、不省掉高影响分支，也不改已冻结私宅及成本正文。
+
+## 2026-10-13 单身与平台房源详文、后续止损
+
+HP44 [MyNiceHome singles guide](https://www.mynicehome.gov.sg/get-started/hdb-buying-guide-singles/) 的全实质 L14—72 本人实际读：单身SC、未婚35岁、不可有本地／海外私人住宅权益；BTO可选2Flexi；转售unclassified／Standard／Plus各房型但不含3Gen，Prime含PLH只2Flexi；unclassified／Standard无购房收入上限，其他收入条件须结合AnnexA。2026-06-24版本，30%非长者2Flexi、60kEHG／40kResaleGrant／15kPHG为最高并分别须资格，不是每个人115k。本页不是寡偶、孤儿、单身PR或非居民家庭的完整资格页，不由35岁未婚规则推这些身份。
+
+HP45 [Ask HDB 房源核验责任](https://ask.gov.sg/hdb/questions/clxsp9q72004jdf0eoikmf9so) 全50行本人实际读，采用L19—27：有效Intent to Sell的合格卖家／代理创建，HDB提供房型、面积、楼层范围、upgrading、剩lease、原floorplan、EIP/SPRquota与近期成交；照片／描述／报价／延住及contra由卖家或代理负责，错误可反馈而不是HDB保证所有上传事实。标更新时间1mo ago，无精确发布日期。两页完整原返回在 `housing-government-eligibility-original-02.txt`。
+
+新真实HDB `flat-grant-and-loan-eligibility/seniors` web31行只有分支导航及18行概述；`e-resale/singles-grant-parent` web仅标题；新AskHDB HFE `clxsp9q6w001tdf0etsvot7ab` web内部错误。各首次正常直连403、各唯一正常8888仍403，留 `hdb-{seniors,single-parent-grant}-{direct,proxy-once}.*` 及 `ask-hdb-hfe-{direct,proxy-once}.*`，停止同URL。Ask HFE搜索全片段与原主管PDF搜索片段不作实际原文。MND／NAS／SGPC／官方合同原件新定位没有取得完整EC批次条款；继续留真实高影响缺口，不因检索数量宣称核验。
+
+依据PROMPT7.4，HDB／EC保留researching与未闭身份条件；已通知root并启动原分派B04教育的可完成原文研究，不标住房完成，不改其余冻结稿。后续住房只因真正新URL／原件版本／外部变化再查。
+
+## 2026-10-13 buying-private 独审后期限补充
+
+identity独立读URA完整14页后指出，首稿Notice to Complete仅写收通知后14日，没有写开发商发出期限。本作者本人再次实读缓存原PDF提取的物理第10、11页全文，并用 `view_image` 实际目视第11页全部正文，核11页procedure第1—3项及Liquidated Damages：须最迟在S&PA所定日期与实际vacant possession后三年中较早者发出；买家收到后14日内完成；未按S&PA期限发出，可依合同公式索赔。不是从审者摘要添加条件，也没有把TOP替实际空置交付起算。
+
+该次仅补一个Notice段及同一近邻引用标签；本作者实际全文通读修订稿，九元数据／written／draft:true／核验空、无H1与既有5处relref检查通过。中间冻结21,139 bytes，完整SHA `77cb087d57ebc614ea59ea75b85a49af364ea0278efd54b06d98934e3fc17dfd`，正文SHA `ec741e034c61df6dfd3cc856b2661496c9a11c24e7aa2b29c76eab68e4169418`。旧20,956B full1ab15d…／bodybc782b…保留为首稿历史；交identity差分复核，其后另收到下一段除牌范围修正，最终版本见下。未填核验元数据，未改审者报告。
+
+identity余源完整独审后补指出URA物理2页的de-licensed只免 **剩余未售单位的新售** 的标准合同要求；项目账户不强制的物理13页规则只用于≤4单位，不能与所有除牌项目合并。本作者实际再次读物理1／2／3／13页全文，改开发商首段、保留≤4单位下一独立段、不引申原已签合同失效或其他法理。再次完整全文作者通读后，**最终冻结21,137 bytes；完整SHA `dfeef8872a550c16ae5e13b640db327db3bc1d7ae148a5309042063eb3b79982`／正文SHA `07eaf4b852ee114b1bc9d0cb16c8adb2d246fb1bcab54ecc726c4ebee8a9e751`**。仅Notice和除牌两个原段及近邻标签有修订，交identity最终差分／全文事实复核。
+
+identity随后已逐项实际复对最终两段、完整再读并锁同SHA，正式签 `ops/reviews/b03c-buying-private-facts.md`。本作者保持正文冻结，当前事实通过／root第三编辑待接收，没有把作者自审或源数量当异人通过。
+
+## 2026-10-13 私宅与成本主控接收
+
+root 已确认两篇经 identity 最终独立事实、root 第三编辑及本批构建／实际浏览器／打印检查接收，地图改 integrated，正文继续冻结。生产 final gate、公共同步和本地提交仍由 root 操作，本作者没有代做或代签。
+
+purchase-costs 第三编辑唯一修改为预算示例“教学假设”改“教学虚构”，计算假设和数字均保留；identity 对限定差分反向替换，严格恢复原通过full/body，已在原事实报告签新版本。最终作者28,103 bytes，full `afa5e9e4ea33639d9cc7fa71333f37a3c6a3131e30ab8bf71ca1a4e79907e2a4`／body `7eea21348ebcd9e704f784048b60d4566f9ab108c223ae10a42d9be1d613a60c`；前述21abfeb／22a79ce已为历史。作者当前实查主控已填接收元数据，28,169 bytes、full `d30b3be93e4f04dafc145bf9b6913357f465c5a2e9b33e96da6f50908db78e94`，body不变。
+
+buying-private 当前接收元数据快照21,203 bytes、full `3892d3946af0b810cbcf9cec04a17e56d61abe2957148536eeb0b96b8105c1e4`，正文仍为最终独审 `07eaf4b852ee114b1bc9d0cb16c8adb2d246fb1bcab54ecc726c4ebee8a9e751`。
+
+HDB与EC保留完整主题的researching：家庭、单身、非公民配偶、PR持有期与既有房产权，以及EC旧新批次资格／MOP／外国人开放核心原件仍缺；HFE及交易流程已有来源不代替资格。当前没有新URL／原件版本／外部变化，未再次请求上述已失败路径。缺口不拖住B04教育其他节点。

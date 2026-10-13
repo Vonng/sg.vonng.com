@@ -6,10 +6,10 @@
 | --- | --- | --- | --- |
 | `content/book/life/housing/tenancy.md` | 租住后怎样记录交屋、报维修、管押金、续租与退租；核对租约责任与条件、入住退房清单、协商/调解/SCT、完成与受阻入口 | CEA 2026-08-12 Version 1.4 两套原件、IRAS 租约续变、Courts SCT、CMC 详细范围；依赖 renting/家庭运转 | integrated；2026-10-13 identity 事实、root 第三编辑及生产／实际渲染接收通过；作者事实版本保留 |
 | `content/book/life/housing/neighbours.md` | HDB/私人住宅怎样分清屋内、共用地方、市镇理事会、MCST与邻里滋扰；先沟通和留证，反馈/调解/CDRT 与紧急问题各找谁 | gov.sg TC、BCA／STB2026详页、MinLaw2026-08-28全国／CMC方向、Courts登记2026-09-01及CDRT；OneService依已有集成主文 | integrated；2026-10-13 identity 最终事实、root 第三编辑／生产／实际渲染及打印第121页抽样接收通过；作者事实版本保留 |
-| `content/book/life/housing/buying-hdb.md` | BTO/新房与转售的公民/PR、家庭/单身/外国配偶、年龄/收入/既有房产、HFE与申请批次；贷款/CPF/税另核，取得资格不等于负担得起 | HDB 当前详细页/AskGov 原始答复、CPF、IRAS、MAS；六类身份与具体家庭条件矩阵 | researching；已读HDB MyNiceHome三详页及2026收入Annex A原件/目视；AnnexB已闭新旧HFE适用；家庭/外国配偶细则仍未闭，不建正文 |
-| `content/book/life/housing/buying-private.md` | 私人公寓、EC、有地住宅怎样判断购房与居留分开；外国人产权批准、EC阶段、合同/付款、税费与贷款/CPF和受阻后途径 | SLA residential property、HDB EC 当前细则、CEA购房表件、IRAS、MAS/CPF | researching；SLA两详页、URA14页PDF全读及7/11目视、CEA原件、IRAS/MoneySense采用段已读；既有HDB家庭保留分支当前原文待闭 |
-| `content/book/life/housing/buying-ec.md` | EC新售／满足MOP后5—10年／10年后，公民/PR/外国人与家庭／年龄／收入／既有房产、申请与买卖限制 | HDB EC详细细则、CPF、IRAS、MAS；不由HDB或私宅制度推定 | planned；2026-10-13 root认可新路径并归daily_history独占 |
-| `content/book/life/housing/purchase-costs.md` | 同一住宅类型／个人及共同购买下BSD/ABSD/SSD，真实现金/CPF/住房贷款、月供与首付／不同身份／家庭及受阻核对 | IRAS详源、MAS现行贷款限制、HDB贷款／CPF住房；身份/税籍/国籍分开 | researching；2026-10-13 root认可新路径并归daily_history独占 |
+| `content/book/life/housing/buying-hdb.md` | BTO/新房与转售的公民/PR、家庭/单身/外国配偶、年龄/收入/既有房产、HFE与申请批次；贷款/CPF/税另核，取得资格不等于负担得起 | HDB 当前详细页/AskGov 原始答复、CPF、IRAS、MAS；六类身份与具体家庭条件矩阵 | researching；MyNiceHome HFE／BTO／转售／优先计划／长者完整详源及婚姻状态受阻FAQ已闭，收入Annex A原件/目视与AnnexB已闭；核心家庭／非公民配偶细则未闭，不建正文 |
+| `content/book/life/housing/buying-private.md` | 私人公寓、EC、有地住宅怎样判断购房与居留分开；外国人产权批准、EC阶段、合同/付款、税费与贷款/CPF和受阻后途径 | SLA residential property、HDB EC 当前细则、CEA购房表件、IRAS、MAS/CPF | integrated；2026-10-13 identity最终事实及root第三编辑、构建／实际浏览器／打印接收通过，正文冻结；HDB当前保留／通知及EC新批次资格仍为独立研究缺口 |
+| `content/book/life/housing/buying-ec.md` | EC新售／按项目土地批次区分MOP与外国人开放阶段，公民/PR/外国人与家庭／年龄／收入／既有房产、申请与买卖限制 | HDB EC详细细则、CPF、IRAS、MAS；不由HDB或私宅制度推定 | researching；2026-10-13 root认可新路径并归daily_history独占；旧5／10与新批次10／15只定位待核，MND真新链接200仅导航不作为详文 |
+| `content/book/life/housing/purchase-costs.md` | 同一住宅类型／个人及共同购买下BSD/ABSD/SSD，真实现金/CPF/住房贷款、月供与首付／不同身份／家庭及受阻核对 | IRAS详源、MAS现行贷款限制、HDB贷款／CPF住房；身份/税籍/国籍分开 | integrated；2026-10-13 identity最终事实、教学虚构标签限定复核及root第三编辑、构建／实际浏览器／打印接收通过；正文冻结 |
 
 购房四篇边界已经2026-10-13报 root 并获认可：buying-hdb保留新房／转售身份家庭、HFE及交易阶段；buying-private保留私宅类型、外国产权批准及交接；buying-ec独立三阶段；purchase-costs集中税、现金/CPF及HDB/银行贷款。地图登记后仍不建公开占位。HDB流程如需再拆，先报新路径。不能为减少来源难度删核心身份/家庭/房型分支，未读原件的资格保留真实缺口。
 
@@ -28,3 +28,22 @@ care_finance 的 taxis-phv、active-mobility 已逐篇完成独立事实审交 r
 B04家校母语分工：root 独占 language communication/multilingual-family；制度资格留school/learning。root交来新原件 `.cache/research/b04-language/moe-mtl-root-direct.{html,txt}`、`resource-0.txt`（COS2025）、`read-2.txt`（CJC2026-06-15）。教育启动时实际读，不重复旧MOE learning-in-school失败；SOAR未来至2029全小学不得当当前全校，CJC旧大学计分不能推2026 UAS。
 
 2026-10-13成熟队列已清：care的driving独立事实通过(b03c-driving-facts)，root两篇communication/multilingual-family独立事实通过(b04-language-facts)，由identity第三编辑；本次发现旧TTSH PDF转首页并找到真实NHG新章程，原作者修订后锁新SHA。住房购房原文HP05—HP17及本次四条HDB直连/代理止损已同步证据；未建不完整正文。root的新MOE exemption/overseas两原HTML已在语言独审实际全文读，可复用于教育研究，仍需原制度评分/升学完整详源。
+
+purchase-costs 当前冻结作者修订版本：28,103 bytes；完整SHA `21abfeb73449c3a6d6e7206717b34d1be114907c5989c96684618751938fb506`；正文SHA `22a79ce7f89d294ab8e0ef15ee3a40d8fbe510e0a5b832c35577ecec97501585`。2026-10-13近邻54引、IRAS/MAS/CPF/HDB原文HP18—31及所复用既有详文实际读，CPF首套图实际目视、教学BSD及首付独立复算。只完整写税与融资预算，不把另三篇未闭HDB／EC购房资格删除或由税制推定；其余原文研究继续，成熟逐篇交审。
+
+2026-10-13 purchase-costs按identity独审修订旧房共有人近亲/年龄/身份条件、trust既得且不可撤销/变更/条件及remainder/reversion排除、住宅转入时点、CPF宽限暂不留BRS/FRS；作者已实际回读同页IRAS及CPF采用原文并全文再读，旧交审SHA为历史。identity已对最终三项原文逐一复核、再次全文通读并锁同SHA，正式报告 `ops/reviews/b03c-purchase-costs-facts.md` 通过，交root第三编辑；正文仍冻结。
+
+buying-private当前冻结作者最终修订版本：21,137bytes，完整SHA `dfeef8872a550c16ae5e13b640db327db3bc1d7ae148a5309042063eb3b79982`；正文SHA `07eaf4b852ee114b1bc9d0cb16c8adb2d246fb1bcab54ecc726c4ebee8a9e751`。本人全文自审与静态通过，采用HP06—11/17/32/34—36；identity独审指出Notice to Complete发出期限及除牌免标准合同只用于剩余未售单位，作者本人再次实读URA第1／2／3／10／11／13页、目视11页，逐项补期限与赔偿／限定合同范围，项目账户不强制仅放≤4单位独立段，最终全文再读。现有HDB SC保留与PR角色通知不冒称取得完整现行正文，分别个人核对与标明2013原政策，当前EC10/15新批次只检索线索不采用。分别交identity事实/root第三编辑，成本与本篇互链待同批接收。首稿／中间SHA及差分留证据历史。
+
+2026-10-13新研究HP37—43逐篇实读并落证据：HFE开始preliminary起30日、有效九月；BTO现金option／Lease／keys与银行档；转售HDB唯一序号OTP、21日历日、CPF或贷款获发后下一工作日RequestValue及exercise前LO；优先计划2027-02未来加票另标，短租长者条件不只看年龄。HDB新sitecore家庭详页403／唯一代理403停止；MND两真新200HTML都只有导航，没有采用EC政策。banking独审32源已清，仅等root日期起算小修；airport最终事实已通过交root第三编辑，本人住房研究继续，不因主控当前工具报错改其正文或接收状态。
+
+2026-10-13私宅最终事实通过：identity已完整读最终21,137B及SLA、URA14页、CEA原件／现行详文，独立复核两项修订并签 `ops/reviews/b03c-buying-private-facts.md`，full/body与上述dfeef887…／07eaf4b…一致，交root第三编辑，正文保持冻结。banking起算日已由root修，最终本人事实及identity第三编辑正式通过；airport本人最终事实已交root第三编辑。主控已经恢复并确认目标active，未由本人改其工具状态或工程验收。
+
+## 2026-10-13 主控接收快照
+
+root 已确认 buying-private、purchase-costs 通过第三编辑及本批构建、实际浏览器与打印检查，要求地图标 integrated；最终生产门禁／public同步／提交由 root 执行。作者本次未运行构建或代签工程结果。两篇正文保持事实审冻结SHA，接收时仅主控元数据发生变化。
+
+- buying-private：当前21,203 bytes，完整SHA `3892d3946af0b810cbcf9cec04a17e56d61abe2957148536eeb0b96b8105c1e4`，正文仍 `07eaf4b852ee114b1bc9d0cb16c8adb2d246fb1bcab54ecc726c4ebee8a9e751`。
+- purchase-costs：root第三编辑要求预算示例精确标为“教学虚构”；作者只改该标签，identity限定逆差分复核通过。最终作者full `afa5e9e4ea33639d9cc7fa71333f37a3c6a3131e30ab8bf71ca1a4e79907e2a4`，正文 `7eea21348ebcd9e704f784048b60d4566f9ab108c223ae10a42d9be1d613a60c`。当前接收元数据快照28,169 bytes、full `d30b3be93e4f04dafc145bf9b6913357f465c5a2e9b33e96da6f50908db78e94`，正文同最终作者稿。前述21abfeb／22a79ce为标签修订前历史。
+
+HDB家庭／单身／非公民配偶／PR年限及既有产权、EC各土地批次的购房和MOP／外国人开放条件仍未闭，不因私宅与成本接收而缩窄或关闭。原失败URL、导航壳与一次8888结果保留于证据；没有新URL、版本或外部变化，本次不重探。教育现已实际启动，当前地图与证据在b04-education；旧段“尚未启动”是历史。

@@ -1,6 +1,6 @@
 # B05 银行与个人财务证据
 
-查阅：2026-10-13，Asia/Singapore。root作者，banking尚未独立事实/第三编辑接收。原工具文本留忽略 `.cache/research/b05-finance/`，不入Git。下表只登记实际原文阅读范围；搜索结果用于定位，不作为事实依据。银行材料、费用和权限只支持所列银行/产品，不推成全部银行统一规则。
+查阅：2026-10-13，Asia/Singapore。root作者，banking已由daily事实、identity第三编辑并完成B04A接收；历史作者记录在后。原工具文本留忽略 `.cache/research/b05-finance/`，不入Git。下表只登记实际原文阅读范围；搜索结果用于定位，不作为事实依据。银行材料、费用和权限只支持所列银行/产品，不推成全部银行统一规则。
 
 | 编号 | 实际主管或提供者URL | 阅读与支持事实 | 条件、有效时期及未采用范围 |
 |---|---|---|---|
@@ -32,7 +32,7 @@
 | F26 | https://www.dbs.com.sg/personal/support/general-profile-update-address.html | 重要说明2—10、AXS/FAQ128—185完整读；居住/邮寄地址分别更新，joint-all各方授权；不再收邮寄地址更新，VTM凭卡/银行登记手机或办公时段身份证/护照协助，缺件分行，海外contact | 该页card & Singpass分栏当前“unavailable”，下方旧FAQ仍提它，正文不采用该路径；不能依据Payroll简述说所有Singpass渠道当前可用 |
 | F27 | https://www.posb.com.sg/personal/support/bank-account-payroll-account-update-personal-particulars.html | 原文2—82，WP可用AXS及活跃卡/PIN更新手机号/地址，确认SMS两工作日 | 单独WP提供者步骤，不推所有人的AXS；其card/Singpass摘要与F26停用栏不能合并为统一可用功能，正文只用具体AXS手机路径 |
 | F28 | https://www.posb.com.sg/personal/support/bank-account-payroll-account-suspension.html | 全80行实读；WP取消/到期且离新时暂停，非销户、余额留但不能收支/网银取；有效准证休假、仍在新调查、未决MOM薪资/工伤申索分别有分支；漏发最终款可海外入账；返新可申请激活 | 具体DBS/POSB规则，前WP马来西亚往返也不豁免；不泛化EP/学生/家属或所有银行，未决claim例外须保留，不指示争议者先销户 |
-| F29 | https://www.fidrec.com.sg/knowledgebase/article/KA-01131/en-us | 全60行原文，先给订阅机构处理机会、个人等消费者资格、调解无额度上限，2024-07-01后裁决S$150,000，final reply六个月、排除商业/定价、司法判决/警方调查等 | 具体排除/调查不推所有诈骗不能报FIDReC；银行定价不满不能与未授权扣费或错账混同；是否受理由FIDReC按本案判断 |
+| F29 | https://www.fidrec.com.sg/knowledgebase/article/KA-01131/en-us | 全60行原文，先给订阅机构处理机会、个人等消费者资格、调解无额度上限，2024-07-01当日或之后提交案件裁决S$150,000，final reply六个月、排除商业/定价、司法判决/警方调查等 | 具体排除/调查不推所有诈骗不能报FIDReC；银行定价不满不能与未授权扣费或错账混同；是否受理由FIDReC按本案判断 |
 | F30 | https://www.fidrec.com.sg/knowledgebase/article/KA-01013/en-us | 现行122行全读，先bank→六个月内file、免费提交、10business-day Early Resolution、注册/材料/支持及电话63278878；裁决要另付case fee | 页面列当前消费者small business/charity比旧NUS教育guide“只有个人/sole proprietor”完整；旧guide S$50+GST未采用，当前FAQ的fee链接指向UAT域名，未探测该测试域，不填未知裁决费 |
 | F31 | https://www.fidrec.com.sg/knowledgebase/article/KA-01325/en-us | 全83行，活期储蓄/电子支付银行statement显示姓名账号交易、来往邮件/最终回复、欺诈未授权报案、通知与交易凭证、joint授权 | 仅相关产品材料，不推所有申诉一定需警察报告；format表未复制到正文 |
 | F32 | https://www.fidrec.com.sg/contact-us/ | 全50行，周一至五9—18时不含PH、63278878、36Robinson#15-01、walk-in严格预约末次17时 | 不调用真实投诉/预约/联络；不保证无预约接待 |
@@ -51,3 +51,7 @@
 ## 作者版本与交审
 
 banking完整最终正文已全文作者实读/自审、九字段/written-draft/无H1/加粗外侧及四内部目标检查完成：22,409 B，11 H2，4内部/45近邻HTTPS。full SHA256 `49d0ce865f75b115aa0db8d6a4f43a9c8a228bfd02aa69168bdab6e48029d122`，body SHA256 `3b0f027dde4a0e19e91089869009fa5e30bd883533abda63522e338cd0f7af70`。独立事实已交daily_history（当前私宅完整稿交审后接），第三编辑identity，主控接收、共享构建与真实渲染root。当前仍written/draft:true、核验字段空。生产检查104源/58主题/4草稿通过，不代表本稿事实或实际渲染通过；公开仍54主题，未改CPF/预算或其他已接收正文。
+
+## B04A最终接收
+
+2026-10-13：上述FIDReC日期改为当日或之后，事实与第三编辑报告均重绑最终body `5653a945cadfa69565cf8d2b8530de1ce2eb230f0cf5ae5e17024be13e9b73d2`、作者full `f77f3c927690763ecf8bf0a4b0058b14f14f72125a86956a508b7451e07254ae`。当前integrated/draft:false；公开元数据日期指本日实读核验。make check、双视口导航/搜索/表格与打印抽样通过，同步public272路径/大小/SHA一致，详见checks/b04a-acceptance.json。旧104源作者门禁是历史，不代表当前状态。

@@ -74,8 +74,8 @@
 
 - [ ] `content/book/foundations/_index.md`
 - [ ] `content/book/foundations/culture/_index.md`
-- [ ] `content/book/foundations/culture/everyday-etiquette.md`
-- [ ] `content/book/foundations/culture/hawker-social-life.md`
+- [x] `content/book/foundations/culture/everyday-etiquette.md` — HUM01六处表达，独立差分与第三编辑通过，2026-10-13应用。
+- [x] `content/book/foundations/culture/hawker-social-life.md` — HUM01三处表达，独立差分与第三编辑通过，2026-10-13应用。
 - [ ] `content/book/foundations/culture/inequality.md`
 - [ ] `content/book/foundations/geography/_index.md`
 - [ ] `content/book/foundations/geography/addresses-weather.md`
@@ -181,3 +181,25 @@
 - [ ] `content/docs/routes/settling-in.md`
 - [ ] `content/docs/routes/start-work.md`
 - [ ] `content/docs/routes/urgent-help.md`
+
+## 恢复追增（2026-10-13）
+
+初始94文件是历史队列，范围始终包括实际全部content。HUM01已按固定版本应用，原事实日期及元数据保持；B04A生产、桌面手机和打印抽样验收已通过。下列为原队列之后的实际新增源，继续逐篇全文处理；在途草稿由作者先按本规范自审。
+
+- [ ] `content/book/life/community/_index.md`
+- [ ] `content/book/life/documents/arrival-renewal.md`
+- [ ] `content/book/life/documents/pass-management.md`
+- [ ] `content/book/life/housing/buying-private.md`
+- [ ] `content/book/life/housing/neighbours.md`
+- [ ] `content/book/life/housing/purchase-costs.md`
+- [ ] `content/book/life/transport/airport-checkpoints.md`
+- [ ] `content/book/life/transport/driving.md`
+- [ ] `content/book/people/family/childcare.md`
+- [ ] `content/book/people/family/relationships.md`
+- [ ] `content/book/people/family/sexual-health.md`
+- [ ] `content/book/people/healthcare/medical-records.md`
+- [ ] `content/book/people/language/communication.md`
+- [ ] `content/book/people/language/multilingual-family.md`
+- [ ] `content/book/work/finance/banking.md`
+- [ ] `content/docs/routes/cross-border-trip.md`
+- [ ] `content/docs/routes/getting-married.md`

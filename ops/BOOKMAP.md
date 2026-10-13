@@ -1,6 +1,6 @@
 # 全书内容地图
 
-更新：2026-10-13（Asia/Singapore）。用户更换订阅号后明确续跑，后于14:21要求汇报后继续，工作继续执行；目标工具标签实况见CHECKPOINT。已核82份源文件与交接快照一致，恢复三条独立写审线。恢复后三批累计接收54主题，第三批六篇及工程范围见checks/b03c3-acceptance.json。历史现场见HANDOFF-2026-10-13.md。这是持续目标的覆盖地图；候选路径只登记于此，不生成空正文。覆盖认定须检查每个领域的必要分支，文章数量不作完成门槛。
+更新：2026-10-13（Asia/Singapore）。用户本次明确续跑，get_goal已实查active；继续完整五部分28领域。此前82源交接快照保留；本次恢复核实109源与实际审核版本，恢复三条独立写审线。恢复后累计接收60主题，最新六篇与HUM01工程范围见checks/b04a-acceptance.json。历史现场见HANDOFF-2026-10-13.md。这是持续目标的覆盖地图；候选路径只登记于此，不生成空正文。覆盖认定须检查每个领域的必要分支，文章数量不作完成门槛。
 
 ## 内容与资格模型
 
@@ -95,10 +95,10 @@
 | `/book/life/housing/renting/` | 怎样找到可合法入住的住房并签租约 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 | `/book/life/housing/tenancy/` | 入住维修押金续租退租怎样处理 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 | `/book/life/housing/buying-hdb/` | BTO与转售怎样判断家庭资格、HFE和贷款 | researching（daily；核现行身份/家庭/HFE及2026新政策） |
-| `/book/life/housing/buying-private/` | 私宅类型、外国人产权批准与买卖交接怎样办理 | researching（daily；EC和税贷成本按行动链独立拆篇） |
+| `/book/life/housing/buying-private/` | 私宅类型、外国人产权批准与买卖交接怎样办理 | integrated（异人事实、第三编辑、生产及实际渲染通过；版本见accepted.json） |
 | `/book/life/housing/neighbours/` | 市镇理事会MCST和邻里纠纷找谁 | integrated（异人事实/第三编辑/生产与实际渲染通过） |
 | `/book/life/housing/buying-ec/` | EC新售、MOP及后续批次的购房国籍资格怎样判断 | researching（daily独占；当前新批次10/15检索线索未取得可读详原件，未当事实写入） |
-| `/book/life/housing/purchase-costs/` | 购房税、现金CPF、HDB银行贷款和共同购买怎样核对 | written / facts review（daily完整稿；identity事实发现长者/信托条件，作者本人修订） |
+| `/book/life/housing/purchase-costs/` | 购房税、现金CPF、HDB银行贷款和共同购买怎样核对 | integrated（异人事实、第三编辑、生产及实际渲染通过；版本见accepted.json） |
 
 ### 9. 衣食、购物与家庭运转（household）
 
@@ -121,7 +121,7 @@
 | `/book/life/transport/driving/` | 境外驾照使用转换、买车COEERP路税停车保险 | integrated（异人事实/第三编辑/生产与实际渲染通过；未来政策按日期触发） |
 | `/book/life/transport/taxis-phv/` | 出租车与网约车乘客叫车费用、儿童轮椅、线下与投诉；从驾驶持车任务拆出 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 | `/book/life/transport/active-mobility/` | 骑行步行PMD有哪些道路规则 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
-| `/book/life/transport/airport-checkpoints/` | 去机场和柔佛关卡怎样安排行程 | researched（B03C；care_finance已分派） |
+| `/book/life/transport/airport-checkpoints/` | 去机场和柔佛关卡怎样安排行程 | integrated（异人事实、第三编辑、生产及实际渲染通过；版本见accepted.json） |
 
 ### 11. 数字生活、通信与信息判断（digital）
 
@@ -154,7 +154,9 @@
 |---|---|---|
 | `/book/people/healthcare/getting-care/` | 生病后怎样选GP综合诊疗所医院与转介 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 | `/book/people/healthcare/healthcare-payments/` | 补贴CHASMediSaveMediShieldLifeMediFund与保险谁可用 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
-| `/book/people/healthcare/records-medicines/` | 药房处方牙眼预防、病假证明记录同意与投诉 | planned |
+| `/book/people/healthcare/medical-records/` | 医疗记录、代理同意、病假证明和沟通投诉怎样办理 | facts passed（care作者、daily最终事实通过；待root第三编辑与工程） |
+| `/book/people/healthcare/medicines/` | 处方、药房、续配及携药怎样安排 | researching（care独占，从原records-medicines按办理目标拆分） |
+| `/book/people/healthcare/preventive-care/` | 牙眼、筛查、疫苗与公共卫生怎样按身份使用 | planned（care独占，从原records-medicines拆分） |
 
 ### 14. 心理健康、残障与无障碍生活（accessibility）
 
@@ -172,12 +174,12 @@
 
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
-| `/book/people/family/relationships/` | 同居共同财务与民事穆斯林婚姻怎样安排 | written（identity完整冻结，care独立事实待审） |
+| `/book/people/family/relationships/` | 同居共同财务与民事穆斯林婚姻怎样安排 | integrated（异人事实、第三编辑、生产及实际渲染通过；版本见accepted.json） |
 | `/book/people/family/birth/` | 孕产生育出生登记、国籍证件怎样衔接 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
-| `/book/people/family/childcare/` | 托育选择费用补贴与资格 | planned |
+| `/book/people/family/childcare/` | 托育选择费用补贴与资格 | facts passed（identity作者、care最终事实通过；待root第三编辑与工程） |
 | `/book/people/family/domestic-workers/` | 雇用家政移工的手续双方权利与照护责任 | planned |
 | `/book/people/family/separation-safety/` | 分居离婚监护家庭暴力如何求助 | planned |
-| `/book/people/family/sexual-health/` | 同意、避孕、紧急避孕、STI/HIV、孕前及生育选择怎样求助 | researching（identity独占；先地图登记，不建公开空页；TOP资格、孕周、未成年人及费用分别回源） |
+| `/book/people/family/sexual-health/` | 同意、避孕、紧急避孕、STI/HIV、孕前及生育选择怎样求助 | integrated（异人事实、第三编辑、生产及实际渲染通过；版本见accepted.json） |
 
 ### 16. 儿童、青少年与基础教育（school）
 
@@ -250,9 +252,11 @@
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
 | `/book/work/finance/household-budget/` | 到手收入、年度费用和应急现金怎样安排；家庭预算种子单列 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
-| `/book/work/finance/banking/` | 开户PayNowFASTNETSGIRO如何使用 | written（root完整最终冻结，daily事实待审；identity第三编辑；当前草稿） |
+| `/book/work/finance/banking/` | 开户PayNowFASTNETSGIRO如何使用 | integrated（异人事实、第三编辑、生产及实际渲染通过；版本见accepted.json） |
 | `/book/work/finance/cpf-basics/` | CPF谁缴、年龄和PR阶段怎样改变、钱怎样用 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
-| `/book/work/finance/saving-insurance/` | SRS储蓄债券证券保险与存款保障怎样理解 | planned |
+| `/book/work/finance/saving-investing/` | 储蓄工具、国债、证券基金、账户费用风险及机构核验 | researching |
+| `/book/work/finance/srs/` | SRS开户缴款减税、身份变化与提款税款怎样安排 | researching |
+| `/book/work/finance/insurance/` | 保额条款、投保告知、保费续保及理赔争议怎样处理 | researching |
 | `/book/work/finance/debt-disputes/` | 信用贷款债务理赔和金融争议怎样处理 | planned |
 
 ### 23. 个人税务与跨境财务（tax）

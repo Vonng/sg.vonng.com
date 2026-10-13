@@ -15,7 +15,7 @@ weight: 20
 
 1. 需要工作准证，按[工作准证](/book/life/documents/work-passes/)对照类别、行业、年龄及固定月薪，向雇主取到申请安排。
 2. 家属或学生身份想工作，先走身份页对应分支，核对签发机构、学校和授权。
-3. 公民或PR核对[CPF缴纳](/book/work/finance/cpf-basics/)，尤其刚取得PR、兼有自雇收入或从事平台工作的情况。
+3. 按[开户与工资账户](/book/work/finance/banking/)准备收薪安排；公民或PR另核[CPF缴纳](/book/work/finance/cpf-basics/)，尤其刚取得PR、兼有自雇收入或从事平台工作的情况。
 4. 向雇主要医疗福利和保单，使用[医疗支付](/book/people/healthcare/healthcare-payments/)核对哪些费用要自行承担。
 5. 用[公共交通](/book/life/transport/public-transport/)试走通勤，在[多语沟通](/book/people/language/everyday-language/)中准备汇报、确认时间和询问的表达。
 

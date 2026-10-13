@@ -190,3 +190,14 @@ menus:
     name: 怀疑被骗或账户遭盗用
     pageRef: /docs/routes/digital-safety/
     weight: 8
+
+  - identifier: routes-getting-married
+    parent: routes
+    name: 结婚与共同生活
+    pageRef: /docs/routes/getting-married/
+    weight: 45
+  - identifier: routes-cross-border-trip
+    parent: routes
+    name: 跨境往返
+    pageRef: /docs/routes/cross-border-trip/
+    weight: 75

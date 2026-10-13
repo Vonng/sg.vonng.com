@@ -1,0 +1,1277 @@
+{
+  "date": "2026-10-13",
+  "timezone": "Asia/Singapore",
+  "batch": "B04A housing, checkpoints, family and banking with HUM01",
+  "integrated_topics": [
+    "content/book/life/housing/buying-private.md",
+    "content/book/life/housing/purchase-costs.md",
+    "content/book/life/transport/airport-checkpoints.md",
+    "content/book/people/family/relationships.md",
+    "content/book/people/family/sexual-health.md",
+    "content/book/work/finance/banking.md"
+  ],
+  "expression_maintenance": [
+    "content/book/foundations/culture/everyday-etiquette.md",
+    "content/book/foundations/culture/hawker-social-life.md"
+  ],
+  "accepted_total": 60,
+  "goal_status": "active; all five parts and 28 fields remain in scope",
+  "production": {
+    "source_pages": 111,
+    "topics": 63,
+    "drafts": 3,
+    "html": 110,
+    "internal_references": 16049,
+    "external_references_skipped": 3851,
+    "errors": [],
+    "limitations": [
+      "No external URL check; no factual approval; no browser or visual certification."
+    ]
+  },
+  "public_source_pages": 108,
+  "output_files": 272,
+  "public_sync": "272 relative paths, byte sizes and SHA256 match checked production review output",
+  "output_inventory_sha256": "d4aa20acbe1a80ff9e1af86ffc7920a27cc92b38c1bdad762243e3c07124caca",
+  "pages": [
+    "/",
+    "/book/life/housing/",
+    "/book/life/transport/",
+    "/book/people/family/",
+    "/book/work/finance/",
+    "/docs/glossary/",
+    "/docs/profiles/family/",
+    "/docs/profiles/pr/",
+    "/docs/routes/settling-in/",
+    "/docs/routes/start-work/",
+    "/docs/routes/getting-married/",
+    "/docs/routes/cross-border-trip/",
+    "/book/life/housing/buying-private/",
+    "/book/life/housing/purchase-costs/",
+    "/book/life/transport/airport-checkpoints/",
+    "/book/people/family/relationships/",
+    "/book/people/family/sexual-health/",
+    "/book/work/finance/banking/",
+    "/book/foundations/culture/everyday-etiquette/",
+    "/book/foundations/culture/hawker-social-life/"
+  ],
+  "versions": {
+    "content/book/life/housing/buying-private.md": {
+      "current_full_sha256": "ce64a6205dd8bb664de5d8ac36fd5ef8f115eb2dda3e1e89c8c0fd03f0e64c79",
+      "author": "daily_history",
+      "facts": "identity",
+      "editor": "root",
+      "date": "2026-10-13",
+      "report": "ops/reviews/b03c-buying-private-facts.md",
+      "editorial_report": "ops/reviews/b04a-editorial.md",
+      "reviewed_file_sha256": "dfeef8872a550c16ae5e13b640db327db3bc1d7ae148a5309042063eb3b79982",
+      "body_sha256": "07eaf4b852ee114b1bc9d0cb16c8adb2d246fb1bcab54ecc726c4ebee8a9e751"
+    },
+    "content/book/life/housing/purchase-costs.md": {
+      "current_full_sha256": "ba603e584c5c05fff11fbd08ba9ab13caeffedcd2226b522e2f4bcd530ceaae4",
+      "author": "daily_history",
+      "facts": "identity",
+      "editor": "root",
+      "date": "2026-10-13",
+      "report": "ops/reviews/b03c-purchase-costs-facts.md",
+      "editorial_report": "ops/reviews/b04a-editorial.md",
+      "reviewed_file_sha256": "afa5e9e4ea33639d9cc7fa71333f37a3c6a3131e30ab8bf71ca1a4e79907e2a4",
+      "body_sha256": "7eea21348ebcd9e704f784048b60d4566f9ab108c223ae10a42d9be1d613a60c"
+    },
+    "content/book/life/transport/airport-checkpoints.md": {
+      "current_full_sha256": "145ebcb7496c9c34f77b5b8a56aff74d99a9cbf3f3b93e301f4f0ea6ceaa3e1b",
+      "author": "care_finance",
+      "facts": "daily_history",
+      "editor": "root",
+      "date": "2026-10-13",
+      "report": "ops/reviews/b03c-airport-checkpoints-facts.md",
+      "editorial_report": "ops/reviews/b04a-editorial.md",
+      "reviewed_file_sha256": "ec821cce64783ca5af42174c3eef903e98a7bfe846c2d8fc1d3c5ae269f2ad01",
+      "body_sha256": "9772d1022f9bca2a5542537d7237fcba09d391a0761c3bf90b9c8b1067acd90c"
+    },
+    "content/book/people/family/relationships.md": {
+      "current_full_sha256": "bc03024370d76dfdba639696b0a15d84fd838940512a75b5fd9ae71dec7b2260",
+      "author": "identity",
+      "facts": "care_finance",
+      "editor": "root",
+      "date": "2026-10-13",
+      "report": "ops/reviews/b04-family-facts.md",
+      "editorial_report": "ops/reviews/b04a-editorial.md",
+      "reviewed_file_sha256": "7f264421ba4f9c7b42f89cd1ad6780cedd59ecbd9eb6e169f06e42dfd3835e96",
+      "body_sha256": "8409bf43162ed33b0d1012611f90af7ccd8b471ea659a1fe2b37334bacca37aa"
+    },
+    "content/book/people/family/sexual-health.md": {
+      "current_full_sha256": "09bcf4e8d8be59bcfbe9f9f58110153d77f3b1dc03f4e86b8467cce303c23431",
+      "author": "identity",
+      "facts": "care_finance",
+      "editor": "root",
+      "date": "2026-10-13",
+      "report": "ops/reviews/b04-family-facts.md",
+      "editorial_report": "ops/reviews/b04a-editorial.md",
+      "reviewed_file_sha256": "83cacfd77fe7c494a15aab9ff306ae6a161374d7e82ca247cdab69eafefea547",
+      "body_sha256": "614100dda3e5a969c88e5c1fa5dc672e08b1d60a45fb08d37bd5e2049e52e3e4"
+    },
+    "content/book/work/finance/banking.md": {
+      "current_full_sha256": "110e68ec16b1f56d0dbf9d0eaf32d1f4218eabdb1545b10bf9fd4a2ca3da59c1",
+      "author": "root",
+      "facts": "daily_history",
+      "editor": "identity",
+      "date": "2026-10-13",
+      "report": "ops/reviews/b05-banking-facts.md",
+      "editorial_report": "ops/reviews/b05-banking-editorial.md",
+      "reviewed_file_sha256": "f77f3c927690763ecf8bf0a4b0058b14f14f72125a86956a508b7451e07254ae",
+      "body_sha256": "5653a945cadfa69565cf8d2b8530de1ce2eb230f0cf5ae5e17024be13e9b73d2"
+    },
+    "content/book/foundations/culture/everyday-etiquette.md": {
+      "current_full_sha256": "7b3f9443641c662b6f8c042f14e76bf88c455ee7d44941664c97c0e04536bb2c",
+      "author": "root",
+      "facts": "identity",
+      "editor": "care_finance",
+      "date": "2026-10-13",
+      "report": "ops/reviews/hum01-facts.md",
+      "editorial_report": "ops/reviews/hum01-editorial.md",
+      "body_sha256": "fe09a34a6802311b86b6c69384974327779433b53424567f35bd9d9324e42ac8",
+      "reviewed_file_sha256": "7b3f9443641c662b6f8c042f14e76bf88c455ee7d44941664c97c0e04536bb2c",
+      "previous_review": {
+        "author": "daily_history",
+        "facts": "identity",
+        "editor": "root",
+        "date": "2026-10-13",
+        "report": "ops/reviews/b03b-history-culture-facts.md",
+        "editorial_report": "ops/reviews/b03b-editorial.md",
+        "body_sha256": "6da8a7c71050d38a1e2190e66cf6dab3b8177be7fb14e838db7bb1469c7ab94c",
+        "reviewed_file_sha256": "05362e9943c4f09f1389067a826f78a7e1548f932deb6073e3f4c26ad5c6d074"
+      },
+      "review_scope": "HUM01九处表达差分；原事实沿用previous_review，核验日期不变"
+    },
+    "content/book/foundations/culture/hawker-social-life.md": {
+      "current_full_sha256": "dac5435ce4a9bda23136dcae83268d8a3d5a12740a2094d526c22b551c24d32c",
+      "author": "root",
+      "facts": "identity",
+      "editor": "care_finance",
+      "date": "2026-10-13",
+      "report": "ops/reviews/hum01-facts.md",
+      "editorial_report": "ops/reviews/hum01-editorial.md",
+      "body_sha256": "52e5a9dad54a7a014165e4b7707698880cc3dd763fbfbaa3886ab6300dc8dfd0",
+      "reviewed_file_sha256": "dac5435ce4a9bda23136dcae83268d8a3d5a12740a2094d526c22b551c24d32c",
+      "previous_review": {
+        "author": "daily_history",
+        "facts": "identity",
+        "editor": "root",
+        "date": "2026-10-13",
+        "report": "ops/reviews/b03b-history-culture-facts.md",
+        "editorial_report": "ops/reviews/b03b-editorial.md",
+        "body_sha256": "04ebbbe698791bc6102a53eb45c294510232725958b7c710ee07c41577269b44",
+        "reviewed_file_sha256": "7bad8754691a97ac8a39aa9f268375ce80ef3035560d4bf8b097caae3ef75fac"
+      },
+      "review_scope": "HUM01九处表达差分；原事实沿用previous_review，核验日期不变"
+    }
+  },
+  "browser": {
+    "base": "http://127.0.0.1:1328",
+    "at": "2026-10-13T09:25:57.220Z",
+    "checks": [
+      {
+        "label": "desktop",
+        "path": "/",
+        "h1": 1,
+        "width": 1440,
+        "scroll": 1440,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "desktop",
+        "path": "/book/life/housing/",
+        "h1": 1,
+        "width": 1440,
+        "scroll": 1440,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "desktop",
+        "path": "/book/life/transport/",
+        "h1": 1,
+        "width": 1440,
+        "scroll": 1440,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "desktop",
+        "path": "/book/people/family/",
+        "h1": 1,
+        "width": 1440,
+        "scroll": 1440,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "desktop",
+        "path": "/book/work/finance/",
+        "h1": 1,
+        "width": 1440,
+        "scroll": 1440,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "desktop",
+        "path": "/docs/glossary/",
+        "h1": 1,
+        "width": 1440,
+        "scroll": 1440,
+        "strong": 0,
+        "tables": 1,
+        "brokenImages": []
+      },
+      {
+        "label": "desktop",
+        "path": "/docs/profiles/family/",
+        "h1": 1,
+        "width": 1440,
+        "scroll": 1440,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "desktop",
+        "path": "/docs/profiles/pr/",
+        "h1": 1,
+        "width": 1440,
+        "scroll": 1440,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "desktop",
+        "path": "/docs/routes/settling-in/",
+        "h1": 1,
+        "width": 1440,
+        "scroll": 1440,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "desktop",
+        "path": "/docs/routes/start-work/",
+        "h1": 1,
+        "width": 1440,
+        "scroll": 1440,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "desktop",
+        "path": "/docs/routes/getting-married/",
+        "h1": 1,
+        "width": 1440,
+        "scroll": 1440,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "desktop",
+        "path": "/docs/routes/cross-border-trip/",
+        "h1": 1,
+        "width": 1440,
+        "scroll": 1440,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "desktop",
+        "path": "/book/life/housing/buying-private/",
+        "h1": 1,
+        "width": 1440,
+        "scroll": 1440,
+        "strong": 18,
+        "tables": 2,
+        "brokenImages": []
+      },
+      {
+        "label": "desktop",
+        "path": "/book/life/housing/purchase-costs/",
+        "h1": 1,
+        "width": 1440,
+        "scroll": 1440,
+        "strong": 16,
+        "tables": 6,
+        "brokenImages": []
+      },
+      {
+        "label": "desktop",
+        "path": "/book/life/transport/airport-checkpoints/",
+        "h1": 1,
+        "width": 1440,
+        "scroll": 1440,
+        "strong": 21,
+        "tables": 6,
+        "brokenImages": []
+      },
+      {
+        "label": "desktop",
+        "path": "/book/people/family/relationships/",
+        "h1": 1,
+        "width": 1440,
+        "scroll": 1440,
+        "strong": 6,
+        "tables": 3,
+        "brokenImages": []
+      },
+      {
+        "label": "desktop",
+        "path": "/book/people/family/sexual-health/",
+        "h1": 1,
+        "width": 1440,
+        "scroll": 1440,
+        "strong": 26,
+        "tables": 5,
+        "brokenImages": []
+      },
+      {
+        "label": "desktop",
+        "path": "/book/work/finance/banking/",
+        "h1": 1,
+        "width": 1440,
+        "scroll": 1440,
+        "strong": 30,
+        "tables": 3,
+        "brokenImages": []
+      },
+      {
+        "label": "desktop",
+        "path": "/book/foundations/culture/everyday-etiquette/",
+        "h1": 1,
+        "width": 1440,
+        "scroll": 1440,
+        "strong": 5,
+        "tables": 1,
+        "brokenImages": []
+      },
+      {
+        "label": "desktop",
+        "path": "/book/foundations/culture/hawker-social-life/",
+        "h1": 1,
+        "width": 1440,
+        "scroll": 1440,
+        "strong": 2,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "desktop",
+        "dropdown": "阅读",
+        "children": 5
+      },
+      {
+        "label": "desktop",
+        "dropdown": "事项",
+        "children": 10
+      },
+      {
+        "label": "desktop",
+        "dropdown": "身份",
+        "children": 6
+      },
+      {
+        "label": "desktop",
+        "keyboardCard": "/book/foundations/"
+      },
+      {
+        "label": "desktop",
+        "nonCurrentBranch": true,
+        "keyboardFold": true
+      },
+      {
+        "label": "desktop",
+        "search": "CPF",
+        "results": "全书导读\nCPF 基础：谁要缴、工资怎样扣、钱能做什么\n按身份、年龄、PR 阶段和就业形式判断 CPF 缴纳，并理解住房、医疗与退休账户。\n银行、CPF与个人财务\n安排家庭现金流，开立和使用银行账户，理解CPF缴纳与账户用途。\n购房预算：税、现金、CPF 与住房贷款\n按购房身份、共同买家、现有住宅与贷款计算印花税，核清现金和 CPF 能支付的项目，并安排付款、换屋及贷款受阻后的下一步。\n工作、收入、财务与经营\n理解工作安排、CPF、税务与日常财务。\n富裕城市里的阶层、生活压力与歧视\n区分收入、财富、家庭需要和社会流动，结合本地研究理解生活压力与歧视，并找到具体求助入口。\n家庭预算：让每月收入接得住日常与意外\n从到手收入出发，安排固定账单、年度费用、家庭责任和应急现金，并识别需要求助的缺口。\n住房、买卖与居住关系\n核对租住与私宅购买条件，安排税费、贷款和交接，处理维修、押金及邻里纠纷。\n医疗费用怎样支付：补贴、MediSave 与保险\n按公民、PR 与外籍身份判断医疗补贴和保险，再核对账单中仍需自己承担的部分。\n查询入口\n新加坡公民\n从CPF、医疗与家人人生安排进入。\n永久居民 PR\n核对取得PR日期、取得途径和离境安排。"
+      },
+      {
+        "label": "desktop",
+        "search": "地铁",
+        "results": "全书导读\n地铁和巴士怎样乘、怎样付费\n第一次乘新加坡地铁或公共巴士，先准备一张可用的交通卡或感应银行卡，进出站、上下车都用同一张卡。手机与实体卡即使绑定同一个银行账…\n步行、骑行与助行工具可以走哪里\n…，优先查有连续坡道、电梯和安全过街的路线；中途接地铁或巴士，可看公共交通的无障碍安排。雷雨或路面湿滑时，留出步行时间，设备刹车和轮胎也要先检查。 五类工具的路径…\n全书导读\n…理养宠物：住处许可、日常花费与照顾责任交通与出行地铁和巴士怎样乘、怎样付费驾照、租买车与日常驾驶出租车和网约车怎样叫、怎样付费步行、骑行与助行工具可以走哪里机场…\n小贩中心与日常社交生活\n…026 年 3 月的国会答复说明，部分大型宿舍及地铁站设有前往康乐中心的免费接驳。组织活动时，除了安排项目，也要确认参与者怎样到达和返程。MOM 康乐中心目录、…\n怎样比较新加坡的生活圈\n…经形成的区域中心，商业设施与住宅相邻，并连接两条地铁线。裕廊湖区（Jurong Lake District）则把裕廊东一带的商业活动与湖畔休闲空间联系起来，仍在…\n查询入口\n中英术语与本地用语\n…保健储蓄、退休账户 CPF MRT / LRT 地铁 / 轻轨 乘车 PAB / PMD / PMA 电动助力脚踏车 / 个人移动设备 / 个人代步辅助设备 骑…"
+      },
+      {
+        "label": "desktop",
+        "search": "Singlish",
+        "results": "全书导读\n在多语环境里，把话听懂、把事说清\n理解英语、华语、马来语、泰米尔语与方言的生活位置，学习应对 Singlish、电话和办事沟通。\n约时间、排队与相处的分寸\n在预约、通勤、同事邀约和邻里交往中，怎样把时间、承诺、隐私与衣着要求说清楚。\n多语家庭：读物、日常练习与学校衔接\n按家人的实际语言和学习需要安排共读与交流，找到英语、华语、马来语、泰米尔语及手语资源，并准备海外学习与返校沟通。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+      },
+      {
+        "label": "desktop",
+        "darkMode": true
+      },
+      {
+        "label": "mobile",
+        "path": "/",
+        "h1": 1,
+        "width": 390,
+        "scroll": 390,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "mobile",
+        "path": "/book/life/housing/",
+        "h1": 1,
+        "width": 390,
+        "scroll": 390,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "mobile",
+        "path": "/book/life/transport/",
+        "h1": 1,
+        "width": 390,
+        "scroll": 390,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "mobile",
+        "path": "/book/people/family/",
+        "h1": 1,
+        "width": 390,
+        "scroll": 390,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "mobile",
+        "path": "/book/work/finance/",
+        "h1": 1,
+        "width": 390,
+        "scroll": 390,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "mobile",
+        "path": "/docs/glossary/",
+        "h1": 1,
+        "width": 390,
+        "scroll": 390,
+        "strong": 0,
+        "tables": 1,
+        "brokenImages": []
+      },
+      {
+        "label": "mobile",
+        "path": "/docs/profiles/family/",
+        "h1": 1,
+        "width": 390,
+        "scroll": 390,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "mobile",
+        "path": "/docs/profiles/pr/",
+        "h1": 1,
+        "width": 390,
+        "scroll": 390,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "mobile",
+        "path": "/docs/routes/settling-in/",
+        "h1": 1,
+        "width": 390,
+        "scroll": 390,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "mobile",
+        "path": "/docs/routes/start-work/",
+        "h1": 1,
+        "width": 390,
+        "scroll": 390,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "mobile",
+        "path": "/docs/routes/getting-married/",
+        "h1": 1,
+        "width": 390,
+        "scroll": 390,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "mobile",
+        "path": "/docs/routes/cross-border-trip/",
+        "h1": 1,
+        "width": 390,
+        "scroll": 390,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "mobile",
+        "path": "/book/life/housing/buying-private/",
+        "h1": 1,
+        "width": 390,
+        "scroll": 390,
+        "strong": 18,
+        "tables": 2,
+        "brokenImages": []
+      },
+      {
+        "label": "mobile",
+        "path": "/book/life/housing/purchase-costs/",
+        "h1": 1,
+        "width": 390,
+        "scroll": 390,
+        "strong": 16,
+        "tables": 6,
+        "brokenImages": []
+      },
+      {
+        "label": "mobile",
+        "path": "/book/life/transport/airport-checkpoints/",
+        "h1": 1,
+        "width": 390,
+        "scroll": 390,
+        "strong": 21,
+        "tables": 6,
+        "brokenImages": []
+      },
+      {
+        "label": "mobile",
+        "path": "/book/people/family/relationships/",
+        "h1": 1,
+        "width": 390,
+        "scroll": 390,
+        "strong": 6,
+        "tables": 3,
+        "brokenImages": []
+      },
+      {
+        "label": "mobile",
+        "path": "/book/people/family/sexual-health/",
+        "h1": 1,
+        "width": 390,
+        "scroll": 390,
+        "strong": 26,
+        "tables": 5,
+        "brokenImages": []
+      },
+      {
+        "label": "mobile",
+        "path": "/book/work/finance/banking/",
+        "h1": 1,
+        "width": 390,
+        "scroll": 390,
+        "strong": 30,
+        "tables": 3,
+        "brokenImages": []
+      },
+      {
+        "label": "mobile",
+        "path": "/book/foundations/culture/everyday-etiquette/",
+        "h1": 1,
+        "width": 390,
+        "scroll": 390,
+        "strong": 5,
+        "tables": 1,
+        "brokenImages": []
+      },
+      {
+        "label": "mobile",
+        "path": "/book/foundations/culture/hawker-social-life/",
+        "h1": 1,
+        "width": 390,
+        "scroll": 390,
+        "strong": 2,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "mobile",
+        "homeMenu": true
+      },
+      {
+        "label": "mobile",
+        "keyboardCard": "/book/foundations/"
+      },
+      {
+        "label": "mobile",
+        "nonCurrentBranch": true,
+        "keyboardFold": true
+      },
+      {
+        "label": "mobile",
+        "search": "CPF",
+        "results": "全书导读\nCPF 基础：谁要缴、工资怎样扣、钱能做什么\n按身份、年龄、PR 阶段和就业形式判断 CPF 缴纳，并理解住房、医疗与退休账户。\n银行、CPF与个人财务\n安排家庭现金流，开立和使用银行账户，理解CPF缴纳与账户用途。\n购房预算：税、现金、CPF 与住房贷款\n按购房身份、共同买家、现有住宅与贷款计算印花税，核清现金和 CPF 能支付的项目，并安排付款、换屋及贷款受阻后的下一步。\n工作、收入、财务与经营\n理解工作安排、CPF、税务与日常财务。\n富裕城市里的阶层、生活压力与歧视\n区分收入、财富、家庭需要和社会流动，结合本地研究理解生活压力与歧视，并找到具体求助入口。\n家庭预算：让每月收入接得住日常与意外\n从到手收入出发，安排固定账单、年度费用、家庭责任和应急现金，并识别需要求助的缺口。\n住房、买卖与居住关系\n核对租住与私宅购买条件，安排税费、贷款和交接，处理维修、押金及邻里纠纷。\n医疗费用怎样支付：补贴、MediSave 与保险\n按公民、PR 与外籍身份判断医疗补贴和保险，再核对账单中仍需自己承担的部分。\n查询入口\n新加坡公民\n从CPF、医疗与家人人生安排进入。\n永久居民 PR\n核对取得PR日期、取得途径和离境安排。"
+      },
+      {
+        "label": "mobile",
+        "search": "地铁",
+        "results": "全书导读\n地铁和巴士怎样乘、怎样付费\n第一次乘新加坡地铁或公共巴士，先准备一张可用的交通卡或感应银行卡，进出站、上下车都用同一张卡。手机与实体卡即使绑定同一个银行账…\n步行、骑行与助行工具可以走哪里\n…，优先查有连续坡道、电梯和安全过街的路线；中途接地铁或巴士，可看公共交通的无障碍安排。雷雨或路面湿滑时，留出步行时间，设备刹车和轮胎也要先检查。 五类工具的路径…\n全书导读\n…理养宠物：住处许可、日常花费与照顾责任交通与出行地铁和巴士怎样乘、怎样付费驾照、租买车与日常驾驶出租车和网约车怎样叫、怎样付费步行、骑行与助行工具可以走哪里机场…\n小贩中心与日常社交生活\n…026 年 3 月的国会答复说明，部分大型宿舍及地铁站设有前往康乐中心的免费接驳。组织活动时，除了安排项目，也要确认参与者怎样到达和返程。MOM 康乐中心目录、…\n怎样比较新加坡的生活圈\n…经形成的区域中心，商业设施与住宅相邻，并连接两条地铁线。裕廊湖区（Jurong Lake District）则把裕廊东一带的商业活动与湖畔休闲空间联系起来，仍在…\n查询入口\n中英术语与本地用语\n…保健储蓄、退休账户 CPF MRT / LRT 地铁 / 轻轨 乘车 PAB / PMD / PMA 电动助力脚踏车 / 个人移动设备 / 个人代步辅助设备 骑…"
+      },
+      {
+        "label": "mobile",
+        "search": "Singlish",
+        "results": "全书导读\n在多语环境里，把话听懂、把事说清\n理解英语、华语、马来语、泰米尔语与方言的生活位置，学习应对 Singlish、电话和办事沟通。\n约时间、排队与相处的分寸\n在预约、通勤、同事邀约和邻里交往中，怎样把时间、承诺、隐私与衣着要求说清楚。\n多语家庭：读物、日常练习与学校衔接\n按家人的实际语言和学习需要安排共读与交流，找到英语、华语、马来语、泰米尔语及手语资源，并准备海外学习与返校沟通。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+      },
+      {
+        "label": "mobile",
+        "darkMode": true
+      }
+    ],
+    "errors": [],
+    "screenshots": [
+      ".cache/render-b04a/desktop-home.png",
+      ".cache/render-b04a/desktop-topic.png",
+      ".cache/render-b04a/desktop-navigation.png",
+      ".cache/render-b04a/desktop-dark.png",
+      ".cache/render-b04a/mobile-home.png",
+      ".cache/render-b04a/mobile-topic.png",
+      ".cache/render-b04a/mobile-topic-table.png",
+      ".cache/render-b04a/mobile-navigation.png",
+      ".cache/render-b04a/mobile-dark.png"
+    ],
+    "print": {
+      "pages": 85,
+      "refs": 2345,
+      "sourceLists": 60,
+      "relative": [],
+      "broken": []
+    },
+    "pass": true
+  },
+  "extra_browser": {
+    "at": "2026-10-13T09:26:03.052Z",
+    "checks": [
+      {
+        "label": "desktop",
+        "branch": "housing",
+        "actualLeafClick": "/book/life/housing/buying-private/",
+        "keyboardFold": true
+      },
+      {
+        "label": "desktop",
+        "branch": "transport",
+        "actualLeafClick": "/book/life/transport/airport-checkpoints/",
+        "keyboardFold": true
+      },
+      {
+        "label": "desktop",
+        "branch": "family",
+        "actualLeafClick": "/book/people/family/relationships/",
+        "keyboardFold": true
+      },
+      {
+        "label": "desktop",
+        "branch": "finance",
+        "actualLeafClick": "/book/work/finance/banking/",
+        "keyboardFold": true
+      },
+      {
+        "label": "desktop",
+        "search": "ABSD",
+        "actualResultClick": "life/housing/purchase-costs",
+        "results": "全书导读\n购房预算：税、现金、CPF 与住房贷款\n按购房身份、共同买家、现有住宅与贷款计算印花税，核清现金和 CPF 能支付的项目，并安排付款、换屋及贷款受阻后的下一步。\n买私人住宅：产权批准、合同与交房\n分清私人公寓、分层地屋与有地住宅的购买条件，安排外国人产权批准、产权核查、新售或二手合同、付款及交房后的缺陷处理。\n办事找谁：公共服务、街区反馈与预算\n分清部委、法定机构与市镇理事会，完成 OneService 反馈和跟进，并找到公共预算、财政报告与政策咨询入口。\n离职时怎样结工资、交接准证和处理争议\n按辞职、解雇和裁员情形核对通知期、最终薪资、工作准证及家属停留，并及时启动税清或劳动申索。\n邻里滋扰与住宅管理：找谁、怎样推进\n区分组屋公共部分、公寓管理和邻居之间的滋扰，完成沟通、调解、协议登记及适用的法庭程序。\n亲密关系、共同生活与结婚手续\n商量共同生活和财务安排，按宗教、年龄与身份办理民事或穆斯林婚姻，并准备跨国伴侣的许可、居留及工作衔接。\n步行、骑行与助行工具可以走哪里\n辨认人行道、专用步行道和骑行路径，核对自行车、电动工具与轮椅的使用、测试、注册及公交携带条件。\n开户与日常支付：工资、银行卡、PayNow 和 GIRO\n按身份和产品准备开户材料，安排工资收款、银行卡与转账扣费，处理错账，并在换资料或离境前办好账户手续。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+      },
+      {
+        "label": "desktop",
+        "search": "LDAU",
+        "actualResultClick": "life/housing/buying-private",
+        "results": "全书导读\n买私人住宅：产权批准、合同与交房\n分清私人公寓、分层地屋与有地住宅的购买条件，安排外国人产权批准、产权核查、新售或二手合同、付款及交房后的缺陷处理。\n机场、柔佛关卡与渡轮出行\n安排樟宜机场接驳、柔佛巴士火车与自驾，逐人核对两国入境文件，并处理购物清关和渡轮出境。\n多语家庭：读物、日常练习与学校衔接\n按家人的实际语言和学习需要安排共读与交流，找到英语、华语、马来语、泰米尔语及手语资源，并准备海外学习与返校沟通。\n纪念碑、口述与海岛记忆\n理解新加坡公共纪念怎样形成，并通过博物馆、私人档案与南部岛民的自述，看见不同群体保存过去的方式。\n投票、政策意见与公共参与\n查清新加坡选举资格、本地与海外投票、未投票后恢复名册，以及公民、PR 和其他外籍人士参与公共事务的不同边界。\n族群分类与生活中的身份\n认识华族、马来族、印度族、欧亚及其他社群，分清行政族群分类、历史来源与个人的语言、信仰和身份认同。\n工厂、组屋与家庭生活的改变\n从就业、公共住房和家庭照顾理解工业化：新镇带来的便利、搬迁的代价，以及女性劳动和社群关系的变化。\n步行、骑行与助行工具可以走哪里\n辨认人行道、专用步行道和骑行路径，核对自行车、电动工具与轮椅的使用、测试、注册及公交携带条件。\n出租车和网约车怎样叫、怎样付费\n选路招、电话或应用叫车，核对计价与附加费，安排儿童、轮椅和行李，并处理取消、遗失物与收费争议。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+      },
+      {
+        "label": "desktop",
+        "search": "MDAC",
+        "actualResultClick": "life/transport/airport-checkpoints",
+        "results": "全书导读\n机场、柔佛关卡与渡轮出行\n安排樟宜机场接驳、柔佛巴士火车与自驾，逐人核对两国入境文件，并处理购物清关和渡轮出境。\n性健康、避孕与生育选择\n找到避孕、STI与HIV检测、生育治疗和终止妊娠的就诊入口，核对时间窗口、年龄、婚姻、居留与费用条件。\nMOM 准证的签发、续期与资料更新\n从原则批准办理签发和领卡，按准证类别安排续期，并完成地址、护照、就业和家属资料的更新。\n保护资料、判断信息与应对诈骗\n收到可疑电话和消息时怎样核实，账户或手机出事后怎样止损、留证与报案，并养成保护个人资料和查证信息的习惯。\n港口、资本与人流怎样连接新加坡和世界\n分清货物贸易、港口吞吐、金融资产与人口口径，理解中国、印度、美国及欧洲与新加坡工作的不同联系。\n买私人住宅：产权批准、合同与交房\n分清私人公寓、分层地屋与有地住宅的购买条件，安排外国人产权批准、产权核查、新售或二手合同、付款及交房后的缺陷处理。\n入境、停留与 ICA 证件管理\n填妥抵达申报，核对实际停留期限，完成学生及 ICA 长期探访准证手续，并办理身份证、地址和证件资料更新。\n生病后去哪看：诊所、专科与急诊\n按病情和身份选择 GP、综合诊疗所或医院，完成预约、转介与后续照护。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。\n安排跨境往返\n将每人的旅行文件、交通票、车辆手续与返新申报排在一起。"
+      },
+      {
+        "label": "desktop",
+        "search": "ROMM",
+        "actualResultClick": "people/family/relationships",
+        "results": "全书导读\n亲密关系、共同生活与结婚手续\n商量共同生活和财务安排，按宗教、年龄与身份办理民事或穆斯林婚姻，并准备跨国伴侣的许可、居留及工作衔接。\nMOM 准证的签发、续期与资料更新\n从原则批准办理签发和领卡，按准证类别安排续期，并完成地址、护照、就业和家属资料的更新。\n迁徙、定居与跨国家庭\n分清本地出生、新移民和外籍工作者的不同含义，理解跨国家庭与不同工作群体的生活条件，找到建立联系和求助的入口。\n工厂、组屋与家庭生活的改变\n从就业、公共住房和家庭照顾理解工业化：新镇带来的便利、搬迁的代价，以及女性劳动和社群关系的变化。\n驾照、租买车与日常驾驶\n按居留和工作情况使用或转换驾照，完成首次学车，核对持车成本、停车、保险和事故报告。\n工作准证怎么选，入职前查什么\n比较 EP、S Pass、行业及家政 Work Permit、PEP、ONE Pass 与 EntrePass，并核对 offer、准证状态 …\n离职与离境税清：IR21 什么时候要办\n非公民雇员离职、海外派驻或长期离境时，核对 IR21 豁免、工资暂扣、雇主缴税、个人补款与离职后追加收入。\n医疗费用怎样支付：补贴、MediSave 与保险\n按公民、PR 与外籍身份判断医疗补贴和保险，再核对账单中仍需自己承担的部分。\n查询入口\n准备结婚与共同生活\n按双方宗教、年龄、婚姻记录与准证历史安排登记、文件和婚后居留。\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+      },
+      {
+        "label": "desktop",
+        "search": "紧急避孕",
+        "actualResultClick": "people/family/sexual-health",
+        "results": "全书导读\n性健康、避孕与生育选择\n…立医院急诊请求暴露后预防用药评估；无保护性交后的紧急避孕也应当天找医生，药物和放置铜宫内节育器各有时间窗口。CDA 的 HIV 指引、NUH 避孕手册 刚发生暴…"
+      },
+      {
+        "label": "desktop",
+        "search": "PayNow",
+        "actualResultClick": "work/finance/banking",
+        "results": "全书导读\n开户与日常支付：工资、银行卡、PayNow 和 GIRO\n按身份和产品准备开户材料，安排工资收款、银行卡与转账扣费，处理错账，并在换资料或离境前办好账户手续。\n全书导读\n从社会背景到人生事务，沿五部分阅读新加坡。\n驾照、租买车与日常驾驶\n按居留和工作情况使用或转换驾照，完成首次学车，核对持车成本、停车、保险和事故报告。\n马来西亚、印度尼西亚与东盟怎样进入日常生活\n从柔佛通勤、廖内群岛合作、水与能源供应和海峡安全，理解新加坡与邻国及东盟的联系。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+      },
+      {
+        "label": "desktop",
+        "search": "FIDReC",
+        "actualResultClick": "work/finance/banking",
+        "results": "全书导读\n开户与日常支付：工资、银行卡、PayNow 和 GIRO\n按身份和产品准备开户材料，安排工资收款、银行卡与转账扣费，处理错账，并在换资料或离境前办好账户手续。\n驾照、租买车与日常驾驶\n按居留和工作情况使用或转换驾照，完成首次学车，核对持车成本、停车、保险和事故报告。\n紧急求助：报警、救护与住家火灾\n分清 999、995 和两种紧急短信号码，说明通话、无法讲话、报案受阻及火灾无法自行疏散时的下一步。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+      },
+      {
+        "label": "desktop",
+        "slug": "life/housing/purchase-costs",
+        "needle": "教学虚构",
+        "tables": [
+          {
+            "columns": 2,
+            "width": 770,
+            "parentWidth": 770,
+            "parentScroll": 770,
+            "rows": 6
+          },
+          {
+            "columns": 4,
+            "width": 770,
+            "parentWidth": 770,
+            "parentScroll": 770,
+            "rows": 3
+          },
+          {
+            "columns": 4,
+            "width": 770,
+            "parentWidth": 770,
+            "parentScroll": 770,
+            "rows": 3
+          },
+          {
+            "columns": 2,
+            "width": 770,
+            "parentWidth": 770,
+            "parentScroll": 770,
+            "rows": 4
+          },
+          {
+            "columns": 2,
+            "width": 770,
+            "parentWidth": 770,
+            "parentScroll": 770,
+            "rows": 8
+          },
+          {
+            "columns": 6,
+            "width": 770,
+            "parentWidth": 770,
+            "parentScroll": 770,
+            "rows": 2
+          }
+        ]
+      },
+      {
+        "label": "desktop",
+        "slug": "life/transport/airport-checkpoints",
+        "needle": "马来西亚公民柜台付款",
+        "tables": [
+          {
+            "columns": 3,
+            "width": 770,
+            "parentWidth": 770,
+            "parentScroll": 770,
+            "rows": 5
+          },
+          {
+            "columns": 3,
+            "width": 770,
+            "parentWidth": 770,
+            "parentScroll": 770,
+            "rows": 5
+          },
+          {
+            "columns": 3,
+            "width": 770,
+            "parentWidth": 770,
+            "parentScroll": 770,
+            "rows": 2
+          },
+          {
+            "columns": 3,
+            "width": 770,
+            "parentWidth": 770,
+            "parentScroll": 770,
+            "rows": 2
+          },
+          {
+            "columns": 2,
+            "width": 770,
+            "parentWidth": 770,
+            "parentScroll": 770,
+            "rows": 2
+          },
+          {
+            "columns": 2,
+            "width": 770,
+            "parentWidth": 770,
+            "parentScroll": 770,
+            "rows": 3
+          }
+        ]
+      },
+      {
+        "label": "desktop",
+        "slug": "people/family/relationships",
+        "needle": "民事年龄",
+        "tables": [
+          {
+            "columns": 2,
+            "width": 770,
+            "parentWidth": 770,
+            "parentScroll": 770,
+            "rows": 5
+          },
+          {
+            "columns": 2,
+            "width": 770,
+            "parentWidth": 770,
+            "parentScroll": 770,
+            "rows": 6
+          },
+          {
+            "columns": 3,
+            "width": 770,
+            "parentWidth": 770,
+            "parentScroll": 770,
+            "rows": 3
+          }
+        ]
+      },
+      {
+        "label": "desktop",
+        "slug": "people/family/sexual-health",
+        "needle": "120 小时内",
+        "tables": [
+          {
+            "columns": 2,
+            "width": 770,
+            "parentWidth": 770,
+            "parentScroll": 770,
+            "rows": 4
+          },
+          {
+            "columns": 2,
+            "width": 770,
+            "parentWidth": 770,
+            "parentScroll": 770,
+            "rows": 4
+          },
+          {
+            "columns": 3,
+            "width": 770,
+            "parentWidth": 770,
+            "parentScroll": 770,
+            "rows": 3
+          },
+          {
+            "columns": 2,
+            "width": 770,
+            "parentWidth": 770,
+            "parentScroll": 770,
+            "rows": 3
+          },
+          {
+            "columns": 4,
+            "width": 770,
+            "parentWidth": 770,
+            "parentScroll": 770,
+            "rows": 3
+          }
+        ]
+      },
+      {
+        "label": "desktop",
+        "slug": "work/finance/banking",
+        "needle": "PayNow",
+        "tables": [
+          {
+            "columns": 2,
+            "width": 770,
+            "parentWidth": 770,
+            "parentScroll": 770,
+            "rows": 6
+          },
+          {
+            "columns": 2,
+            "width": 770,
+            "parentWidth": 770,
+            "parentScroll": 770,
+            "rows": 2
+          },
+          {
+            "columns": 2,
+            "width": 770,
+            "parentWidth": 770,
+            "parentScroll": 770,
+            "rows": 4
+          }
+        ]
+      },
+      {
+        "label": "desktop",
+        "routeMenuClick": "getting-married"
+      },
+      {
+        "label": "desktop",
+        "routeMenuClick": "cross-border-trip"
+      },
+      {
+        "label": "mobile",
+        "branch": "housing",
+        "actualLeafClick": "/book/life/housing/buying-private/",
+        "keyboardFold": true
+      },
+      {
+        "label": "mobile",
+        "branch": "transport",
+        "actualLeafClick": "/book/life/transport/airport-checkpoints/",
+        "keyboardFold": true
+      },
+      {
+        "label": "mobile",
+        "branch": "family",
+        "actualLeafClick": "/book/people/family/relationships/",
+        "keyboardFold": true
+      },
+      {
+        "label": "mobile",
+        "branch": "finance",
+        "actualLeafClick": "/book/work/finance/banking/",
+        "keyboardFold": true
+      },
+      {
+        "label": "mobile",
+        "search": "ABSD",
+        "actualResultClick": "life/housing/purchase-costs",
+        "results": "全书导读\n购房预算：税、现金、CPF 与住房贷款\n按购房身份、共同买家、现有住宅与贷款计算印花税，核清现金和 CPF 能支付的项目，并安排付款、换屋及贷款受阻后的下一步。\n买私人住宅：产权批准、合同与交房\n分清私人公寓、分层地屋与有地住宅的购买条件，安排外国人产权批准、产权核查、新售或二手合同、付款及交房后的缺陷处理。\n办事找谁：公共服务、街区反馈与预算\n分清部委、法定机构与市镇理事会，完成 OneService 反馈和跟进，并找到公共预算、财政报告与政策咨询入口。\n离职时怎样结工资、交接准证和处理争议\n按辞职、解雇和裁员情形核对通知期、最终薪资、工作准证及家属停留，并及时启动税清或劳动申索。\n邻里滋扰与住宅管理：找谁、怎样推进\n区分组屋公共部分、公寓管理和邻居之间的滋扰，完成沟通、调解、协议登记及适用的法庭程序。\n亲密关系、共同生活与结婚手续\n商量共同生活和财务安排，按宗教、年龄与身份办理民事或穆斯林婚姻，并准备跨国伴侣的许可、居留及工作衔接。\n步行、骑行与助行工具可以走哪里\n辨认人行道、专用步行道和骑行路径，核对自行车、电动工具与轮椅的使用、测试、注册及公交携带条件。\n开户与日常支付：工资、银行卡、PayNow 和 GIRO\n按身份和产品准备开户材料，安排工资收款、银行卡与转账扣费，处理错账，并在换资料或离境前办好账户手续。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+      },
+      {
+        "label": "mobile",
+        "search": "LDAU",
+        "actualResultClick": "life/housing/buying-private",
+        "results": "全书导读\n买私人住宅：产权批准、合同与交房\n分清私人公寓、分层地屋与有地住宅的购买条件，安排外国人产权批准、产权核查、新售或二手合同、付款及交房后的缺陷处理。\n机场、柔佛关卡与渡轮出行\n安排樟宜机场接驳、柔佛巴士火车与自驾，逐人核对两国入境文件，并处理购物清关和渡轮出境。\n多语家庭：读物、日常练习与学校衔接\n按家人的实际语言和学习需要安排共读与交流，找到英语、华语、马来语、泰米尔语及手语资源，并准备海外学习与返校沟通。\n纪念碑、口述与海岛记忆\n理解新加坡公共纪念怎样形成，并通过博物馆、私人档案与南部岛民的自述，看见不同群体保存过去的方式。\n投票、政策意见与公共参与\n查清新加坡选举资格、本地与海外投票、未投票后恢复名册，以及公民、PR 和其他外籍人士参与公共事务的不同边界。\n族群分类与生活中的身份\n认识华族、马来族、印度族、欧亚及其他社群，分清行政族群分类、历史来源与个人的语言、信仰和身份认同。\n工厂、组屋与家庭生活的改变\n从就业、公共住房和家庭照顾理解工业化：新镇带来的便利、搬迁的代价，以及女性劳动和社群关系的变化。\n步行、骑行与助行工具可以走哪里\n辨认人行道、专用步行道和骑行路径，核对自行车、电动工具与轮椅的使用、测试、注册及公交携带条件。\n出租车和网约车怎样叫、怎样付费\n选路招、电话或应用叫车，核对计价与附加费，安排儿童、轮椅和行李，并处理取消、遗失物与收费争议。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+      },
+      {
+        "label": "mobile",
+        "search": "MDAC",
+        "actualResultClick": "life/transport/airport-checkpoints",
+        "results": "全书导读\n机场、柔佛关卡与渡轮出行\n安排樟宜机场接驳、柔佛巴士火车与自驾，逐人核对两国入境文件，并处理购物清关和渡轮出境。\n性健康、避孕与生育选择\n找到避孕、STI与HIV检测、生育治疗和终止妊娠的就诊入口，核对时间窗口、年龄、婚姻、居留与费用条件。\nMOM 准证的签发、续期与资料更新\n从原则批准办理签发和领卡，按准证类别安排续期，并完成地址、护照、就业和家属资料的更新。\n保护资料、判断信息与应对诈骗\n收到可疑电话和消息时怎样核实，账户或手机出事后怎样止损、留证与报案，并养成保护个人资料和查证信息的习惯。\n港口、资本与人流怎样连接新加坡和世界\n分清货物贸易、港口吞吐、金融资产与人口口径，理解中国、印度、美国及欧洲与新加坡工作的不同联系。\n买私人住宅：产权批准、合同与交房\n分清私人公寓、分层地屋与有地住宅的购买条件，安排外国人产权批准、产权核查、新售或二手合同、付款及交房后的缺陷处理。\n入境、停留与 ICA 证件管理\n填妥抵达申报，核对实际停留期限，完成学生及 ICA 长期探访准证手续，并办理身份证、地址和证件资料更新。\n生病后去哪看：诊所、专科与急诊\n按病情和身份选择 GP、综合诊疗所或医院，完成预约、转介与后续照护。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。\n安排跨境往返\n将每人的旅行文件、交通票、车辆手续与返新申报排在一起。"
+      },
+      {
+        "label": "mobile",
+        "search": "ROMM",
+        "actualResultClick": "people/family/relationships",
+        "results": "全书导读\n亲密关系、共同生活与结婚手续\n商量共同生活和财务安排，按宗教、年龄与身份办理民事或穆斯林婚姻，并准备跨国伴侣的许可、居留及工作衔接。\nMOM 准证的签发、续期与资料更新\n从原则批准办理签发和领卡，按准证类别安排续期，并完成地址、护照、就业和家属资料的更新。\n迁徙、定居与跨国家庭\n分清本地出生、新移民和外籍工作者的不同含义，理解跨国家庭与不同工作群体的生活条件，找到建立联系和求助的入口。\n工厂、组屋与家庭生活的改变\n从就业、公共住房和家庭照顾理解工业化：新镇带来的便利、搬迁的代价，以及女性劳动和社群关系的变化。\n驾照、租买车与日常驾驶\n按居留和工作情况使用或转换驾照，完成首次学车，核对持车成本、停车、保险和事故报告。\n工作准证怎么选，入职前查什么\n比较 EP、S Pass、行业及家政 Work Permit、PEP、ONE Pass 与 EntrePass，并核对 offer、准证状态 …\n离职与离境税清：IR21 什么时候要办\n非公民雇员离职、海外派驻或长期离境时，核对 IR21 豁免、工资暂扣、雇主缴税、个人补款与离职后追加收入。\n医疗费用怎样支付：补贴、MediSave 与保险\n按公民、PR 与外籍身份判断医疗补贴和保险，再核对账单中仍需自己承担的部分。\n查询入口\n准备结婚与共同生活\n按双方宗教、年龄、婚姻记录与准证历史安排登记、文件和婚后居留。\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+      },
+      {
+        "label": "mobile",
+        "search": "紧急避孕",
+        "actualResultClick": "people/family/sexual-health",
+        "results": "全书导读\n性健康、避孕与生育选择\n…立医院急诊请求暴露后预防用药评估；无保护性交后的紧急避孕也应当天找医生，药物和放置铜宫内节育器各有时间窗口。CDA 的 HIV 指引、NUH 避孕手册 刚发生暴…"
+      },
+      {
+        "label": "mobile",
+        "search": "PayNow",
+        "actualResultClick": "work/finance/banking",
+        "results": "全书导读\n开户与日常支付：工资、银行卡、PayNow 和 GIRO\n按身份和产品准备开户材料，安排工资收款、银行卡与转账扣费，处理错账，并在换资料或离境前办好账户手续。\n全书导读\n从社会背景到人生事务，沿五部分阅读新加坡。\n驾照、租买车与日常驾驶\n按居留和工作情况使用或转换驾照，完成首次学车，核对持车成本、停车、保险和事故报告。\n马来西亚、印度尼西亚与东盟怎样进入日常生活\n从柔佛通勤、廖内群岛合作、水与能源供应和海峡安全，理解新加坡与邻国及东盟的联系。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+      },
+      {
+        "label": "mobile",
+        "search": "FIDReC",
+        "actualResultClick": "work/finance/banking",
+        "results": "全书导读\n开户与日常支付：工资、银行卡、PayNow 和 GIRO\n按身份和产品准备开户材料，安排工资收款、银行卡与转账扣费，处理错账，并在换资料或离境前办好账户手续。\n驾照、租买车与日常驾驶\n按居留和工作情况使用或转换驾照，完成首次学车，核对持车成本、停车、保险和事故报告。\n紧急求助：报警、救护与住家火灾\n分清 999、995 和两种紧急短信号码，说明通话、无法讲话、报案受阻及火灾无法自行疏散时的下一步。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+      },
+      {
+        "label": "mobile",
+        "slug": "life/housing/purchase-costs",
+        "scroll": 220
+      },
+      {
+        "label": "mobile",
+        "slug": "life/housing/purchase-costs",
+        "needle": "教学虚构",
+        "tables": [
+          {
+            "columns": 2,
+            "width": 356,
+            "parentWidth": 356,
+            "parentScroll": 356,
+            "rows": 6
+          },
+          {
+            "columns": 4,
+            "width": 384,
+            "parentWidth": 356,
+            "parentScroll": 384,
+            "rows": 3
+          },
+          {
+            "columns": 4,
+            "width": 384,
+            "parentWidth": 356,
+            "parentScroll": 384,
+            "rows": 3
+          },
+          {
+            "columns": 2,
+            "width": 356,
+            "parentWidth": 356,
+            "parentScroll": 356,
+            "rows": 4
+          },
+          {
+            "columns": 2,
+            "width": 356,
+            "parentWidth": 356,
+            "parentScroll": 356,
+            "rows": 8
+          },
+          {
+            "columns": 6,
+            "width": 576,
+            "parentWidth": 356,
+            "parentScroll": 576,
+            "rows": 2
+          }
+        ]
+      },
+      {
+        "label": "mobile",
+        "slug": "life/transport/airport-checkpoints",
+        "needle": "马来西亚公民柜台付款",
+        "tables": [
+          {
+            "columns": 3,
+            "width": 356,
+            "parentWidth": 356,
+            "parentScroll": 356,
+            "rows": 5
+          },
+          {
+            "columns": 3,
+            "width": 356,
+            "parentWidth": 356,
+            "parentScroll": 356,
+            "rows": 5
+          },
+          {
+            "columns": 3,
+            "width": 356,
+            "parentWidth": 356,
+            "parentScroll": 356,
+            "rows": 2
+          },
+          {
+            "columns": 3,
+            "width": 356,
+            "parentWidth": 356,
+            "parentScroll": 356,
+            "rows": 2
+          },
+          {
+            "columns": 2,
+            "width": 356,
+            "parentWidth": 356,
+            "parentScroll": 356,
+            "rows": 2
+          },
+          {
+            "columns": 2,
+            "width": 356,
+            "parentWidth": 356,
+            "parentScroll": 356,
+            "rows": 3
+          }
+        ]
+      },
+      {
+        "label": "mobile",
+        "slug": "people/family/relationships",
+        "needle": "民事年龄",
+        "tables": [
+          {
+            "columns": 2,
+            "width": 356,
+            "parentWidth": 356,
+            "parentScroll": 356,
+            "rows": 5
+          },
+          {
+            "columns": 2,
+            "width": 356,
+            "parentWidth": 356,
+            "parentScroll": 356,
+            "rows": 6
+          },
+          {
+            "columns": 3,
+            "width": 356,
+            "parentWidth": 356,
+            "parentScroll": 356,
+            "rows": 3
+          }
+        ]
+      },
+      {
+        "label": "mobile",
+        "slug": "people/family/sexual-health",
+        "scroll": 28
+      },
+      {
+        "label": "mobile",
+        "slug": "people/family/sexual-health",
+        "needle": "120 小时内",
+        "tables": [
+          {
+            "columns": 2,
+            "width": 356,
+            "parentWidth": 356,
+            "parentScroll": 356,
+            "rows": 4
+          },
+          {
+            "columns": 2,
+            "width": 356,
+            "parentWidth": 356,
+            "parentScroll": 356,
+            "rows": 4
+          },
+          {
+            "columns": 3,
+            "width": 356,
+            "parentWidth": 356,
+            "parentScroll": 356,
+            "rows": 3
+          },
+          {
+            "columns": 2,
+            "width": 356,
+            "parentWidth": 356,
+            "parentScroll": 356,
+            "rows": 3
+          },
+          {
+            "columns": 4,
+            "width": 384,
+            "parentWidth": 356,
+            "parentScroll": 384,
+            "rows": 3
+          }
+        ]
+      },
+      {
+        "label": "mobile",
+        "slug": "work/finance/banking",
+        "needle": "PayNow",
+        "tables": [
+          {
+            "columns": 2,
+            "width": 356,
+            "parentWidth": 356,
+            "parentScroll": 356,
+            "rows": 6
+          },
+          {
+            "columns": 2,
+            "width": 356,
+            "parentWidth": 356,
+            "parentScroll": 356,
+            "rows": 2
+          },
+          {
+            "columns": 2,
+            "width": 356,
+            "parentWidth": 356,
+            "parentScroll": 356,
+            "rows": 4
+          }
+        ]
+      },
+      {
+        "label": "mobile",
+        "routeMenuClick": "getting-married"
+      },
+      {
+        "label": "mobile",
+        "routeMenuClick": "cross-border-trip"
+      }
+    ],
+    "errors": [],
+    "pass": true
+  },
+  "print_styles": {
+    "at": "2026-10-13T09:26:56.021Z",
+    "base": "http://127.0.0.1:1328",
+    "menuIcons": [
+      "fa-solid fa-book-open",
+      "fa-solid fa-list-check",
+      "fa-solid fa-id-card",
+      "fa-solid fa-language"
+    ],
+    "print": {
+      "background": "rgb(255, 255, 255)",
+      "cells": [
+        "rgb(17, 17, 17)"
+      ],
+      "sources": 60,
+      "relative": [],
+      "broken": []
+    },
+    "pass": true
+  },
+  "physical_pdf_pages": 294,
+  "manual_visual_review": {
+    "reviewer": "root",
+    "screenshots": [
+      "mobile-purchase-costs-table.png",
+      "mobile-purchase-costs-table-right.png",
+      "mobile-sexual-health-table.png",
+      "desktop-relationships-table.png",
+      "mobile-airport-checkpoints-table.png",
+      "mobile-banking-table.png"
+    ],
+    "pdf_physical_pages": [
+      131,
+      183,
+      225,
+      232,
+      279
+    ],
+    "observations": "Chinese readable; mobile wide tables scroll; bank and border terms wrap; sampled PDF table headers repeat and source URLs wrap. Only these samples were visually inspected, not all 294 pages."
+  },
+  "rendered_status": "verified/draft:false during browser and PDF; metadata-only promoted to integrated after render; body hashes unchanged; status is not rendered by editorial-meta",
+  "reproduce": [
+    "make check DESTINATION=.cache/production-review",
+    "python3 scripts/serve_review.py",
+    "SG_PATHS_FILE=.cache/b04a-browser-paths.json SG_RENDER_DIR=.cache/render-b04a SG_TABLE_PATH=/book/life/housing/purchase-costs/ node scripts/check_browser.mjs",
+    "node .cache/check-b04a-extra.mjs",
+    "SG_RENDER_DIR=.cache/render-b04a node scripts/check_print.mjs",
+    "make sync"
+  ],
+  "artifacts": "Ignored .cache/render-b04a contains screenshots, PDF and raw reports; no external publication."
+}

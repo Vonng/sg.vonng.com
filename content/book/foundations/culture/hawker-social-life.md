@@ -29,9 +29,7 @@ weight: 20
 
 ## 一份食物背后也是一门生计
 
-谈小贩文化，需要同时看见准备食材、烹调、清洁和经营的劳动。2020 年，小贩行业可持续发展工作小组向政府提交建议；超过半数成员来自小贩行业。报告归纳的困难包括新人持续经营不易、老摊主寻找接班人困难，以及商业竞争和生产效率问题。这是当年的行业诊断，不能当作今天所有摊位的经营状况。[NEA：2020 年工作小组报告说明](https://www.nea.gov.sg/media/news/news/index/nea-to-introduce-a-new-scheme-to-facilitate-the-continued-practice-of-hawker-trade-and-transmission-of-culinary-skills-from-retiring-veteran-hawkers-to-aspiring-successors)
-
-作为食客，可以先看价格和营业安排，按需要点餐，给制作留出时间。喜欢一家摊位时，日常光顾、准确传达点单和礼貌反馈，都是具体的支持。谈到一餐是否“便宜”，也要看食客预算与分量；工薪家庭每天的餐费，和偶尔前来尝鲜的开支，承担的作用不同。
+准备食材、烹调、清洁和经营都是小贩的日常劳动。2020 年，小贩行业可持续发展工作小组向政府提交建议；超过半数成员来自小贩行业。报告归纳的困难包括新人持续经营不易、老摊主寻找接班人困难，以及商业竞争和生产效率问题。[NEA：2020 年工作小组报告说明](https://www.nea.gov.sg/media/news/news/index/nea-to-introduce-a-new-scheme-to-facilitate-the-continued-practice-of-hawker-trade-and-transmission-of-culinary-skills-from-retiring-veteran-hawkers-to-aspiring-successors)
 
 ## 运动与休闲需要时间和可达的场所
 

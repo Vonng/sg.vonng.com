@@ -62,3 +62,11 @@ weight: 30
 | SAL / Apostille / certified true copy | 新加坡法律学会 / 附加证明书 / 经核证的真实副本 | [翻译、公证与认证](/book/life/documents/documents/) |
 | ASEAN / BBK / RTS Link | 东盟 / 巴淡、民丹和卡里汶 / 柔新捷运项目 | [邻国与区域联系](/book/foundations/world/regional-ties/) |
 | Gini / MIS / TEU | 基尼系数 / 基本生活需要研究 / 标准箱 | [阶层与生活压力](/book/foundations/culture/inequality/)、[开放经济口径](/book/foundations/world/trade-migration/) |
+| RPA / LDAU / OTP / TOP | 住宅产权法 / 土地交易批准单位 / 购买选择权 / 临时入伙许可；住房语境用语 | [私宅购买](/book/life/housing/buying-private/) |
+| BSD / ABSD / SSD | 买方印花税 / 额外买方印花税 / 卖方印花税 | [购房税费](/book/life/housing/purchase-costs/) |
+| LTV / TDSR / MSR | 贷款占估值比例 / 总偿债比率 / 按揭偿付比率 | [住房融资](/book/life/housing/purchase-costs/) |
+| MDAC / VEP / Autopass | 马来西亚电子到达卡 / 车辆入境许可 / 新加坡车辆收费卡 | [机场与跨境](/book/life/transport/airport-checkpoints/) |
+| ROM / ROMM / PMLA | 民事婚姻登记局 / 穆斯林婚姻登记局 / 婚前长期探访准证评估 | [伴侣与婚姻](/book/people/family/relationships/) |
+| DSC / PEP / PrEP / TOP / EEF | 性病控制诊所 / HIV暴露后预防 / 暴露前预防 / 终止妊娠 / 非医疗原因冻卵；医疗语境用语 | [性健康与生育选择](/book/people/family/sexual-health/) |
+| PayNow / FAST / NETS / eGIRO | 本地常见转账、付款与数字扣款授权服务 | [开户与支付](/book/work/finance/banking/) |
+| SDIC / FIDReC | 新加坡存款保险机构 / 金融业争议调解中心 | [存款保障与银行争议](/book/work/finance/banking/) |
