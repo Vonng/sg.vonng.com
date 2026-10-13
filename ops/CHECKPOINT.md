@@ -12,6 +12,8 @@ B04I最终make check：138源/83主题/2草稿、138HTML，24266内部引用、6
 
 root下一作者任务为property-tax。P01—07当前IRAS原文的实际阅读范围已记evidence/b05-property-tax.md，原返回property-open1..4.txt在忽略.cache/research/b05-tax；无正文。自住／非自住税率、优惠、年度缴款和AV异议已读采用范围；租金所得仅读917—961，必须补扣除、例外、申报和损失全文；还需读AV1000后、VRB现行独立流程、renting／moving／困难与迟缴等实际详页。税务更正已B04I接收，VDP官网4月18日与现行手册法定4月15日的差异在正文明确保留。两IRAS PDF只有真实文字，无实体；三MOF DOCX及SSO均双路径403止损，不重试。MOF两PDF实体及实际读图范围见证据与独立报告。
 
-B02 admission仍有AEIS／S-AEIS年龄与CEQ、当期／下一届窗口及2027 P1框架主管原文缺口；learning、school-life不能替代。HDB／EC、PDPC权利、老年照护与死亡、求职职场、经营持续责任、法律合同、安全与户外等必要分支仍按BOOKMAP／COVERAGE逐条推进。HUM已将本批138个实际源列队，旧已集成○改为待处理，新落草稿后续追增；表达改进记录不等于全书HUM通过。
+B02 admission仍有AEIS／S-AEIS年龄与CEQ、当期／下一届窗口及2027 P1框架主管原文缺口；learning、school-life不能替代。HDB／EC、PDPC权利、老年照护与死亡、求职职场、经营持续责任、法律合同、安全与户外等必要分支仍按BOOKMAP／COVERAGE逐条推进。HUM已将本批140个实际源列队（二核补登caregiver-support／property-tax两在途草稿；提示词更新至v2，P1按当前密度重排为工伤/驾驶/心理健康/债务/学费资助等），旧已集成○改为待处理，新落草稿后续追增；表达改进记录不等于全书HUM通过。
 
 下一命令：先核Git和三名执行者最新HANDOFF／实际正文冻结状态；接成熟的adult-learning及caregiver-support／hardship，两轮独立审后再做下一批工程。root并行补读房产税上述原文。遇事实修订由作者应用、审核绑定新SHA；共享构建仅root。现有本地预览127.0.0.1:1328由scripts/serve_review.py服务，本轮PID54938已实查；恢复时重查，不复用已完成exec句柄。原件、截图、PDF、public、依赖与缓存全部忽略。普通研究、编辑、本地构建和提交已授权，外部事项另行授权。
+
+2026-10-13 HUM执行批（root）。HUMANIZE“说人话”校对本轮完成四个本地提交：43d7c37 HUM02（P1十五篇全文通读逐段过唯一判据，删112改写12，事实层零变动——URL配平、frontmatter/H2/表格结构经diff实查未动）、35ce1ee HUM03（life批次10文件删17）、fa433e5 HUM04（people+work批次8文件删9）、53c9532 HUM05（foundations批次3文件删4并更新进度表）。全书“不要把/不能把/避免把”三模式134处/51文件降至84处/42文件；P1重灾区101→36。残留否定均逐条过判据保留（失权、违法、安全、资金后果类，如14天异议期、ORAL宣誓窗口、REP 180日、ORMCOB计等），每篇grep复查残留可答“删掉读者会做错什么”。HUM03—H05对0命中文件执行训导词＋复述归纳模式全扫未见需改句；进度表已勾22＋15篇并注明各自处理深度，全部content的逐篇全文通读复核与在途四draft（admission/adult-learning/caregiver-support/property-tax）集成后补处理仍未做。未运行构建，生产验收归主控；未外部推送。
