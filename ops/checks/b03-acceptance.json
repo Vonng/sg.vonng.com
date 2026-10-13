@@ -1,0 +1,83 @@
+{
+  "source_pages": 75,
+  "topics": 35,
+  "drafts": 9,
+  "html": 68,
+  "internal_references": 6918,
+  "external_references_skipped": 1370,
+  "errors": [],
+  "limitations": [
+    "No external URL check; no factual approval; no browser or visual certification."
+  ],
+  "date": "2026-10-13",
+  "batch": "B03A",
+  "production_topics": 26,
+  "new_topics": 11,
+  "public_files": 188,
+  "output_inventory_sha256": "e28b4e000981b81465bf4ad0c85aee017821811f7d55febea42c26af169e8069",
+  "browser": {
+    "pass": true,
+    "viewports": [
+      "1440x1000",
+      "390x844"
+    ],
+    "paths": [
+      "/",
+      "/book/",
+      "/docs/routes/settling-in/",
+      "/docs/glossary/",
+      "/book/foundations/geography/",
+      "/book/foundations/government/",
+      "/book/life/household/",
+      "/book/work/finance/",
+      "/book/foundations/geography/island-neighbourhoods/",
+      "/book/foundations/geography/addresses-weather/",
+      "/book/foundations/geography/resources/",
+      "/book/life/household/food-shopping/",
+      "/book/life/household/home-maintenance/",
+      "/book/life/household/consumer-rights/",
+      "/book/life/household/keeping-pets/",
+      "/book/foundations/government/institutions/",
+      "/book/foundations/government/public-services/",
+      "/book/foundations/government/participation/",
+      "/book/work/finance/household-budget/"
+    ],
+    "checks": 54,
+    "errors": [],
+    "extra_keywords": [
+      "OneService",
+      "NEWater",
+      "BCRS",
+      "家庭预算"
+    ],
+    "extra_new_branch": true,
+    "raw_report_sha256": "188b42f7baad096e1fdc1e8791075d57ec118c9755c5b4bbfc15c2afa87dd4f8",
+    "extra_report_sha256": "8e5d5dc9e07942c638bbad0970b0c58af583a87717a96586f1df8d4ad8e2021e",
+    "probe_note": "First extra probe omitted expanding the parent life branch; corrected navigation sequence."
+  },
+  "print": {
+    "background": "rgb(255, 255, 255)",
+    "cells": [
+      "rgb(17, 17, 17)"
+    ],
+    "sources": 26,
+    "relative": [],
+    "broken": []
+  },
+  "visual": {
+    "reviewer": "root",
+    "screenshots": [
+      "desktop-topic",
+      "mobile-topic-table",
+      "mobile-pets-table",
+      "mobile-pets-licence"
+    ],
+    "pdf_pages": [
+      56,
+      102
+    ],
+    "pdf_total_pages": 124,
+    "book_nodes": 46,
+    "sample_only": true
+  }
+}

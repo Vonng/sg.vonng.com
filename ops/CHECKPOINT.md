@@ -1,13 +1,17 @@
 # 当前检查点
 
-2026-10-13 Asia/Singapore。全书目标active；五部分28领域远未全部完成，不以15篇计数或构建成功替代全书覆盖。
+2026-10-13 Asia/Singapore。全书目标 active，五部分28领域尚未完整覆盖，不能以26篇或构建成功认定整书完成。
 
-B01已本地提交1cf3ef4：工程、地图、9主题与26编辑入口。B02新增6已审主题及10章节/事项入口，已integrated，正保存本地提交；入学一篇因核心MOE细源缺口仍written/draft:true。公开内容15主题，当前审查产物53HTML，public157文件与审查版路径/大小/SHA一致。普通研究/本地提交持续授权，无远程站点、外部push部署或真实申请。
+B01提交1cf3ef4：工程、全图、9主题与26编辑入口；B02提交160615f：6主题及10入口。B03A本轮新增11主题（地理3、政府3、家庭日常4、家庭预算1），已integrated并准备本地提交；累计26公开主题、66公开源页面，68HTML；188文件与public路径/大小/SHA一致。B03验收详见ops/checks/b03-acceptance.json。没有外部push、部署、机构联络或真实代办。
 
-审阅：B01/B02均作者→不同作者独立回源→root第三编辑，accepted.json锁正文SHA。root已读全部16篇（入学不通过）和6份事实报告。B02租房代理禁经手款项已限HDB，出生SpecialPass条件与税务标记已闭合。入学未闭见TASKS和b02-family-school-facts.md，不重试已受阻URL；root补定位无新有效原文。
+审阅：作者→异人回源事实→第三人编辑→root工程；accepted.json锁正文SHA。root对B03A地理/政府/日常10篇做第三编辑；root自写预算由care事实、identity第三编辑。B03A全部正文SHA未在接收时修改。19路径双视口54项浏览器、4新关键词与新分支点击、打印124页/26来源附录通过；目视样本范围在验收记录。
 
-工程：Hugo0.166 Extended、OINK1.2.0固定f8f476e；本地scripts/serve_review.py自有127.0.0.1:1328，session34531（恢复须实查PID/端口，不能盲停）。B01/B02浏览器及打印会话均已结束通过。原件、Playwright依赖、截图、PDF都在忽略.cache。B01实际修复了手机首页菜单脚本未加载、暗色卡片、打印页边/表格颜色和普通预览服务并发连接重置。
+工程：Hugo0.166 Extended、OINK1.2.0固定f8f476e；python3 scripts/serve_review.py自有127.0.0.1:1328，PID27216最近实查，服务.cache/production-review。恢复先实查端口，不盲停。B03浏览器/打印/额外探针与构建会话均结束，原件依赖截图PDF在忽略.cache。本轮只新增粗体空格源检查，未改变主题模板和草稿过滤。
 
-B03A作者正在写：identity政府institutions/public-services/participation三篇；daily_history地理island-neighbourhoods/addresses-weather/resources三篇；care_finance日常food-shopping/home-maintenance/consumer-rights/keeping-pets四篇。有人已落稿仍draft，实时Git/文件为准。各作者只拥有自己正文、证据、地图；root共享导航配置总账和构建。
+当前并行：identity社会communities/religion-festivals/migration三稿在自审，随后接daily的B03B历史文化四稿独立事实审；daily的history/housing-industrialisation、memory和culture/everyday-etiquette、hawker-social-life已冻结交审，SHA在evidence/b03b-history-culture.md；care仍写world三篇与culture/inequality。事实轮换care审society、identity审history-culture、daily审world-inequality，root第三编辑。作者只拥有各自正文/证据/地图/审稿，root拥有共享导航和总账。
 
-下一步：保存B02已选必要源码的本地提交；接B03A最终稿和自审SHA，轮换事实审（care审government、identity审geography、daily审household），root第三静态及导航/渲染后集成。再按BOOKMAP继续B03B社会文化世界/数字社区/住房驾驶等剩余范围，再家庭教育老年、工作财务法律户外，最后逐PROMPT种子与28领域覆盖走查。不得完成少量样章就结束目标。
+root另写B03C数字3篇。accounts已全文自审交daily事实，完整SHA1f6ead705746f1917885eb8f95b717bdb2a537865b904f19ebc7a739d700eb65，证据b03c-digital.md详记28条Singpass/Myinfo原文及旧PDF人工热线被2026FAQ取代；此页仍draft，之后需identity第三编辑。telecom/privacy-fraud仍研究，尚未写。已有新源：MDDI anti-scam-efforts详页可读，确认2026-02-28后付费SIM跨运营商10张、预付费3张；SPF2025诈骗年度PDF可读但只读前几页，SIM条件须继续读第38页；IMDA ADR详页web挑战，尚未代理，需新主管/SMC原件。不要把这些研究线索当正文已核。
+
+学校admission仍written/draft:true：核心MOE年龄CEQ、当期/下一届窗口和2027 P1框架详细原文缺口，见TASKS与school-access-followup。不重复已受阻URL；局部缺口不妨碍其他领域。LTA公交新规与RTS2027年2月新目标线索已记TASKS，交通余项需承接。
+
+下一步：完成B03A验收记录和选择性本地提交；接B03B冻结稿轮审，root做第三编辑；继续数字两稿、其余身份住房交通社区，以及B04家庭教育照护、B05工作财务经营法律户外。最终按COVERAGE逐PROMPT种子、身份和生命周期做5种读者走查，不能止于样章。普通研究编辑工程本地提交已授权，外部行动另行授权。

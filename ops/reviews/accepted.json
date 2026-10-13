@@ -134,5 +134,115 @@
     "report": "ops/reviews/b02-family-school-facts.md",
     "body_sha256": "aabdd90a1d2dd642d99ee65bcddca0597636a11b43a87af35729e21d2e20a0d1",
     "reviewed_file_sha256": "f89c865e693d407f75f2341e8784f289457047fc1b286bebfcfd9366f50bed8a"
+  },
+  "content/book/foundations/geography/island-neighbourhoods.md": {
+    "author": "daily_history",
+    "facts": "identity",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b03-geography-facts.md",
+    "editorial_report": "ops/reviews/b03-editorial.md",
+    "body_sha256": "eca9944cdfc6caf9b48b131e424df2f2f9c355674fcefbe48c32e7766559891b",
+    "reviewed_file_sha256": "d18ac1b86b783bc19fb0ad5607892792c291c834bf5fd7574b79111f764b53b3"
+  },
+  "content/book/foundations/geography/addresses-weather.md": {
+    "author": "daily_history",
+    "facts": "identity",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b03-geography-facts.md",
+    "editorial_report": "ops/reviews/b03-editorial.md",
+    "body_sha256": "d0380d29ce21a715870462e767e7268a0b87a93be3e44915180d934cd29de88a",
+    "reviewed_file_sha256": "548805b5effc4227b644841879f1f44a3d62feb5b3f27a8b1c3fd97b7d83b20e"
+  },
+  "content/book/foundations/geography/resources.md": {
+    "author": "daily_history",
+    "facts": "identity",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b03-geography-facts.md",
+    "editorial_report": "ops/reviews/b03-editorial.md",
+    "body_sha256": "207a9697bd7c713931b58d2f1f72ade186279f99412c7c58f7f2d6182c97e1f1",
+    "reviewed_file_sha256": "75a040c8fe8bc43f843c7e644893a975f9a9fc3f8fc26c53480381c9bab0b120"
+  },
+  "content/book/life/household/food-shopping.md": {
+    "author": "care_finance",
+    "facts": "daily_history",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b03-household-facts.md",
+    "editorial_report": "ops/reviews/b03-editorial.md",
+    "body_sha256": "9f1bdf8065ce01b9ee25accc52a125befa62d46b612c6c6248d9c7d47e1ad808",
+    "reviewed_file_sha256": "15f906342bf7a928750b0fc0599389d62b3cce7af40eac5e62d3718450284644"
+  },
+  "content/book/life/household/home-maintenance.md": {
+    "author": "care_finance",
+    "facts": "daily_history",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b03-household-facts.md",
+    "editorial_report": "ops/reviews/b03-editorial.md",
+    "body_sha256": "5517558b2005ecdc6b27d20aada7469324a6d6a87906f8e70a2bba5117edbbcf",
+    "reviewed_file_sha256": "4abf73e380c8bdbbc6727c9539c6bba9071f1e39bdfed4730361251279d47cda"
+  },
+  "content/book/life/household/consumer-rights.md": {
+    "author": "care_finance",
+    "facts": "daily_history",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b03-household-facts.md",
+    "editorial_report": "ops/reviews/b03-editorial.md",
+    "body_sha256": "ff8b1a5192bdd0e60177d79119ee986ca31bd68ee328fcc03d3d10c44b3db110",
+    "reviewed_file_sha256": "76929da6f8064a778f0c1f88dd4a99dbbcd9a6136ab3b1391c52cb498e30ec4d"
+  },
+  "content/book/life/household/keeping-pets.md": {
+    "author": "care_finance",
+    "facts": "daily_history",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b03-household-facts.md",
+    "editorial_report": "ops/reviews/b03-editorial.md",
+    "body_sha256": "5fc4fde5afbed43237ac431ef2b2121a51d3f7c8e62f77c984ccb869891d3b6b",
+    "reviewed_file_sha256": "05949c2572f997e2b7dc75a3991c92e2dbc83b4ffc914a3865be48d823aef9b5"
+  },
+  "content/book/foundations/government/institutions.md": {
+    "author": "identity",
+    "facts": "care_finance",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b03-government-facts.md",
+    "editorial_report": "ops/reviews/b03-editorial.md",
+    "body_sha256": "a91c73f6c2407e1139dbbb5f5df1ea51da00e3fa94eb1a0fcc5ed7d9243b0c9c",
+    "reviewed_file_sha256": "2b9916d665d6f95a1ca34c153fd00675df03570f9e7c4fe0bfa2e5e2d051388a"
+  },
+  "content/book/foundations/government/public-services.md": {
+    "author": "identity",
+    "facts": "care_finance",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b03-government-facts.md",
+    "editorial_report": "ops/reviews/b03-editorial.md",
+    "body_sha256": "58812b892db8579a942fcfe61db8b37ebb08af5d6b64c1e4777cef7258f356ac",
+    "reviewed_file_sha256": "60abd14afc7d207cd58c9724ae7df29018b55944cc58fb74d90c239c7d5da3c8"
+  },
+  "content/book/foundations/government/participation.md": {
+    "author": "identity",
+    "facts": "care_finance",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b03-government-facts.md",
+    "editorial_report": "ops/reviews/b03-editorial.md",
+    "body_sha256": "56fcd4a4dcbc7bd0da32c9387cd4e8803b863a9a4b230db5a058c5364b154d1a",
+    "reviewed_file_sha256": "d3af4656a1cababa1d4e3cc26ad0768f731be7aead5105cdac1b57366791aa1d"
+  },
+  "content/book/work/finance/household-budget.md": {
+    "author": "root",
+    "facts": "care_finance",
+    "editor": "identity",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b03-budget-facts.md",
+    "editorial_report": "ops/reviews/b03-budget-editorial.md",
+    "body_sha256": "dc4146d2f62c6a5bad41b1c450b24ef9fec90b064d000e08f3b24914c0c9a19c",
+    "reviewed_file_sha256": "5323b90bfa02ff23a60695b6afaf93546a47eb4bbdadbf99753283685d0a3eed"
   }
 }

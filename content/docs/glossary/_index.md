@@ -36,3 +36,10 @@ weight: 30
 | TADM / salary in lieu of notice | 劳动争议调解机构 / 代通知金 | [离职与争议](/book/work/employment/leaving-job/) |
 | SCDF / SPF / NPC / NPP | 民防部队 / 警察部队 / 邻里警察中心、警岗 | [紧急求助](/book/rights/safety/emergencies/) |
 | LifeSG / GPML | 生活政务入口 / 政府付薪产假 | [出生与休假](/book/people/family/birth/) |
+| OneMap / WBGT | 国家地图入口 / 湿球黑球温度，用于热压力判断 | [找路与天气](/book/foundations/geography/addresses-weather/) |
+| PUB / EMA / SFA | 水务、能源、食品主管机构 | [资源与供应](/book/foundations/geography/resources/) |
+| ELD / SMC / GRC | 选举局 / 单选区 / 集选区 | [投票与公共参与](/book/foundations/government/participation/) |
+| OneService / ServiceSG | 街区问题反馈工具 / 政府服务协助中心 | [公共服务](/book/foundations/government/public-services/) |
+| CASE / SCT | 消费者协会 / 小额索偿庭 | [消费争议](/book/life/household/consumer-rights/) |
+| AVS / PALS | 动物与兽医事务组 / 宠物执照系统 | [养宠物](/book/life/household/keeping-pets/) |
+| Credit Counselling Singapore | 信贷辅导机构；其缩写CCS须结合语境辨认 | [家庭预算与债务求助](/book/work/finance/household-budget/) |

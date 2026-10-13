@@ -1,13 +1,14 @@
 ---
-title: "地铁和巴士怎样乘、怎样付费"
-description: "从选卡和上下车刷卡开始，弄清换乘计费、儿童与长者优惠，以及轮椅出行和扣费异常的处理。"
+title: 地铁和巴士怎样乘、怎样付费
+description: 从选卡和上下车刷卡开始，弄清换乘计费、儿童与长者优惠，以及轮椅出行和扣费异常的处理。
 page_id: sg-public-transport
 content_kind: task
-scope: "新加坡 MRT、LRT 与公共巴士乘客；含居民、工作者、学生及访客，不含私人巴士和跨境线路"
+scope: 新加坡 MRT、LRT 与公共巴士乘客；含居民、工作者、学生及访客，不含私人巴士和跨境线路
 status: integrated
 draft: false
-verified: "2026-10-13"
-reviewed_by: "identity（独立事实审）；root（编辑静态审）"
+verified: '2026-10-13'
+reviewed_by: identity（独立事实审）；root（编辑静态审）
+weight: 10
 ---
 
 第一次乘新加坡地铁或公共巴士，先准备一张可用的交通卡或感应银行卡，进出站、上下车都用同一张卡。手机与实体卡即使绑定同一个银行账户，也要固定使用其中一种。普通成人票价按行程距离计算；有没有优惠，要再看年龄、身份、学校和所持优惠卡。

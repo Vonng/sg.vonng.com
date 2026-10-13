@@ -1,13 +1,14 @@
 ---
-title: "CPF 基础：谁要缴、工资怎样扣、钱能做什么"
-description: "按身份、年龄、PR 阶段和就业形式判断 CPF 缴纳，并理解住房、医疗与退休账户。"
+title: CPF 基础：谁要缴、工资怎样扣、钱能做什么
+description: 按身份、年龄、PR 阶段和就业形式判断 CPF 缴纳，并理解住房、医疗与退休账户。
 page_id: sg-cpf-basics
 content_kind: explainer
-scope: "新加坡；一般受雇公民与PR、自雇人士及平台工作者，费率按2026年说明"
+scope: 新加坡；一般受雇公民与PR、自雇人士及平台工作者，费率按2026年说明
 status: integrated
 draft: false
-verified: "2026-10-13"
-reviewed_by: "daily_history（独立事实审）；root（编辑静态审）"
+verified: '2026-10-13'
+reviewed_by: daily_history（独立事实审）；root（编辑静态审）
+weight: 20
 ---
 
 中央公积金（Central Provident Fund，CPF）把一部分劳动收入存入个人账户，用于退休，并按规则支持住房和医疗。判断自己怎样缴，先看是否为新加坡公民或 PR，再看是雇员、自雇还是平台工作者；雇员还要核年龄、工资和取得 PR 的阶段。EP、S Pass、Work Permit 等外籍准证持有人，在取得 PR 前一般不缴 CPF。[CPF：制度与账户](https://www.cpf.gov.sg/member/cpf-overview)、[CPF：哪些雇员须缴](https://www.cpf.gov.sg/employer/employer-obligations/who-should-receive-cpf-contributions)

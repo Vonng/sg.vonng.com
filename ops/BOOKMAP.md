@@ -16,9 +16,9 @@
 
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
-| `/book/foundations/geography/island-neighbourhoods/` | 怎样比较生活圈：城市空间、密度、通勤和服务可达性 | researching（B03A） |
-| `/book/foundations/geography/addresses-weather/` | 怎样看地址和适应湿热：邮编单位号、雨季雷雨日照 | researching（B03A） |
-| `/book/foundations/geography/resources/` | 水、电和食物从哪里来：土地约束与供给 | researching（B03A） |
+| `/book/foundations/geography/island-neighbourhoods/` | 怎样比较生活圈：城市空间、密度、通勤和服务可达性 | integrated（B03A；事实/编辑/渲染通过） |
+| `/book/foundations/geography/addresses-weather/` | 怎样看地址和适应湿热：邮编单位号、雨季雷雨日照 | integrated（B03A；事实/编辑/渲染通过） |
+| `/book/foundations/geography/resources/` | 水、电和食物从哪里来：土地约束与供给 | integrated（B03A；事实/编辑/渲染通过） |
 
 ### 2. 关键历史与社会形成（history）
 
@@ -36,9 +36,9 @@
 
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
-| `/book/foundations/government/institutions/` | 国会、政府、法院各做什么 | researching（B03A） |
-| `/book/foundations/government/public-services/` | 事情交给谁：部委法定机构市镇理事会与预算反馈 | researching（B03A） |
-| `/book/foundations/government/participation/` | 选举和公共参与有哪些资格与渠道 | researching（B03A） |
+| `/book/foundations/government/institutions/` | 国会、政府、法院各做什么 | integrated（B03A；事实/编辑/渲染通过） |
+| `/book/foundations/government/public-services/` | 事情交给谁：部委法定机构市镇理事会与预算反馈 | integrated（B03A；事实/编辑/渲染通过） |
+| `/book/foundations/government/participation/` | 选举和公共参与有哪些资格与渠道 | integrated（B03A；事实/编辑/渲染通过） |
 
 ### 4. 族群、宗教、语言与社会构成（society）
 
@@ -103,10 +103,10 @@
 
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
-| `/book/life/household/food-shopping/` | 巴刹小贩超市如何买吃：标签清真点餐GST服务费 | researching（B03A） |
-| `/book/life/household/home-maintenance/` | 水电燃气空调防潮防虫垃圾如何安排 | researching（B03A） |
-| `/book/life/household/consumer-rights/` | 退换保修维修与消费争议如何处理；从原consumer-pets按行动目标拆分 | researching（B03A） |
-| `/book/life/household/keeping-pets/` | 养宠的许可、成本、公共空间责任与求助；拆自原consumer-pets | researching（B03A） |
+| `/book/life/household/food-shopping/` | 巴刹小贩超市如何买吃：标签清真点餐GST服务费 | integrated（B03A；事实/编辑/渲染通过） |
+| `/book/life/household/home-maintenance/` | 水电燃气空调防潮防虫垃圾如何安排 | integrated（B03A；事实/编辑/渲染通过） |
+| `/book/life/household/consumer-rights/` | 退换保修维修与消费争议如何处理；从原consumer-pets按行动目标拆分 | integrated（B03A；事实/编辑/渲染通过） |
+| `/book/life/household/keeping-pets/` | 养宠的许可、成本、公共空间责任与求助；拆自原consumer-pets | integrated（B03A；事实/编辑/渲染通过） |
 
 ### 10. 公共交通、驾驶与出行（transport）
 
@@ -125,7 +125,7 @@
 
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
-| `/book/life/digital/accounts/` | SingpassMyinfo怎样设立使用与恢复 | planned |
+| `/book/life/digital/accounts/` | SingpassMyinfo怎样设立使用与恢复 | written（B03C；root作者，daily事实审中） |
 | `/book/life/digital/telecom/` | 手机宽带合约订阅和取消怎样比较 | planned |
 | `/book/life/digital/privacy-fraud/` | 怎样判断信息和处理账户泄露诈骗：含线下入口 | planned |
 
@@ -243,6 +243,7 @@
 
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
+| `/book/work/finance/household-budget/` | 到手收入、年度费用和应急现金怎样安排；家庭预算种子单列 | integrated（B03A；事实/编辑/渲染通过） |
 | `/book/work/finance/banking/` | 开户PayNowFASTNETSGIRO如何使用 | planned |
 | `/book/work/finance/cpf-basics/` | CPF谁缴、年龄和PR阶段怎样改变、钱怎样用 | integrated（B01；事实/编辑/渲染通过） |
 | `/book/work/finance/saving-insurance/` | SRS储蓄债券证券保险与存款保障怎样理解 | planned |
@@ -326,3 +327,5 @@ B05：劳动困难、金融税务经营、法律合同安全户外完整链。
 B06：逐个候选与PROMPT种子对照，做五种真实读者走读；补足制度分支、路径/术语/搜索词、桌面手机打印检查。
 
 本轮没有把 B01 或 B02 当作整书完成。每批只接收有足够事实证据和独立审阅的稿件，受限来源写入任务缺口。
+
+逐PROMPT必要种子及身份/生命周期缺口另见[全书覆盖复核](COVERAGE.md)。地图的候选均须在最终走查中有实质承接或具体未闭结论；没有正文的目录不算完成。

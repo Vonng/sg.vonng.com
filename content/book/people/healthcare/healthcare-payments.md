@@ -1,13 +1,14 @@
 ---
-title: "医疗费用怎样支付：补贴、MediSave 与保险"
-description: "按公民、PR 与外籍身份判断医疗补贴和保险，再核对账单中仍需自己承担的部分。"
+title: 医疗费用怎样支付：补贴、MediSave 与保险
+description: 按公民、PR 与外籍身份判断医疗补贴和保险，再核对账单中仍需自己承担的部分。
 page_id: sg-healthcare-payments
 content_kind: explainer
-scope: "新加坡；一般医疗支付、主要身份差异和账单困难入口，不代替个别保单理赔决定"
+scope: 新加坡；一般医疗支付、主要身份差异和账单困难入口，不代替个别保单理赔决定
 status: integrated
 draft: false
-verified: "2026-10-13"
-reviewed_by: "daily_history（独立事实审）；root（编辑静态审）"
+verified: '2026-10-13'
+reviewed_by: daily_history（独立事实审）；root（编辑静态审）
+weight: 20
 ---
 
 看病前先查身份与补贴资格，再看治疗项目、病房、保险及 MediSave 能支付多少，最后算现金差额。公民和 PR 都参加 MediShield Life，但补贴额度和理赔计算可能不同；多数外籍患者主要靠雇主、个人或学校保险与自费，LTVP+ 住院补贴及亲属 MediSave 是需要单独核查的分支。预约和转介从[就医入口](/book/people/healthcare/getting-care/)开始。

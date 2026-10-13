@@ -1,13 +1,14 @@
 ---
-title: "从海峡港口到独立国家"
-description: "沿着贸易、殖民、战争与政治选择，理解新加坡怎样从区域港口走到 1965 年独立。"
+title: 从海峡港口到独立国家
+description: 沿着贸易、殖民、战争与政治选择，理解新加坡怎样从区域港口走到 1965 年独立。
 page_id: sg-history-port-city-to-nation
 content_kind: explanation
-scope: "新加坡殖民前至 1965 年的历史入门；连接马来半岛、群岛及不同社群的经历"
+scope: 新加坡殖民前至 1965 年的历史入门；连接马来半岛、群岛及不同社群的经历
 status: integrated
 draft: false
-verified: "2026-10-13"
-reviewed_by: "identity（独立事实审）；root（编辑静态审）"
+verified: '2026-10-13'
+reviewed_by: identity（独立事实审）；root（编辑静态审）
+weight: 10
 ---
 
 新加坡的历史，可以沿两条线索来读：海峡贸易把人、货物和观念带到岛上；不断变化的统治关系，则决定谁能留下、谁有权作主，以及人们怎样理解自己的归属。十四世纪港口、英国殖民地、自治邦、马来西亚的一部分和独立共和国，是不同阶段。1965 年的国家边界，不能直接套回更早的马来世界。

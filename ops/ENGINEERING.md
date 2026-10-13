@@ -48,3 +48,9 @@ make preview
 浏览器按.cache/b02-browser-paths.json查13条变动路径的桌面/手机，42组结果与菜单/侧栏/搜索/暗色交互通过；修改后的check_browser支持SG_PATHS_FILE与SG_TABLE_PATH选择本批页面，不要求无关页重复截屏。打印32个聚合节点、15份来源表、0相对站内链接和0断锚；暗色转纸面背景及全部表格色检查通过。人工看手机租房三列表，PDF页57跨页准证表与77应急页，版式正常。PDF80物理页仅是本批输出规模，不作为内容完成证据。详情checks/b02-acceptance.json，图像/PDF留.cache/render-b02。
 
 复现本批：SG_PATHS_FILE=.cache/b02-browser-paths.json SG_RENDER_DIR=.cache/render-b02 SG_TABLE_PATH=/book/life/housing/renting/ node scripts/check_browser.mjs；路径清单也保存在轻量验收JSON中，缓存删除后可重建。
+
+## B03A本地验收（2026-10-13）
+
+新增11主题，累计26主题、66个公开源页面，68HTML。Hugo生产警告门禁、元数据/正文审批SHA/所有内部链接及锚点、草稿搜索与打印排除通过；188个输出文件与public逐路径/字节/SHA一致。新加强粗体内外空格检查，发现并由作者修正一篇在写稿格式。
+
+浏览器19路径×桌面1440×1000/手机390×844，共54项检查；额外OneService、NEWater、BCRS、家庭预算搜索及跨部分新章节点击通过。首次额外探针忘记展开父分支导致超时，按真实父→子顺序修正后通过，没有隐藏点击绕过。全书打印46节点、26篇来源附录，124页；暗色打印仍白底黑字，内部锚点无失效或相对外链。root目视桌面预算、手机预算和宠物表格，以及PDF第56、102物理页；这是样本而非逐页目视。原始记录和截图在忽略.cache/render-b03，轻量验收ops/checks/b03-acceptance.json。

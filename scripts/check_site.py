@@ -37,6 +37,12 @@ for p in sorted(Path('content').rglob('*.md')):
     ids.append(m.get('page_id')); titles.append(m.get('title'))
     if not body.strip(): errors.append(f'{p}: empty body')
     if re.search(r'^# ',body,re.M): errors.append(f'{p}: repeated H1')
+    prose=re.sub(r'^```.*?^```[^\n]*', '', body, flags=re.M|re.S)
+    for mark in re.finditer(r'\*\*(.+?)\*\*',prose):
+        before=prose[mark.start()-1:mark.start()] if mark.start() else ''
+        after=prose[mark.end():mark.end()+1]
+        if mark[1]!=mark[1].strip() or (before and not before.isspace()) or (after and not after.isspace()):
+            errors.append(f'{p}: bold needs inner trim and outer spaces: {mark[1][:35]}')
     if re.search(r'(turn\d+(?:search|view|fetch)\d+|/Users/|TODO|TBD|待补充正文)',body): errors.append(f'{p}: internal marker')
     is_topic=m.get('content_kind')!='editorial'; draft=m.get('draft') is True
     if not isinstance(m.get('draft'),bool): errors.append(f'{p}: draft must be boolean')

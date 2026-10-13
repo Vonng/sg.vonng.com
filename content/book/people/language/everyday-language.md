@@ -1,13 +1,14 @@
 ---
-title: "在多语环境里，把话听懂、把事说清"
-description: "理解英语、华语、马来语、泰米尔语与方言的生活位置，学习应对 Singlish、电话和办事沟通。"
+title: 在多语环境里，把话听懂、把事说清
+description: 理解英语、华语、马来语、泰米尔语与方言的生活位置，学习应对 Singlish、电话和办事沟通。
 page_id: sg-everyday-language
 content_kind: explanation
-scope: "新加坡日常、工作、学校及办事中的语言选择；面向所有身份读者，不代替具体机构的翻译与文件要求"
+scope: 新加坡日常、工作、学校及办事中的语言选择；面向所有身份读者，不代替具体机构的翻译与文件要求
 status: integrated
 draft: false
-verified: "2026-10-13"
-reviewed_by: "identity（独立事实审）；root（编辑静态审）"
+verified: '2026-10-13'
+reviewed_by: identity（独立事实审）；root（编辑静态审）
+weight: 10
 ---
 
 和不熟悉的人办事或在多族群团队里沟通，可以先用简单、清楚的英语，再询问对方是否方便改用华语或其他语言。听不懂时，请对方放慢、写下来或换一种说法；涉及钱、时间、药物和合同，最后复述一遍关键内容。比起急着模仿本地口音，先让双方确认同一件事更有用。
