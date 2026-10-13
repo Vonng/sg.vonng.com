@@ -1,0 +1,162 @@
+title: 新加坡生活指南
+baseURL: https://sg.vonng.com/
+theme: oink
+defaultContentLanguage: zh
+hasCJKLanguage: true
+timeZone: Asia/Singapore
+enableRobotsTXT: true
+enableEmoji: true
+enableGitInfo: false
+languages:
+  zh:
+    label: 简体中文
+    locale: zh-CN
+    weight: 1
+    params:
+      description: 理解新加坡社会，找到日常生活与人生事务的办事入口。
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+    parser:
+      wrapStandAloneImageWithinParagraph: false
+      attribute:
+        block: true
+  highlight:
+    noClasses: false
+outputs:
+  home:
+  - HTML
+  - markdown
+  - LLMS
+  - NAVJSON
+  page:
+  - HTML
+  - markdown
+  section:
+  - HTML
+  - markdown
+taxonomies: {}
+sitemap:
+  changefreq: monthly
+  filename: sitemap.xml
+  priority: 0.5
+params:
+  logo: /logo.svg
+  offline_search: true
+  offline_search_index: content
+  copyright:
+    authors: 新加坡生活指南编写组
+    from_year: 2026
+    to_year: present
+  ui:
+    preset: paper
+    preset_menu:
+    - paper
+    - slate
+    - ink
+    - terminal
+    theme_color: '#245b54'
+    typography: system
+    dark_mode: true
+    section_index: list
+    sidebar_menu_foldable: true
+    sidebar_menu_compact: false
+    sidebar_expand_levels: 1
+    sidebar_menu_truncate: 300
+    sidebar_icon_policy: groups
+    sidebar_headings: 2
+    backlinks: true
+    annotation: false
+    footer_style: slim
+menus:
+  main:
+  - identifier: book
+    name: 阅读
+    params:
+      icon: fa-solid fa-book-open
+    pageRef: /book/
+    weight: 10
+  - identifier: routes
+    name: 事项
+    params:
+      icon: fa-solid fa-list-check
+    pageRef: /docs/routes/
+    weight: 20
+  - identifier: profiles
+    name: 身份
+    params:
+      icon: fa-solid fa-id-card
+    pageRef: /docs/profiles/
+    weight: 30
+  - identifier: glossary
+    name: 术语
+    params:
+      icon: fa-solid fa-language
+    pageRef: /docs/glossary/
+    weight: 40
+  - identifier: book-foundations-_index
+    parent: book
+    name: 理解社会
+    pageRef: /book/foundations/
+    weight: 10
+  - identifier: book-life-_index
+    parent: book
+    name: 建立日常
+    pageRef: /book/life/
+    weight: 20
+  - identifier: book-people-_index
+    parent: book
+    name: 人生家庭
+    pageRef: /book/people/
+    weight: 30
+  - identifier: book-work-_index
+    parent: book
+    name: 工作财务
+    pageRef: /book/work/
+    weight: 40
+  - identifier: routes-routes-illness
+    parent: routes
+    name: 生病了，先安排就医
+    pageRef: /docs/routes/illness/
+    weight: 10
+  - identifier: routes-routes-ns-family
+    parent: routes
+    name: 为孩子安排身份、学业与国民服役
+    pageRef: /docs/routes/ns-family/
+    weight: 30
+  - identifier: routes-routes-start-work
+    parent: routes
+    name: 准备开始工作
+    pageRef: /docs/routes/start-work/
+    weight: 20
+  - identifier: profiles-profiles-citizen
+    parent: profiles
+    name: 新加坡公民
+    pageRef: /docs/profiles/citizen/
+    weight: 10
+  - identifier: profiles-profiles-family
+    parent: profiles
+    name: 家属与跨国家庭
+    pageRef: /docs/profiles/family/
+    weight: 50
+  - identifier: profiles-profiles-pr
+    parent: profiles
+    name: 永久居民 PR
+    pageRef: /docs/profiles/pr/
+    weight: 20
+  - identifier: profiles-profiles-student
+    parent: profiles
+    name: 学生
+    pageRef: /docs/profiles/student/
+    weight: 40
+  - identifier: profiles-profiles-visitor
+    parent: profiles
+    name: 短期访客
+    pageRef: /docs/profiles/visitor/
+    weight: 60
+  - identifier: profiles-profiles-worker
+    parent: profiles
+    name: 工作准证持有人
+    pageRef: /docs/profiles/worker/
+    weight: 30

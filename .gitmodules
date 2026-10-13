@@ -1,0 +1,3 @@
+[submodule "themes/oink"]
+	path = themes/oink
+	url = https://github.com/pgsty/oink.git

@@ -1,0 +1,84 @@
+{
+  "content/book/life/documents/status-and-eligibility.md": {
+    "author": "identity",
+    "facts": "care_finance",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b01-identity-facts.md",
+    "body_sha256": "a936377f7278d2a245752cb1aeb58987216d0c5aee25a286022ddcb073b94d7e",
+    "reviewed_file_sha256": "b56bb4519c7a425dc766885b08636fd7d8e692f1d3db2c5ad6b4058e90339109"
+  },
+  "content/book/life/documents/work-passes.md": {
+    "author": "identity",
+    "facts": "care_finance",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b01-identity-facts.md",
+    "body_sha256": "5a1730c03cc45b06d5bd5e6dec795f6b4d180c966eff0b3fe31db46b57391d47",
+    "reviewed_file_sha256": "2123d6398d15d3d47d101878aa16f8390809f0ae4b576b464df5bc5ca9b387ec"
+  },
+  "content/book/life/documents/national-service.md": {
+    "author": "identity",
+    "facts": "care_finance",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b01-identity-facts.md",
+    "body_sha256": "0c98c58eaf16b42ac09ac69f7cb0b3fdb301238557193bfb742535114aeac5fe",
+    "reviewed_file_sha256": "1490370520b2464689866275a008a286c2df148b4af9e1019ff9a6eabdd3fcf8"
+  },
+  "content/book/people/healthcare/getting-care.md": {
+    "author": "care_finance",
+    "facts": "daily_history",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b01-care-facts.md",
+    "body_sha256": "b5bb781c2fc6aeb13e019bd93db531fe3763eecb8d19cd2ace793bc4efb850db",
+    "reviewed_file_sha256": "33c1ab0a88ab67f29704ea4a840f6889c9a2e36d2bf12d3363a31b4257b5ea34"
+  },
+  "content/book/people/healthcare/healthcare-payments.md": {
+    "author": "care_finance",
+    "facts": "daily_history",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b01-care-facts.md",
+    "body_sha256": "3e86edad298db597fb2f5fe7f6bef120fa0fd48e5702f38c58ef005a227e38a8",
+    "reviewed_file_sha256": "a0c2291e66e44d34814181f6ca78281c56a526fd4b9e80ce6f066221b92e1bee"
+  },
+  "content/book/work/finance/cpf-basics.md": {
+    "author": "care_finance",
+    "facts": "daily_history",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b01-care-facts.md",
+    "body_sha256": "a02f942c16e6f1bea943646ec62c36555d998b504d552d07d2879b5dcb6966e0",
+    "reviewed_file_sha256": "0d3ee17d1a08807a33436178474b17505ab8af0fef64dec6350faf72ddf8dc7f"
+  },
+  "content/book/life/transport/public-transport.md": {
+    "author": "daily_history",
+    "facts": "identity",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b01-daily-facts.md",
+    "body_sha256": "b49ae3a7932164bc72cdc9327a84df591a12df7198113db64a30f09b336d1062",
+    "reviewed_file_sha256": "df165007d245bc559ab44899cee5cbfee16933a1ec9424b3cabc4de0f164537a"
+  },
+  "content/book/foundations/history/port-city-to-nation.md": {
+    "author": "daily_history",
+    "facts": "identity",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b01-daily-facts.md",
+    "body_sha256": "4a980a8a43b6b8b6842bd65fe1b5b66d476da60ef30191a2b8b9539b04e6bc44",
+    "reviewed_file_sha256": "caabd4c9d4c49b603a62f905ee7460c503b2cb54eaf5a82c938663d9aacf3716"
+  },
+  "content/book/people/language/everyday-language.md": {
+    "author": "daily_history",
+    "facts": "identity",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b01-daily-facts.md",
+    "body_sha256": "487a9a8320516e2b38bf4697eb9c57b3a419346353b5234599fb867eb168c280",
+    "reviewed_file_sha256": "de8bfca1720da4ebec053ff7a40156e43b65f622364f7609c6a006ec9be373f7",
+    "editorial_only_change": "root: removed surplus blank line at EOF after fact review; all text unchanged"
+  }
+}

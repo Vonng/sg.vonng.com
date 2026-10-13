@@ -1,0 +1,14 @@
+{{- $children := (union .page.Pages .page.Sections).ByWeight -}}
+{{- $children = where $children ".Params.toc_hide" "!=" true -}}
+{{- $level := .level -}}
+{{- if $children -}}
+<ul class="sg-book-directory__level-{{ $level }}">
+  {{- range $children -}}
+  <li><a href="{{ .RelPermalink }}">{{ with .Params.book_number }}<span>{{ . }}</span> {{ end }}{{ .LinkTitle }}</a>
+    {{- if and .IsSection (lt $level 3) -}}
+      {{ partial "project/book-directory.html" (dict "page" . "level" (add $level 1)) }}
+    {{- end -}}
+  </li>
+  {{- end -}}
+</ul>
+{{- end -}}

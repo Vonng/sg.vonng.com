@@ -1,0 +1,6 @@
+{{- if and .Params.scope (ne .Params.content_kind "editorial") -}}
+<aside class="editorial-meta" aria-label="适用范围与核验日期">
+  <span><strong>适用：</strong>{{ .Params.scope }}</span>
+  {{- with .Params.verified }}<span><strong>事实核验：</strong>{{ . }}</span>{{ else }}<span>事实核验尚未完成</span>{{ end -}}
+</aside>
+{{- end -}}

@@ -1,0 +1,53 @@
+{{/* Site override of OINK v1.2.0: metadata, portable links and paper references. */}}
+{{- $book := . -}}
+{{- $section := .CurrentSection -}}
+{{- if .IsSection }}{{ $section = . }}{{ end -}}
+{{- $sequence := partial "book/pages.html" . -}}
+{{- $pages := slice -}}
+{{- range $sequence }}{{ if or (eq . $section) (ne .Params.no_print true) }}{{ $pages = $pages | append . }}{{ end }}{{ end -}}
+<div class="td-content td-book-print-cover">
+  {{ partial "print/page-heading.html" $section }}
+  <nav class="td-book-print-toc" aria-label="{{ T "book_toc" }}">
+    <ol>
+      {{- range $pages }}
+      <li><a href="#pg-{{ .File.UniqueID }}">{{ with .Params.book_number }}<span class="td-book-number">{{ . }}</span> {{ end }}{{ .LinkTitle }}</a></li>
+      {{- end }}
+    </ol>
+  </nav>
+</div>
+{{- range $pages -}}
+  {{- $content := partialCached "print/page-content.html" (dict "page" .) .RelPermalink -}}
+  {{- $content = partial "book/namespace-print-headings.html" (dict "page" . "content" $content.book) -}}
+  {{- $references := slice -}}
+  {{- $seen := slice -}}
+  {{- if ne .Params.content_kind "editorial" -}}
+    {{- range findRESubmatch `<a\b[^>]*href="(https?://[^"]+)"[^>]*>(.*?)</a>` $content -}}
+      {{- $url := index . 1 | htmlUnescape -}}
+      {{- if not (in $seen $url) -}}
+        {{- $seen = $seen | append $url -}}
+        {{- $references = $references | append (dict "url" $url "label" (index . 2 | plainify | htmlUnescape)) -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+  {{- range $target := $pages -}}
+    {{- $content = replace $content (printf `href="%s"` $target.RelPermalink) (printf `href="#pg-%s"` $target.File.UniqueID) -}}
+    {{- range $anchor := $target.Fragments.Identifiers -}}
+      {{- $aggregateAnchor := partial "book/aggregate-heading-anchor.html" (dict "page" $target "anchor" $anchor) -}}
+      {{- $content = replace $content (printf `href="%s#%s"` $target.RelPermalink $anchor) (printf `href="#%s"` $aggregateAnchor) -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $content = replaceRE `href="/([^"]*)"` (printf `href="%s$1"` .Site.BaseURL) $content -}}
+  {{- if .Store.Get "hasMath" }}{{ $book.Store.Set "hasMath" true }}{{ end -}}
+<section class="td-content td-book-print-page" id="pg-{{ .File.UniqueID }}" data-td-book-page="{{ .Path }}">
+  <h1>{{ with .Params.book_number }}<span class="td-book-number">{{ . }}</span> {{ end }}{{ .Title }}</h1>
+  {{ with .Description }}<div class="lead">{{ . | markdownify }}</div>{{ end }}
+  {{ partial "editorial-meta.html" . }}
+  {{ $content | safeHTML }}
+  {{- with $references }}
+  <aside class="sg-print-references" aria-label="本篇来源地址">
+    <h2>本篇来源地址</h2>
+    <ol>{{ range . }}<li>{{ .label }}<br><a href="{{ .url }}">{{ .url }}</a></li>{{ end }}</ol>
+  </aside>
+  {{- end }}
+</section>
+{{- end -}}

@@ -1,0 +1,4 @@
+{{/* Actual Hugo page tree; drafts are already filtered by the current build. */}}
+<nav class="sg-book-directory" aria-label="全书章节和主题">
+  {{ partial "project/book-directory.html" (dict "page" .Page "level" 1) }}
+</nav>

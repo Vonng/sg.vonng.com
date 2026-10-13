@@ -1,0 +1,69 @@
+{
+  "source_pages": 42,
+  "topics": 16,
+  "drafts": 7,
+  "html": 37,
+  "internal_references": 2636,
+  "external_references_skipped": 488,
+  "errors": [],
+  "limitations": [
+    "No external URL check; no factual approval; no browser or visual certification."
+  ],
+  "date": "2026-10-13",
+  "batch": "B01",
+  "production_topics": 9,
+  "public_files": 125,
+  "output_inventory_sha256": "588f091724fdc42efbbaef10990e1677944b589f2e55d9e007945e7d99daec63",
+  "browser": {
+    "pass": true,
+    "viewports": [
+      "1440x1000",
+      "390x844"
+    ],
+    "topic_pages": 9,
+    "editorial_paths": [
+      "/",
+      "/book/",
+      "/docs/routes/start-work/",
+      "/docs/profiles/student/",
+      "/docs/glossary/"
+    ],
+    "interactions": [
+      "keyboard card",
+      "desktop dropdowns",
+      "mobile home menu",
+      "non-current sidebar branch hit test",
+      "keyboard folding",
+      "CPF/地铁/Singlish search after debounce",
+      "dark mode"
+    ],
+    "errors": [],
+    "raw_report_sha256": "b73161954811f0160f51ae92d14c36f8a83f2eb38707787c3ebd03a38cfc27c4"
+  },
+  "print": {
+    "background": "rgb(255, 255, 255)",
+    "cells": [
+      "rgb(17, 17, 17)"
+    ],
+    "sources": 9,
+    "relative": [],
+    "broken": []
+  },
+  "visual": {
+    "reviewer": "root",
+    "screenshots": [
+      "desktop-home",
+      "mobile-home",
+      "mobile-navigation",
+      "mobile-dark",
+      "mobile-cpf-table",
+      "mobile-home-menu"
+    ],
+    "pdf_pages": [
+      6,
+      44
+    ],
+    "pdf_pages_are_samples": true
+  },
+  "draft_fixture": "ops/checks/draft-filter.json"
+}

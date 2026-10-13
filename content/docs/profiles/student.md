@@ -1,0 +1,14 @@
+---
+title: 学生
+description: 把在读身份、工作条件和日常安排连起来。
+page_id: sg-docs-profiles-student
+content_kind: editorial
+scope: 编辑导航；所列制度的适用条件见对应正文
+status: integrated
+draft: false
+verified: ''
+reviewed_by: root（编辑导航审阅）
+weight: 40
+---
+
+先读[身份页的学生分支](/book/life/documents/status-and-eligibility/)，确认居留准证、学校和课程；打工或实习再查学期内与假期条件。就医时按[医疗支付](/book/people/healthcare/healthcare-payments/)核对学校保单，通学查[公共交通与学生优惠卡](/book/life/transport/public-transport/)。男性公民及PR学生还需提前安排[国民服役](/book/life/documents/national-service/)。

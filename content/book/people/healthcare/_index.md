@@ -1,0 +1,15 @@
+---
+title: 医疗与健康
+description: 从看诊入口到转介、付款和后续照护。
+page_id: sg-book-people-healthcare-_index
+content_kind: editorial
+scope: 编辑导航；所列制度的适用条件见对应正文
+status: integrated
+draft: false
+verified: ''
+reviewed_by: root（编辑导航审阅）
+weight: 40
+book_kind: chapter
+---
+
+先判断应该去诊所还是急诊；安排专科和计划治疗前，核对补贴类别、保险及现金差额。两篇入口互相连接，可以按眼前需要开始。

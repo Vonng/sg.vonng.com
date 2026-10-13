@@ -1,0 +1,9 @@
+/public/
+/.cache/
+/resources/
+/.hugo_build.lock
+/node_modules/
+__pycache__/
+.DS_Store
+*.log
+/ops/render/
