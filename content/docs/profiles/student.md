@@ -16,3 +16,5 @@ weight: 40
 接受带[Tuition Grant的录取](/book/people/learning/tuition-grant/)前，核两名担保人、申请及签约窗口、服务义务和以后升学的延期安排。准备材料的顺序可从[升学事项](/docs/routes/higher-study/)进入。
 
 寻找住处时先看[租房资格](/book/life/housing/renting/)；有受雇工作或实习安排时，另查[年度税务](/book/work/tax/personal-tax/)及[实习与税清分支](/book/work/tax/leaving-singapore/)。境外接种记录、学校同意和牙科服务见[预防保健](/book/people/healthcare/preventive-care/)。
+
+小学、中学和JC／MI学生可查[课程、考试与学习支持](/book/people/school/learning/)，按当前年级核2026学费、PSLE与科目级别、母语豁免和考试便利，并区别2027—2028的过渡安排。

@@ -261,3 +261,58 @@ PC07同一当前CPF门诊细页本次重新联网成功，mammogram-confirm-curr
 本次复用的已集成正文SHA实际核为：connections `c1c4fd69e4bedbbf4d11b96b09d8ed8c584fceec0ab02089e2a2250621e5b455`（本轮读兴趣／志愿／社群及互助节）；domestic-workers `4ec7dae302a1811f3c44ef0cf7dc1d1244f5bb58373223d6df94e928323aa550`（本轮读完整求助节）；healthcare-payments `3e86edad298db597fb2f5fe7f6bef120fa0fd48e5702f38c58ef005a227e38a8`、medical-records `c38c9b0f8132571bc5506c992c718553e16b6ee45351bc986481b8a18f6d71c7`、medicines `42367a166bcef5f283486bd6fd68858e7589a49893f10c782b8092a9f38463e3` 为当前未变的已有审核范围与近题链接，不重新冒称各全文本轮回源。
 
 真实未知包括特定非公民是否获社区团队资助、某学校／公司的EAP条件、个人保险给付及各语言服务当时可用性，正文已转为针对本人联系核实的具体问题。未登录个人健康账户、未向机构联络、未提交任何心理评估或患者资料。下一环为daily_history异人事实→root第三编辑／接收工程；作者承担问题修订。
+
+## disability 完整作者稿：2026-10-13
+
+作者 care_finance，查阅日期2026-10-13（Asia/Singapore）。全文已实际读完128行，最后只校正五段加粗外侧空格并复读改变段；22,739B/full `1eebdd4e9764f2432f1b9fe7e4cc2999cab7941685f34c1cd285cd254068fa71`/body `6ea475e4b5b8d4ef0a7f10acabeea5c4ce23136c26651e4d71612f0e42ef59d5`。written/draft:true/核验空；下列为作者证据，不是独立事实通过。root改派identity独立事实，报告b04-disability-facts.md由identity独占，root第三编辑及工程。
+
+原始工具返回在 `.cache/research/b04-care-ageing/disability/open1.txt` 至 `open12.txt`，search文件仅找路，不计详细原文。PDF实体、正常HTML、静态提取和下载清单位于同目录。表内L指原工具行号；PDF全读文字与实际目视分开，未读范围不以文件存在代替。
+
+| 编号／原文 | 实际阅读、支持及适用条件 | 版本、未知或排除 |
+| --- | --- | --- |
+| DB01 [SG Enable残障支持](https://www.sgenable.sg/your-first-stop/disability-support) | open5 L95—180全部主体；信息、社区活动与政府资助须分别核资格 | 外国人不能因可问询就推所有资助适用 |
+| DB02 [SG Enable联系](https://www.sgenable.sg/get-in-touch) | open1 L95—145；1800 8585 885、contactus、工作日9—17:30及20 Lengkok Bahru #01-01预约 | 实际机构资料；未拨号或代预约 |
+| DB03 [残障验证](https://www.enablingguide.sg/disability-verification) | open2 L42—110；五类永久残障、Singpass本人／未21子女、既往记录、Certis无Singpass查本人或成年子女、邮件／实体提交及15工作日 | 验证不代服务收入／身份／年龄资格；六ADL由表件合读 |
+| DB04 [可签专业人员](https://www.enablingguide.sg/registered-healthcare-professionals-(hcps)) | open3 L42—98全部名单；类别不同所需人员不同 | 未8岁身体障碍HTML列doctor/paediatrician、Sep2025表／FAQ较窄；心理师and/or与表and亦不同。正文用儿科起步、接收机构核现表人员，不保证普通GP可签 |
+| DB05 [DVF表](https://www.enablingguide.sg/docs/default-source/default-document-library/disability-verification-form.pdf?sfvrsn=538a9203_6) | open4 L0—320全部9页文字，实体物理1页图实际目视；Sep2025表、ADL／永久性、既有记录和医务人员填写签章 | 未将表件当自测诊断；不声称9页均看图 |
+| DB06 [DVF FAQ](https://www.enablingguide.sg/docs/default-source/default-document-library/frequently-asked-questions_dvf.pdf?sfvrsn=755daca9_9) | open3 L0—96全部3页文字；医疗报告辅助但不代表、无MSF填写费补贴／退款、无上诉、病情改变新表 | 没有图片目视；部分MSF服务例外不泛推其他机关 |
+| DB07 [SPD辅具服务](https://spd.org.sg/what-we-do/assistive-technology/assistive-technology-services/) | open9 L102—158全部主体；评估、训练、AAC、试用、居家／学校／工作应用、技术支持 | 需核预约和费用，不称所有外国人免费 |
+| DB08 [Tech Able地点](https://techable.enablingvillage.sg/aboutus) | open5 L12—39；SG Enable／SPD、20 Lengkok Bahru #01-06、工作日9—17:30 | 与SG Enable #01-01柜台分开 |
+| DB09 [Tech Able FAQ](https://techable.enablingvillage.sg/aboutus/FAQ) | open7 L12—63；参观walk-in、个人评估预约及转介、atc@spd.org.sg、不是零售店 | 库存及个人费用没有代查 |
+| DB10 [SPD借用](https://spd.org.sg/what-we-do/assistive-technology/assistive-technology-loan-library/) | open9 L100—151、164—175；押金租金、通常两周、延期提前三天、评估／供货与个案帮助、6473 0446 | 不把个案援助推人人免费 |
+| DB11 [ATF资格与流程](https://www.enablingguide.sg/im-looking-for-disability-support/assistive-technology/assistive-technology-fund) | open1 L46—126全部主体；SC／PR指定永久残障、2026-01 PCHI4800、无收入AV21000、终身40000、触点申请、15工作日及60岁分流 | 年龄、永久残障、财务和设备条件并行；外籍准证不套SC／PR资助 |
+| DB12 [ATF FAQ](https://www.enablingguide.sg/docs/default-source/default-document-library/assistive-technology-fund--website-faqs_may2025.pdf?sfvrsn=fb47e09a_8) | open3 L0—222全部8页文字，作者又完整读本地8页文字；实体物理3／6页图目视。正收入四档SC90/75/40/20及PR60/50/20/10、零收入AV<=21000、HOMES、Special Assistance Fund、转介、不可事后报销、付款／维修／无blackout、耗材排除、60岁前后医疗设备和剩余额度、同目的资助不可重叠 | 文件名may2025但页脚June2026且表明确2026-01生效；不把文件名当旧制。全文8页文字不等于8页图目视；表引物理2—3、流程4—7、设备／分流5—8 |
+| DB13 [AIC SMF](https://www.aic.sg/Financial-Assistance/Seniors-Mobility-and-Enabling-Fund---Mobility-and-Assistive-Devices) | open8 L33—317全部主体；当前SC或PR60+、收入／住所、先批准、评估、替换间隔和电动设备附加条件、无Singpass纸本及AIC帮助、ATF历史分流 | AV正文措辞under21000，补贴图片未目视，故不列精确零收入边界或PR90%；不把ATF无blackout套SMF |
+| DB14 [SAVH低视力门诊](https://savh.org.sg/low-vision-clinic/) | open9 L0—28全部主体；非登记客户明确含外国人，首诊60／复诊40、6251 4331转721、lvc邮箱 | 仅咨询费，不保证其他器具／评估全包 |
+| DB15 [SAVH登记客户](https://savh.org.sg/who-we-serve/) | open9 L0—5全短文；一般登记客户SC／PR及眼科证明 | 不以自费门诊推全部SAVH服务向所有外国人开放 |
+| DB16 [居家调整](https://www.enablingguide.sg/caregiver-learning-roadmap/adapting-the-home-environment) | open11 L46—205全部主体；本人参与、清晰动线、认知图示、听觉视觉提示、视障触觉／对比及改变后重熟悉环境 | 不采用危险结构拆改例子或泛化锁钥限制；调整需按本人需要 |
+| DB17 [BCA建筑改动](https://www1.bca.gov.sg/guidelines-and-requirements/building-works-not-requiring-approval/) | open11 L39—109全部主体；私人住宅改动、专业人员、MCST及其他机关批准 | 只写许可分开核，不提供未经实核具体工程豁免清单 |
+| DB18 [AIC EASE](https://www.aic.sg/Financial-Assistance/Enhancement-for-Active-Seniors) | open8 L30—108；公民组屋业主／登记租户、65+或60—64且一ADL、功能报告、HDB入口及私宅官方链接 | HDB原页面只有导航；普通和唯一8888均403，未读HDB价表，不列具体自付额 |
+| DB19 [EASE Private首页](https://www.ease-private.gov.sg/) | 普通HTTPS200完整HTML的公开Next RSC静态文字；实际读英文及中文资格／S$1200抵75%指定设备：家中SC65+或SC60—64且一ADL | web403未作内容依据；普通访问成功，不经登录或私有API；不是所有年龄残障者补贴 |
+| DB20 [EASE Private申请](https://www.ease-private.gov.sg/Eligibility) | 普通HTML公开RSC提取完整英文申请步；长者身份／地址／设备／FAR、通常14工作日、SMS礼券及指定承包商、CC／ServiceSG帮助 | URL虽Eligibility标题实为How to Apply；未填表，未保证复杂案14日完成 |
+| DB21 [EASE Private FAQ](https://www.ease-private.gov.sg/FAQ) | 普通HTML公开RSC片段实际读Q1、3、5、8—11、14—18、21—25：家人代申、无手机可纸本、60—64评估、安装前屋主／MCST／有关机关批准、指定承包商、自装不可追领 | 静态片段未包括所有25问，不声称整FAQ全读；FAR另链接／视频未读 |
+| DB22 [EASE Private联系](https://www.ease-private.gov.sg/Contact) | 普通HTML公开RSC全部联系主体：BCA 1800 342 5222、CC／ServiceSG、纸本及申请帮助 | 本文号码近引DB20／21也支持；没真实联系机构 |
+| DB23 [MOE SEN问答](https://www.moe.gov.sg/faq?categoryid=34EAA566E17245A0B500E4B0482F4831) | daily当日正常原HTML静态解46问，本作者实读Q1—4、6—20、22—27，Q12—14首次截断后补完；认知／适应综合评估、SEN／辅导、听视支持、AT评估采购／正常损耗维修、SPED IEP／13岁起ITP | 原件不是作者摘要；Q5、21、29以后未读；旧Q28 FAS3000/750和Q42年龄不用，不推外国学生资助 |
+| DB24 [JPJS](https://www.enablingguide.sg/im-looking-for-disability-support/training-employment/job-placement-and-job-support) | open10 L44—126全部主体；SC／PR五类、已验证免重交DVF、评估／匹配／短期上岗支持、SupportGoWhere／One Referral Form／邮箱／柜台 | 不保证工作或所有准证适用 |
+| DB25 [H2W](https://www.enablingguide.sg/im-looking-for-disability-support/training-employment/hospital-to-work-(h2w)-programme) | open10 L44—132全部主体；SC／PR、above16、医疗证明适工、指定永久后天身体／视力／听力类别、在职可申、表件、免费个案就业支持与另收费康复 | 不把above16写16+；类别外可联系讨论不是保证批准 |
+| DB26 [ODP](https://www.sgenable.sg/your-first-stop/hiring-employment/employers/employ/open-door-programme) | open2 L95—244全部主体；申请期2025-04-01至2028-03-31、雇主UEN／登记、公民PR雇员、聘期项目条件、批准后开展、90%不含GST上限20000 | 雇主申请不是雇员现金权益；医师memo／SSA卡可用范围不推DVF普遍替代 |
+| DB27 [DAC](https://www.enablingguide.sg/im-looking-for-disability-support/child-adult-care/day-activity-centres) | open1 L46—141全部主体；18+、SC或有SC直系亲属的PR、五类／无未治疗传染病、医院SSA转介、未21父母及21+缺能力deputy／donee、10工作日联系 | 联系标准不是入读名额保证；继亲按页面列明范围 |
+| DB28 [DAC公民费用](https://www.enablingguide.sg/docs/default-source/default-document-library/dac-fees-matrix-sc.pdf?sfvrsn=ad01c187_8) | open4 L0—137一页全文；实体整页图实际目视、Jan2025、按月／按日与GST | 正文不列旧表金额，先取2026当前书面报价 |
+| DB29 [DAC PR费用](https://www.enablingguide.sg/docs/default-source/default-document-library/dac-fees-matrix-pr.pdf?sfvrsn=ad6749f1_6) | open4仅L0—7文字；实体整页图实际看到Jan2025、栏标题与脚注 | 没声称PR逐金额文字双核；正文不使用金额 |
+| DB30 [ESH](https://www.enablingguide.sg/service-directory/enabling-services-hubs-(enabling-guide)) | open7 L46—191全部主体；住区目录、信息／转介及开放活动所有人，固定课程／喘息另核资格 | 不把所有人开放活动推所有人补贴；各Hub容量未联系确认 |
+
+### 实体、失败与已接收范围复用
+
+五PDF普通HTTPS实体及SHA详存pdf-downloads.json：ATF FAQ363632B／`7bc53e9e5d2846ffc90f6d512d68652cedba1c4aa542db3510d9b03129bd7a46`；DVF FAQ89199B／`6f36217516c98105bf160e42076d1b01957a7593af32698d59c79f25e0242df2`；DVF form328327B／`00c6ba8a326650ea2aad1e100d0ccdb75417321648cd69ebece06060977ea3e9`；DAC SC151448B／`e0d9f1fcea928b8a4bb568fa03f8dc0ac2d26e0d72698f5d0a158de8e3e327ad`；DAC PR151469B／`5cf10526b1323e1d2ea02f22697254e997cb40b911ad321e7397f5ab77b678e0`。真实图像范围只有ATF3／6、DVF表1、DAC各1；其他文字阅读不叫目视。
+
+EASE Private web主站及三个详情403，普通HTTPS随后均200；原HTML／公开RSC／resolved-text和清单已保存。首页60094B／`3777a082ba395e3f256efbc073a61169626bd63d5ad1549f0755fd48c8b42f02`；Eligibility30014B／`c30818c350b5f7dc1e4c362325acb153f1fb8b63c17c2e2f836f2077008b3537`；FAQ63943B／`a236c87d6d30047ad3b5bf09d8af267d1bdd1c95184fa3660865bf083a5dae83`；Contact27070B／`887bae86be3a2105de29793294d5d3fd8e4a6f686fc3d1b55b02af29a0809084`。只静态解正常公开HTML内JSON及文字，不执行代码、不碰登录／表单／私有API；两个公开bundle仅找内容，不作为规则来源。HDB EASE普通和唯一8888各403，4756B挑战页SHA `cb619347123cda2274ab884d653b8a967b0ddb12e261beb085d9d9dcf04498ca`，止损；采用AIC实际详文，不重新探测。
+
+MOE原HTML1308012B／`83b4f60d45647c45da0321d5e11ec32b9481a6ecb612ef3827bc2d92770f4ae7`，文件 `.cache/research/b04-education/moe-school-faq-sen-text.txt` 与resolved.json，是同日实际官网原件而非教育作者总结。另open7 TrainingEmployment L44—207实际读作背景；L174—180旧WFA2024描述明确排除，不作为现行法律依据。
+
+已接收主文复用范围及当前bodySHA已与accepted.json实核匹配，记录accepted-reuse.json：public-transport L65—85／`ea39157484fc03e113703da88fedbcdf55d5bfabf55de80aa34a4815a351f56e`，taxis-phv L35—60／`0383e004578711555dff40f0e761bfdf5cf428e3df93abf84289fe8cfa450f90`，accounts L16—67／`b53f5c15d53a9e55240407d4b3c7f73aa2cdbe96df7a5b086cebda7191305732`，communication L74—108／`6631495f9b32bb5f0be7ea595dcf92884ae2c477f28f9e563e2e0859b07264a4`，higher-education L135—165／`37c662a2e83b67d7578f6d1cb9ec64751b07e0b6f77ef79097fc256dd0a6ec3c`。只复用这些实际已接受范围并导流，不冒称重抓全部原源；劳动45a995d4…与心理190b3a1f…为此前本人完整事实／作者审和已接收范围，getting-care／emergencies只近题链接。没有新增交通票价、口译时段、全院校资助或身份授权规则。
+
+### 作者完整性与交审
+
+全稿覆盖实际需要→医生／治疗／社工与SG Enable→DVF查已有记录、材料、费用、无Singpass、结果及变化→辅具试用／租借／训练→ATF收入国籍／SMF年龄分流／外国自费入口→全龄居家调整及HDB／私宅EASE→儿童主流／SPED／高教转衔→JPJS／复工／雇主ODP→交通、沟通及数字协助→DAC／ESH→补件、候补及过渡。身份分别核公民、PR、外国工作／学生／家属／访客，不从持准证推资助；申请人、父母和法定代理分开。
+
+九必填字段、无H1、10H2、加粗外侧空格、relref实际路径和单EOF由作者静态检查，author-check.json及author-final-read.md保存冻结版本。未构建、浏览器或打印验收；不把来源图片目视当页面渲染。未代办任何申请或联系机构。具体个体资格、库存、服务名额、当次费用与专业签表接受情况仍向实际接收者核，不保证申请结果。此时交identity独立事实，作者保持正文冻结并承担修订。

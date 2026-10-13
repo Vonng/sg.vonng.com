@@ -20,3 +20,7 @@ weight: 50
 需要在家协助照顾孩子或长者，先用[家政雇用与双方责任](/book/people/family/domestic-workers/)评估任务、资格、费用及替补安排。家庭成员准备升学时，按[升学事项](/docs/routes/higher-study/)核申请、资助和担保，分别处理居留与学习条件。
 
 遇到关系破裂或家庭暴力，从[分居与家庭保护事项](/docs/routes/family-separation/)安排安全、孩子、生活费和文件，再核本人准证及工作许可。家庭保单的续保、受益人和理赔资料，按[保险篇](/book/work/finance/insurance/)逐项检查。
+
+家属准备自行经营时，按[创业篇的家属准证分支](/book/work/business/starting-business/)核本人许可及申请次序。
+
+孩子正在或准备就读基础教育时，从[课程、考试与学习支持](/book/people/school/learning/)核对收费身份、学校费用、母语、升学及特殊教育支持。

@@ -2,11 +2,21 @@
 
 工作目录 /Users/vonng/www/sg.vonng.com；Singapore日期本轮实际核为2026-10-13（19:08）。用户已明确续跑，旧交接的暂停/等待授权约束已经上级解除；持续执行同一完整目标。主控工具目标状态由root处理，本人不改变它。
 
-## 最新：心理事实已通过；disability研究保存，优先经营独审
+## 当前：disability完整冻结，交identity独立事实
+
+2026-10-13 19:39，disability全文128行已实际自审、最后五段加粗空格修正后复读，22,739B/full1eebdd4e9764f2432f1b9fe7e4cc2999cab7941685f34c1cd285cd254068fa71/body6ea475e4b5b8d4ef0a7f10acabeea5c4ce23136c26651e4d71612f0e42ef59d5；written/draft:true/核验空。DB01—30已正式追加ops/evidence/b04-care-ageing.md，作者静态和完整快照在disability/author-check.json及author-final-read.md，地图同步。交identity独立回源事实，报告b04-disability-facts.md由identity独占，root第三编辑；作者正文保持冻结，具体反馈本人修。
+
+旧“尚无正文／私宅EASE未读”仅是历史断点。open11居家／BCA真实主体已读；私宅EASE主站、Eligibility、FAQ、Contact普通HTTPS200，公开HTML内Next RSC静态解出原文，未用登录或私有API。首页及申请／联系主体、FAQ实际Q范围见证据，不冒称全25问。HDB普通及唯一8888仍403，不重探。MOE Q范围和已接收交通／数字／高教采用段已完整复读和SHA匹配，未重新冒称所有来源全读。PDF图仅ATF3/6、DVF表1、DAC各1；文字与图像分开。
+
+starting-business两审均已通过：本人正式事实与daily第三编辑报告，原full d6fa0603…／body4e8f99ee…未变，root正与school/learning作B04G工程；本人不重审未变稿。mental-health已B04F接收并随root本地commit9ce4707保存，地图integrated。
+
+下一命令：开始caregiver-support完整研究，优先AIC照顾者资源、出院转介、喘息／培训、Home Caregiving Grant 2026时点和两套身份资格；随后ageing retirement/long-term-care/planning-ahead/death四篇。收到disability事实问题由作者修并限定差分重绑，不自签。无后台进程、无待批准真实代办，不运行共享构建或改共享总账。
+
+## 最新：心理已集成，经营独立事实通过，回disability完整写作
 
 心理稿已由identity正式独立事实、root第三编辑及B04F实际生产／桌手机／打印抽样／public同步通过，body190b3a1f…未变，integrated；本地图按root消息更新，不冒称作者亲自工程检查。disability尚无公开正文，真实原文open1—10、五PDF实体与实际页图、MOE采用Q范围和剩余私宅EASE／居家及交通衔接，均落盘.cache/research/b04-care-ageing/disability/read-checkpoint.md。不可拿搜索或metadata冒充实读，HDB原页普通与唯一8888均403不重探；私宅入口本轮web403尚无正常下载。
 
-root当前优先交starting-business完整首冻独立事实：22,821B/fulld6fa0603beec208e72f62c20e64782bb4ccf00b7efa9e17c32d15b110b2c2dff/body4e8f99eef6c9a26012eab8ac7aa39ef74a81484ff164c91dd01653674c8fc03a，31源证据ops/evidence/b05-business.md，原件business-open1..20.txt。下一命令先完整读正文与证据，独占ops/reviews/b05-business-facts.md回源核，问题交root本人修，完后daily第三编辑；随后回disability完整写作和其余5篇必要队列。
+starting-business独立事实已正式通过，ops/reviews/b05-business-facts.md归本人，已绑定22,821B/fulld6fa0603beec208e72f62c20e64782bb4ccf00b7efa9e17c32d15b110b2c2dff/body4e8f99eef6c9a26012eab8ac7aa39ef74a81484ff164c91dd01653674c8fc03a，首末135行全文实际读且逐字节无改；31组采用范围已核，ACRA／EntrePass两页新联网，PEP仅复用同日已接受的明确范围。STP实体2页全文＋物理1页图实际读；GoBusiness与PEP失败未重探。缓存read-log／fresh1／final-check完整，已交daily第三编辑及root接收。下一命令回disability read-checkpoint剩余居家及已接受交通／数字接口，完整作者稿自审交异人事实；随后caregiver-support及ageing四篇，不运行共享构建或改共享账。
 
 ## 最新：劳动权益事实已通过，开始disability完整作者稿
 

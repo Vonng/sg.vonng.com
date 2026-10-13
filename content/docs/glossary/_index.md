@@ -87,3 +87,9 @@ weight: 30
 | GPPL / SPL / FWA | 政府付薪陪产假、共享育儿假及弹性工作安排 | [假期与工作安排](/book/work/employment/employment-rights/) |
 | COR / FTC / CRS / FATCA | 税务居民证明、外国税抵免及金融账户税务信息制度 | [跨境税务](/book/work/tax/cross-border/) |
 | CREST / COMIT / CHAT / IMH / NAMS | 社区外展、社区介入、青年评估、心理卫生学院及成瘾治疗服务 | [心理支持与治疗](/book/people/accessibility/mental-health/) |
+| ACRA / Bizfile / UEN / CSP / LLP | 企业登记机关、登记平台、统一实体编号、公司服务商及有限责任合伙 | [设立与开业](/book/work/business/starting-business/) |
+| Corppass / Home Office / Home-Based Business | 企业数字服务授权、住宅办公室及小规模家庭经营；各有不同条件 | [经营权限与场所](/book/work/business/starting-business/) |
+| PSLE / AL | 小学离校考试 / 成绩等级 | [课程与考试](/book/people/school/learning/) |
+| Full SBB / PG / G1、G2、G3 | 全面科目编班 / 入学组别 / 科目级别 | [科目与升学](/book/people/school/learning/) |
+| SEC / PSE | 新加坡—剑桥中学教育证书 / 中学后教育 | [2027—2028过渡](/book/people/school/learning/) |
+| SEN / SPED / AA | 特殊教育需要 / 特殊教育学校 / 考试便利安排 | [学习支持](/book/people/school/learning/) |

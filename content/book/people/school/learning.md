@@ -4,10 +4,10 @@ description: "比较主流、独立及国际学校，核2026学费与资助，�
 page_id: sg-school-learning
 content_kind: task
 scope: "新加坡基础教育及中学后衔接；公民、PR、国际学生，以及工作准证、家属准证持有人和访客为孩子选择课程、预算与学习支持"
-status: written
-draft: true
-verified: ""
-reviewed_by: ""
+status: integrated
+draft: false
+verified: '2026-10-13'
+reviewed_by: "事实：identity；编辑：root；集成：root"
 weight: 20
 search_keywords: ["学费", "PSLE", "Full SBB", "SEC", "PSE", "母语", "FAS", "SEN", "SPED", "考试便利", "国际学校"]
 ---
@@ -50,7 +50,7 @@ IP也有不同终点。例如Victoria School与合作学校的六年IP通往Vict
 
 ## 缴费、身份变化与经济困难
 
-收到学校账单后，核学生姓名、收费期间、身份组别及已付金额。MOE的GIRO通常在每月26日扣款，遇非工作日顺延；一月和二月合并在二月收取。eGIRO只适用于所列银行和账户类型，部分联合账户、公司账户或其他情况须交纸本申请；纸本批准可能需较长时间，在申请尚未生效时按账单期限用其他方式付款。[MOE：GIRO及其他缴费方法](https://www.moe.gov.sg/financial-matters/fees)、[费用问答](https://www.moe.gov.sg/faq?categoryid=16209AFB5BEB4959AE8F5ADD6007566A)
+收到学校账单后，核学生姓名、收费期间、身份组别及已付金额。MOE的GIRO通常在每月26日扣款，遇非工作日顺延；小学及中一至中四的一月和二月费用合并在二月收取，中五及JC／MI的一月至三月费用合并在三月收取。eGIRO只适用于所列银行和账户类型，部分联合账户、公司账户或其他情况须交纸本申请；纸本批准可能需较长时间，在申请尚未生效时按账单期限用其他方式付款。[MOE：GIRO及其他缴费方法](https://www.moe.gov.sg/financial-matters/fees)、[费用问答](https://www.moe.gov.sg/faq?categoryid=16209AFB5BEB4959AE8F5ADD6007566A)
 
 已经生效的GIRO若扣款失败，先补足账户余额，并向学校核下一次扣款；MOE说明欠款可并入下月，另行付款可能造成重复扣款。没有GIRO时，可按最新账单的SGQR、AXS或学校接受的现金／支票渠道付款，一般须在当月26日前完成；非GIRO的一二月、十一十二月合并收款安排，按账单核对。CDA不能用于这些学校费用，不要因账户里有余额便当作已付款。[MOE：付款及失败扣款问答](https://www.moe.gov.sg/faq?categoryid=16209AFB5BEB4959AE8F5ADD6007566A)
 
@@ -130,7 +130,7 @@ PFP从2026入学已采用科学、设计工程科技、人文艺术媒体商业�
 
 需要更多时间或提高科目层级时，仍有合资格学生修读中学第五年的安排。条件包括至少三科G3通过而未符合JC／MI／理工一年级资格，或最多两科G3通过且达到规定的G2原始总分与逐科成绩要求；后者按ELMAB3不超过21、ELB3或MAB3不超过14等组合核，计入科目均须至少G2 Grade 5。第五年全部科目修G3还另有原始ELMAB3不超过19的条件。把现有每科层级和成绩带给学校核完整资格，不够科目计算时也应直接询问学校。[MOE：第五年条件](https://www.moe.gov.sg/psle-fsbb/full-subject-based-banding/secondary-school-experience)
 
-PSE公布的申请安排为成绩发放后六个日历日，可填最多十二个课程志愿；2028具体日期、课程代码及完整申请资料仍须看当期公告。达到系统所列资格后，同净分竞争最后学额会按公民／PR／国际学生、志愿顺序、原始总分和电脑抽签处理。未获所填志愿不代表一定能另获安置，仍看课程资格和余位。[MOE：PSE申请、排序与结果问答](https://www.moe.gov.sg/faq?categoryid=D0231E8A8E14458BA58D26C58B8BC4BB)
+PSE公布的申请安排为自成绩发放当日起六个日历日，可填最多十二个课程志愿；2028具体日期、课程代码及完整申请资料仍须看当期公告。达到系统所列资格后，同净分竞争最后学额会按公民／PR／国际学生、志愿顺序、原始总分和电脑抽签处理。未获所填志愿不代表一定能另获安置，仍看课程资格和余位。[MOE：六日申请期](https://www.moe.gov.sg/psle-fsbb/full-subject-based-banding/faq)、[PSE申请、排序与结果问答](https://www.moe.gov.sg/faq?categoryid=D0231E8A8E14458BA58D26C58B8BC4BB)
 
 学校考生的PSE资格涵盖各国籍SEC学生；私人考生的公民／PR条件另列。准备Singpass时按本人资格办理，无资格取得Singpass者须按届时公布的申请协助渠道处理，不能借用父母账号替代。2026或2027入学申请继续按当期JAE及院校流程；以后高教费用、申请材料和资助见[大学、理工与ITE]({{< relref "/book/people/learning/higher-education.md" >}})，PR或公民男学生另把[国民服役义务]({{< relref "/book/life/documents/national-service.md" >}})纳入时间安排。[MOE：PSE身份与账号问答](https://www.moe.gov.sg/faq?categoryid=D0231E8A8E14458BA58D26C58B8BC4BB)
 
@@ -178,7 +178,7 @@ SPED学费及资助逐校核。Pathlight当前公民月费按小学、中学、�
 
 公民家庭先向目标学校确认MOE许可及义务教育安排。UWCSEA说明，符合其申请条件并有学额后，由学校向MOE申请相关豁免；获学校录取不自动等于已获MOE批准，原学校的豁免也不能自动带去另一所学校。居住在新加坡的公民儿童涉及义务教育时，必须把正式学校或已批准安排处理好；外国人、PR和不同年龄的情况分别向主管及学校核，不把一所国际学校的招生政策当成全部法定范围。[UWCSEA：公民申请及MOE批准](https://www.uwcsea.edu.sg/admissions/eligibility/residency-and-citizenship/information-for-singapore-citizens)、[MOE：义务教育问答](https://www.moe.gov.sg/faq?categoryid=E4D97A22CC4543C89E836670C852D835)
 
-外国学生在ICA所列Foreign System Schools全日制学习，通常需要Student’s Pass；持有效DP、LTVP或Immigration Exemption Order者按主管例外核。需要Student’s Pass的学校须符合相应注册和EduTrust条件；短期访问许可、已交申请或IPA不能笼统当作正式入学所需有效准证已经完成。外国出生、12岁及以下孩子还要按ICA要求核疫苗验证；课程录取和准证办理由学校及ICA分别处理。[ICA：外国学制学校的Student’s Pass](https://www.ica.gov.sg/reside/STP/apply/fss)、[儿童疫苗记录与验证]({{< relref "/book/people/healthcare/preventive-care.md" >}})
+外国学生在ICA所列Foreign System Schools全日制学习，通常需要Student’s Pass；持有效DP、LTVP或Immigration Exemption Order者按主管例外核。需要Student’s Pass的学校须符合相应注册和EduTrust条件；短期访问许可、已交申请或IPA不能笼统当作正式入学所需有效准证已经完成。外国出生、12岁0天或以下孩子还要按ICA要求核疫苗验证；课程录取和准证办理由学校及ICA分别处理。[ICA：外国学制学校的Student’s Pass](https://www.ica.gov.sg/reside/STP/apply/fss)、[儿童疫苗记录与验证]({{< relref "/book/people/healthcare/preventive-care.md" >}})
 
 查学校时，先核Skills and Workforce Development Agency（SWDA）相关注册及许可，再看需要的EduTrust状态；注册本身不等于政府保证教学质量或每个升学机构都承认其文凭。使用TPGateway的当前私立教育机构资料及学校自己的合同，核经营主体、所读课程和颁证机构是否一致。[TPGateway：私立教育机构问答](https://www.tpgateway.gov.sg/faq/private-education-institutions)、[当前机构名录入口](https://www.tpgateway.gov.sg/resources/information-for-private-education-institutions-(peis)/pei-listing-file)
 

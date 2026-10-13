@@ -4,7 +4,7 @@
 
 | 路径 | 问题与范围 | 状态 |
 | --- | --- | --- |
-| /book/work/business/starting-business/ | 六身份及细分准证、DP LOC、五种主体与责任、外国既有企业选路、CSP、名称SSIC、地址与住宅、材料费用、提交确认付款结果、UEN/Corppass/开业责任 | 完整稿作者自审通过，written/draft:true；冻结交care事实/daily第三编辑 |
+| /book/work/business/starting-business/ | 六身份及细分准证、DP LOC、五种主体与责任、外国既有企业选路、CSP、名称SSIC、地址与住宅、材料费用、提交确认付款结果、UEN/Corppass/开业责任 | integrated/draft:false；care事实/daily第三编辑与B04G实际工程通过；正文4e8f99ee…绑定accepted |
 | /book/work/business/running-business/ | 记账、年度ACRA/IRAS/ECI/公司税GST及InvoiceNow、薪资CPF/MOM、DPO持续义务、申报失败与费用 | planned；不得公开空页 |
 | /book/work/business/risk-exit/ | 合同、知识产权、资料、保险融资与担保、跨境及正式退出/清算；外国分支/迁册更深办理 | planned；不得公开空页 |
 

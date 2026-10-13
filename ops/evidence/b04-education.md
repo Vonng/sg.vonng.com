@@ -234,3 +234,57 @@ E73—75、E80所用FAQ来自E59同日首次正常HTTPS200的公开原HTML，1,3
 11H2、81近邻HTTPS、7次relref／6个真实已集成目标、5张表列数一致，九字段written/draft:true/核验空、无H1、中文加粗外普通空格及单EOF通过。无教学虚构预算；UWC实数示例是学校真实报价，不作全市场推荐或保证。没有构建、浏览器／打印、提交或同步公开目录，后续异人事实及root第三编辑／工程尚待完成。
 
 课程稿完整覆盖类型／身份费用／全年付款及变更／FAS与账户用途、P4分科／PSLE、母语替代及豁免、S1／FullSBB／第五年／2027SEC与2028各升学、全国考试AA及复核、SEN评估与辅助支持、SPED申请与争议／费用交通／离校转衔、国际私立学校课程／SC许可／外国准证／合同费用保护。admission完整普通入学年龄和批次规则、school-life霸凌保护与沟通、adult-learning培训权益仍分别推进，未借改题名消去原必需节点。
+
+### 19:32课程独立事实修订与最终版本
+
+identity完整独立回源后提出三组精度：ICA FSS为外国出生、12岁0天或以下；GIRO一二月合并只限小学及中一至中四，中五与JC／MI一至三月合并三月；PSE六日须自成绩发放当日起，并近邻补Full SBB FAQ（原record31），不能只引PSE分类16问。作者仅改这三组，四字符串逆替严格恢复19:19首冻；修改后的三完整段实际复读，最终静态再次通过。E87此前简记“≤12”由此精确限定，E75费用49问的Q9／13／40区分年级。
+
+最终36,190B/full `e118ac109e5e7eb2867824110dd0aace4115b68292b1ae71885caed0ee04387f`／body `2654d1f5e394aa88ba5d0d8a2044c9be09f623278e0a71c2e27042e8c37472e5`，187行、11H2／82HTTPS／7内链，仍written/draft:true/核验空。identity正式报告 `ops/reviews/b04-school-learning-facts.md` 已再次通读最终187行并通过；作者不自签事实。root第三编辑与工程尚待主控确认。
+
+## E92—110 学校生活完整稿资料（实际查阅2026-10-13，Asia/Singapore）
+
+所有新工具原返回保存为 `.cache/research/b04-education/education-source-66.txt` 至 `education-source-76.txt`；66—69、71、75中的搜索仅用于定位，未把摘要视为详文。MOE／MSF网页若web只返回挑战，首次正常HTTPS成功取得原件后，采用保存的原HTML及内嵌服务端返回字符串；未执行远端JavaScript。`read-returned-content.py`解析真实返回的RSC文本记录，`*-returned-content-data.json`保留原HTML字段，`*-text.txt`供逐段阅读。以下明确采用范围，不将全站公共banner或导航算作主题原件。
+
+| 编号及真实主管来源 | 实际已读／支持范围 | 条件、时点、冲突及边界 |
+| --- | --- | --- |
+| E92 [MOE学校事务25问](https://www.moe.gov.sg/faq?categoryid=9F0650F657D342E79A5AE042709A9C06) | 同日E59原HTML逐问解析，`moe-school-faq-school-related-{resolved.json,text.txt}`25问完整实际读；Q1有症状COVID返校，Q3／6重入学与材料，Q4住址SDF或到校，Q9设备／iCON等找学校ICT，Q21—24校内SCC及SCFA | Q1 2026-05-19；校内中心仍按空位与运营者收费，正文限定MOE小学不扩张所有国际学校。Q11—20食堂商家申请实际见但不采用；没有以目录臆定校车或请假表格 |
+| E93 [MOE小学事务3问](https://www.moe.gov.sg/faq?categoryid=42F9FAEEAA9840F6A1376C762B52A7EA) | `moe-school-faq-p1-matters-*`3问全文实际读；校车联系学校／运营者，P1注册后不能一月返新可LOA且每年续期，SCC查学校 | P1 LOA问2026-04-29；只采用该明确情形，不据此编所有准证儿童的LOA资格／年费。分类ID从原对象核出后正文近邻用精确分类页 |
+| E94 [PG使用资格](https://ask.gov.sg/parentsgateway/questions/cm3i492ac009cs57icv1juuj5?from=agencyhomepage) | 工具70主体L21—26实读：Singpass家长／法定监护人／授权照顾者，学校名单，外国父母无法Singpass可找学校其他渠道，关系权限由学校核 | 工具76PG目录仅定位，未把所有按钮所含FAQ当已读。没有让家人分享Singpass，没有把PG用在所有私校，未采用该页“P1五月”不必要日期 |
+| E95 [Anderson沟通政策](https://www.andersonpri.moe.edu.sg/our-communications/communications-policy/)、[Northoaks家校合作](https://www.northoakspri.moe.edu.sg/general-information/home-partnership/) | 工具76两校主体分别L19—45及L14—39全部实际读：PG／电邮／手册用途，工作时段／预约／GO，访客及提前接走签名、联系资料准确 | 各页2026-07-11／08-31，footer不同不混用。Anderson7—17／Northoaks7:30—17不当全国统一；3／7／21工作日是校例不编全国结案限。照片deemed consent只原文读，不扩写全国法定同意 |
+| E96 [MSF SCFA当前详情](https://www.msf.gov.sg/what-we-do/student-care/for-parents/student-care-fee-assistance) | 正常200实体216716B／SHA `a1a542a0713c845eb70f581df193e1d3c92722b57a196f00b0d32eff864f42f2`；可见主体及RSC records34／37／38／39／3a全部文字实际读，当前及2027表逐行核，`school-life-scfa-direct-*` | 普通SCC7—14补助起始历年；PR须同住immediate family member SC，与公民本身区分；56h双方通常条件。2026四人≤4500／五人PCI≤1125，2027-01-01变6500／1625；最高290非固定，SUG400；收入HOMES平均非单月到手。SSCC7—18，四人9200／五人2300，另核。36月且固定阶段复核；收到申请月／旧补助后月取较后；上诉中心转交，获批从上诉月。只见指南／清单／求职表名称，未读附件，未登录SGW或代填 |
+| E97 [MSF COS2026](https://www.msf.gov.sg/media-room/article/msf-committee-of-supply-2026--all-families-empowered-to-succeed) | 正常200159291B／SHA `bf86e516c89af8b1ea4ec123936e9e465df86b0a93ab084e89e17ea3adc28214`；实际采用完整SCFA段（抽取L44—53），明确PR附加SC家人、最多提前6月、36月及2027收入变更 | **真实冲突：E96 record38写at least six months，但自身例子一月生效七月起提交；本公告写up to 6 months。正文列冲突并指实际入口／中心MSF确认，不静默改原文或自行宣布少于6月必不合格。** 其他ComLink内容不作本稿已审事实，未读后续详细pilot条件 |
+| E98 [MOE CCA16问](https://www.moe.gov.sg/faq?categoryid=C6853C6F26BB4B17859518015EFA90A7) | 同日E59原件`moe-school-faq-cca-*`16问完整实际读：中学每年校内强制，四类型，小学／preU鼓励，建议2—3／5—6小时，五领域记录、外部活动认定、转校记录 | 指導不是法定总时数上限，记录不是自动升学加分。SP-CCA免费但自理交通等问已读未扩用所有CCA免费；正文不复制未知LEAPS当期分数 |
+| E99 [SLS Helpdesk](https://www.learning.moe.edu.sg/login-troubleshooting/get-help/contact-sls-helpdesk/) | 工具72 L15—44主体完整实际读：先重置电邮／学校／教师，其他技术SLS Helpdesk，67026513／电邮、周日PH不开、平日及周六时段 | 页2026-09-10；没有把搜索出现的12月EduPass变化提前当当前。学校热线全表只作入口，未逐校审账号与电话，不登录SLS |
+| E100 [MOE2026屏幕规则](https://www.moe.gov.sg/news/press-releases/20251130-moe-to-introduce-enhanced-measures-to-promote-healthier-screen-use-in-students) | 正常20099201B／SHA `87b21ded0c99f585d913f4a2bf30913dec9833e37f67f41deb2848c49cd83252`；原HTML主体13行3749字完整实际读，2026-01中学全校时段禁用手机／智能表含CCA及必要批准、DMA默认22:30 | 私人家庭设备不套强制睡眠，宽松配置家长是鼓励。原脚注SmartBuddy支付手表可用但myFirst Fone连SmartBuddy Tag不可的区别已读，正文没有概括一切支付表禁用；小学不机械套中学规则 |
+| E101 [Bendemeer DMA](https://www.bendemeersec.moe.edu.sg/bdms-experience/academic-programme/ndlp/dma/) | 工具70主体L23—121完整实际读，2026-08-20；Chromebook／Lightspeed学校与课后默认/A/B、账号切换及毕业移除，变更走学校 | 单校设备实例，正文不推所有iPad或全国统一软件；隐私数据列表实际读但未写通用隐私保证。没有在设备上实际操作或看家长私人账号 |
+| E102 [MOE欺凌2026检讨](https://www.moe.gov.sg/news/press-releases/20260415-recommendations-from-moes-comprehensive-action-review-against-bullying)及三份官方附表 | 正常200主体102868B／SHA `d7d2ae4ea13a01c40a87712ee61f7c217f3ccb7ac0b3a7d3c7b4b2ad1af3c56a`；可见正文12行5098字完整读，九建议四领域、从2026逐步执行；三PDF详见下方实体记录 | 不能把渐进执行写成每校已配同样额外人员。附表B的OSC尚待六月文字是历史，学校生活使用E106—108当前主管详情覆盖后续状态 |
+| E103 [MOE欺凌概述](https://www.moe.gov.sg/education-in-sg/our-approach-to-addressing-bullying)、[学生](https://www.moe.gov.sg/education-in-sg/our-approach-to-addressing-bullying/students) | 原件正常200，概述实际body field@53495及学生record28完整读：一次伤害／持续有意欺凌、肢体言语社交网络；安全离开／成人帮助、旁观支持及不传播伤害影像 | 概述97573B／SHAa5dfcaaa…；学生95623B／SHAded38ad9…。完整SHA、URL、请求时间在对应`school-life-bullying-*-direct.json`；公共banner不是主题源，不称页面内图全看 |
+| E104 [MOE与学校的欺凌处理](https://www.moe.gov.sg/education-in-sg/our-approach-to-addressing-bullying/moe-and-schools) | 正常20097979B／SHA `9f81456def06927e44d29a50fcf26de29b47499f139910af8bedcf4587a872fc`，record28全读：即时安全计划、调查各方、纪律辅导修复、家长更新、REACH、资料处理与公开不准确案件说明 | 无一律几日完成保证；不承诺绝对保密。REACH为学校按需要转介，未推读者无转介直接获专科或任何国籍同一免费条件 |
+| E105 [MOE家长与社区应对](https://www.moe.gov.sg/education-in-sg/our-approach-to-addressing-bullying/parents-and-community) | 正常200129093B／SHA `6cba390025f87a7ae710bcb1da4276f83e9a1826cd70f53de65b8de2dac73589`；record28／29／2a及四个实质fields62936／64198／64895／65601全读：不诱导提问、情绪支持、三种孩子角色、记录限必要传播、先班主任或YearHead、不径找对方学生、MOE渠道 | record29仍未来式OSC六月上线，正文不用作当前申报规则。只采用原文文字，嵌入视频和未开的外链不计已读 |
+| E106 [OSC FAQ](https://www.osc.gov.sg/what-you-can-report/frequently-asked-questions/) | 工具72主体L35—281完整实际读；2026-08-17：五类伤害，SC/PR及所列有效长准证／外交特殊，未18代报授权、无匿名、证据、平台先行与三类直接、确认邮件、重新考虑后上诉 | 无有效准证不保证资格，普通访客不推定；外交特殊分支原文已读但正文无须复制。没有承诺具体结果或全部身份永久免费司法救济；表格未登入提交 |
+| E107 [OSC网络骚扰详页](https://www.osc.gov.sg/what-you-can-report/online-harassment/) | 工具73定位，74 L36—206全部主体实际读；平台先报至少24h及证明、无Singpass手填证件、未18父母／监护关系、其他授权、多个平台一起报、涉嫌罪行／先留证／确认信 | 本页2026-08-17、footer09-22不是相同日期。24h有新当前详页直接支持，不单凭4月MOE旧附表；不得把等待套给doxxing／私密影像／儿童影像虐待 |
+| E108 [OSC未满18岁](https://www.osc.gov.sg/what-you-can-report/how-to-report-online-harm-to-the-osc-if-you-are-under-18/) | 工具72主体L22—64文字及图像alt实际读，2026-07-06；找可信成年人、父母监护代报／其他人授权，与E106—107交核 | **未实际打开图像目视**，只称文字和alt。当前portal只由官方href定位，不称亲自操作举报字段，热线搜索片段未采用 |
+| E109 [MSF Child Abuse and Neglect](https://familyassist.msf.gov.sg/content/making-decisions/seeking-safety/understanding-violence-abuse/child-abuse-and-neglect/) | 工具72仅导航不采用；73新find到主体L351—364及407—409实际读，虐待／忽略、NAVH18007770000、24h及手机费、即时危险999 | 不把同页咨询登记的成人／身份门槛套儿童举报；正文家庭安全、就医、心理、NS接续用实际已集成主文，无另编保密或保证材料不披露 |
+| E110 [小学转校19问](https://www.moe.gov.sg/faq?categoryid=FFCA2C16536A4CC1AE64080BA2917D31)、[中学转校1问](https://www.moe.gov.sg/faq?categoryid=6639363B390346CCB5C6EE3DD106AEB3)、[Returning Singaporeans18问](https://www.moe.gov.sg/faq?categoryid=F8ACA3ABB7DD42799138FD6D8D34D9AA) | 同日E59真实原件，`moe-school-faq-{primary-transfer,transfer-secondary,returning-school}-*`全部19／1／18问实际读。P1—P5SC/PR搬家、不能择校／无位留原校、先申后材料与父母NRIC地址时点、custody不等care/control、双方争议法院途径；中学/JC原校协调；RS含SC PR、ASP适龄有位非选校／小学后评估／中学评估／LOA放弃后不保证 | 未见具体2026转校窗口不编日期；返回资料与年级不是普通外国新生AEIS资格替代；旧SPERS九月／补考十二月概述不写2026具体截止。年龄表按1月1原文读但不复制为所有入学年龄上限。内部课程稿事实已通过待root工程，不称此时已integrated |
+
+### 欺凌三PDF的实体及目视
+
+三URL均从E102原HTML真实href取得，正常200，无代理。`.cache/research/b04-education/school-life-bullying-annex-{a,b,c}-direct.pdf`与各自json保存：
+
+- [Annex A九项建议](https://www.moe.gov.sg/media/Newsroom/News/Press/2026/Annex-A-Key-Recommendations-from-MOEs-Comprehensive-Action-Review-against-Bullying.pdf)：440156B，SHA `6989dc37fee307c4d32668f9ae3385d73de5fd804643f50e4c8ee1da12bac1e7`，两页扫描文本抽取空；**两页PNG均实际目视阅读全文**，非以空文本推无内容。
+- [Annex B学校处理](https://www.moe.gov.sg/media/Newsroom/News/Press/2026/Annex-B-MOEs-Approach-to-Address-Hurtful-Behaviours-and-Bullying.pdf)：120126B，SHA `675c5f52d2d3986920a39b5467c6da716d1423fc823f26d38f8058031b432739`，两页完整文字实读且**两页PNG均实际目视**；安全／调查／辅导及2026渐进，OSC六月未来文字已被新主管当前详情替代。
+- [Annex C纪律表](https://www.moe.gov.sg/media/Newsroom/News/Press/2026/Annex-C-Stricter-Action-in-Schools-against-Student-Misconduct.pdf)：633460B，SHA `21de5c78722d2e2523405fd83f33c1210585af1c17052dcbfa68e892cdec3e94`，一页扫描，**整页PNG实际目视**；严重／非常严重分次处分、留堂／停学／操行及适用上小及以上男生的鞭罚、年龄成熟SEN心理考虑均实看。正文只采用条件化框架，没有推广固定必罚数值。
+
+### 本轮失败、未知与下步
+
+旧家校合作PDF真实URL `https://www.moe.gov.sg/-/media/files/news/press/2024/annex-a---refreshed-guidelines-for-school-home-partnership.pdf` web挑战、首次正常404，`school-life-partnership-direct.json`记录，无PDF实体，未反复请求或代理；用新E95实际学校政策，并限定校例。新搜索命中的其他家校PDF、学校手册、Home Access入口未打开，未写成已核细则。bs4初尝试导入失败，随后stdlib解析成功，不称使用bs4。其他新成功HTML和PDF不重复下载；本轮学校生活无8888重探，无后台待poll下载进程。
+
+普通admission的AEIS／S-AEIS完整年级年龄／CEQ、2027P1框架和CE法细节缺口仍保留；adult-learning信用／补贴／培训津贴与质量保护整篇尚researching。学校生活以实际独立主题覆盖日常、沟通、托管、参与、数字、保护、转校与返校，不冒充这些剩余主题已闭。
+
+### 19:39前后版本与审阅状态
+
+root已确认school/learning通过B04G接收，作者核当前integrated/draft:false，36,253B/full `96f249b976ac41ef5780504fa6c4f6077cc1958ebbd0c00b616e367fe8c62935`／body `2654d1f5e394aa88ba5d0d8a2044c9be09f623278e0a71c2e27042e8c37472e5`，只接收元数据，不变最终事实正文。本人的“待root工程”记录由此更新，工程由主控实际执行。
+
+`content/book/people/school/school-life.md` **完整作者稿正式冻结，尚未独立事实审**：24,271B/full `840b26a0b4ce4ae186f9c9625ee031157740ba050186a801caef2cb20da8c9c1`／body `4a5b6f966de6756bfcfdc8cef0deb1c08cfdcca6092b803eb0e00a15337d0766`。初稿1—76／77—120行作者实际全文读，随后精确补分类近邻URL、SCFA起算及上诉／SSCC门槛／年龄口径和immediate family member中文，所有改动完整段再读；最终122行。10H2、46HTTPS、12次内链／7目标当前全部integrated、1表3列、九字段written/draft:true/核验空、中文加粗及EOF静态通过，`school-school-life-final-author-check.json`与`school-life-author-final-frozen.md`保存在忽略缓存。无虚构算例，不用机构政策实例冒充全国统一要求。
+
+下一独立审须实际读E92—110原件，重点SCFA资格／2027表／6月冲突和SSCC边界、2026手机及DMA、欺凌渐进及纪律适用、OSC外籍／未成年／无Singpass／骚扰24h、转校custody／LOA与ASP。事实后另由第三人编辑及root工程；本作者不自签，也未运行构建或把该稿列integrated。

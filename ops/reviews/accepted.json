@@ -785,5 +785,27 @@
     "body_sha256": "34f41a148d60a75df96c860de5fe04763765b6a9545defcbb69f81acac779adc",
     "reviewed_file_sha256": "1fdb5a63c9ac60ee8d4ebe5f2f3a0c94fdc0d882736e5709440e242e360a9eb4",
     "engineering": "B04F production and actual desktop/mobile passed; sampled print and final sync recorded in ops/checks/b04f-acceptance.json"
+  },
+  "content/book/work/business/starting-business.md": {
+    "author": "root",
+    "facts": "care_finance",
+    "editor": "daily_history",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b05-business-facts.md",
+    "editorial_report": "ops/reviews/b05-business-editorial.md",
+    "body_sha256": "4e8f99eef6c9a26012eab8ac7aa39ef74a81484ff164c91dd01653674c8fc03a",
+    "reviewed_file_sha256": "d6fa0603beec208e72f62c20e64782bb4ccf00b7efa9e17c32d15b110b2c2dff",
+    "engineering": "B04G production and actual desktop/mobile passed; sampled print and final sync recorded in ops/checks/b04g-acceptance.json"
+  },
+  "content/book/people/school/learning.md": {
+    "author": "daily_history",
+    "facts": "identity",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b04-school-learning-facts.md",
+    "editorial_report": "ops/reviews/b04g-editorial.md",
+    "body_sha256": "2654d1f5e394aa88ba5d0d8a2044c9be09f623278e0a71c2e27042e8c37472e5",
+    "reviewed_file_sha256": "e118ac109e5e7eb2867824110dd0aace4115b68292b1ae71885caed0ee04387f",
+    "engineering": "B04G production and actual desktop/mobile passed; sampled print and final sync recorded in ops/checks/b04g-acceptance.json"
   }
 }

@@ -4,10 +4,10 @@ description: "先核本人经营权限与营业场所，再比较独资、合伙
 page_id: "sg-business-starting-business"
 content_kind: "task"
 scope: "新加坡新设一般企业；按个人准证、企业形式与实际活动判断，外国既有企业另列选路"
-status: "written"
-draft: true
-verified: ""
-reviewed_by: ""
+status: integrated
+draft: false
+verified: '2026-10-13'
+reviewed_by: "事实：care_finance；编辑：daily_history；集成：root"
 weight: 10
 search_keywords: ["创业", "开公司", "ACRA", "Bizfile", "UEN", "Corppass", "CSP", "独资", "LLP", "Home Office", "EntrePass"]
 ---

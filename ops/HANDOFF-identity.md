@@ -4,13 +4,15 @@
 
 ## 在途与下一步
 
-最新主控分派（本轮最新）：injury研究保存断点后优先独立事实school/learning，作者daily_history，报告ops/reviews/b04-school-learning-facts.md由本人独占，root第三编辑。首冻35,995 B/full29a5353ab1c520ac52f6935085d60f15ee73c12fc080db234e42c423a1fe68c4/body2e5c4b88857f93083587e3ede9635dffe448eb3d665fe308dc7856e5a60a5b2d。E01/33/34、E63—91在b04-education，具体原件待读作者记录。不得把未读余源签成通过；问题交daily本人修。
+最新主控分派（本轮最新）：school/learning 独立事实已正式通过，报告 ops/reviews/b04-school-learning-facts.md 完整落盘。最终36,190 B/full e118ac109e5e7eb2867824110dd0aace4115b68292b1ae71885caed0ee04387f/body2654d1f5e394aa88ba5d0d8a2044c9be09f623278e0a71c2e27042e8c37472e5，187行最终全文已再读，三段差分严格逆回首冻。32组采用原文、6页新联网、32组来源中的SBB PDF两页本人重提取重渲染实际目视，具体机器匹配及实际阅读范围见报告，不冒称所有未用FAQ/PDF都读完。作者daily冻结；root第三编辑。随后按root最新安排接care的disability独立事实（待正式完整冻结通知，尚未开始），报告ops/reviews/b04-disability-facts.md本人独占。injury研究保持下列真实断点，不建公开空页。
+
+残障预读已推进但尚未收到作者正式冻结，不读在写正文、不签报告。实际范围完整保存 .cache/research/b04-disability-facts/read-checkpoint.md：三主管页新联网；五PDF实体SHA独立校验和新提取；ATF全8页文字及3/6页目视、DVF FAQ3页文字、DVF表1—3页文字及1页目视、DAC两张单页表新渲染实际目视；DAC/联系/ODP/JPJS/H2W/ESH/TechAble/SMF/EASE/SAVH/SPD采用核心原文均实际回读。尚待 private EASE 原始HTML与问答关联验证、居家BCA等新原文、冻结正文的实际采用矩阵。缓存 source-manifest 只是拆分与SHA机器记录，不冒称全读。工伤研究不续写。
 
 最新优先级（2026-10-13 19:13 SGT复核后进展）：心理健康独立事实已正式通过，报告ops/reviews/b04-mental-health-facts.md已交root第三编辑；无修改，完整121行及采用原件均实际读。21953B／fullbb855c589051a3ef9980efcedb74e8153c80fd7f932b137166c4239c074cc66f／body190b3a1f4cd6f7ab941b95a3d0c47c4e6d6d39cb3f9b3f8ce253600d5317db15，最终逐字节等首冻。缓存实际路径.cache/research/b04-care-ageing/mental-health/open1..15，审者新web／提取／首冻／静态在.cache/research/b04-mental-health-facts。新联网MOH／IMH／HPP／CDE；SOS FAQ新开503后独立读同日成功缓存；mindline已知403不重试。无PDF或浏览器目视声称。作者care正文继续冻结。
 
 cross-border独立事实已正式通过ops/reviews/b05-tax-cross-border-facts.md并交daily第三编辑。最终17951B／full1fdb5a63c9ac60ee8d4ebe5f2f3a0c94fdc0d882736e5709440e242e360a9eb4／body34f41a148d60a75df96c860de5fe04763765b6a9545defcbb69f81acac779adc。17组采用原文实际读；唯一AR段补支付方／4月18日，最终104行全文复读，严格逆差分回首冻。审者.cache/research/b05-tax-facts保存新web、同日原工具提取／SHA清单及初最终冻稿；T04只实际读L0—455文字，已知403不重试，无实体或图片目视。
 
-劳动权益care最终独立事实已通过，ops/reviews/b05-employment-facts.md绑定新版36,219 B／fullc84b5eff5665a19366aa2bc927c0e15ef0e9ad658c444956760e4a365d68d744／body45a995d41c5ed6832475a2e5e6881f9b291170b5768c2fc4aa86a71632499a95；55组详原文、最终217行及唯一新增兼职段严格逆差分均完成，已交root第三编辑。本文继续冻结。当前真正下一步为injury以下研究断点，随后hardship。
+劳动权益已由root在B04F完成第三编辑、生产／桌面手机／打印及public同步，integrated，正文不变。care最终独立事实ops/reviews/b05-employment-facts.md绑定事实冻结版36,219 B／fullc84b5eff5665a19366aa2bc927c0e15ef0e9ad658c444956760e4a365d68d744／body45a995d41c5ed6832475a2e5e6881f9b291170b5768c2fc4aa86a71632499a95；55组详原文、最终217行及唯一新增兼职段严格逆差分均完成。本文继续冻结；跨境税与心理稿同批已由root接收。当前先完成school/learning事实（下述旧injury“下一步”为之后任务），随后injury→hardship。
 
 1. separation-safety 已完整作者全文自审、静态通过并交care_finance独立事实。路径 content/book/people/family/separation-safety.md，第一轮反馈仅补2引用：现36,859B，完整SHA fc21f2c710cd1aa1bf35a210dc7b14e8e162fa884db0fb245795f3ba8923d353，正文SHA 3437f001435f518f48eb727f2981cf5c1e02a9ef435fef5a9c09c1a2fc9214af。10H2／2H3、78处HTTPS／55唯一URL、6条integrated内链，9必需字段、written/draft:true/核验空、粗体外空格、无H1、单EOF均通过。care最终全文复读、独立回源及限定差分已正式通过；正文冻结，root已完整第三编辑通过（b04d-editorial）并完成B04D真实构建／浏览器／打印，已接收integrated；上述完整SHA为作者元数据前历史值。
 2. Tuition Grant 独立事实已正式通过，报告ops/reviews/b04-tuition-grant-facts.md并经root第三编辑／B04D实际工程接收integrated；正文仍原冻29,400B／full59375dab1db724dcc56e445d6bca8b4a173b447f3e16b4816ba1454dcdd805bc／bodya62d60bb44721b7ddf1c8f7a3070d791bbdc1acf875d2146049305f75e6156ee。六PDF独立新下载200/SHA相同、16页实际目视；九MOE原HTML独立解析、47问全读，所有冲突保留。ICA／TG portal本轮web失败后停止，实际用同日成功原件回读。缓存.cache/research/b04-tg-facts；完整范围见报告，不冒称recipient58页全读。

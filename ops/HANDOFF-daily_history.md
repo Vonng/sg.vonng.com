@@ -151,3 +151,17 @@ school/learning已完整首冻，35,995B/full `29a5353ab1c520ac52f6935085d60f15e
 旧“types／primarySBB／transition尚未代理”已过时：18:57各唯一8888仍202空停止。新CE法20260105版本403、CE／private／syllabus及学校类型与中学guide两PDF202无原件，未追加代理；详见E91后失败清单。所有下载会话完成，无待poll；未运行共享构建、stage或commit。校内沟通、家长／学生参与、SLS／设备／网络、同伴霸凌与保护、请假海外LOA／回校／转学仍是下一school-life整篇；已有school-related25、P1matters3等原FAQ可真实复读，先补学校保护详文再写。成人学习与普通admission剩余资格仍完整保留，HDB/EC不重探旧失败。
 
 care另在写disability，已给其E67 SEN原件46问、E72交通、新学校费用及已集成高教支持原件范围，仅供其残障接口复读；school正文／教育map/evidence仍本人独占。下一命令从 `moe-school-faq-school-related-*` 和 `moe-school-faq-p1-matters-*` 实际文件定位，读取已成功原件而非重试旧P1/AEIS。
+
+## 19:39前后最新断点：课程B04G接收，学校生活完整作者稿待独立审
+
+日期仍2026-10-13 Asia/Singapore。此前跨境税、债务和预防限定维护均交root继续冻结；mental-health事实已由identity接手并经root接收，本人没有写其事实报告。经营稿care正式事实通过后，本人实际完整读135行及事实报告，`ops/reviews/b05-business-editorial.md`正式第三编辑通过，无修订要求，原22,821B/full `d6fa0603beec208e72f62c20e64782bb4ccf00b7efa9e17c32d15b110b2c2dff`／body `4e8f99eef6c9a26012eab8ac7aa39ef74a81484ff164c91dd01653674c8fc03a`绑定交root；后续主控元数据变动不改正文结论。
+
+**school/learning已integrated。** identity独立事实提出ICA12岁0天、GIRO中五/JC/MI三月合并及PSE六日起算与近邻源三组，作者精确合并，逆替严格回首冻。独立报告 `ops/reviews/b04-school-learning-facts.md`最终通过；root第三编辑、B04G实际双视口／菜单／搜索／键盘／打印工程已完成。作者核当前36,253B/full `96f249b976ac41ef5780504fa6c4f6077cc1958ebbd0c00b616e367fe8c62935`／body `2654d1f5e394aa88ba5d0d8a2044c9be09f623278e0a71c2e27042e8c37472e5`，integrated/draft:false。地图已同步；主控工程数据在其b04g-acceptance，不冒称本人执行。
+
+**school-life已完整成稿、正式作者冻结，但未审。** `content/book/people/school/school-life.md`，24,271B/full `840b26a0b4ce4ae186f9c9625ee031157740ba050186a801caef2cb20da8c9c1`／body `4a5b6f966de6756bfcfdc8cef0deb1c08cfdcca6092b803eb0e00a15337d0766`。作者全文初稿1—76／77—120及所有末次改段实际读；最终122行，10H2、46HTTPS、12内链／7目标实存integrated、1表3列，九字段written/draft:true/verified reviewed_by空，中文加粗／EOF通过。正式实体 `school-life-author-final-frozen.md` 和 `school-school-life-final-author-check.json` 在忽略缓存。前中间快照不是最终交审版，以以上SHA为准。root明确本批保留未审，不为剩余时间缩短独立审。
+
+E92—110已完整追加 `ops/evidence/b04-education.md`；新工具66—76全部实际原返回落盘，正常原HTML／json／RSC records与FAQ逐问解析在 `.cache/research/b04-education/`。已读学校事务25、P1matters3、CCA16、primarytransfer19、secondarytransfer1、returning18问，勿只凭目录审。三欺凌PDF首次正常200实体共5页：A两页与C一页扫描抽取空但每页PNG实际看，B两页完整文字加PNG实际看；全部SHA在证据。PG、两校沟通、MSF SCFA+COS、屏幕规则及单校DMA、SLS、MOE欺凌三详页、OSC当前FAQ／骚扰／未18、MSF儿童虐待均实际范围记录。
+
+下轮独立事实重点：SCFA以开始年度年龄、PR同住immediate family member SC、双方通常56h／家庭均收入、2027收入表、SSCC分支；详页“at least six months”对同页例子和COS“up to”冲突正文已明确，不静默修源。OSC骚扰当前详页明确先平台至少24h，三类直接报告不套等待；有效外籍长期准证、无Singpass／未18代报、重考虑后上诉分别写。MOE4月附表和家长页仍OSC未来式，不当当前状态；当前主管八月页覆盖。监护转校、LOA和ASP均保留条件，不冒充AEIS。首个建议命令：读 `school-life.md` 与证据E92—110，核本稿SHA后由root分派独立事实；作者保持冻结等具体反馈。
+
+旧家校合作2024PDF首次普通404／web挑战，无实体已停止；新可用两校政策限定校例。所有下载会话已完成，无后台待poll，本人未构建、同步、stage或commit。地图／证据／HANDOFF当前完整落盘可取稳定快照。普通admission的AEIS/S-AEIS完整年龄／CEQ、2027P1与CE法缺口仍有效；adult-learning整篇researching，尚未创建空正文；HDB/EC旧失败仍不重探。下一作者任务在school-life异人事实进行时推进adult-learning，旧admission仅有新主管URL／版本／外部变化才续查，不以缩题代完成。
