@@ -165,7 +165,7 @@
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
 | `/book/people/accessibility/mental-health/` | 压力孤独与危机怎样获得支持 | integrated（事实/第三编辑/生产与渲染通过；B04F接收版本见accepted.json） |
-| `/book/people/accessibility/disability/` | 评估辅具交通住宅工作数字无障碍怎样申请 | written（care完整草稿；独立事实尚未通过） |
+| `/book/people/accessibility/disability/` | 评估辅具交通住宅工作数字无障碍怎样申请 | written（care作者/identity事实/root第三编辑已过；待B04H实际工程） |
 | `/book/people/accessibility/caregiver-support/` | 照顾者喘息服务与费用资格怎样查 | planned |
 
 ### 15. 亲密关系、婚姻、家庭与生育（family）
@@ -269,7 +269,7 @@
 | `/book/work/tax/leaving-singapore/` | 离职离境IR21税务清算哪些人适用 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 | `/book/work/tax/cross-border/` | 海外收入与跨境工作、COR/FTC、资产账户CRS/FATCA | integrated（事实/第三编辑/生产与渲染通过；B04F接收版本见accepted.json） |
 | `/book/work/tax/property-tax/` | 自住出租空置的年度房产税与租金所得、买卖税费交叉 | planned（从原过宽候选拆出） |
-| `/book/work/tax/corrections-disputes/` | 申报更正、税单异议、自愿披露与缴款困难 | researching（11组IRAS/MOF详源；VDP起算差异与余附件明确留项） |
+| `/book/work/tax/corrections-disputes/` | 申报更正、税单异议、自愿披露与缴款困难 | researching（12组IRAS/MOF详源；VDP起算差异与余附件明确留项） |
 
 ### 24. 创业、企业、经营与公司税务（business）
 

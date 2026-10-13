@@ -6,3 +6,5 @@
 - school-life：daily_history作者当前24,271B/full `840b26a0b4ce4ae186f9c9625ee031157740ba050186a801caef2cb20da8c9c1`，body `4a5b6f966de6756bfcfdc8cef0deb1c08cfdcca6092b803eb0e00a15337d0766`。root已实际全文读完122行，范围涵盖日程接送、Parents Gateway、SCFA、CCA、设备、欺凌、OSC、虐待、转校与返校。学校实例均标明，不把校方时段或设备设置泛化。SCFA至少/最多六个月官方用词冲突保留主管确认入口；SCFA 2027门槛与2026现行分开。OSC资格、类别及先向平台举报的时限属于高影响分支，必须由异人回源，不因预读即判对。未取得作者最终冻结通知时本记录只绑定该快照；后续任何差异须重读。
 
 预读缓存.cache/disability-root-preread.md和.cache/school-life-root-preread.md不入Git；恢复以当前稿件完整/正文SHA、作者HANDOFF与独立事实报告为准。无通过结论、无工程签字。
+
+19:43更新：disability作者依identity事实要求，DVF首段限定为列明类别“永久性”残障；root已实际读该差分。新22,781B/full `ca1e9ace952dc6db01af0e569042952b92494a3c1025afc9ccb9ced5bb5d390f`、body `baa6a1622c9b963aedda460137b0f2203ad6d2dbf250df647cdf754527a909f0`，作者报告严格逆替回首冻；identity最终复核进行中。此项仍只是预读，须取得并完整阅读最终事实报告后才能第三编辑通过。

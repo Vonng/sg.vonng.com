@@ -24,7 +24,7 @@ SG Enable可提供服务资讯与转介方向：电话 **1800 8585 885** ，电�
 
 ## 残障验证与DVF怎样办理
 
-MSF的Disability Verification用于其残障服务及部分其他政府计划。常见类别包括身体障碍造成六项日常生活活动中至少一项需要协助、较好眼达到中度或更严重视力损伤、较好耳达到中度或更严重听力损失，以及智力障碍、自闭症。六项日常生活活动（ADL）指洗澡、穿衣、进食、如厕、移动，以及床椅间转移。由相关注册医疗专业人员按现行表格确认；一项诊断本身不能代替表中的具体评估。[验证类别](https://www.enablingguide.sg/disability-verification)、[现行DVF表](https://www.enablingguide.sg/docs/default-source/default-document-library/disability-verification-form.pdf?sfvrsn=538a9203_6)
+MSF的Disability Verification用于其残障服务及部分其他政府计划，验证对象须符合永久残障条件。常见类别包括身体障碍造成六项日常生活活动中至少一项需要协助、较好眼达到中度或更严重视力损伤、较好耳达到中度或更严重听力损失，以及智力障碍、自闭症。六项日常生活活动（ADL）指洗澡、穿衣、进食、如厕、移动，以及床椅间转移。由相关注册医疗专业人员按现行表格确认；一项诊断本身不能代替表中的具体评估。[验证类别](https://www.enablingguide.sg/disability-verification)、[现行DVF表](https://www.enablingguide.sg/docs/default-source/default-document-library/disability-verification-form.pdf?sfvrsn=538a9203_6)
 
 申请前按以下顺序准备：
 

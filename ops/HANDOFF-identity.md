@@ -4,9 +4,11 @@
 
 ## 在途与下一步
 
-最新主控分派（本轮最新）：school/learning 独立事实已正式通过，报告 ops/reviews/b04-school-learning-facts.md 完整落盘。最终36,190 B/full e118ac109e5e7eb2867824110dd0aace4115b68292b1ae71885caed0ee04387f/body2654d1f5e394aa88ba5d0d8a2044c9be09f623278e0a71c2e27042e8c37472e5，187行最终全文已再读，三段差分严格逆回首冻。32组采用原文、6页新联网、32组来源中的SBB PDF两页本人重提取重渲染实际目视，具体机器匹配及实际阅读范围见报告，不冒称所有未用FAQ/PDF都读完。作者daily冻结；root第三编辑。随后按root最新安排接care的disability独立事实（待正式完整冻结通知，尚未开始），报告ops/reviews/b04-disability-facts.md本人独占。injury研究保持下列真实断点，不建公开空页。
+最新主控分派：school/learning 已正式事实通过并由root完成B04G第三编辑／生产／实际渲染／public接收integrated；报告 ops/reviews/b04-school-learning-facts.md，正文2654d1f5e394aa88ba5d0d8a2044c9be09f623278e0a71c2e27042e8c37472e5。root本批累计77主题；本人不改共享总账或接收元数据。
 
-残障预读已推进但尚未收到作者正式冻结，不读在写正文、不签报告。实际范围完整保存 .cache/research/b04-disability-facts/read-checkpoint.md：三主管页新联网；五PDF实体SHA独立校验和新提取；ATF全8页文字及3/6页目视、DVF FAQ3页文字、DVF表1—3页文字及1页目视、DAC两张单页表新渲染实际目视；DAC/联系/ODP/JPJS/H2W/ESH/TechAble/SMF/EASE/SAVH/SPD采用核心原文均实际回读。尚待 private EASE 原始HTML与问答关联验证、居家BCA等新原文、冻结正文的实际采用矩阵。缓存 source-manifest 只是拆分与SHA机器记录，不冒称全读。工伤研究不续写。
+disability 独立事实现已正式通过，报告 ops/reviews/b04-disability-facts.md 完整落盘。作者care唯一补明DVF永久残障资格，审者严格逆替恢复首冻并再次完整读全部128行。最终22,781 B/full ca1e9ace952dc6db01af0e569042952b92494a3c1025afc9ccb9ced5bb5d390f/body baa6a1622c9b963aedda460137b0f2203ad6d2dbf250df647cdf754527a909f0；DB01—30采用原文闭合，三主管页新联网、五PDF独立提取／五必要页真实目视，EASE Private四原HTML独立RSC重解及FAQ25问全部实读；MOE SEN使用本人同日学校事实审已完整读46问的原件并限定再读。来源／页面／机器范围均见报告，不将源码验证当网页渲染。正文冻结，已交root第三编辑，仍未由本审者构建。缓存 .cache/research/b04-disability-facts/final-frozen.md、final-check.json、source-manifest.json、ease-independent-validation.json；原预读read-checkpoint的未完成状态已由正式报告替代。
+
+下一任务恢复injury研究断点→完整I矩阵和正文→care事实→root第三编辑，再hardship。当前injury尚无正文，不提前建公开空页，不重复已有成功原件或已止损失败源。
 
 最新优先级（2026-10-13 19:13 SGT复核后进展）：心理健康独立事实已正式通过，报告ops/reviews/b04-mental-health-facts.md已交root第三编辑；无修改，完整121行及采用原件均实际读。21953B／fullbb855c589051a3ef9980efcedb74e8153c80fd7f932b137166c4239c074cc66f／body190b3a1f4cd6f7ab941b95a3d0c47c4e6d6d39cb3f9b3f8ce253600d5317db15，最终逐字节等首冻。缓存实际路径.cache/research/b04-care-ageing/mental-health/open1..15，审者新web／提取／首冻／静态在.cache/research/b04-mental-health-facts。新联网MOH／IMH／HPP／CDE；SOS FAQ新开503后独立读同日成功缓存；mindline已知403不重试。无PDF或浏览器目视声称。作者care正文继续冻结。
 

@@ -316,3 +316,7 @@ MOE原HTML1308012B／`83b4f60d45647c45da0321d5e11ec32b9481a6ecb612ef3827bc2d9277
 全稿覆盖实际需要→医生／治疗／社工与SG Enable→DVF查已有记录、材料、费用、无Singpass、结果及变化→辅具试用／租借／训练→ATF收入国籍／SMF年龄分流／外国自费入口→全龄居家调整及HDB／私宅EASE→儿童主流／SPED／高教转衔→JPJS／复工／雇主ODP→交通、沟通及数字协助→DAC／ESH→补件、候补及过渡。身份分别核公民、PR、外国工作／学生／家属／访客，不从持准证推资助；申请人、父母和法定代理分开。
 
 九必填字段、无H1、10H2、加粗外侧空格、relref实际路径和单EOF由作者静态检查，author-check.json及author-final-read.md保存冻结版本。未构建、浏览器或打印验收；不把来源图片目视当页面渲染。未代办任何申请或联系机构。具体个体资格、库存、服务名额、当次费用与专业签表接受情况仍向实际接收者核，不保证申请结果。此时交identity独立事实，作者保持正文冻结并承担修订。
+
+### disability 独立事实反馈后的限定修订
+
+2026-10-13，identity完整事实审指出DVF类别近邻缺永久性限定。作者实际回读open2 DB03 L42—65，L50明确permanent disability，仅把“MSF的Disability Verification用于其残障服务及部分其他政府计划。常见类别包括”改为“MSF的Disability Verification用于其残障服务及部分其他政府计划，验证对象须符合永久残障条件。常见类别包括”。完整改变段复读；逆替严格回首冻1eebdd4e…，其余正文与元数据不变。新22781B/full `ca1e9ace952dc6db01af0e569042952b92494a3c1025afc9ccb9ced5bb5d390f`/body `baa6a1622c9b963aedda460137b0f2203ad6d2dbf250df647cdf754527a909f0`，仍冻结交identity限定复核。author-facts-feedback-check.json保存差分，首轮作者静态范围继承，不自签事实。

@@ -16,10 +16,12 @@
 | C10 [迟报或未报](https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/understanding-my-income-tax-filing/late-filing-or-non-filing-of-individual-income-tax-returns-form-b1-b-p-m) | open10 L915—1018及open11 L1014—1023；估税照缴且立即补报、composition须补报与付并行、豁免已补报/前两年准时报、传票、当前无在线/旧YA邮寄纸表 | 当前YA网上延期、收到传票须按日出庭申请；旧YA无延期已实读。未读附属法细节不补写。 |
 | C11 [退款](https://www.iras.gov.sg/quick-links/refunds) | open11 L933—987及open10 L987—1125实际；GIRO与PayNowNRIC/FIN、无本地银行TT、2026-06-02前TT重提交、币别费差、少于100TT/少于15自动例外、税罚抵扣/未完评估/资料缺失例外 | 2026-01-01起不再退支票、外籍本地账户/PayNowFIN及GIRO开户证件分支已核；护照开户的GIRO只支付，FIN开户才衔接退款。1125后利息/小额完整申请余段尚未采用，不称整页全读；未下载参与银行PDF。 |
 
+| C12 [SFA外国个人税务账户](https://www.iras.gov.sg/digital-services/others/singpass-foreign-user-account-(sfa)-for-foreign-individuals) | 2026-10-13真实open12-sfa L904—968主体及全部7问已完整读，页面2026-08-13；无SG证件、原NRIC/FIN、另机构SFA、Corppass企业场景；本国身份证或至少6月护照、每人独立邮箱、原税号、10工作日邮件、90天激活、次工作日同步、证件到期更新与找回 | 不把有SFA当任何政府服务都可通用；无政府证件申请可含放弃SC/PR或已取消FIN。未开申请表或真实账号，也未看步骤图；后续采用时须保持独立邮箱、原税号及超期重申的失败链。 |
+
 ## 失败、冲突与下一步
 
 初按旧式 `/paying-your-taxes/` 结构定位困难及迟缴两URL失败，随后从当前主管导航click取得C05/06；旧路径不再请求，也未对无效旧路径代理。C02/C04实体普通HTTPS及唯一8888均403已止损，网页工具PDF文字仍成功。MOF实体成功且页图真实查看；未把网页返回截图引用当图像看到。
 
 VDP起算日冲突为真实未闭项：C03当前网页个人例子4月18日，C04当前2026-01-30版脚注4月15日并明确非延期日期。应继续核现行法定截止/具体e-filing宽免及主管解释，正文先明确边界，不给4月15—18期间资格承诺。原accepted personal-tax关于2026申报窗口4月18与此减罚法定起算是不同问题，不据此回退已核申报日期。
 
-完整行动章拟覆盖：分辨更正/补报/漏减免/VDP/缴款困难/正式上诉，六身份的登录与税居分开，材料→提交确认→补件→付款→结果/退款→失败升级。C11前段已补；尚需核所采用申请附件、SFA和主管法条细节；以真实已读范围写稿，不建公开空页。本文件目前是researching证据，不是独立事实通过或正文冻结记录。
+完整行动章拟覆盖：分辨更正/补报/漏减免/VDP/缴款困难/正式上诉，六身份的登录与税居分开，材料→提交确认→补件→付款→结果/退款→失败升级。C11前段已补；SFA详细规则已由C12闭合，尚需核所采用申请附件和主管法条细节；以真实已读范围写稿，不建公开空页。本文件目前是researching证据，不是独立事实通过或正文冻结记录。

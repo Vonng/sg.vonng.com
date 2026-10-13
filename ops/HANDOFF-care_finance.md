@@ -2,6 +2,16 @@
 
 工作目录 /Users/vonng/www/sg.vonng.com；Singapore日期本轮实际核为2026-10-13（19:08）。用户已明确续跑，旧交接的暂停/等待授权约束已经上级解除；持续执行同一完整目标。主控工具目标状态由root处理，本人不改变它。
 
+## 19:45当前：残障事实反馈已精修；接school-life独立事实
+
+DVF首段仅补“验证对象须符合永久残障条件”，原文L50已实际复读；22781B/fullca1e9ace952dc6db01af0e569042952b92494a3c1025afc9ccb9ced5bb5d390f/bodybaa6a1622c9b963aedda460137b0f2203ad6d2dbf250df647cdf754527a909f0，逆替严格回首冻，改变段复读完，identity限定复核中。其余正文不变；证据／地图／快照均更新。root B04G已本地提交d77da7e，经营和school/learning累计77接收；disability仍草稿不可提前集成。
+
+root最新分派school-life独立事实给本人，作者daily、root第三，报告ops/reviews/b04-school-life-facts.md本人独占。首冻full840b26a0b4ce4ae186f9c9625ee031157740ba050186a801caef2cb20da8c9c1/body4a5b6f966de6756bfcfdc8cef0deb1c08cfdcca6092b803eb0e00a15337d0766，E92—110。当前刚接尚未读正文／采用原件，不提前签。下一命令完整读school-life及education证据采用范围，再独立回读真实原文；caregiver研究已保存，不丢弃未完队列。
+
+## 19:43补充：caregiver-support已开始实际原件研究
+
+尚无公开正文；已实读HCG全部主体和FAQ、CTG全部、HPC+全部采用主体、HBRC2026-04-01转新服务、NHR全部、AIC四语言联系方式、MOH2026-09-04演讲主体。范围与下一命令完整保存在.cache/research/b04-care-ageing/caregiver-support/read-checkpoint.md；不是搜索摘要。已发现2027四计划ID/ASD拓宽、八CST和early2027培训尚待细则，已告root；当前CAF流程不代表未来资格已生效。HCG同页AV under/<=21000及NHR四周对旧shortactivation计划待核，尚未采用未读表件。下一动作按checkpoint闭出院/喘息/培训/家庭就业及财政/外国真实路径，成熟后写完整稿交独审，不因本轮计时提前冻结残稿。
+
 ## 当前：disability完整冻结，交identity独立事实
 
 2026-10-13 19:39，disability全文128行已实际自审、最后五段加粗空格修正后复读，22,739B/full1eebdd4e9764f2432f1b9fe7e4cc2999cab7941685f34c1cd285cd254068fa71/body6ea475e4b5b8d4ef0a7f10acabeea5c4ce23136c26651e4d71612f0e42ef59d5；written/draft:true/核验空。DB01—30已正式追加ops/evidence/b04-care-ageing.md，作者静态和完整快照在disability/author-check.json及author-final-read.md，地图同步。交identity独立回源事实，报告b04-disability-facts.md由identity独占，root第三编辑；作者正文保持冻结，具体反馈本人修。
