@@ -468,5 +468,65 @@
     "editorial_report": "ops/reviews/b03c-housing-editorial.md",
     "body_sha256": "a4ca36a16223a188fe66d1e9f0cf5a36afecacf20e5d2c60d0fd9474921dc624",
     "reviewed_file_sha256": "eee18714f3b868d1bb27c8f77c528ee6da2bbab2a0a3ab5f4c220edef8be0d51"
+  },
+  "content/book/life/documents/arrival-renewal.md": {
+    "author": "identity",
+    "facts": "care_finance",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b03c-documents-facts.md",
+    "editorial_report": "ops/reviews/b03c-documents-editorial.md",
+    "body_sha256": "fbbbd2b84fbed8ae5716c27e59a87c6d27b4f35aa90fde62040319f510af1562",
+    "reviewed_file_sha256": "7293ef056af8030c66ded10d677cae4e86c3b139e74cb9ecd1a228764a72be4b"
+  },
+  "content/book/life/documents/pass-management.md": {
+    "author": "identity",
+    "facts": "care_finance",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b03c-documents-facts.md",
+    "editorial_report": "ops/reviews/b03c-documents-editorial.md",
+    "body_sha256": "530685ce84bab54d1acd365493ddd6a1b58d50213040e616345632c9e9ab03b5",
+    "reviewed_file_sha256": "fcb495ceb85c7d4862f29354e0f64faca4ad9c1bc523f5f77c6a96156e767700"
+  },
+  "content/book/life/housing/neighbours.md": {
+    "author": "daily_history",
+    "facts": "identity",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b03c-neighbours-facts.md",
+    "editorial_report": "ops/reviews/b03c-housing-editorial.md",
+    "body_sha256": "391384709d2178353b935b856871950907fda2259b419eb1288b6f2f5718de42",
+    "reviewed_file_sha256": "20e2f04bf84a5244ec5b20c7174ce72cf8014e39196c944c561d79f2321382c8"
+  },
+  "content/book/life/transport/driving.md": {
+    "author": "care_finance",
+    "facts": "daily_history",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b03c-driving-facts.md",
+    "editorial_report": "ops/reviews/b03c-transport-editorial.md",
+    "body_sha256": "cedec6e48c11a3e872a8fb68c9d9dbcde0585f7b316c8f75c34d4ca3171ddc51",
+    "reviewed_file_sha256": "ab6012ac0019ba7b51555a32fcd1c731e55e8579a128a964f3fa8969229a7b11"
+  },
+  "content/book/people/language/communication.md": {
+    "author": "root",
+    "facts": "daily_history",
+    "editor": "identity",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b04-language-facts.md",
+    "editorial_report": "ops/reviews/b04-language-editorial.md",
+    "body_sha256": "6631495f9b32bb5f0be7ea595dcf92884ae2c477f28f9e563e2e0859b07264a4",
+    "reviewed_file_sha256": "49db7ad5f23d4eddf66dd30f3327615a757bcef9bba4bfa0b7ca56e52e140ad5"
+  },
+  "content/book/people/language/multilingual-family.md": {
+    "author": "root",
+    "facts": "daily_history",
+    "editor": "identity",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b04-language-facts.md",
+    "editorial_report": "ops/reviews/b04-language-editorial.md",
+    "body_sha256": "74bc428d5dfb202b448e179964313f25cf2105fc33b540d2d73140481fd8510b",
+    "reviewed_file_sha256": "12b97d782e65caf73b79c9ac9d4d1b98e7a23d5c9dd5cbeb6ec6812c6ecf4e72"
   }
 }

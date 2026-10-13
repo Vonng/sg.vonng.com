@@ -4,11 +4,12 @@ description: 填妥抵达申报，核对实际停留期限，完成学生及 ICA
 page_id: sg-arrival-renewal
 content_kind: task
 scope: 新加坡公民、PR、学生、ICA长期探访准证持有人及访客；入境、获准停留、ICA签发证件与资料管理
-status: written
-draft: true
-verified: ""
-reviewed_by: ""
+status: integrated
+draft: false
+verified: "2026-10-13"
+reviewed_by: "care_finance（独立事实）；root（第三人编辑）"
 weight: 40
+search_keywords: ["SGAC", "e-Pass", "STP", "IC", "抵达", "续期", "FileSG"]
 ---
 
 抵达前检查旅行证件、入境签证和抵达申报；入境后先找到获准停留的截止日，再按批准信完成长期准证手续。住址、护照或学习安排变化时，向签发机构更新记录。把批准信、实际准证和申请回执分开保存，安排续期和出行时才能找到对应期限。

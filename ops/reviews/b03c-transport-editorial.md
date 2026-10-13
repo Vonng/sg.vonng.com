@@ -21,3 +21,13 @@ root；2026-10-13 Asia/Singapore。正文只读，实际渲染由主控后续执
 | 文件 | 完整SHA256 | 正文SHA256 |
 |---|---|---|
 | `content/book/life/transport/active-mobility.md` | `005539825c605484920a51a1853a1a4f30c082d5d44c6425849b60a1474237d8` | `f7f91901dd0ac4ddaedb12d0436bac9befa935f989b7d0693dc9aa5ff6acd2db` |
+
+## driving：通过
+
+2026-10-13，root。全文及daily独立事实审报告已完整读。驾驶资格按居住期、取得SC/PR和工作用途分流，转换/学车的资格、材料、预评估/预约和取得证件顺序明确；职业驾照、租借保险、购车COE/PARF、转移、路税/验车、ERP/OBU、停车和三类事故报告都有行动和受阻路径。2027/2028预约费与记分、OBU和2026年末EV优惠分清当前及未来；10月COE咨询未作为已实施制度。所有身份含访客、无Singpass/手机、老年残障与工作驾驶均有具体条件和入口，非统一资格。
+
+正文未改；人工全文编辑和元数据/H1/粗体/直接站内目标的限定静态机检通过。未重查外部、目视SPF教材图片或操作真实驾驶/营运者服务；独立回源与PDF实际页范围见daily报告。长表、日期、长URL与打印仍须root本批实际渲染，不能由此静态通过推定。
+
+| 文件 | 完整SHA256 | 正文SHA256 |
+|---|---|---|
+| content/book/life/transport/driving.md | ab6012ac0019ba7b51555a32fcd1c731e55e8579a128a964f3fa8969229a7b11 | cedec6e48c11a3e872a8fb68c9d9dbcde0585f7b316c8f75c34d4ca3171ddc51 |

@@ -4,11 +4,12 @@ description: 按居留和工作情况使用或转换驾照，完成首次学车�
 page_id: sg-transport-driving
 content_kind: guide
 scope: 新加坡公民、PR、工作准证、学生、家属及访客；普通私人汽车驾驶与持车，工作驾驶按具体准证和车型分支；规则及费用按2026年10月查阅
-status: written
-draft: true
-verified: ''
-reviewed_by: ''
+status: integrated
+draft: false
+verified: "2026-10-13"
+reviewed_by: "daily_history（独立事实）；root（第三人编辑）"
 weight: 20
+search_keywords: ["COE", "ERP", "OBU", "PARF", "BTT", "QDL", "PDL", "驾照", "租车", "MCF"]
 ---
 
 在新加坡自己开车，先确认本人驾照是否有效、适用车型和是否需要转换，再决定租车或买车。持车还要安排保险、路税、停车和 ERP 支付；租车也须核准驾驶人及事故责任。准备把驾驶作为工作时，另查工作准证和职业执照要求。

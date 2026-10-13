@@ -139,3 +139,16 @@ PR主入口一次web403，一次正常8888成功200后即止；原HTML保存在/
 - IHL续期没有统一公开窗口；按学校登记和当前许可截止日确认。ICA表件及MOM登录后具体界面未声称已逐项验证。
 - 本次学校/准证原文的现行机构名和规则采用查阅日期，历史日期只用于所写生效/批次条件。未来2027PCP、ONE AI/Tech、EP/S续期门槛变化由共享维护任务主控衔接。
 - 两稿是不同机构的完整行政问题，相互引用，同批接收。现有资格、NS、离职和数字账户主文保持单源；没有复制所有工资/就业/国籍资格表。
+
+## 2026-10-13 入境与MOM管理作者交审
+
+两篇完整正文已经落盘，作者分别通读全文、按 `ops/HUMANIZE.md` 逐段检查具体动作与否定句，修正日期起算点、S Pass处理或更新、ONE本地雇员gross月薪及近邻引用后，再次完整通读最终实际文件。保持written/draft:true/verified与reviewed_by空值，冻结交care_finance独立回源事实审；作者不为自己签事实通过。
+
+| 文件 | 大小 | 完整SHA256 | 正文SHA256 |
+| --- | --- | --- | --- |
+| `content/book/life/documents/arrival-renewal.md` | 18,580 bytes | `7293ef056af8030c66ded10d677cae4e86c3b139e74cb9ecd1a228764a72be4b` | `fbbbd2b84fbed8ae5716c27e59a87c6d27b4f35aa90fde62040319f510af1562` |
+| `content/book/life/documents/pass-management.md` | 28,618 bytes | `fcb495ceb85c7d4862f29354e0f64faca4ad9c1bc523f5f77c6a96156e767700` | `530685ce84bab54d1acd365493ddd6a1b58d50213040e616345632c9e9ab03b5` |
+
+统一正文哈希按UTF-8 `text.split('---',2)[2]`，保留分隔符后所有空白。轻量静态实查：两篇九项元数据、无H1、全部加粗间距、六项/七项relref对应实际文件均通过；HTTPS近邻引用分别42/99项。没有跑共享make/Hugo，未做实际页面/手机/打印渲染，作者静态检查不替代后续验收。
+
+实际原文工具缓存SHA256：`b03c-arrival-source-state.json`为 `a280fae02ea996fcdb7efc08d9fe7caeba57c84eab44e1b4e6fe438a4dcd291d`；`-extra.json`为 `9896293134def80c5c72af2b2313a3a88204578975d4d905fa59ad13840a2ca5`；`-final.json`为 `d5255ef65cf6639bf40d605ec7578c6c01900001de704fac84c148eaab500c0e`；`-renew-final.json`为 `1593a94a1b5065c7e7633132e8129a0786ab5d02544eed71753e6e77e92d2cf0`。IC资料更新HTML与既有A01—A04缓存见上文。审者可以复用成功原件独立重读，不能以作者摘要或本证据表作为实读。

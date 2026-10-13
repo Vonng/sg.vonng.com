@@ -1,6 +1,6 @@
 # 全书内容地图
 
-更新：2026-10-13（Asia/Singapore）。用户更换订阅号后明确续跑，持续目标 active；已核82份源文件与交接快照一致，恢复三条独立写审线。历史现场见HANDOFF-2026-10-13.md。这是持续目标的覆盖地图；候选路径只登记于此，不生成空正文。覆盖认定须检查每个领域的必要分支，文章数量不作完成门槛。
+更新：2026-10-13（Asia/Singapore）。用户更换订阅号后明确续跑，持续目标 active；已核82份源文件与交接快照一致，恢复三条独立写审线。恢复后三批累计接收54主题，第三批六篇及工程范围见checks/b03c3-acceptance.json。历史现场见HANDOFF-2026-10-13.md。这是持续目标的覆盖地图；候选路径只登记于此，不生成空正文。覆盖认定须检查每个领域的必要分支，文章数量不作完成门槛。
 
 ## 内容与资格模型
 
@@ -81,8 +81,8 @@
 | `/book/life/documents/status-and-eligibility/` | 先查哪些身份事实才知道能办什么 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 | `/book/life/documents/work-passes/` | 不同工作准证及家属工作资格怎样选路 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 | `/book/life/documents/national-service/` | 谁须服国民服役：国籍性别年龄PR途径代际 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
-| `/book/life/documents/arrival-renewal/` | 入境/SGAC/短访停留、NRIC/FIN、ICA学生及LTVP和居民改址 | writing（identity已落盘，作者全量自审中） |
-| `/book/life/documents/pass-management/` | MOM各工作及家属准证怎样签发、领卡、改址、续期与处理受阻 | writing（identity已落盘，作者全量自审中） |
+| `/book/life/documents/arrival-renewal/` | 入境/SGAC/短访停留、NRIC/FIN、ICA学生及LTVP和居民改址 | integrated（异人事实/第三编辑/生产与实际渲染通过） |
+| `/book/life/documents/pass-management/` | MOM各工作及家属准证怎样签发、领卡、改址、续期与处理受阻 | integrated（逐类准证独立分支、两轮审核与实际渲染通过） |
 | `/book/life/documents/permanent-residence/` | 怎样申请PR公民和处理REP | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 | `/book/life/documents/documents/` | 翻译公证认证与文件保存怎样准备 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 
@@ -96,7 +96,7 @@
 | `/book/life/housing/tenancy/` | 入住维修押金续租退租怎样处理 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 | `/book/life/housing/buying-hdb/` | BTO与转售怎样判断家庭资格、HFE和贷款 | researching（daily；核现行身份/家庭/HFE及2026新政策） |
 | `/book/life/housing/buying-private/` | 私宅类型、外国人产权批准与买卖交接怎样办理 | researching（daily；EC和税贷成本按行动链独立拆篇） |
-| `/book/life/housing/neighbours/` | 市镇理事会MCST和邻里纠纷找谁 | written（daily作者冻结，identity独立事实审中） |
+| `/book/life/housing/neighbours/` | 市镇理事会MCST和邻里纠纷找谁 | integrated（异人事实/第三编辑/生产与实际渲染通过） |
 | `/book/life/housing/buying-ec/` | EC新售、五至十年及十年后购房资格怎样判断 | planned（daily独占；先登记，不建公开空页） |
 | `/book/life/housing/purchase-costs/` | 购房税、现金CPF、HDB银行贷款和共同购买怎样核对 | planned（daily独占；从两购房主文按共同决策拆出） |
 
@@ -118,7 +118,7 @@
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
 | `/book/life/transport/public-transport/` | MRT巴士怎样支付换乘和查询无障碍 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
-| `/book/life/transport/driving/` | 境外驾照使用转换、买车COEERP路税停车保险 | written（care作者全文自审冻结，daily独立事实审中） |
+| `/book/life/transport/driving/` | 境外驾照使用转换、买车COEERP路税停车保险 | integrated（异人事实/第三编辑/生产与实际渲染通过；未来政策按日期触发） |
 | `/book/life/transport/taxis-phv/` | 出租车与网约车乘客叫车费用、儿童轮椅、线下与投诉；从驾驶持车任务拆出 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 | `/book/life/transport/active-mobility/` | 骑行步行PMD有哪些道路规则 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 | `/book/life/transport/airport-checkpoints/` | 去机场和柔佛关卡怎样安排行程 | researched（B03C；care_finance已分派） |
@@ -172,11 +172,12 @@
 
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
-| `/book/people/family/relationships/` | 同居共同财务与民事穆斯林婚姻怎样安排 | planned |
+| `/book/people/family/relationships/` | 同居共同财务与民事穆斯林婚姻怎样安排 | writing（identity独占B04，现行门户与主管原文） |
 | `/book/people/family/birth/` | 孕产生育出生登记、国籍证件怎样衔接 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 | `/book/people/family/childcare/` | 托育选择费用补贴与资格 | planned |
 | `/book/people/family/domestic-workers/` | 雇用家政移工的手续双方权利与照护责任 | planned |
 | `/book/people/family/separation-safety/` | 分居离婚监护家庭暴力如何求助 | planned |
+| `/book/people/family/sexual-health/` | 同意、避孕、紧急避孕、STI/HIV、孕前及生育选择怎样求助 | researching（identity独占；先地图登记，不建公开空页；TOP资格、孕周、未成年人及费用分别回源） |
 
 ### 16. 儿童、青少年与基础教育（school）
 
@@ -205,8 +206,8 @@
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
 | `/book/people/language/everyday-language/` | 英语华语马来语泰米尔语Singlish如何选场合 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
-| `/book/people/language/communication/` | 电话邮件表格口译怎样清楚表达 | researching（root独占B04；地图/证据与主管原文） |
-| `/book/people/language/multilingual-family/` | 多语家庭怎样选择学习资源与日常练习 | researching（root独占B04；地图/证据与主管原文） |
+| `/book/people/language/communication/` | 电话邮件表格口译怎样清楚表达 | integrated（root作者、daily事实、identity第三编辑、主控工程；NHG口译保留可提供条件） |
+| `/book/people/language/multilingual-family/` | 多语家庭怎样选择学习资源与日常练习 | integrated（异人事实/第三编辑/生产与实际渲染通过；母语课程资格见MOE实际条件） |
 
 ### 19. 中老年、退休、衰弱与死亡（ageing）
 
@@ -249,7 +250,7 @@
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
 | `/book/work/finance/household-budget/` | 到手收入、年度费用和应急现金怎样安排；家庭预算种子单列 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
-| `/book/work/finance/banking/` | 开户PayNowFASTNETSGIRO如何使用 | planned |
+| `/book/work/finance/banking/` | 开户PayNowFASTNETSGIRO如何使用 | researching（root独占B05；开户逐产品/身份条件，支付主管当前原文） |
 | `/book/work/finance/cpf-basics/` | CPF谁缴、年龄和PR阶段怎样改变、钱怎样用 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 | `/book/work/finance/saving-insurance/` | SRS储蓄债券证券保险与存款保障怎样理解 | planned |
 | `/book/work/finance/debt-disputes/` | 信用贷款债务理赔和金融争议怎样处理 | planned |

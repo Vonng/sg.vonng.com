@@ -21,6 +21,8 @@ weight: 30
 | DP / LTVP / LTVP+ | 家属准证 / 长期探访准证及其附加类别 | [家属资格](/book/life/documents/status-and-eligibility/) |
 | LOC / PLOC | 同意书 / 预先批准同意书 | [工作权限](/book/life/documents/status-and-eligibility/) |
 | IPA | 原则批准信，后续还有签发步骤 | [开始工作](/book/life/documents/work-passes/) |
+| SGAC / e-Pass / STP / FileSG | 电子入境卡 / 电子探访准证 / 学生准证 / 政府数字文件领取服务 | [入境与ICA证件](/book/life/documents/arrival-renewal/) |
+| SGWorkPass / OFWAS / EPSC | MOM数字准证工具 / 外籍员工地址登记服务 / 就业准证服务中心 | [MOM准证管理](/book/life/documents/pass-management/) |
 | REP / Exit Permit | PR再入境许可 / NS离境许可 | [身份](/book/life/documents/status-and-eligibility/)、[NS](/book/life/documents/national-service/) |
 | NS / CMPB | 国民服役 / 中央人力局 | [服役安排](/book/life/documents/national-service/) |
 | GP / polyclinic / SOC | 家庭医生 / 综合诊疗所 / 专科门诊 | [就医](/book/people/healthcare/getting-care/) |
@@ -30,6 +32,8 @@ weight: 30
 | MRT / LRT | 地铁 / 轻轨 | [乘车](/book/life/transport/public-transport/) |
 | PAB / PMD / PMA | 电动助力脚踏车 / 个人移动设备 / 个人代步辅助设备 | [骑行与代步](/book/life/transport/active-mobility/) |
 | PHC / PHV / child restraint | 私人出租车 / 常见网约车称呼 / 儿童约束装置 | [出租车与网约车](/book/life/transport/taxis-phv/) |
+| BTT / FTT / PDL / QDL | 基本理论测试 / 最终理论测试 / 学习驾照 / 正式驾照 | [学车与驾照](/book/life/transport/driving/) |
+| COE / PARF / ERP / OBU | 拥车证 / 汽车注销时的合资格退还 / 电子道路收费 / 新一代车载单元 | [持车费用与驾驶](/book/life/transport/driving/) |
 | Singlish / MTL | 新加坡口语英语 / 学校母语科目 | [多语生活](/book/people/language/everyday-language/) |
 | HDB / URA / CEA | 组屋、私宅规划及地产代理监管涉及的机构 | [租房](/book/life/housing/renting/) |
 | IRAS / YA / NOA | 税务局 / 课税年度 / 税单 | [个人所得税](/book/work/tax/personal-tax/) |
@@ -44,7 +48,10 @@ weight: 30
 | OneService / ServiceSG | 街区问题反馈工具 / 政府服务协助中心 | [公共服务](/book/foundations/government/public-services/) |
 | NLB / ActiveSG / CC | 国家图书馆管理局 / 公共体育服务 / 社区俱乐部 | [设施与课程](/book/life/community/public-facilities/) |
 | RN / RC / NC | 居民网络 / 居民委员会 / 邻里委员会 | [街区反馈与居民网络](/book/life/community/neighbourhood/) |
+| CMC / MD / CDRT / CRU / STB / MCST | 社区调解中心 / 调解出席指示 / 邻里纠纷法庭 / 社区关系单位 / 分层产权委员会 / 分层物业管理组织 | [邻里与住宅管理](/book/life/housing/neighbours/) |
 | CV / VC / SG Cares | 社区志愿者 / 志愿服务中心 / 本地关爱运动 | [兴趣、志愿与互助](/book/life/community/connections/) |
+| SgSL / VRS | 新加坡手语 / 视频手语转电话服务 | [口译与听觉沟通](/book/people/language/communication/) |
+| SLS / 学校LOA / MTL SOAR | 学生学习空间 / 离校保留安排 / 母语阅读推展计划 | [家庭语言与学校衔接](/book/people/language/multilingual-family/) |
 | CASE / SCT | 消费者协会 / 小额索偿庭 | [消费争议](/book/life/household/consumer-rights/) |
 | AVS / PALS | 动物与兽医事务组 / 宠物执照系统 | [养宠物](/book/life/household/keeping-pets/) |
 | Credit Counselling Singapore | 信贷辅导机构；其缩写CCS须结合语境辨认 | [家庭预算与债务求助](/book/work/finance/household-budget/) |

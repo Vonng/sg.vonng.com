@@ -12,17 +12,23 @@
 | B02 租房/应急/离职/个人税/出生/入学 | 三作者共7稿 | integrated 6 / draft 1 | 身份等主概念已稳定，逐篇写审集成 |
 | B03A 政府/地理/家庭日常/预算 | identity政府3；daily_history地理3；care_finance日常4；root预算1 | integrated | 11篇事实/第三编辑/生产构建与渲染通过；预算由care事实、identity第三编辑 |
 | B03B 社群/历史文化/世界与不平等 | identity社群3；daily_history历史文化4；care_finance世界与不平等4 | integrated | 11篇两轮审核、生产/25路径双视口/搜索/打印通过；版本见accepted和b03bc-acceptance |
-| B03C 身份住房交通数字社区余项 | root数字与社区；identity证件；daily住房；care交通 | writing / reviewing | 数字3、PR/文书2、社区3、出租车/主动出行2及租约1已集成；居留/准证管理作者自审，邻里稿identity事实审；驾驶/机场与HDB/私宅/EC/成本持续研究写作。root接第三编辑及工程；7—12领域缺口不按篇数认定完成 |
-| B04 家庭教育照护 | identity家庭；care医疗/心理残障/照护/老年；daily教育高教成人学习；root多语 | assigned / researching | 执行者B03C完整写审后直接接本人B04；root communication/multilingual-family已研究。13—19全部种子、身份与生命周期分支逐条闭合；所分路径独占，必要拆页先登记 |
-| B05 财务经营法律安全 | 待分派 | planned | BOOKMAP领域20—28余项逐条闭合 |
+| B03C 身份住房交通数字社区余项 | root数字与社区；identity证件；daily住房；care交通 | writing / reviewing | 数字3、PR/文书2、社区3、出租车/主动出行2、租约、居留/准证管理、邻里与驾驶均已集成；机场及HDB/私宅/EC/成本仍持续研究写作。root接第三编辑及工程；7—12领域缺口不按篇数认定完成 |
+| B04 家庭教育照护 | identity家庭；care医疗/心理残障/照护/老年；daily教育高教成人学习；root多语 | writing / researching | communication/multilingual-family已集成；identity开始关系及其余家庭任务，care/daily在各自B03C完整稿交审后接本人B04。13—19全部种子、身份与生命周期分支逐条闭合；所分路径独占，必要拆页先登记 |
+| B05 财务经营法律安全 | root银行；其余待分派 | researching / planned | root banking当前原文研究，PayNow六月撤昵称及FAST七月FAQ已实读；BOOKMAP领域20—28余项逐条闭合 |
 | B06 全书覆盖与情境走查 | root+独立审阅者 | planned | 全28领域种子/身份/生命周期/弱势处境逐条证明 |
-| HUM 全书说人话校对 | root | planned | 按 ops/HUMANIZE.md 逐文件清理 content/ 全部94源；删说教/免责/无信息量否定，负向对冲改正面直陈；事实层零变动（diff+grep机检）；○在途draft稿待集成后补；闭环后主控 make check 与渲染验收 |
+| HUM 全书说人话校对 | root；identity限定事实；care第三编辑 | in progress | 按 ops/HUMANIZE.md 初始94队列并追增实际源（当前102）；礼节/小贩两份九处表达候选已限定事实通过，待第三编辑，正文尚未应用。删说教/免责/无信息量否定，事实层零变动；在途draft待集成后补；独立版本与accepted SHA绑定，闭环后主控工程验收 |
 
 ## 日期触发与来源缺口
 
 | 触发日 | 重核对象 | 来源与受影响正文 |
 |---|---|---|
 | 2026-11-30 | 出租车临时附加费用结束/延期核查 | CDG current fare FAQ；taxis-phv已集成，见b03c-transport证据 |
+| 2026-11-02 | COE供给/分类建议咨询结束及后续决定 | OneMotoring 2026-10-08咨询原文；driving当前仍按已实施规则 |
+| 2026-12-31 | EEAI结束或延长 | OneMotoring电动车优惠原文；driving区分注册日期及PARF不同批次 |
+| 2027-01-01 | DIPS与OBU/ERP未来制度实施 | SPF及LTA原文；driving逐项保留当前/未来边界 |
+| 2027-03-13 | 理论S$8、实际S$45考试费起点 | SPF 2026-09-29公告，按预约日期；driving |
+| 2028-03-13 | 实际考试费S$50起点 | 同一SPF公告，按预约日期；driving |
+| 2029 | MTL SOAR全小学推展 | MOE COS2025现行公告；multilingual-family目前未写成全面实施 |
 | 2026-11-01 | BCRS小型零售商及非营利组织旧货宽限结束 | NEA2026-09-29公告；food-shopping |
 | 2027-01-01 | NRIC验证滥用加强执法（private organisations须2026-12-31前停用，MDDI2026-02-03）；EP/S新申请门槛；CPF老年雇员/平台/自雇年度表；1777停用；SCFA 2027门槛待后续托管页核 | MOM eligibility；CPF缴款；SCDF EMS；work-passes/cpf-basics/getting-care |
 | 2027-02-28 | 泰国Apostille公约EIF及两国适用关系 | HCCH现行状态表；documents通用出具地/目的地查询入口，正文不提前写生效 |

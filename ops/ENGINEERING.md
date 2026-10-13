@@ -1,5 +1,13 @@
 # 工程与验收
 
+## B03C第三批及B04多语本地验收（2026-10-13）
+
+接收入境/ICA、MOM准证管理、邻里、驾驶、办事沟通和多语家庭六主题，累计54主题。两轮人工审核绑定正文SHA；接收仅修改元数据，正文未变。更新四章节导读、三个身份入口、抵达事项及七组术语。生产最终102源/56主题/2草稿，100公开源、102HTML、256输出文件；make check无错误/警告，make sync逐路径/大小/SHA一致。新增relationships仅是未审核草稿，不进入公开书目。
+
+16路径双视口48项通过；额外四侧栏分支逐层展开/键盘折叠/实点、八关键词实际点中所需结果、MOM四表、英语教学邮件、NHG条件及链接、多语两表、驾驶现行考试费探针共32项通过。打印79书节点、54来源表、244物理页，白底黑字、书内锚点与绝对外链通过。root实际看手机MOM表、英语邮件、驾驶费用及桌面四语言资源，PDF物理92/97/121/148/206/210页（跨页表头、长来源网址、中文、英语和多语表）；这是指定样本目视，未逐页检查。渲染时为verified/draft:false，后仅status提升integrated；editorial-meta不显示status，正文及版式条件不变。
+
+复现：`SG_PATHS_FILE=.cache/b03c3-browser-paths.json SG_RENDER_DIR=.cache/render-b03c3 SG_TABLE_PATH=/book/life/documents/pass-management/ node scripts/check_browser.mjs`；`node .cache/check-b03c3-extra.mjs`；`SG_RENDER_DIR=.cache/render-b03c3 node scripts/check_print.mjs`。原始图像/PDF及额外脚本留忽略.cache，路径、版本、完整检查和限定范围见checks/b03c3-acceptance.json。全书B03C购房/机场、B04其余、B05/B06及HUM仍在推进。
+
 ## B03C第二批本地验收（2026-10-13）
 
 接收community三篇、文书认证、出租车/网约车、主动出行和租约，共七主题；累计48主题、94公开源、96HTML、244输出文件。生产最终99源/53主题/5草稿，零错误及警告；public与审查目录逐路径/大小/SHA相同。在途草稿不进入公开书目。只提升已审稿状态及检索元数据，不改变审核正文。

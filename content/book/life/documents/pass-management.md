@@ -4,11 +4,12 @@ description: 从原则批准办理签发和领卡，按准证类别安排续期�
 page_id: sg-pass-management
 content_kind: task
 scope: 新加坡MOM签发的EP、S Pass、产业Work Permit、家政Work Permit、PEP、ONE Pass、EntrePass及其DP／LTVP；批准后的行政管理
-status: written
-draft: true
-verified: ""
-reviewed_by: ""
+status: integrated
+draft: false
+verified: "2026-10-13"
+reviewed_by: "care_finance（独立事实）；root（第三人编辑）"
 weight: 45
+search_keywords: ["MOM", "续签", "领卡", "OFWAS", "SGWorkPass", "IPA", "准证更新"]
 ---
 
 收到 MOM 的原则批准信后，先确认谁负责签发、本人何时抵达及准证必须办完的日期，再准备体检、保险、住址和领卡资料。准证签发后保存通知信，按要求登记生物特征；以后用实际准证到期日安排续期，搬家或换护照也要及时更新。

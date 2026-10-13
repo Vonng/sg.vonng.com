@@ -11,3 +11,13 @@ root；2026-10-13 Asia/Singapore。正文只读，实际渲染由主控后续执
 | 文件 | 完整SHA256 | 正文SHA256 |
 |---|---|---|
 | `content/book/life/housing/tenancy.md` | `eee18714f3b868d1bb27c8f77c528ee6da2bbab2a0a3ab5f4c220edef8be0d51` | `a4ca36a16223a188fe66d1e9f0cf5a36afecacf20e5d2c60d0fd9474921dc624` |
+
+## neighbours：通过
+
+2026-10-13，root。已完整阅读最后修订全文及identity正式事实报告。TC/MCST报修、CMC自愿与MD强制出席、2026-09-01全国扩展、和解登记、CDRT原告/被告证据与送达、STB物业事项及CRU严重噪音的选路完整。原告/被告期限各自明确，外籍无Singpass及语言/设备困难有实际入口；教学消息与程序规则分开。视频截图、缺席原因不限定突发、Guide物理20—30页三项已核最后版本。正文没有改变。
+
+人工全文编辑与元数据/H1/加粗及四条relref目标的限定静态机检通过；没有新外部回源、原PDF图片目视或私人程序操作。事实回源范围以identity报告为准，生产与实际手机桌面打印仍待本批工程。
+
+| 文件 | 完整SHA256 | 正文SHA256 |
+|---|---|---|
+| content/book/life/housing/neighbours.md | 20e2f04bf84a5244ec5b20c7174ce72cf8014e39196c944c561d79f2321382c8 | 391384709d2178353b935b856871950907fda2259b419eb1288b6f2f5718de42 |

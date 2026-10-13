@@ -23,3 +23,23 @@ root；2026-10-13。已完整通读最终稿与独立事实报告的文书部分
 | 文件 | 完整SHA256 | 正文SHA256 |
 |---|---|---|
 | `content/book/life/documents/documents.md` | `1f00bdafc394b9e47ef11828ae462462f95d9b89227ee9de6e56c0be86e3e562` | `bbf92e4a9f4824112679bfe84c09c985e7ff5df1a495c36c795a7158e4c334d9` |
+
+## arrival-renewal：通过
+
+2026-10-13，root。已完整阅读此稿及care_finance对应独立事实报告；ICA入境/STVP与MOM停留分流、NRIC/FIN/IC事件、STP分学校窗口、ICA新旧LTVP批次、无Singpass下载与受阻选路连贯。费用与期限按所用事件，14/28日和学校申请窗口保留各自条件。首段回答抵达后的行动，引用靠近规则，高影响资格按主管分支呈现；正文不改。pass-management互引实际稿存在，须独审及第三编辑通过后同批公开。
+
+人工全文编辑与限定机器静态检查元数据、正文H1、中文加粗、六条relref及直接站内链接实物通过。此审没有新外部回源、登录私人账户、实际渲染或完整机检；独立原文范围见care事实报告，生产及桌面手机打印仍待root接收批次。
+
+| 文件 | 完整SHA256 | 正文SHA256 |
+|---|---|---|
+| content/book/life/documents/arrival-renewal.md | 7293ef056af8030c66ded10d677cae4e86c3b139e74cb9ecd1a228764a72be4b | fbbbd2b84fbed8ae5716c27e59a87c6d27b4f35aa90fde62040319f510af1562 |
+
+## pass-management：通过
+
+2026-10-13，root。已完整读全文（分段覆盖至结尾）及care独立事实报告。IPA、签发、通知信、登记/领卡、续期签发、地址/护照/薪资/家庭变化和受阻都有相应负责人及真实入口。七种主准证及普通/ONE家属分支保留MOM不同条件，EP与赞助EP、产业WP与MDW、PEP不可续及ONE/PEP家属公开操作缺口均明确。表格较长但每行可定位具体本人类别；无需复制他类办理主体或默认窗口。正文未改。
+
+人工全文编辑与元数据/正文H1/粗体/真实relref目标静态机检通过。事实原文实读由care报告列明，本编辑没有重查外部、进入私人服务、申请或现场登记。arrival-renewal和本稿相互引用须共同接收，生产/桌面手机长表及打印仍待主控工程。
+
+| 文件 | 完整SHA256 | 正文SHA256 |
+|---|---|---|
+| content/book/life/documents/pass-management.md | fcb495ceb85c7d4862f29354e0f64faca4ad9c1bc523f5f77c6a96156e767700 | 530685ce84bab54d1acd365493ddd6a1b58d50213040e616345632c9e9ab03b5 |

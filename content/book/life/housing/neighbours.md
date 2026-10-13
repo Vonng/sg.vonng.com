@@ -4,11 +4,12 @@ description: 区分组屋公共部分、公寓管理和邻居之间的滋扰，�
 page_id: sg-housing-neighbours
 content_kind: task
 scope: 新加坡 HDB、私人公寓及有地住宅的业主和居住者；含公民、PR、准证持有人与访客的选路，具体程序按居住关系及案件条件判断
-status: written
-draft: true
-verified: ""
-reviewed_by: ""
+status: integrated
+draft: false
+verified: "2026-10-13"
+reviewed_by: "identity（独立事实）；root（第三人编辑）"
 weight: 50
+search_keywords: ["MD", "CMC", "CDRT", "STB", "CRU", "MCST", "邻里纠纷", "噪音"]
 ---
 
 公共走廊、设施或清洁出问题，先找负责的市镇理事会或公寓管理方；邻居持续制造噪音等滋扰，记录具体事件，再沟通或申请调解。收到调解指示或法院文件，按其中的日期办理。即时人身危险、火灾或急症直接使用[紧急求助渠道]({{< relref "/book/rights/safety/emergencies.md" >}})。
@@ -49,7 +50,7 @@ Community Mediation Centre（CMC）提供免费的社区人际纠纷调解，公
 
 收到指示者须按安排出席。先核日期、时间、地点和截止日；这类调解免费， **按现行流程在现场进行** 。带有照片的政府证件，提前二十分钟到达。需要华语、其他语言、无障碍安排，或乐龄者须家属陪同，应先向 CMC 提出请求；陪同者的出席须获同意。[CMC：出席、证件和协助](https://cmc.mlaw.gov.sg/our-service/mediation-direction/)
 
-若指示发出前已安排其他事项，确实无法出席，最迟在原定调解前一个工作日提交理由及证明；突发医疗或直系家属事由，也须附相应证明，按 CMC 所列程序最迟在原定调解后一个工作日说明。工作理由通常不获接受，是否有合理理由由 CMC 判断。无合理理由不遵从指示属于违法行为。[CMC：无法出席的处理](https://cmc.mlaw.gov.sg/our-service/mediation-direction/)
+若指示发出前已安排其他事项，确实无法出席，最迟在原定调解前一个工作日提交理由及证明；有证明的医疗或直系家属事由，按 CMC 所列程序最迟在原定调解后一个工作日说明。工作理由通常不获接受，是否有合理理由由 CMC 判断。无合理理由不遵从指示属于违法行为。[CMC：无法出席的处理](https://cmc.mlaw.gov.sg/our-service/mediation-direction/)
 
 ## 达成协议后，考虑是否登记为 CDRT 命令
 
@@ -65,9 +66,9 @@ CDRT 处理邻居行为或不作为对自己居住处的使用、享受造成不
 
 准备对方姓名与住址、事件时间线、对应证据和具体请求，例如停止某种行为、采取措施或赔偿。若对方可能是屋主，可按法院入口付费查业权；租客与屋主可能不是同一个人。仍查不到姓名时，法院可能允许先针对该地址的居住者提交，再指示查名步骤，不能随意把业主填成实施滋扰者。[法院：当事人和请求资料](https://www.judiciary.gov.sg/civil/how-to-file-serve-neighbour-dispute-claim)
 
-书面证据按页连续编号并转为 PDF；非英文材料要附专业译者提供的认证英文翻译。音视频要按法院规定命名、整理关键片段与文字记录；当前证据页还要求 CD-R／DVD-R 在提交当日或下一个工作日交 Registry，不能只上传手机影片后就当材料已齐。[法院：证据格式与交付](https://www.judiciary.gov.sg/civil/prepare-evidence-neighbour-dispute-claim)
+书面证据按页连续编号并转为 PDF；非英文材料要附专业译者提供的认证英文翻译。音视频要按法院规定命名、整理关键片段与文字记录，视频另附关键画面的截图；当前证据页还要求 CD-R／DVD-R 在提交当日或下一个工作日交 Registry，不能只上传手机影片后就当材料已齐。[法院：证据格式与交付](https://www.judiciary.gov.sg/civil/prepare-evidence-neighbour-dispute-claim)
 
-从 [CJTS](https://www.judiciary.gov.sg/services/cjts) 填 Claim Form、上传材料、缴 **S$150** 申请费并选会议日期；保存草稿不算提交，缴费后取得案件号才完成申报。提交后 **十四天内** 把申请、证据及 Notice of Pre-trial or Case Conference 送达对方，并在首次会议前提交带证明的 Declaration of Service。送达方式按法院说明选择亲交、挂号、CJTS 或法院指示的方法。[法院：提起案件与送达](https://www.judiciary.gov.sg/civil/how-to-file-serve-neighbour-dispute-claim)、[CJTS CDRT 指南第 19—29 页](https://cjts.judiciary.gov.sg/assets/docs/CDRT_Guide_V2.2.pdf?v=1.4)
+从 [CJTS](https://www.judiciary.gov.sg/services/cjts) 填 Claim Form、上传材料、缴 **S$150** 申请费并选会议日期；保存草稿不算提交，缴费后取得案件号才完成申报。提交后 **十四天内** 把申请、证据及 Notice of Pre-trial or Case Conference 送达对方，并在首次会议前提交带证明的 Declaration of Service。送达方式按法院说明选择亲交、挂号、CJTS 或法院指示的方法。[法院：提起案件与送达](https://www.judiciary.gov.sg/civil/how-to-file-serve-neighbour-dispute-claim)、[CJTS CDRT 指南第 20—30 页](https://cjts.judiciary.gov.sg/assets/docs/CDRT_Guide_V2.2.pdf?v=1.4)
 
 没有 Singpass 资格可申请 CJTS Pass；没有电脑，可到国家法院二楼 Business Centre 使用，操作有困难可联系 **6587 8423** 。选择自己能使用的语言，法庭会尝试安排翻译。CDRT 通常不允许律师代表，只有各方同意并获法庭批准时例外；这与事前向律师咨询不同。[CJTS 账号与协助](https://www.judiciary.gov.sg/services/cjts)、[CDRT 语言及代表规则](https://www.judiciary.gov.sg/civil/how-to-file-serve-neighbour-dispute-claim)
 

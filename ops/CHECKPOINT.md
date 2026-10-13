@@ -2,17 +2,17 @@
 
 2026-10-13 Asia/Singapore。更换订阅号后的完整持续目标继续active；全书五部分28领域未完成，不停在批次。
 
-恢复首批15主题与巴士维护已本地提交e794764；第二批七主题完成接收：community三篇、文书认证、出租车/网约车、主动出行、租约。累计48已审主题、94公开源、96HTML、244输出文件，最终make check零错误/警告，public与production-review逐路径/大小/SHA完全一致。第二批15路径双视口46检查、额外35检查与打印通过；73打印书节点、48来源表、207物理页。root看过限定手机/桌面及最终PDF102/131/151页，非逐页目视。完整轻量记录checks/b03c2-acceptance.json，复现见ENGINEERING；原始图像/PDF留忽略.cache/render-b03c2。
+恢复首批15主题与巴士维护已提交e794764，第二批七主题已提交3809b4b；第三批六主题完成接收：arrival-renewal、pass-management、neighbours、driving、communication、multilingual-family。累计54已审主题、100公开源、102HTML、256输出文件。最终make check为102源/56主题/2草稿，零错误/警告；public与production-review逐路径/大小/SHA一致。第三批16路径双视口48检查及额外32检查通过，79打印书节点、54来源表、244物理页；root实际看四屏样本及PDF92/97/121/148/206/210页，非逐页目视。完整轻量记录checks/b03c3-acceptance.json、复现见ENGINEERING；原始图像/PDF在忽略.cache/render-b03c3。接收后正文SHA均与独立报告一致。
 
-现在待审/写作：driving作者冻结已交daily事实，neighbours作者冻结已交identity事实；arrival-renewal/pass-management已落盘，identity全量作者自审；airport-checkpoints仍care完整写作。daily购房按HDB、私宅、EC、税贷/CPF成本四篇研究；两新增路径先地图登记。MOE admission旧缺口和PDPC privacy-data留真实待审/计划，不重复旧失败URL。root已启动B04 language communication/multilingual-family两稿研究，主管原件在.cache/research/b04-language；地图b04-language独占。三执行者完成各自B03C完整稿后直接接B04：identity家庭，care医疗/心理残障/照护/老年，daily基础/高教/成人教育，root多语。所有完整PROMPT种子与高影响身份分支仍须闭合。
+B03C余项：care机场完整研究尚未落盘；daily购房按HDB、私宅、EC、税贷/CPF成本四篇继续主管原文研究。B04：identity关系稿已落盘为草稿，仍全量作者写审；同居/婚姻、托育、家政、分离安全及新登记sexual-health由identity独占。care在机场完整稿交审后接医疗/心理残障/照护/老年，daily在购房完整稿后接基础/高教/成人教育。root多语两稿已两轮与工程集成，转B05 banking原文研究，地图b05-finance；其余金融税务经营法律等全部种子仍待闭合。B02 admission及PDPC privacy-data保留真实缺口，无新URL/版本不重探失败路径。
 
-HUM表达清理规则与初始94文件队列在ops/HUMANIZE.md。作者自审按正面动作直陈；已审正文冻结，旧稿表达清理须独立版本和受影响审核绑定，不能绕accepted正文SHA。初始队列需随新增实际文件补充；暂未把全书清理记完成。
+HUM表达规则及初始94文件队列在ops/HUMANIZE.md，实际content现102源须追增。root已全文读礼节/小贩两篇并冻结九处表达候选于.cache/humanize；六项机械不变量通过，identity限定差分事实通过hum01-facts.md；care在机场完整稿交事实后接第三编辑。两篇当前正文尚未应用。元数据/核验日期不因表达清理改动，维护正文须独立审核版本并更新accepted SHA与继承范围。全书清理未完成。
 
-恢复首轮d9c3c7f的82源与旧交接SHA一致、26主题/188输出完整。旧HANDOFF仅历史，当前以Git、accepted.json和最新验收为准。上级AGENTS现已存在且全文读；Hugo0.166.0 Extended/OINK1.2.0锁不变，无远程、外部推送或发布。未跟踪ops/PROMPT-ORIGIN.md是用户已有来源记录，保留原样不擅自提交。
+当前正在保存第三批工程及审稿稳定快照，本地提交；identity在途relationships正文/证据/地图仍归本人，未经其冻结不提交为完成稿。ops/PROMPT-ORIGIN.md是用户已有来源记录，原样保留，不stage。普通本地任务已授权；无远程push、外部部署、联络或真实申请交易。
 
-自有静态预览当前实查PID44692，127.0.0.1:1328，scripts/serve_review.py服务.cache/production-review（会话16017）；每次恢复仍实查，不依赖旧句柄。其他项目预览未动。
+恢复基线82源与旧交接SHA一致、26主题/188输出完整；旧HANDOFF只作历史。Hugo0.166.0 Extended/OINK1.2.0固定f8f476e660cf053a2645b7b923ae8d08d5448fce，主题未变，无站点Git远程。上级AGENTS已全文读，不使用Claude。自有静态预览实查PID44692、127.0.0.1:1328、scripts/serve_review.py，服务.cache/production-review；执行会话16017旧句柄每次仍需实查，其他项目预览未动。当前无共享构建/浏览器任务，只有自有预览。
 
-下一步：保存本批轻量文件与真实在途状态，本地提交；补完两篇多语稿→异人回源事实→第三人编辑；接驾驶/邻里/居留/准证/机场成熟稿与两轮报告，再新批 make check → 实际渲染/打印 → make sync。继续B04/B05和B06全书28领域、身份/人生事件/弱势处境走查。
+下一步：完成第三批本地提交，继续root银行逐身份/产品开户、卡与费用、FAST/PayNow/GIRO/NETS及无Singpass、错账、离境链；取得完整原文再写稿→daily事实→identity第三编辑。接机场/购房/家庭成熟稿与报告，HUM两篇第三编辑后应用、重绑SHA及限定工程。继续全部B04/B05与B06全书覆盖/五读者情境走查；日期触发与具体来源失败见TASKS和各evidence。
 
 以下为用户暂停时的历史检查点，数量和句柄仅供定位：
 

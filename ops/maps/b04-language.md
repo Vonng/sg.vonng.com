@@ -4,7 +4,7 @@
 
 | 路径 | 读者问题 | 来源及边界 | 状态 |
 |---|---|---|---|
-| /book/people/language/communication/ | 电话、邮件和表格怎样把事情说明；语言不通时怎样安排协助 | 明确标注教学虚构模板；政务/工作/学校/医疗/听觉口译各按实际机构原文，无免费或随到随有承诺；翻译认证链接已接收 documents | researching |
-| /book/people/language/multilingual-family/ | 家人使用不同语言，怎样找适合的读物、活动和日常学习资源 | NLB 四语言/亲子阅读原文、四语言文化资源、MOE 家校衔接；日常练习是建议，家中语言与课程资格逐项确认 | researching |
+| /book/people/language/communication/ | 电话、邮件和表格怎样把事情说明；语言不通时怎样安排协助 | 明确标注教学虚构模板；政务/工作/学校/医疗/听觉口译各按实际机构原文，无免费或随到随有承诺；翻译认证链接已接收 documents | integrated（daily独立事实、identity第三编辑及root生产/实际渲染通过） |
+| /book/people/language/multilingual-family/ | 家人使用不同语言，怎样找适合的读物、活动和日常学习资源 | NLB 四语言/亲子阅读原文、四语言文化资源、MOE 家校衔接；日常练习是建议，家中语言与课程资格逐项确认 | integrated（daily独立事实、identity第三编辑及root生产/实际渲染通过） |
 
-核对公民/PR/工作准证/学生/家属/访客的实际资源入口；费用/会员及课程条件链接 community 主文，无 Singpass 的线下/陪同路径与 disability 主文协调。两页先 written/draft:true，正文全量自审后交不同代理事实回源，再由第三人编辑；主控独占构建。
+核对公民/PR/工作准证/学生/家属/访客的实际资源入口；费用/会员及课程条件链接 community 主文，无 Singpass 的线下/陪同路径与 disability 主文协调。两页已完成完整作者自审、异人回源事实、第三人编辑和主控工程接收，正文SHA见accepted.json，限定渲染/打印范围见checks/b03c3-acceptance.json。事实审发现旧TTSH PDF已重定向，communication换成当前NHG病人章程并保留“在可提供的范围内”条件；不把旧PDF当现行依据。

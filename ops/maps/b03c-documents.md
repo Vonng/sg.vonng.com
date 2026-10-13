@@ -4,8 +4,8 @@
 
 | 页面与独立问题 | 必须闭合的读者分支与动作 | 主管详细来源方向及阅读状态 |
 | --- | --- | --- |
-| `content/book/life/documents/arrival-renewal.md`：入境、获准停留与ICA证件怎样持续管理 | SGAC与签证、Visit Pass，陆海空豁免；e-Pass与延期；NRIC/FIN、IC登记重登记领取及28天改址/PIN；STP各学校续期、签发/取消/14天改资料；ICA LTVP新旧批次手续、续期与14天改资料；FileSG无Singpass、线上失败及电话 | A01—A17详细原文和中文FileSG/PDF条款已实读，完整首稿落盘，作者全文自审中；MOM管理独立下页，两页互引后同批交独审 |
-| `content/book/life/documents/pass-management.md`：MOM准证从IPA到续期、资料变更怎样办到完成 | EP/S/产业WP/MDW/PEP/ONE/Entre及普通和ONE家属各自的提交角色、IPA期限/体检/签发/通知信/登记/卡/配送失败；续期窗口、保险/PCP/Onboard/护照差异；五天/两周地址更新、家属护照角色；PEP就业和年薪、ONE个人年度通知、无线上路径 | M01—M15主要准证的各自主管详页已实读；完整首稿落盘，作者全文自审中。ONE主/家属公开续期操作与PEP家属提交细节保留具体未知，使用现行MOM查询入口，不由普通EP推定 |
+| `content/book/life/documents/arrival-renewal.md`：入境、获准停留与ICA证件怎样持续管理 | SGAC与签证、Visit Pass，陆海空豁免；e-Pass与延期；NRIC/FIN、IC登记重登记领取及28天改址/PIN；STP各学校续期、签发/取消/14天改资料；ICA LTVP新旧批次手续、续期与14天改资料；FileSG无Singpass、线上失败及电话 | A01—A17详细原文和中文FileSG/PDF条款已实读；作者完整自审、care_finance独立事实及root第三编辑通过；root于2026-10-13完成生产、桌面/手机/搜索与抽样打印接收，同批正式integrated/draft:false。原作者日期/SHA保留在证据，作者保持只读 |
+| `content/book/life/documents/pass-management.md`：MOM准证从IPA到续期、资料变更怎样办到完成 | EP/S/产业WP/MDW/PEP/ONE/Entre及普通和ONE家属各自的提交角色、IPA期限/体检/签发/通知信/登记/卡/配送失败；续期窗口、保险/PCP/Onboard/护照差异；五天/两周地址更新、家属护照角色；PEP就业和年薪、ONE个人年度通知、无线上路径 | M01—M15各自主管详页已实读；作者完整自审、care_finance独立事实及root第三编辑通过；root于2026-10-13完成生产、桌面/手机/搜索与抽样打印接收，同批正式integrated/draft:false。ONE主/家属公开续期操作与PEP家属提交细节保留具体未知；原作者日期/SHA保留在证据，作者保持只读 |
 | `content/book/life/documents/permanent-residence.md`：PR、公民与 REP 三种申请分别解决什么问题 | PR 类别与担保、自评限制、材料/费用/提交/待审变化/批准后手续；公民年龄与家庭分支、SC Journey/原国籍/未成年誓言与NS衔接；REP 有效性、在境内/外续期、2025-12-01后180日和拒绝后果、返回与失去PR区别；线上失败求助 | P01—P27详细原文已实读；作者完整自审后care_finance独立事实通过，已交root第三编辑/接收；正文由root接收期间保持只读。报告见b03c-documents-facts。已有 status/work-passes/NS 主文只作衔接 |
 | `content/book/life/documents/documents.md`：向新加坡或境外机构交文件，翻译、公证、认证怎样分流 | 接收机关先确认、原件/副本/翻译区别；ICA与MOM具体收件、外地文书与新加坡文书；Notary Public/SAL Apostille、缔约国/领土/异议与非缔约国、政府数字/法院文件特殊路径；电子公证与ACRA特殊渠道；遗失补件、姓名差异及文件安全保存；线下入口与失败处理 | D01—D10及19页SAL原件实际通读。care_finance独立事实提出补英文/双语收件条件，作者修订后再次核源并通过，已交root第三编辑/接收；保持冻结，不同时改正文。报告见b03c-documents-facts |
 
