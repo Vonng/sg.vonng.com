@@ -1,6 +1,6 @@
 # 任务总账
 
-更新：2026-10-13（Asia/Singapore）。用户更换订阅号后明确续跑，目标 active；整书尚未完成。当前代理已重新建立，旧暂停现场作为历史依据保留在ops/HANDOFF-2026-10-13.md。
+更新：2026-10-13（Asia/Singapore）。用户更换订阅号后明确续跑，后于14:21要求汇报后继续，整书工作继续，目标工具标签实况见CHECKPOINT；整书尚未完成。当前代理已重新建立，旧暂停现场作为历史依据保留在ops/HANDOFF-2026-10-13.md。
 
 | 任务 | 所有者 | 状态 | 依赖与完成标准 |
 |---|---|---|---|
@@ -14,9 +14,9 @@
 | B03B 社群/历史文化/世界与不平等 | identity社群3；daily_history历史文化4；care_finance世界与不平等4 | integrated | 11篇两轮审核、生产/25路径双视口/搜索/打印通过；版本见accepted和b03bc-acceptance |
 | B03C 身份住房交通数字社区余项 | root数字与社区；identity证件；daily住房；care交通 | writing / reviewing | 数字3、PR/文书2、社区3、出租车/主动出行2、租约、居留/准证管理、邻里与驾驶均已集成；机场及HDB/私宅/EC/成本仍持续研究写作。root接第三编辑及工程；7—12领域缺口不按篇数认定完成 |
 | B04 家庭教育照护 | identity家庭；care医疗/心理残障/照护/老年；daily教育高教成人学习；root多语 | writing / researching | communication/multilingual-family已集成；identity开始关系及其余家庭任务，care/daily在各自B03C完整稿交审后接本人B04。13—19全部种子、身份与生命周期分支逐条闭合；所分路径独占，必要拆页先登记 |
-| B05 财务经营法律安全 | root银行；其余待分派 | researching / planned | root banking当前原文研究，PayNow六月撤昵称及FAST七月FAQ已实读；BOOKMAP领域20—28余项逐条闭合 |
+| B05 财务经营法律安全 | root银行/个人金融；其余待分派 | writing / researching / planned | banking完整稿冻结交daily事实、identity第三编辑；32详源及冲突边界已登记。root续储蓄投资保险及债务争议源矩阵；BOOKMAP领域20—28余项逐条闭合 |
 | B06 全书覆盖与情境走查 | root+独立审阅者 | planned | 全28领域种子/身份/生命周期/弱势处境逐条证明 |
-| HUM 全书说人话校对 | root；identity限定事实；care第三编辑 | in progress | 按 ops/HUMANIZE.md 初始94队列并追增实际源（当前102）；礼节/小贩两份九处表达候选已限定事实通过，待第三编辑，正文尚未应用。删说教/免责/无信息量否定，事实层零变动；在途draft待集成后补；独立版本与accepted SHA绑定，闭环后主控工程验收 |
+| HUM 全书说人话校对 | root；identity限定事实；care第三编辑 | in progress | 按 ops/HUMANIZE.md 初始94队列并追增实际源（当前104）；礼节/小贩两份九处表达候选已限定事实通过，待第三编辑，正文尚未应用。删说教/免责/无信息量否定，事实层零变动；在途draft待集成后补；独立版本与accepted SHA绑定，闭环后主控工程验收 |
 
 ## 日期触发与来源缺口
 

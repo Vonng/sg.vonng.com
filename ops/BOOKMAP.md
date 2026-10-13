@@ -1,6 +1,6 @@
 # 全书内容地图
 
-更新：2026-10-13（Asia/Singapore）。用户更换订阅号后明确续跑，持续目标 active；已核82份源文件与交接快照一致，恢复三条独立写审线。恢复后三批累计接收54主题，第三批六篇及工程范围见checks/b03c3-acceptance.json。历史现场见HANDOFF-2026-10-13.md。这是持续目标的覆盖地图；候选路径只登记于此，不生成空正文。覆盖认定须检查每个领域的必要分支，文章数量不作完成门槛。
+更新：2026-10-13（Asia/Singapore）。用户更换订阅号后明确续跑，后于14:21要求汇报后继续，工作继续执行；目标工具标签实况见CHECKPOINT。已核82份源文件与交接快照一致，恢复三条独立写审线。恢复后三批累计接收54主题，第三批六篇及工程范围见checks/b03c3-acceptance.json。历史现场见HANDOFF-2026-10-13.md。这是持续目标的覆盖地图；候选路径只登记于此，不生成空正文。覆盖认定须检查每个领域的必要分支，文章数量不作完成门槛。
 
 ## 内容与资格模型
 
@@ -97,8 +97,8 @@
 | `/book/life/housing/buying-hdb/` | BTO与转售怎样判断家庭资格、HFE和贷款 | researching（daily；核现行身份/家庭/HFE及2026新政策） |
 | `/book/life/housing/buying-private/` | 私宅类型、外国人产权批准与买卖交接怎样办理 | researching（daily；EC和税贷成本按行动链独立拆篇） |
 | `/book/life/housing/neighbours/` | 市镇理事会MCST和邻里纠纷找谁 | integrated（异人事实/第三编辑/生产与实际渲染通过） |
-| `/book/life/housing/buying-ec/` | EC新售、五至十年及十年后购房资格怎样判断 | planned（daily独占；先登记，不建公开空页） |
-| `/book/life/housing/purchase-costs/` | 购房税、现金CPF、HDB银行贷款和共同购买怎样核对 | planned（daily独占；从两购房主文按共同决策拆出） |
+| `/book/life/housing/buying-ec/` | EC新售、MOP及后续批次的购房国籍资格怎样判断 | researching（daily独占；当前新批次10/15检索线索未取得可读详原件，未当事实写入） |
+| `/book/life/housing/purchase-costs/` | 购房税、现金CPF、HDB银行贷款和共同购买怎样核对 | written / facts review（daily完整稿；identity事实发现长者/信托条件，作者本人修订） |
 
 ### 9. 衣食、购物与家庭运转（household）
 
@@ -172,7 +172,7 @@
 
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
-| `/book/people/family/relationships/` | 同居共同财务与民事穆斯林婚姻怎样安排 | writing（identity独占B04，现行门户与主管原文） |
+| `/book/people/family/relationships/` | 同居共同财务与民事穆斯林婚姻怎样安排 | written（identity完整冻结，care独立事实待审） |
 | `/book/people/family/birth/` | 孕产生育出生登记、国籍证件怎样衔接 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 | `/book/people/family/childcare/` | 托育选择费用补贴与资格 | planned |
 | `/book/people/family/domestic-workers/` | 雇用家政移工的手续双方权利与照护责任 | planned |
@@ -250,7 +250,7 @@
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
 | `/book/work/finance/household-budget/` | 到手收入、年度费用和应急现金怎样安排；家庭预算种子单列 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
-| `/book/work/finance/banking/` | 开户PayNowFASTNETSGIRO如何使用 | researching（root独占B05；开户逐产品/身份条件，支付主管当前原文） |
+| `/book/work/finance/banking/` | 开户PayNowFASTNETSGIRO如何使用 | written（root完整最终冻结，daily事实待审；identity第三编辑；当前草稿） |
 | `/book/work/finance/cpf-basics/` | CPF谁缴、年龄和PR阶段怎样改变、钱怎样用 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 | `/book/work/finance/saving-insurance/` | SRS储蓄债券证券保险与存款保障怎样理解 | planned |
 | `/book/work/finance/debt-disputes/` | 信用贷款债务理赔和金融争议怎样处理 | planned |
