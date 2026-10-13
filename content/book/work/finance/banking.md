@@ -109,7 +109,7 @@ NETS 的具体卡种见[NETS Bank Card](https://www.nets.com.sg/nets/for-you/net
 
 以 DBS/POSB 为例，在 digibank 的 **Pay & Transfer → Bills, Cards & GIRO** 设置定期付款，选择 GIRO 后填写收费机构、账单编号、扣款账户及是否设扣款限额。也可向收费机构索取纸表，填好后交该机构。提交后向收费机构核对进度， **收到批准通知前继续用其他方式缴费** ，再检查首笔实际扣款。[POSB：设置 GIRO 与纸表](https://www.posb.com.sg/personal/support/bank-payment-setup-giro-arrangement.html)
 
-每次账单下来，核对应付金额、扣款日期、账户可用余额和扣款限额。付款失败时先查交易记录，再按账单指定方式补缴，并向机构确认是否会重新扣款；保留补缴凭据，避免同一账单重复支付。
+每次账单下来，核对应付金额、扣款日期、账户可用余额和扣款限额。付款失败时先查交易记录，再按账单指定方式补缴，并向机构确认是否会重新扣款，保留补缴凭据。
 
 要停止 GIRO，分别处理服务合同和扣款授权。DBS/POSB 可在 **Manage GIRO & Bills → Recurring** 选收费机构，再 **Delete biller** 并指定终止日期；该页允许次日或一个月内未来日期。海外没有网银权限者可按该银行指示邮寄 GIRO 终止表。保存成功凭据，再确认最后账单怎样支付。[POSB：终止 GIRO](https://www.posb.com.sg/personal/support/bank-payment-terminate-giro-arrangement.html)
 

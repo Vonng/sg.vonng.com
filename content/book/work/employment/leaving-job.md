@@ -45,7 +45,7 @@ weight: 30
 | 雇主终止合同 | 最后雇佣日；不能做到时，在其后 3 个工作日内 |
 | 因不当行为被解雇 | 最后雇佣日；不能做到时，在其后 3 个工作日内 |
 
-这些期限来自 [MOM：支付工资](https://www.mom.gov.sg/employment-practices/salary/paying-salary)。佣金何时到期还要查合同、公司政策或既有做法。结算单应逐项列出未付工资、加班费、年假折现、代通知金、约定佣金及各项扣款；不要只核对最后转入银行的总数。
+这些期限来自 [MOM：支付工资](https://www.mom.gov.sg/employment-practices/salary/paying-salary)。佣金何时到期还要查合同、公司政策或既有做法。结算单应逐项列出未付工资、加班费、年假折现、代通知金、约定佣金及各项扣款。
 
 需要 IR21 税清的非公民雇员会遇到另一项安排：雇主须从知道即将离职或离境之日起暂扣应付钱款，再按 IRAS 指令缴税和释放余额。请向人事部门索取 IR21 提交日期、暂扣明细和后续指令进度，提前安排这段期间的生活费用。应先核对是否属于免税清情形；具体条件和付款期限见 [离职与离境税清](/book/work/tax/leaving-singapore/)。[IRAS：税清办理步骤](https://www.iras.gov.sg/taxes/individual-income-tax/employers/tax-clearance-for-foreign-spr-employees-(ir21)/getting-tax-clearance-a-step-by-step-guide)
 
