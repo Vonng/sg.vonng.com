@@ -24,3 +24,5 @@ weight: 50
 家属准备自行经营时，按[创业篇的家属准证分支](/book/work/business/starting-business/)核本人许可及申请次序。
 
 孩子正在或准备就读基础教育时，从[课程、考试与学习支持](/book/people/school/learning/)核对收费身份、学校费用、母语、升学及特殊教育支持。
+
+家人需要辅具或住宅调整时，从[残障支持](/book/people/accessibility/disability/)了解评估、验证及申请材料，并让实际使用者参与设备和服务选择。

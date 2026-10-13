@@ -22,3 +22,5 @@ weight: 10
 网上没有名额或无法使用账户时，就医页列有电话和现场帮助。计划使用商业保单支付时，按[保险与理赔](/book/work/finance/insurance/)核网络、预授权、现金差额和文件；日常筛查、疫苗及牙眼预约接[预防保健](/book/people/healthcare/preventive-care/)。
 
 心理、情绪或适应压力影响生活时，使用[心理健康与求助](/book/people/accessibility/mental-health/)选择危机支持、社区评估或医疗入口。
+
+治疗后仍需要行动、视听或其他持续支持，接[残障评估、辅具与复工安排](/book/people/accessibility/disability/)，向治疗师或社工说明每天难以完成的活动。

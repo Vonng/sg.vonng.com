@@ -1,6 +1,6 @@
 # B05 个人税务更正、争议与缴款：作者研究
 
-作者root；实际查阅2026-10-13 Asia/Singapore。原件位于忽略目录 `.cache/research/b05-tax/corr-open1…11.txt`、`corrections-search1.txt`、`corr-search2.txt`。搜索只定位；下列范围为实际主管详文。普通申报主文及离境税清沿用accepted，不把此研究自动接收到公开站。
+作者root；实际查阅2026-10-13 Asia/Singapore。原件位于忽略目录 `.cache/research/b05-tax/corr-open1…13.txt（含open12-sfa）`、`corrections-search1.txt`、`corr-search2.txt`。搜索只定位；下列范围为实际主管详文。普通申报主文及离境税清沿用accepted，不把此研究自动接收到公开站。
 
 | 编号与真实来源 | 本次实际阅读与拟支持事实 | 条件、版本及未知 |
 | --- | --- | --- |
@@ -14,7 +14,7 @@
 | C08 [MOF当前所链ITBR指南](https://isomer-user-content.by.gov.sg/153/dfa7b2c9-cbed-464e-9ae1-33c1f18ca1bd/itbr-only-guide-on-how-to-appeal-to-the-income-tax-board-of-review.pdf) | 8页实体全文pdftotext实际通读；正常HTTPS200，737189B/SHA334b370097c5f056611871760665b475c0e400c06a4308caacbe0516e43b3430；本人实际目视物理3、5页。步骤、无电子渠道秘书/地址/迟交需批准、grounds/CMC/听证、2025-04-01分档75/200/400/600及93A另押250、改期需事先征对方意见且非必准、上级法律争点边界 | 仅3/5页图片目视不称8页全目视。公司异议期限、s93A实体法条件、High Court完整提交尚须主管法条细核，不能仅据本指南扩写。当前表单/听证材料附件未读，列为后续。 |
 | C09 [IRAS个人联系方式与升级](https://www.iras.gov.sg/contact-us/individual-income-tax) | open9 L913—1150与open10 L1150—1185，普通/追缴电话、时段、myTaxMail/SFA、无登录一般询问、完整资料后6月或明确僵局升级条件 | 不把询问表当正式异议/暂停期限；自雇、雇主表不同。大量AIS申报细节阅读但经营篇须另定范围。未实际拨电邮。 |
 | C10 [迟报或未报](https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/understanding-my-income-tax-filing/late-filing-or-non-filing-of-individual-income-tax-returns-form-b1-b-p-m) | open10 L915—1018及open11 L1014—1023；估税照缴且立即补报、composition须补报与付并行、豁免已补报/前两年准时报、传票、当前无在线/旧YA邮寄纸表 | 当前YA网上延期、收到传票须按日出庭申请；旧YA无延期已实读。未读附属法细节不补写。 |
-| C11 [退款](https://www.iras.gov.sg/quick-links/refunds) | open11 L933—987及open10 L987—1125实际；GIRO与PayNowNRIC/FIN、无本地银行TT、2026-06-02前TT重提交、币别费差、少于100TT/少于15自动例外、税罚抵扣/未完评估/资料缺失例外 | 2026-01-01起不再退支票、外籍本地账户/PayNowFIN及GIRO开户证件分支已核；护照开户的GIRO只支付，FIN开户才衔接退款。1125后利息/小额完整申请余段尚未采用，不称整页全读；未下载参与银行PDF。 |
+| C11 [退款](https://www.iras.gov.sg/quick-links/refunds) | open11 L933—987及open10 L987—1125实际；GIRO与PayNowNRIC/FIN、无本地银行TT、2026-06-02前TT重提交、币别费差、少于100TT/少于15自动例外、税罚抵扣/未完评估/资料缺失例外 | 2026-01-01起不再退支票、外籍本地账户/PayNowFIN及GIRO开户证件分支已核；护照开户的GIRO只支付，FIN开户才衔接退款。open13已补读L1122—1155小额申请姓名/税号/金额/联系方式、30日处理及SORA迟退利息条件，GST例不作为个人条件；未下载参与银行PDF。 |
 
 | C12 [SFA外国个人税务账户](https://www.iras.gov.sg/digital-services/others/singpass-foreign-user-account-(sfa)-for-foreign-individuals) | 2026-10-13真实open12-sfa L904—968主体及全部7问已完整读，页面2026-08-13；无SG证件、原NRIC/FIN、另机构SFA、Corppass企业场景；本国身份证或至少6月护照、每人独立邮箱、原税号、10工作日邮件、90天激活、次工作日同步、证件到期更新与找回 | 不把有SFA当任何政府服务都可通用；无政府证件申请可含放弃SC/PR或已取消FIN。未开申请表或真实账号，也未看步骤图；后续采用时须保持独立邮箱、原税号及超期重申的失败链。 |
 
@@ -25,3 +25,10 @@
 VDP起算日冲突为真实未闭项：C03当前网页个人例子4月18日，C04当前2026-01-30版脚注4月15日并明确非延期日期。应继续核现行法定截止/具体e-filing宽免及主管解释，正文先明确边界，不给4月15—18期间资格承诺。原accepted personal-tax关于2026申报窗口4月18与此减罚法定起算是不同问题，不据此回退已核申报日期。
 
 完整行动章拟覆盖：分辨更正/补报/漏减免/VDP/缴款困难/正式上诉，六身份的登录与税居分开，材料→提交确认→补件→付款→结果/退款→失败升级。C11前段已补；SFA详细规则已由C12闭合，尚需核所采用申请附件和主管法条细节；以真实已读范围写稿，不建公开空页。本文件目前是researching证据，不是独立事实通过或正文冻结记录。
+
+## 本轮补核与明确止损（19:50后）
+
+- C11退款L1122—1155现已实际完整读：少于S$15可请求退款并提供金额/姓名/税号/电话邮箱；30日处理，保留税款抵未来税须明确指示。一般迟退利息SORA，以税款贷项产生与完整资料收到较后者起30日，自动退款排除情形不付；案例4.7%不是当前固定利率，不采为读者现行利率。公司、GST和其他税种特殊分支不套个人所得税。
+- SSO搜索定位的当前ITA章节 `https://sso.agc.gov.sg/Act/ITA1947?ProvIds=P117-`，web打开内部错误，正常HTTPS403/919B及唯一8888 403/919B均失败，记录ita-p117-attempts.json，不重试。搜索长摘要不作为已读法条；个人30日及上诉流程仍用实际IRAS/MOF主管详文，不能凭公司s93A问答或旧判例拼成本页个人条件。
+- 新检索发现2026修法线索，已实际打开并完整读[MOF2026-10-06二读讲话](https://www.mof.gov.sg/news-resources/newsroom/second-reading-opening-speech-on-the-finance--income-taxes--bill---2m-jeffrey-siow/)主体L32—95。第13段说明从2027-07-01要求**公司**通过电子服务提出异议/修订；不得套给本篇个人。20%固定支出/收入≤50,000选项、公司回扣及AI抵扣只作为running-business待查主管操作细则的研究线索，不据讲话推所有实施日。未把二读讲话当成已核御准或刊宪。
+- 网搜命中旧MOF14 June2024指南50元个人费，当前MOF入口实际链接的2025-04-01新指南才是本篇流程和分档费来源，已查C07/08；旧PDF不采用。

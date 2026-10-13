@@ -807,5 +807,16 @@
     "body_sha256": "2654d1f5e394aa88ba5d0d8a2044c9be09f623278e0a71c2e27042e8c37472e5",
     "reviewed_file_sha256": "e118ac109e5e7eb2867824110dd0aace4115b68292b1ae71885caed0ee04387f",
     "engineering": "B04G production and actual desktop/mobile passed; sampled print and final sync recorded in ops/checks/b04g-acceptance.json"
+  },
+  "content/book/people/accessibility/disability.md": {
+    "author": "care_finance",
+    "facts": "identity",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b04-disability-facts.md",
+    "editorial_report": "ops/reviews/b04-disability-editorial.md",
+    "body_sha256": "baa6a1622c9b963aedda460137b0f2203ad6d2dbf250df647cdf754527a909f0",
+    "reviewed_file_sha256": "ca1e9ace952dc6db01af0e569042952b92494a3c1025afc9ccb9ced5bb5d390f",
+    "engineering": "B04H production and actual desktop/mobile passed; sampled print and final sync recorded in ops/checks/b04h-acceptance.json"
   }
 }

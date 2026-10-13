@@ -93,3 +93,8 @@ weight: 30
 | Full SBB / PG / G1、G2、G3 | 全面科目编班 / 入学组别 / 科目级别 | [科目与升学](/book/people/school/learning/) |
 | SEC / PSE | 新加坡—剑桥中学教育证书 / 中学后教育 | [2027—2028过渡](/book/people/school/learning/) |
 | SEN / SPED / AA | 特殊教育需要 / 特殊教育学校 / 考试便利安排 | [学习支持](/book/people/school/learning/) |
+| DVF / ADL | 残障验证表 / 日常生活活动 | [评估与验证](/book/people/accessibility/disability/) |
+| ATF / SMF | 辅助科技基金 / 乐龄行动及辅助基金 | [辅具与资助](/book/people/accessibility/disability/) |
+| EASE | 乐龄易计划；组屋及私宅分支条件各异 | [住宅调整](/book/people/accessibility/disability/) |
+| JPJS / H2W / ODP | 就业安置与支持 / 医院到工作 / 开门计划 | [工作支持](/book/people/accessibility/disability/) |
+| DAC / ESH | 日间活动中心 / 综合社区服务中心 | [日间与社区支持](/book/people/accessibility/disability/) |

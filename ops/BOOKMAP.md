@@ -1,6 +1,6 @@
 # 全书内容地图
 
-更新：2026-10-13（Asia/Singapore）。用户本次明确续跑，get_goal已实查active；继续完整五部分28领域。此前82源交接快照保留；本次恢复核实109源与实际审核版本，恢复三条独立写审线。恢复后累计接收77主题，学校课程／创业经营见checks/b04g-acceptance.json；劳动权益／心理健康／跨境个税见checks/b04f-acceptance.json，债务与预防支付日期维护见checks/b04e-acceptance.json；分居安全／TG／储蓄投资／保险及预防原版见checks/b04d-acceptance.json；高教／药品／家政移工／SRS见checks/b04c-acceptance.json；医疗记录／托育及上一六篇分别见b04b与b04a。历史现场见HANDOFF-2026-10-13.md。这是持续目标的覆盖地图；候选路径只登记于此，不生成空正文。覆盖认定须检查每个领域的必要分支，文章数量不作完成门槛。
+更新：2026-10-13（Asia/Singapore）。用户本次明确续跑，get_goal已实查active；继续完整五部分28领域。此前82源交接快照保留；本次恢复核实109源与实际审核版本，恢复三条独立写审线。恢复后累计接收78主题，残障支持见checks/b04h-acceptance.json；学校课程／创业经营见checks/b04g-acceptance.json；劳动权益／心理健康／跨境个税见checks/b04f-acceptance.json，债务与预防支付日期维护见checks/b04e-acceptance.json；分居安全／TG／储蓄投资／保险及预防原版见checks/b04d-acceptance.json；高教／药品／家政移工／SRS见checks/b04c-acceptance.json；医疗记录／托育及上一六篇分别见b04b与b04a。历史现场见HANDOFF-2026-10-13.md。这是持续目标的覆盖地图；候选路径只登记于此，不生成空正文。覆盖认定须检查每个领域的必要分支，文章数量不作完成门槛。
 
 ## 内容与资格模型
 
@@ -165,8 +165,8 @@
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
 | `/book/people/accessibility/mental-health/` | 压力孤独与危机怎样获得支持 | integrated（事实/第三编辑/生产与渲染通过；B04F接收版本见accepted.json） |
-| `/book/people/accessibility/disability/` | 评估辅具交通住宅工作数字无障碍怎样申请 | written（care作者/identity事实/root第三编辑已过；待B04H实际工程） |
-| `/book/people/accessibility/caregiver-support/` | 照顾者喘息服务与费用资格怎样查 | planned |
+| `/book/people/accessibility/disability/` | 评估辅具交通住宅工作数字无障碍怎样申请 | integrated（care作者/identity事实/root第三编辑及B04H工程通过） |
+| `/book/people/accessibility/caregiver-support/` | 照顾者喘息服务与费用资格怎样查 | researching（care主管原文断点已保存） |
 
 ### 15. 亲密关系、婚姻、家庭与生育（family）
 
@@ -199,7 +199,7 @@
 |---|---|---|
 | `/book/people/learning/higher-education/` | 大学理工ITE怎样申请和比较费用 | integrated（独立事实、第三编辑、B04C生产及实际渲染通过；accepted SHA绑定） |
 | `/book/people/learning/tuition-grant/` | TuitionGrant义务和学生实习工作条件 | integrated（B04D两轮审稿及实际工程通过，主管冲突如实保留） |
-| `/book/people/learning/adult-learning/` | SkillsFuture培训质量海外学历职业资格怎样核验 | planned |
+| `/book/people/learning/adult-learning/` | SkillsFuture培训质量海外学历职业资格怎样核验 | researching（daily已核E111—115并继续完整行动链） |
 
 ### 18. 英语、华语与多语生活（language）
 
@@ -241,7 +241,7 @@
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
 | `/book/work/employment/employment-rights/` | 工资工时休假工资单哪些人适用 | integrated（事实/第三编辑/生产与渲染通过；B04F接收版本见accepted.json） |
-| `/book/work/employment/injury/` | 职业安全工伤赔偿保险怎样求助 | planned |
+| `/book/work/employment/injury/` | 职业安全工伤赔偿保险怎样求助 | researching（identity已核I01—33，完整写作中） |
 | `/book/work/employment/leaving-job/` | 辞职解雇裁员后的准证税务家属怎样处理 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 | `/book/work/employment/hardship/` | 薪资争议和收入中断怎样找TADM及生活支持 | planned |
 

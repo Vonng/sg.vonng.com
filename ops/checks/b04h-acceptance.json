@@ -1,0 +1,1739 @@
+{
+  "date": "2026-10-13",
+  "timezone": "Asia/Singapore",
+  "batch": "B04H",
+  "topics": {
+    "content/book/people/accessibility/disability.md": {
+      "author": "care_finance",
+      "facts": "identity",
+      "editor": "root",
+      "date": "2026-10-13",
+      "report": "ops/reviews/b04-disability-facts.md",
+      "editorial_report": "ops/reviews/b04-disability-editorial.md",
+      "body_sha256": "baa6a1622c9b963aedda460137b0f2203ad6d2dbf250df647cdf754527a909f0",
+      "reviewed_file_sha256": "ca1e9ace952dc6db01af0e569042952b92494a3c1025afc9ccb9ced5bb5d390f",
+      "engineering": "B04H production and actual desktop/mobile passed; sampled print and final sync recorded in ops/checks/b04h-acceptance.json"
+    }
+  },
+  "production": {
+    "source_pages": 134,
+    "topics": 80,
+    "drafts": 2,
+    "html": 134,
+    "internal_references": 23112,
+    "external_references_skipped": 6600,
+    "errors": []
+  },
+  "browser": {
+    "base": "http://127.0.0.1:1328",
+    "at": "2026-10-13T11:46:55.973Z",
+    "checks": [
+      {
+        "label": "desktop",
+        "path": "/",
+        "h1": 1,
+        "width": 1440,
+        "scroll": 1440,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "desktop",
+        "path": "/book/",
+        "h1": 1,
+        "width": 1440,
+        "scroll": 1440,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "desktop",
+        "path": "/book/people/",
+        "h1": 1,
+        "width": 1440,
+        "scroll": 1440,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "desktop",
+        "path": "/book/people/accessibility/",
+        "h1": 1,
+        "width": 1440,
+        "scroll": 1440,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "desktop",
+        "path": "/book/people/accessibility/disability/",
+        "h1": 1,
+        "width": 1440,
+        "scroll": 1440,
+        "strong": 26,
+        "tables": 2,
+        "brokenImages": []
+      },
+      {
+        "label": "desktop",
+        "path": "/docs/routes/illness/",
+        "h1": 1,
+        "width": 1440,
+        "scroll": 1440,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "desktop",
+        "path": "/docs/profiles/worker/",
+        "h1": 1,
+        "width": 1440,
+        "scroll": 1440,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "desktop",
+        "path": "/docs/profiles/family/",
+        "h1": 1,
+        "width": 1440,
+        "scroll": 1440,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "desktop",
+        "path": "/docs/profiles/student/",
+        "h1": 1,
+        "width": 1440,
+        "scroll": 1440,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "desktop",
+        "path": "/docs/glossary/",
+        "h1": 1,
+        "width": 1440,
+        "scroll": 1440,
+        "strong": 0,
+        "tables": 1,
+        "brokenImages": []
+      },
+      {
+        "label": "desktop",
+        "dropdown": "阅读",
+        "children": 5
+      },
+      {
+        "label": "desktop",
+        "dropdown": "事项",
+        "children": 12
+      },
+      {
+        "label": "desktop",
+        "dropdown": "身份",
+        "children": 6
+      },
+      {
+        "label": "desktop",
+        "keyboardCard": "/book/foundations/"
+      },
+      {
+        "label": "desktop",
+        "nonCurrentBranch": true,
+        "keyboardFold": true
+      },
+      {
+        "label": "desktop",
+        "search": "CPF",
+        "results": "全书导读\nCPF 基础：谁要缴、工资怎样扣、钱能做什么\n按身份、年龄、PR 阶段和就业形式判断 CPF 缴纳，并理解住房、医疗与退休账户。\n购房预算：税、现金、CPF 与住房贷款\n按购房身份、共同买家、现有住宅与贷款计算印花税，核清现金和 CPF 能支付的项目，并安排付款、换屋及贷款受阻后的下一步。\n银行、CPF与个人财务\n安排现金流、银行和CPF，比较储蓄投资与保险，并处理借款、债务困难及SRS的税务和提款条件。\n工作、收入、财务与经营\n理解工作安排、CPF、税务与日常财务。\n储蓄与投资：存款、国债、证券和基金怎样买卖\n按用钱时间比较存款、SSB、T-bills、股票和基金，准备银行及证券账户，核对费用和订单，并安排赎回、结算与资料更新。\n分居、离婚与家庭安全：孩子、财产和求助\n遇到关系破裂或家庭暴力，先安排安全，再按民事或穆斯林婚姻程序处理离婚、孩子、生活费、财产与居留，并找到保护令和法律援助入口。\n大学、理工与 ITE：申请、费用和在校生活\n按现有学历和身份选择升学路径，计算当期学费与资助，办理学生贷款，并处理实习、学习支持和校园问题。\n开始经营：身份、企业形式与注册开业\n先核本人经营权限与营业场所，再比较独资、合伙、LLP和公司，准备Bizfile注册、UEN、Corppass及开业前的牌照和责任。\n查询入口\n新加坡公民\n从CPF、医疗与家人人生安排进入。\n永久居民 PR\n核对取得PR日期、取得途径和离境安排。"
+      },
+      {
+        "label": "desktop",
+        "search": "地铁",
+        "results": "全书导读\n地铁和巴士怎样乘、怎样付费\n第一次乘新加坡地铁或公共巴士，先准备一张可用的交通卡或感应银行卡，进出站、上下车都用同一张卡。手机与实体卡即使绑定同一个银行账…\n步行、骑行与助行工具可以走哪里\n…，优先查有连续坡道、电梯和安全过街的路线；中途接地铁或巴士，可看公共交通的无障碍安排。雷雨或路面湿滑时，留出步行时间，设备刹车和轮胎也要先检查。 五类工具的路径…\n全书导读\n…理养宠物：住处许可、日常花费与照顾责任交通与出行地铁和巴士怎样乘、怎样付费驾照、租买车与日常驾驶出租车和网约车怎样叫、怎样付费步行、骑行与助行工具可以走哪里机场…\n小贩中心与日常社交生活\n…026 年 3 月的国会答复说明，部分大型宿舍及地铁站设有前往康乐中心的免费接驳。组织活动时，除了安排项目，也要确认参与者怎样到达和返程。MOM 康乐中心目录、…\n怎样比较新加坡的生活圈\n…经形成的区域中心，商业设施与住宅相邻，并连接两条地铁线。裕廊湖区（Jurong Lake District）则把裕廊东一带的商业活动与湖畔休闲空间联系起来，仍在…\n查询入口\n中英术语与本地用语\n…保健储蓄、退休账户 CPF MRT / LRT 地铁 / 轻轨 乘车 PAB / PMD / PMA 电动助力脚踏车 / 个人移动设备 / 个人代步辅助设备 骑…"
+      },
+      {
+        "label": "desktop",
+        "search": "Singlish",
+        "results": "全书导读\n在多语环境里，把话听懂、把事说清\n理解英语、华语、马来语、泰米尔语与方言的生活位置，学习应对 Singlish、电话和办事沟通。\n约时间、排队与相处的分寸\n在预约、通勤、同事邀约和邻里交往中，怎样把时间、承诺、隐私与衣着要求说清楚。\n多语家庭：读物、日常练习与学校衔接\n按家人的实际语言和学习需要安排共读与交流，找到英语、华语、马来语、泰米尔语及手语资源，并准备海外学习与返校沟通。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+      },
+      {
+        "label": "desktop",
+        "darkMode": true
+      },
+      {
+        "label": "mobile",
+        "path": "/",
+        "h1": 1,
+        "width": 390,
+        "scroll": 390,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "mobile",
+        "path": "/book/",
+        "h1": 1,
+        "width": 390,
+        "scroll": 390,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "mobile",
+        "path": "/book/people/",
+        "h1": 1,
+        "width": 390,
+        "scroll": 390,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "mobile",
+        "path": "/book/people/accessibility/",
+        "h1": 1,
+        "width": 390,
+        "scroll": 390,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "mobile",
+        "path": "/book/people/accessibility/disability/",
+        "h1": 1,
+        "width": 390,
+        "scroll": 390,
+        "strong": 26,
+        "tables": 2,
+        "brokenImages": []
+      },
+      {
+        "label": "mobile",
+        "path": "/docs/routes/illness/",
+        "h1": 1,
+        "width": 390,
+        "scroll": 390,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "mobile",
+        "path": "/docs/profiles/worker/",
+        "h1": 1,
+        "width": 390,
+        "scroll": 390,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "mobile",
+        "path": "/docs/profiles/family/",
+        "h1": 1,
+        "width": 390,
+        "scroll": 390,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "mobile",
+        "path": "/docs/profiles/student/",
+        "h1": 1,
+        "width": 390,
+        "scroll": 390,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "mobile",
+        "path": "/docs/glossary/",
+        "h1": 1,
+        "width": 390,
+        "scroll": 390,
+        "strong": 0,
+        "tables": 1,
+        "brokenImages": []
+      },
+      {
+        "label": "mobile",
+        "homeMenu": true
+      },
+      {
+        "label": "mobile",
+        "keyboardCard": "/book/foundations/"
+      },
+      {
+        "label": "mobile",
+        "nonCurrentBranch": true,
+        "keyboardFold": true
+      },
+      {
+        "label": "mobile",
+        "search": "CPF",
+        "results": "全书导读\nCPF 基础：谁要缴、工资怎样扣、钱能做什么\n按身份、年龄、PR 阶段和就业形式判断 CPF 缴纳，并理解住房、医疗与退休账户。\n购房预算：税、现金、CPF 与住房贷款\n按购房身份、共同买家、现有住宅与贷款计算印花税，核清现金和 CPF 能支付的项目，并安排付款、换屋及贷款受阻后的下一步。\n银行、CPF与个人财务\n安排现金流、银行和CPF，比较储蓄投资与保险，并处理借款、债务困难及SRS的税务和提款条件。\n工作、收入、财务与经营\n理解工作安排、CPF、税务与日常财务。\n储蓄与投资：存款、国债、证券和基金怎样买卖\n按用钱时间比较存款、SSB、T-bills、股票和基金，准备银行及证券账户，核对费用和订单，并安排赎回、结算与资料更新。\n分居、离婚与家庭安全：孩子、财产和求助\n遇到关系破裂或家庭暴力，先安排安全，再按民事或穆斯林婚姻程序处理离婚、孩子、生活费、财产与居留，并找到保护令和法律援助入口。\n大学、理工与 ITE：申请、费用和在校生活\n按现有学历和身份选择升学路径，计算当期学费与资助，办理学生贷款，并处理实习、学习支持和校园问题。\n开始经营：身份、企业形式与注册开业\n先核本人经营权限与营业场所，再比较独资、合伙、LLP和公司，准备Bizfile注册、UEN、Corppass及开业前的牌照和责任。\n查询入口\n新加坡公民\n从CPF、医疗与家人人生安排进入。\n永久居民 PR\n核对取得PR日期、取得途径和离境安排。"
+      },
+      {
+        "label": "mobile",
+        "search": "地铁",
+        "results": "全书导读\n地铁和巴士怎样乘、怎样付费\n第一次乘新加坡地铁或公共巴士，先准备一张可用的交通卡或感应银行卡，进出站、上下车都用同一张卡。手机与实体卡即使绑定同一个银行账…\n步行、骑行与助行工具可以走哪里\n…，优先查有连续坡道、电梯和安全过街的路线；中途接地铁或巴士，可看公共交通的无障碍安排。雷雨或路面湿滑时，留出步行时间，设备刹车和轮胎也要先检查。 五类工具的路径…\n全书导读\n…理养宠物：住处许可、日常花费与照顾责任交通与出行地铁和巴士怎样乘、怎样付费驾照、租买车与日常驾驶出租车和网约车怎样叫、怎样付费步行、骑行与助行工具可以走哪里机场…\n小贩中心与日常社交生活\n…026 年 3 月的国会答复说明，部分大型宿舍及地铁站设有前往康乐中心的免费接驳。组织活动时，除了安排项目，也要确认参与者怎样到达和返程。MOM 康乐中心目录、…\n怎样比较新加坡的生活圈\n…经形成的区域中心，商业设施与住宅相邻，并连接两条地铁线。裕廊湖区（Jurong Lake District）则把裕廊东一带的商业活动与湖畔休闲空间联系起来，仍在…\n查询入口\n中英术语与本地用语\n…保健储蓄、退休账户 CPF MRT / LRT 地铁 / 轻轨 乘车 PAB / PMD / PMA 电动助力脚踏车 / 个人移动设备 / 个人代步辅助设备 骑…"
+      },
+      {
+        "label": "mobile",
+        "search": "Singlish",
+        "results": "全书导读\n在多语环境里，把话听懂、把事说清\n理解英语、华语、马来语、泰米尔语与方言的生活位置，学习应对 Singlish、电话和办事沟通。\n约时间、排队与相处的分寸\n在预约、通勤、同事邀约和邻里交往中，怎样把时间、承诺、隐私与衣着要求说清楚。\n多语家庭：读物、日常练习与学校衔接\n按家人的实际语言和学习需要安排共读与交流，找到英语、华语、马来语、泰米尔语及手语资源，并准备海外学习与返校沟通。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+      },
+      {
+        "label": "mobile",
+        "darkMode": true
+      }
+    ],
+    "errors": [],
+    "screenshots": [
+      ".cache/render-b04h/desktop-home.png",
+      ".cache/render-b04h/desktop-topic.png",
+      ".cache/render-b04h/desktop-navigation.png",
+      ".cache/render-b04h/desktop-dark.png",
+      ".cache/render-b04h/mobile-home.png",
+      ".cache/render-b04h/mobile-topic.png",
+      ".cache/render-b04h/mobile-topic-table.png",
+      ".cache/render-b04h/mobile-navigation.png",
+      ".cache/render-b04h/mobile-dark.png"
+    ],
+    "print": {
+      "pages": 107,
+      "refs": 4015,
+      "sourceLists": 78,
+      "relative": [],
+      "broken": []
+    },
+    "pass": true
+  },
+  "extra_browser": {
+    "at": "2026-10-13T11:46:55.975Z",
+    "checks": [
+      {
+        "label": "desktop",
+        "disabilityLeafClick": true,
+        "keyboardFold": true
+      },
+      {
+        "label": "desktop",
+        "disabilitySearchClick": true
+      },
+      {
+        "label": "desktop",
+        "disabilityCriticalText": true,
+        "table": "家庭人均月收入PCHI\t公民\tPR\n不超过S$1,500\t90%\t60%\nS$1,501—2,600\t75%\t50%\nS$2,601—3,600\t40%\t20%\nS$3,601—4,800\t20%\t10%\n超过S$4,800\t不获此项补贴\t不获此项补贴"
+      },
+      {
+        "label": "desktop",
+        "housingHeading": "调整住宅，先问使用者的需要"
+      },
+      {
+        "label": "desktop",
+        "actualNavLink": "/docs/routes/illness/",
+        "target": "/book/people/accessibility/disability/"
+      },
+      {
+        "label": "desktop",
+        "actualNavLink": "/docs/profiles/worker/",
+        "target": "/book/people/accessibility/disability/"
+      },
+      {
+        "label": "desktop",
+        "actualNavLink": "/docs/profiles/family/",
+        "target": "/book/people/accessibility/disability/"
+      },
+      {
+        "label": "desktop",
+        "actualNavLink": "/docs/profiles/student/",
+        "target": "/book/people/accessibility/disability/"
+      },
+      {
+        "label": "mobile",
+        "disabilityLeafClick": true,
+        "keyboardFold": true
+      },
+      {
+        "label": "mobile",
+        "disabilitySearchClick": true
+      },
+      {
+        "label": "mobile",
+        "disabilityCriticalText": true,
+        "table": "家庭人均月收入PCHI\t公民\tPR\n不超过S$1,500\t90%\t60%\nS$1,501—2,600\t75%\t50%\nS$2,601—3,600\t40%\t20%\nS$3,601—4,800\t20%\t10%\n超过S$4,800\t不获此项补贴\t不获此项补贴"
+      },
+      {
+        "label": "mobile",
+        "housingHeading": "调整住宅，先问使用者的需要"
+      },
+      {
+        "label": "mobile",
+        "actualNavLink": "/docs/routes/illness/",
+        "target": "/book/people/accessibility/disability/"
+      },
+      {
+        "label": "mobile",
+        "actualNavLink": "/docs/profiles/worker/",
+        "target": "/book/people/accessibility/disability/"
+      },
+      {
+        "label": "mobile",
+        "actualNavLink": "/docs/profiles/family/",
+        "target": "/book/people/accessibility/disability/"
+      },
+      {
+        "label": "mobile",
+        "actualNavLink": "/docs/profiles/student/",
+        "target": "/book/people/accessibility/disability/"
+      }
+    ],
+    "errors": [],
+    "pass": true
+  },
+  "print": {
+    "at": "2026-10-13T11:47:57.174Z",
+    "base": "http://127.0.0.1:1328",
+    "menuIcons": [
+      "fa-solid fa-book-open",
+      "fa-solid fa-list-check",
+      "fa-solid fa-id-card",
+      "fa-solid fa-language"
+    ],
+    "print": {
+      "background": "rgb(255, 255, 255)",
+      "cells": [
+        "rgb(17, 17, 17)"
+      ],
+      "sources": 78,
+      "relative": [],
+      "broken": []
+    },
+    "pass": true
+  },
+  "print_physical_pages": 446,
+  "visual_review": {
+    "reviewer": "root",
+    "web_images": [
+      "mobile-disability-table.png",
+      "desktop-disability-housing.png"
+    ],
+    "pdf_physical_pages": [
+      253,
+      254
+    ],
+    "result": "Actual two webpage and two PDF images viewed; Chinese, ATF income table, repeated table header across print page break, equipment and housing support readable. Sampled visual review only."
+  },
+  "sync": {
+    "files": 320,
+    "paths_sizes_sha256_equal": true,
+    "logs": [
+      ".cache/b04h-final-gate.txt",
+      ".cache/b04h-sync.txt"
+    ]
+  },
+  "output_inventory": {
+    "llms.txt": {
+      "bytes": 4269,
+      "sha256": "8d2f1fa318298c1ba1a99e4ff0be2d9fb32cd470947a00bfffdf58c26ec7b9c3"
+    },
+    "navigation.json": {
+      "bytes": 48575,
+      "sha256": "d391c9ce9095efbeb145056a677b69ad755e747360c5c1715db1d9b33ba72c46"
+    },
+    "index.html": {
+      "bytes": 60540,
+      "sha256": "f5d7fc84c70aa2413fd00ff37ea7c9380c5a1e55b068f5d1a40ba85d22f006ef"
+    },
+    "404.html": {
+      "bytes": 34742,
+      "sha256": "fa1d11ade46cad2bcc7742cc242770808f286a9485304d33943b7d786f0e2b1e"
+    },
+    "index.md": {
+      "bytes": 9337,
+      "sha256": "b7a02d92d0dcfb1402a0f1c3179612d684e7ea440506b2dbe4c3a539666bfdad"
+    },
+    "offline-search-index.zh.6fc4d739e64154d6f5ee45ae3c839f4d.json": {
+      "bytes": 1072468,
+      "sha256": "694f09ab7a0b5f8f37a9d3987c82f317ea753dfcece01a3ce460979542396c6d"
+    },
+    "sitemap.xml": {
+      "bytes": 17041,
+      "sha256": "f8d51b89e5e5f48cbec7a53be5b6ea32b5e40e59ae226d2d03632a0ff1bb3eeb"
+    },
+    "robots.txt": {
+      "bytes": 66,
+      "sha256": "c0444234824ffc0df1722d67436f036c097ff7e24b1750e8a52692c0c7f44d91"
+    },
+    "logo.svg": {
+      "bytes": 330,
+      "sha256": "cf2270940776985064269fa51401d32cedde7c48a0c602d0b440cc509ad57386"
+    },
+    "favicon.svg": {
+      "bytes": 330,
+      "sha256": "cf2270940776985064269fa51401d32cedde7c48a0c602d0b440cc509ad57386"
+    },
+    "images/neighbourhood.svg": {
+      "bytes": 1792,
+      "sha256": "21150f7f6232aa9ddd33d4aa381515c7b586e40ef3183bc694cff9d3c8384180"
+    },
+    "js/actions.min.404f6d6de42bf414c7590776bc5620038b9e38d59b413338757188542251d8df.js": {
+      "bytes": 9710,
+      "sha256": "404f6d6de42bf414c7590776bc5620038b9e38d59b413338757188542251d8df"
+    },
+    "js/core.min.9d572929bf152f8c3018bd8c276e7338cecd5fdada90aefbf09c56c913fb7668.js": {
+      "bytes": 91702,
+      "sha256": "9d572929bf152f8c3018bd8c276e7338cecd5fdada90aefbf09c56c913fb7668"
+    },
+    "scss/fontawesome.min.d1b0898e80994c0e0be2e673debfd8c2e5eb8c0b96d55c483e1be19cb01e5d10.css": {
+      "bytes": 98232,
+      "sha256": "d1b0898e80994c0e0be2e673debfd8c2e5eb8c0b96d55c483e1be19cb01e5d10"
+    },
+    "scss/main.min.8723516a46b563f0aec86f4054122b9e16b4db4a63e7648662ad2f04c381ea96.css": {
+      "bytes": 506687,
+      "sha256": "8723516a46b563f0aec86f4054122b9e16b4db4a63e7648662ad2f04c381ea96"
+    },
+    "docs/index.html": {
+      "bytes": 54298,
+      "sha256": "f25006ee261d2fd8dfc9d51eab494ffa62b3df0f62080d5ddebfc4deb6624d93"
+    },
+    "docs/index.md": {
+      "bytes": 730,
+      "sha256": "42cb133583fed729b541e381fa4023b8f3bad38090c7f5090cbf9f37ebac6cf8"
+    },
+    "webfonts/fa-regular-400.woff2": {
+      "bytes": 19512,
+      "sha256": "f4722d10b9e1b41eefe3b51a026312ee1970edb7782f94b0080d3d475945734c"
+    },
+    "webfonts/fa-solid-900.woff2": {
+      "bytes": 119488,
+      "sha256": "24e5fae26b41c08b2df81c91669f5aaae71d81a84a4713fc56b5c621b78dd456"
+    },
+    "webfonts/fa-brands-400.woff2": {
+      "bytes": 115420,
+      "sha256": "ff66d1cfb67dbe3da432bbe36572cabfa4eef0e591303c2cba111474ba1d15bc"
+    },
+    "book/index.html": {
+      "bytes": 111947,
+      "sha256": "9058f765a1f6e3df5346878b42013d57abf1a9eb07bc028d7ca7e320a2359862"
+    },
+    "book/book.json": {
+      "bytes": 61331,
+      "sha256": "3f85b8803b5d0c39ee416ac429e9727a6ba83f1594b4ff42028b972164096831"
+    },
+    "book/index.md": {
+      "bytes": 12950,
+      "sha256": "7dfab2a9ee1bf6b709790d2702ed267b46e0d1c91e30b6e8ae2bc2aeaaee9fd9"
+    },
+    "book/life/index.html": {
+      "bytes": 100571,
+      "sha256": "2ff94e0eb038f86ab717d499798a099bc86decfc39ee0186fe5d745511c43f6c"
+    },
+    "book/life/index.md": {
+      "bytes": 1258,
+      "sha256": "ca59ea2f7dafc50c6988dab85128b49d671ff0613208979802a982220aa1a633"
+    },
+    "book/foundations/index.html": {
+      "bytes": 100514,
+      "sha256": "bffbad51018a926ce4892859fd0083aa8f9b56fffe5bc236af62f985b57f41ea"
+    },
+    "book/foundations/index.md": {
+      "bytes": 1259,
+      "sha256": "d18e63cd0ac21324f73dcbbc9395d9ba9d88d4d997813f4e35c63ba1e2b265ef"
+    },
+    "book/rights/index.html": {
+      "bytes": 99538,
+      "sha256": "1b5f3e9805a3b44d50a2babcc8669a324959669bbad57740c209aefb7f66a472"
+    },
+    "book/rights/index.md": {
+      "bytes": 499,
+      "sha256": "5ce35a2f661cc7f5f560df2fdc6575826dae748ec491e4f012ff3bcc5ecbfe94"
+    },
+    "book/work/index.html": {
+      "bytes": 100273,
+      "sha256": "3ccf5267fcaed608eb43e81aad2adc7120cab34d6063ffe2667ab1d51e2b0b42"
+    },
+    "book/work/index.md": {
+      "bytes": 1095,
+      "sha256": "6d9688ebf4908097b51f8b7dd67a241c1e0bae9b2324c95086292435e72cd8af"
+    },
+    "book/people/index.html": {
+      "bytes": 101104,
+      "sha256": "89e832c9ae5fab45f1933f866037370c7f083e14c6b73e47317becbe1404d438"
+    },
+    "book/people/index.md": {
+      "bytes": 1752,
+      "sha256": "b87b8ded81e3a30215c4f1df91c10a26c034a70e1147a352ccd43fd722913df4"
+    },
+    "book/people/learning/index.html": {
+      "bytes": 100729,
+      "sha256": "8606935601c5f84f38c3dd260791585c22d91b7da00dd84f2d218e529b2575b5"
+    },
+    "book/people/learning/index.md": {
+      "bytes": 1113,
+      "sha256": "8a8b2aa84214e9f92c16aa8f4464a899576db54c1544e072f71e46d4807d908a"
+    },
+    "book/people/healthcare/index.html": {
+      "bytes": 101296,
+      "sha256": "d4272d3d5b3931baf0ce4808b96e7027b98c7ccf86433786c993caa3cdc7ae14"
+    },
+    "book/people/healthcare/index.md": {
+      "bytes": 1709,
+      "sha256": "56fba2acc741e5ea718325fbb81f7a75621e8144bef84d4ff749e89987853acd"
+    },
+    "book/people/family/index.html": {
+      "bytes": 101994,
+      "sha256": "40a98b8461b6c36a7695e3437ece044c98771aa125a61527798ea5a9b476a8f4"
+    },
+    "book/people/family/index.md": {
+      "bytes": 2229,
+      "sha256": "6e4231eca74d1cd431286d2b27cb7c6c4dcf54c447f2634cd56c19c422d880f3"
+    },
+    "book/people/language/index.html": {
+      "bytes": 100576,
+      "sha256": "4c91fae3d408f3705addda8a8fa9721b1cf362326dbd95ba9a57b8a5355119d0"
+    },
+    "book/people/language/index.md": {
+      "bytes": 1128,
+      "sha256": "e01c3d6ffab599312022b8aef5dd5828dfc02e2b7e3ef584d9e8b43b3a7e3ec5"
+    },
+    "book/people/accessibility/index.html": {
+      "bytes": 100732,
+      "sha256": "20e02a33fdc3e9a6ba2fa6c5b6eb5c1d6be0e1010a51093fbab1fcd82b184ec4"
+    },
+    "book/people/accessibility/index.md": {
+      "bytes": 1213,
+      "sha256": "e9151fe96872b5754926a181fda0a52279949e441455820e8d14699c08aaadfd"
+    },
+    "book/people/school/index.html": {
+      "bytes": 99988,
+      "sha256": "0a022bf63f53868d0d8dd3aef9ab46b90ea6c0970643d782f16e42879ebd61d3"
+    },
+    "book/people/school/index.md": {
+      "bytes": 695,
+      "sha256": "feb9e0850983d88c034b76b75c3f4a95ccd19d1fa61e018c8a3ddf08ef0c9f83"
+    },
+    "book/people/school/learning/index.html": {
+      "bytes": 146260,
+      "sha256": "1e454c722f3a3a8803458e631cc1174aadaf70a48bf16640cf5c80407c5d611e"
+    },
+    "book/people/school/learning/index.md": {
+      "bytes": 35919,
+      "sha256": "5ba57cc1adb8c2b4b954fa5af063ba1258cf7afcb1e0312c936d27e53327fb7f"
+    },
+    "book/people/accessibility/disability/index.html": {
+      "bytes": 131160,
+      "sha256": "a95f9831d53c361bed0daa80cc53fa39b3dcae8246b1d62b30e26c2f642da10c"
+    },
+    "book/people/accessibility/disability/index.md": {
+      "bytes": 22646,
+      "sha256": "badf90d3eb5a28e9671d2b4e11ee2e3431ebf29c43fdcf8292a10ba5c13c09c6"
+    },
+    "book/people/accessibility/mental-health/index.html": {
+      "bytes": 130657,
+      "sha256": "08d108569a15ab1ab8b9d75aefcb0c9130f091be6dc7c43da55e539efe9e4547"
+    },
+    "book/people/accessibility/mental-health/index.md": {
+      "bytes": 21980,
+      "sha256": "328cbdb056042cf7c71d66b91ad7ed3dc41bae33fc001a0fa113941915303630"
+    },
+    "book/people/language/multilingual-family/index.html": {
+      "bytes": 116094,
+      "sha256": "ae5bdba4550e86f1971a3e49c3f1a87ef44030d68c0f5a556b1bab4e629f9f9f"
+    },
+    "book/people/language/multilingual-family/index.md": {
+      "bytes": 9488,
+      "sha256": "ce09ba2e9657344c1fee637813636bb525d6c8060e8694a82f0e75824764d135"
+    },
+    "book/people/language/everyday-language/index.html": {
+      "bytes": 114551,
+      "sha256": "ca53f1b46baed72070eeba31b13cf15c729a05d2f0de84f242442c3d654f7c18"
+    },
+    "book/people/language/everyday-language/index.md": {
+      "bytes": 8380,
+      "sha256": "b5f4ad0c3e4079c6d37ed4a993c5a4a2165ddee7db906a5be8195a1af992dd52"
+    },
+    "book/people/language/communication/index.html": {
+      "bytes": 117729,
+      "sha256": "f1bc0d041dcafb849b1b681d4eba8d3dc27e189b7d78eb0338e40cd303b6930e"
+    },
+    "book/people/language/communication/index.md": {
+      "bytes": 10210,
+      "sha256": "651cd047fc0caf56776d19cc53c4bf02c9a63a358a991de09e2e9fefdd90eccb"
+    },
+    "book/people/family/birth/index.html": {
+      "bytes": 118254,
+      "sha256": "dccc11774ace47ce6198e399e50fab7ecefdfa6ce167413784cc3f0a1221002f"
+    },
+    "book/people/family/birth/index.md": {
+      "bytes": 11872,
+      "sha256": "7eee94ec763e0835c69e437c16d0bd3ae8b298c58dff096ae6fedce435e37eb6"
+    },
+    "book/people/family/childcare/index.html": {
+      "bytes": 140360,
+      "sha256": "0531cb4c3eb7f41cf551bfe02f1f5b896a28a86657c02b507e5ac68acefbbb56"
+    },
+    "book/people/family/childcare/index.md": {
+      "bytes": 28947,
+      "sha256": "04a6a50e636e231fa1cb0f329dc7a86654648340d34901f4c60765c80a2898c6"
+    },
+    "book/people/family/separation-safety/index.html": {
+      "bytes": 147290,
+      "sha256": "47470bba09c8c19d28ab2988e9671844709d68da2e87ee66348fb59c0452d95a"
+    },
+    "book/people/family/separation-safety/index.md": {
+      "bytes": 36686,
+      "sha256": "66db128229a4aec77ef66480c04dcb991a8d515b77ee25a4b5e382e61b5fbd4d"
+    },
+    "book/people/family/sexual-health/index.html": {
+      "bytes": 139198,
+      "sha256": "6c4e33a526df2ba861baa3e1c1541971db181cffd96c7245832b9e911e4d9f52"
+    },
+    "book/people/family/sexual-health/index.md": {
+      "bytes": 29082,
+      "sha256": "3f55db7f1fa0c140126f9e7765eb098581133172f3184dd3f7faf626cf3fb657"
+    },
+    "book/people/family/domestic-workers/index.html": {
+      "bytes": 146751,
+      "sha256": "9210796e12078ca5ead3380ea0abf77e35dc787494368a7050ac657e5a59fc00"
+    },
+    "book/people/family/domestic-workers/index.md": {
+      "bytes": 35467,
+      "sha256": "5c234ed6d345aaa4dc4ed78929caedefe59937703c71f8028665061de731152c"
+    },
+    "book/people/family/relationships/index.html": {
+      "bytes": 136090,
+      "sha256": "a7f0f6a9be99a04b7cdbe2348fd71fcd0cc59e2bfd7f2f84bd8c95ba9d1a21d8"
+    },
+    "book/people/family/relationships/index.md": {
+      "bytes": 28441,
+      "sha256": "00fdb6bac1c9b45fde9052482ab9fde969578982da04b518f8b9790f302b583a"
+    },
+    "book/people/healthcare/medicines/index.html": {
+      "bytes": 127982,
+      "sha256": "9c818916a8cb183fea7b49af0bf755641a34cd131415a2d24b9ba7672370ec72"
+    },
+    "book/people/healthcare/medicines/index.md": {
+      "bytes": 20491,
+      "sha256": "b0a214306ae4a2bdfa99702da37058a760acbdaff854d3220248ca951ea8db6c"
+    },
+    "book/people/healthcare/healthcare-payments/index.html": {
+      "bytes": 119993,
+      "sha256": "2a92f6c5353c0eb2181f1173ceb29c342134545fce31f151b48acf98b1342268"
+    },
+    "book/people/healthcare/healthcare-payments/index.md": {
+      "bytes": 11155,
+      "sha256": "7e0c72ef215a3ace3d09ad7adb56c8476b06c1997fb84b14b9008cecbc030a67"
+    },
+    "book/people/healthcare/medical-records/index.html": {
+      "bytes": 133535,
+      "sha256": "0e1d6bc0c84d6c981c30ee2bfaf2638a64160d870fc14435417edf560ac5c2b8"
+    },
+    "book/people/healthcare/medical-records/index.md": {
+      "bytes": 24565,
+      "sha256": "92eb0915e750936c42bc41f042123bec0d49434262e7e8dbd99d625b43e8e391"
+    },
+    "book/people/healthcare/preventive-care/index.html": {
+      "bytes": 131340,
+      "sha256": "3189859aeb92854632b43f44d48f92f3dbef7e6c03ee9510397d8c51fca01d35"
+    },
+    "book/people/healthcare/preventive-care/index.md": {
+      "bytes": 22863,
+      "sha256": "2ea2d0b3db6ffa2c8a85663efed995800d048d2eebb3046ed0ce749a71d3879d"
+    },
+    "book/people/healthcare/getting-care/index.html": {
+      "bytes": 115932,
+      "sha256": "256b9553cc442597eaf7282dba15070d3797745a6f81236c48d0c37ce87b65aa"
+    },
+    "book/people/healthcare/getting-care/index.md": {
+      "bytes": 8913,
+      "sha256": "4bdbdc7b7c01b4be1f82ddcc34fb8125fdd43015815714423d08c40389cb5300"
+    },
+    "book/people/learning/tuition-grant/index.html": {
+      "bytes": 138616,
+      "sha256": "d41b899876dd4a1f78539a1cac9bd228dc2e8aa7706225ae1ca57eaa7bd21141"
+    },
+    "book/people/learning/tuition-grant/index.md": {
+      "bytes": 29166,
+      "sha256": "0ba4022f6bd039a8723ab5a732f4d664081fa08b7375515fb40f23aca3c5cbf1"
+    },
+    "book/people/learning/higher-education/index.html": {
+      "bytes": 136573,
+      "sha256": "0762931f7c975dbbadb4a0f46e7fe4c1665258484138c58e3a9f772db855f5ad"
+    },
+    "book/people/learning/higher-education/index.md": {
+      "bytes": 26376,
+      "sha256": "6042dd1fa848ba2538e07d3bc6a940c8c1425d43e55a3ce2594e7b8819e9f048"
+    },
+    "book/work/business/index.html": {
+      "bytes": 99988,
+      "sha256": "513bda327db642ce7c843eb3b7ec593741eda4eea1d1fca3a939512f0a740c8e"
+    },
+    "book/work/business/index.md": {
+      "bytes": 708,
+      "sha256": "5bf38bc2ea5b5b5a7797a3933eca756a19a962d161bdb01cda51c8e8e419a839"
+    },
+    "book/work/tax/index.html": {
+      "bytes": 100709,
+      "sha256": "3837e859980c29177437a24a37f91cd05ecacd30a9e4092af953d8819494b6b1"
+    },
+    "book/work/tax/index.md": {
+      "bytes": 1279,
+      "sha256": "049f5825f17ee69464af56dfa96fe7a07ee938b1d537aa31c1cf546e68cd4f4d"
+    },
+    "book/work/employment/index.html": {
+      "bytes": 100453,
+      "sha256": "0da973952baeadf2741ac88a05bda36c3fa81eeac72aed6bd2d278ac599159bf"
+    },
+    "book/work/employment/index.md": {
+      "bytes": 1062,
+      "sha256": "12a7b945dae61062ebe0ea6c72d9b9d713795cc9a662fa3e5054a428a9203c33"
+    },
+    "book/work/finance/index.html": {
+      "bytes": 102505,
+      "sha256": "878621a951a45693457c18e461c249aef6e9dc3533e0b333a13927b1f2b01f27"
+    },
+    "book/work/finance/index.md": {
+      "bytes": 2559,
+      "sha256": "445b3d128f11dd4ec75eebb7c3dc85a44cc2bd25ceb7adceb96f5de39e544321"
+    },
+    "book/work/finance/saving-investing/index.html": {
+      "bytes": 130980,
+      "sha256": "7f2355e4f900885321d18bca6c228dd1cc229cf924fd9bd34f1ad0a16e6fb52c"
+    },
+    "book/work/finance/saving-investing/index.md": {
+      "bytes": 22932,
+      "sha256": "8aa6a592d5b2882db606a4d1b36cd1df05159c2b4d0373439f2708d4de5dbd9a"
+    },
+    "book/work/finance/household-budget/index.html": {
+      "bytes": 116822,
+      "sha256": "fd611464b9c1733c37abc54753e6be52ea0bbd6d5c7cafe84d9ce6a2686f8a1d"
+    },
+    "book/work/finance/household-budget/index.md": {
+      "bytes": 9226,
+      "sha256": "00d901d316b01c827ef33618009e94d744be7b3fa12c44915d91b36a65f444ec"
+    },
+    "book/work/finance/cpf-basics/index.html": {
+      "bytes": 121084,
+      "sha256": "5190fb946ede3b120ed85deb73efb2d6274e676c51d2cc32b39615755910a4a0"
+    },
+    "book/work/finance/cpf-basics/index.md": {
+      "bytes": 12972,
+      "sha256": "5a79b3becdbb50157cd653dafb4e5a162d60a82c7f1009326382c011d336ad2f"
+    },
+    "book/work/finance/srs/index.html": {
+      "bytes": 132485,
+      "sha256": "73262fc320063edada6a4a27f513ac94a7edcb5a70df8a0922935eea3f7a999a"
+    },
+    "book/work/finance/srs/index.md": {
+      "bytes": 22933,
+      "sha256": "79c70a2a26eeb9be51a65c791276c636eb2331e60f9ac84e49b1f0d7784527ae"
+    },
+    "book/work/finance/banking/index.html": {
+      "bytes": 132864,
+      "sha256": "ca63a847f79b00bfb4ffdbd116943d6558ddb1c59666e0a46ee7bde9da83de72"
+    },
+    "book/work/finance/banking/index.md": {
+      "bytes": 22774,
+      "sha256": "95e212a67155fee28d4a92660f979d3b62f92f718d8f68bc3b31eabf5a7449d3"
+    },
+    "book/work/finance/debt-disputes/index.html": {
+      "bytes": 131901,
+      "sha256": "de0fdee87b2710db36c68386a5589b8473df435c92d694975cf6fa5f519d8a5b"
+    },
+    "book/work/finance/debt-disputes/index.md": {
+      "bytes": 22949,
+      "sha256": "7286bb33ea7920a9c5c675434c960c4742f60082af181be2b8a6be0c7a17f065"
+    },
+    "book/work/finance/insurance/index.html": {
+      "bytes": 132860,
+      "sha256": "0e24de68c68b5fd095cb9dbeac4158025d7ab24aa0c2ca672593fbe050381543"
+    },
+    "book/work/finance/insurance/index.md": {
+      "bytes": 23225,
+      "sha256": "b26e7fa8b53b2491a3a19a59d6cfbc5e3a41a0bf01dce783d38ce96fdfd7660a"
+    },
+    "book/work/employment/employment-rights/index.html": {
+      "bytes": 147969,
+      "sha256": "c685322a002114a010d160b472c1f1640ddd817dc071d3239e3f38f34701a673"
+    },
+    "book/work/employment/employment-rights/index.md": {
+      "bytes": 36133,
+      "sha256": "a847f235092db575fddd7cb926f966e5161ba99bc1e2808ae284734594bbefeb"
+    },
+    "book/work/employment/leaving-job/index.html": {
+      "bytes": 119743,
+      "sha256": "dbc763026dd4e808b8a31aeed99d01871ebea92f2d07fc0676317a53cbdd4618"
+    },
+    "book/work/employment/leaving-job/index.md": {
+      "bytes": 12594,
+      "sha256": "96a081fe91171f9428ee5558ab241d028c2df044c5be26b6c8c6f4a5c36316e8"
+    },
+    "book/work/tax/personal-tax/index.html": {
+      "bytes": 118499,
+      "sha256": "6eaa097ac1f9b658bebd2e02b00a81386020f23c58e7ae22e2d7b06d13daa283"
+    },
+    "book/work/tax/personal-tax/index.md": {
+      "bytes": 11363,
+      "sha256": "38a5f4c758f4064674a54eb3624834bee657288c15694a6c252b26de19259164"
+    },
+    "book/work/tax/cross-border/index.html": {
+      "bytes": 125575,
+      "sha256": "b2c6f1ec58b1ed2872216f5ea0d1ab18eaf2ecee23f4a84a10761ff425746217"
+    },
+    "book/work/tax/cross-border/index.md": {
+      "bytes": 17846,
+      "sha256": "02b10e9ef5d50c99526c9e3542ec9d280ca6821d2a1179f2f723d7393ec72ae8"
+    },
+    "book/work/tax/leaving-singapore/index.html": {
+      "bytes": 120396,
+      "sha256": "f5df08e3761d1c8af9d93e813ba79b6a9166430d3508823d0af991b25cfc3454"
+    },
+    "book/work/tax/leaving-singapore/index.md": {
+      "bytes": 11958,
+      "sha256": "b4e5ed9475d61f809b41d39447cd31f823109591da51cc1f06a375b62995d440"
+    },
+    "book/work/business/starting-business/index.html": {
+      "bytes": 130823,
+      "sha256": "890b629a57076132594f6bd68ed1ac3ac2557d92ad261841e01dbc0aed59b216"
+    },
+    "book/work/business/starting-business/index.md": {
+      "bytes": 22714,
+      "sha256": "08704ccae8a133f17689141b809bbafaa0b773061787e4c1288a849ea4f52384"
+    },
+    "book/rights/safety/index.html": {
+      "bytes": 99678,
+      "sha256": "c99bf11305e94bf3768979e3baf4395e212e63d6838c3b5c1aa7ab0c3d87a396"
+    },
+    "book/rights/safety/index.md": {
+      "bytes": 576,
+      "sha256": "9ea2de61cd1ffab946028c8114bbbef47b2e76aa5623ece4486c2e6b5fe2284d"
+    },
+    "book/rights/safety/emergencies/index.html": {
+      "bytes": 121401,
+      "sha256": "2c01cf7d996ef7fd4e277d4cfd0e03b3ca5bee0ab75576e02c8e1459eab64a61"
+    },
+    "book/rights/safety/emergencies/index.md": {
+      "bytes": 11790,
+      "sha256": "fdb2c081478a063e5a40f65307f5fa61837919ac6afe5cbf392041677e54e957"
+    },
+    "book/foundations/government/index.html": {
+      "bytes": 100624,
+      "sha256": "3a09a1160d08d44a4c2050ba3bcd9e33e1b2d3986d1b9cd077b81c4bea0f8038"
+    },
+    "book/foundations/government/index.md": {
+      "bytes": 1122,
+      "sha256": "61540c8ebb8df3bf8a5b1a69fa9f9be0462c97b532ebc3aa31da0ef0e6132eed"
+    },
+    "book/foundations/world/index.html": {
+      "bytes": 100643,
+      "sha256": "2439e1f1de11aecca20f52789a3d72c46ec5e4991cd95f8ce87442f0cd94a771"
+    },
+    "book/foundations/world/index.md": {
+      "bytes": 1130,
+      "sha256": "c93acab88de8ae2c135e333d2434fc9eb510646e0021ff18e0b1233ff8153b17"
+    },
+    "book/foundations/society/index.html": {
+      "bytes": 100574,
+      "sha256": "f5220829cf9178d29bba16343fbf5310c147afba6909ba88eed2e205192ad5f8"
+    },
+    "book/foundations/society/index.md": {
+      "bytes": 1129,
+      "sha256": "298cf1a77f4f49f2ed9b63e745c888e8c441f7fc64bb6a88d0a2994f8ff0d38d"
+    },
+    "book/foundations/history/index.html": {
+      "bytes": 100463,
+      "sha256": "a6b6aa51c137738e2d95a3e240dbbfc72ae5cb06f71898ce9c648f6bad00e7a3"
+    },
+    "book/foundations/history/index.md": {
+      "bytes": 1039,
+      "sha256": "480d6448586c282e2f07ad94fdb7a251167018da695085f4180407f9aeceaa30"
+    },
+    "book/foundations/geography/index.html": {
+      "bytes": 100384,
+      "sha256": "17c3a35f0cb74e0d043bd064223b0c86f83cfeb9019b3e26a4745256aefdd07f"
+    },
+    "book/foundations/geography/index.md": {
+      "bytes": 1030,
+      "sha256": "16f13083de9e85b87ec3718a8bce00bb9262930bc6eec842854f4ce0e4a7d2a8"
+    },
+    "book/foundations/culture/index.html": {
+      "bytes": 100435,
+      "sha256": "0373f07ee7341c47c595876956c0b8658f4d0ceb26178028729744b8f533ce51"
+    },
+    "book/foundations/culture/index.md": {
+      "bytes": 1038,
+      "sha256": "3c961241ebb47f4bee3d8adc06878891a6138a2065ca0d867e5dccf5aaf9aa00"
+    },
+    "book/foundations/culture/hawker-social-life/index.html": {
+      "bytes": 109714,
+      "sha256": "65d8f12be63c5ca62c2a424193d6f585af0a808096e1dd028ef12d23f065cd24"
+    },
+    "book/foundations/culture/hawker-social-life/index.md": {
+      "bytes": 6136,
+      "sha256": "b5918daad7ad4e9498baee3aec4593f2c8eaaa98c1e97f33614896cf3109cb2f"
+    },
+    "book/foundations/culture/everyday-etiquette/index.html": {
+      "bytes": 110126,
+      "sha256": "19f4dc5accbe07bf2727485f283709ae9dbfc9995172d2502af30a0c849f75ed"
+    },
+    "book/foundations/culture/everyday-etiquette/index.md": {
+      "bytes": 5437,
+      "sha256": "bf0da6cf5acdaffcfe83a5eb98304632978627f84a06b180d9f16f559d7117c3"
+    },
+    "book/foundations/culture/inequality/index.html": {
+      "bytes": 113805,
+      "sha256": "00e05d7b324fb4ce29a3dd401f9430ddeba015e77428609e97985367a5a553cb"
+    },
+    "book/foundations/culture/inequality/index.md": {
+      "bytes": 8705,
+      "sha256": "a97e6bea55c96524e404753131f6b9fa27c0d3d8d73e139ec5fcb3c95fd29413"
+    },
+    "book/foundations/geography/island-neighbourhoods/index.html": {
+      "bytes": 111186,
+      "sha256": "a7798b8a9ca820a38fdc0c5dd28f2b0a68e0f5c28b5bdee61ee03897aefe63bb"
+    },
+    "book/foundations/geography/island-neighbourhoods/index.md": {
+      "bytes": 6611,
+      "sha256": "a41436f50619912aaf9a696123257ace89ad3cce4b74b21ea48a15ffa9ba11c4"
+    },
+    "book/foundations/geography/resources/index.html": {
+      "bytes": 111715,
+      "sha256": "cd9660b267b29a700e9fd641f571a15c637af3a2e39cbfc4607bdea90ca8b4c8"
+    },
+    "book/foundations/geography/resources/index.md": {
+      "bytes": 7272,
+      "sha256": "d4576c3ab234c9d4296fdea33be1ebeee01fdaafbc3e14851b157313f88cba5e"
+    },
+    "book/foundations/geography/addresses-weather/index.html": {
+      "bytes": 112981,
+      "sha256": "e831b267b9224e41667f570b34c058adab601ea044bdae938d1d48333f22f596"
+    },
+    "book/foundations/geography/addresses-weather/index.md": {
+      "bytes": 6885,
+      "sha256": "049142fe98e263de3e1261658fdbe0bbc59ea6ad3958c6f384d9ed3ed7550022"
+    },
+    "book/foundations/history/memory/index.html": {
+      "bytes": 107805,
+      "sha256": "b5148bfcf4cfeb5922f4d201256762d4813443bad046dacbf6be14dca035c6aa"
+    },
+    "book/foundations/history/memory/index.md": {
+      "bytes": 5063,
+      "sha256": "85f70d82f18f6f4d3a2ecbac1811ec10c7c54665ec50cc97bfb104ac7e0bbb51"
+    },
+    "book/foundations/history/housing-industrialisation/index.html": {
+      "bytes": 110436,
+      "sha256": "d5798603c08d14bb90896dce5f922e84e3c794cce63072d4a06b0abd9bdb75d6"
+    },
+    "book/foundations/history/housing-industrialisation/index.md": {
+      "bytes": 5865,
+      "sha256": "11cca00f2ca87adf6ae30a0ec2fb8707cb47fd7ba80920fa6a8ff1a715dcbc65"
+    },
+    "book/foundations/history/port-city-to-nation/index.html": {
+      "bytes": 112511,
+      "sha256": "855e93bb096a707c505440df4adbb77c8591168f3a1652ee47e245f5a28ce122"
+    },
+    "book/foundations/history/port-city-to-nation/index.md": {
+      "bytes": 7725,
+      "sha256": "ca64a1b6d728a9e491cb0a601e6eff30a386d0119d9a30882632cbee4d714f38"
+    },
+    "book/foundations/society/communities/index.html": {
+      "bytes": 115717,
+      "sha256": "815212f5376b5e316fc922bb94738e5705d28f1db65f7dbe10370ee2edd5c5e5"
+    },
+    "book/foundations/society/communities/index.md": {
+      "bytes": 10205,
+      "sha256": "979dc8cac3b59743ceef8c8886bb9596c51fceded9f8e84507777705349331b8"
+    },
+    "book/foundations/society/migration/index.html": {
+      "bytes": 116447,
+      "sha256": "ad397de2633c5a1819147a208140e99fd85f2ae4144a459d12081d03a3954960"
+    },
+    "book/foundations/society/migration/index.md": {
+      "bytes": 10459,
+      "sha256": "2fff1d5895d29466c12cec73f0ae5b4a49e40d2de100977c1e46ccebe4c1118e"
+    },
+    "book/foundations/society/religion-festivals/index.html": {
+      "bytes": 118797,
+      "sha256": "2c23bb646a842681df6b1d6fb81c7836be174a5d0cbb9032d4cadb3be5b143fe"
+    },
+    "book/foundations/society/religion-festivals/index.md": {
+      "bytes": 12002,
+      "sha256": "f0b7af8de1f3d90b8a17d920a7fbd7cab9c2e42ed8bffd00309b436175dd3b44"
+    },
+    "book/foundations/world/perspectives/index.html": {
+      "bytes": 109981,
+      "sha256": "795054e4ac22944f8d6c015be964902b93081e8666d71d22fe02ce8ac5eee740"
+    },
+    "book/foundations/world/perspectives/index.md": {
+      "bytes": 6184,
+      "sha256": "612e7ebf7e5786e142e8dd6bd92e71529dd972ee7e9a331f668cd6f3b3897cb6"
+    },
+    "book/foundations/world/regional-ties/index.html": {
+      "bytes": 111024,
+      "sha256": "badaea114943e74095a57caeb44600245a423805deba24624f2e7c8bb87c1f5c"
+    },
+    "book/foundations/world/regional-ties/index.md": {
+      "bytes": 6635,
+      "sha256": "affec22589afcceba13b143f575d989b2fced52be76f86c34875723b98e8fbec"
+    },
+    "book/foundations/world/trade-migration/index.html": {
+      "bytes": 111660,
+      "sha256": "2741cbec04340edae3b9180d4d3677315b46bfee1417086e86c9f86caeee3d42"
+    },
+    "book/foundations/world/trade-migration/index.md": {
+      "bytes": 6774,
+      "sha256": "b8e40076a948db28145e2fb7e7adfaf6fa14ee062625ff661b60d9b9c80603b9"
+    },
+    "book/foundations/government/institutions/index.html": {
+      "bytes": 113206,
+      "sha256": "000ead91b01f7d140a0808097e4bc8cc281ff48d95fac4197009ee3788a61bf6"
+    },
+    "book/foundations/government/institutions/index.md": {
+      "bytes": 8367,
+      "sha256": "ae206c1a4fe0c9e823f61aa4ee01c87b1ff0ab3b1ad7bd214b48ac6409c5730c"
+    },
+    "book/foundations/government/public-services/index.html": {
+      "bytes": 117768,
+      "sha256": "fa6f0b49cfe6baad7862a66918df40014a31aa439fe12f75ed43c4e3b3f25212"
+    },
+    "book/foundations/government/public-services/index.md": {
+      "bytes": 11021,
+      "sha256": "aa801e2b0a46c0997043e3452cd73dca743aaa3e7299829537e50d3da41b4554"
+    },
+    "book/foundations/government/participation/index.html": {
+      "bytes": 119163,
+      "sha256": "6a642676aba0a332cf262bd985fc0f899e055e4878103f89dcb94cb9e5b89ddf"
+    },
+    "book/foundations/government/participation/index.md": {
+      "bytes": 12385,
+      "sha256": "a2f6ff9f1ecaec613bcbe9a735747941f7845d3477efcc9c5cb850a0dc071ae3"
+    },
+    "book/life/transport/index.html": {
+      "bytes": 101172,
+      "sha256": "246287a987200df1c72d6b2c56582d1a24827bcdcee2c8c752381236f223f8c5"
+    },
+    "book/life/transport/index.md": {
+      "bytes": 1597,
+      "sha256": "1f7038ecbf42ddc18cb98862cca198ee8ee65e90e8dfffc538af182df10ba053"
+    },
+    "book/life/housing/index.html": {
+      "bytes": 101322,
+      "sha256": "740cbabfda6a821d0ab47bbfdd0b232e4aedbae784581ce59dd4df46e0e59f31"
+    },
+    "book/life/housing/index.md": {
+      "bytes": 1707,
+      "sha256": "0816c97be67804ba81668ff4fbbd521d4bd69a3d078b161d617e20d4324a2c18"
+    },
+    "book/life/household/index.html": {
+      "bytes": 100800,
+      "sha256": "10498fd756cdc3eee1374c74754dcbeacd15ce1d27ef6da60bd1a9422e05b53f"
+    },
+    "book/life/household/index.md": {
+      "bytes": 1316,
+      "sha256": "a779895e0b93f9ee011eb3ac86f2978c6afd3eed9ab1e2de914d90ce07aeb427"
+    },
+    "book/life/documents/index.html": {
+      "bytes": 101601,
+      "sha256": "1cd94f91f07973e82030d775bc158cf9b6d48b77cbd0f729a6d44cc6e0f68ffa"
+    },
+    "book/life/documents/index.md": {
+      "bytes": 2055,
+      "sha256": "f4f56bef0241f118fa594780cb71f3aefba814f427b1dde1d43c306c5f1bf2a0"
+    },
+    "book/life/digital/index.html": {
+      "bytes": 100576,
+      "sha256": "3250808beb6a8c5d9609a42dfc66ae24db7263f1528df274109d5ae0c4477df2"
+    },
+    "book/life/digital/index.md": {
+      "bytes": 1177,
+      "sha256": "97ef7689135b0454ab21b34dcae2e432f6e71bea480dd3ff1e76a104f6f8cefe"
+    },
+    "book/life/community/index.html": {
+      "bytes": 100533,
+      "sha256": "dfe38ea319b60dce3948b5a4abb9c374a348a1490ebc07c7f0e75d854a00193e"
+    },
+    "book/life/community/index.md": {
+      "bytes": 1039,
+      "sha256": "21d17ef0402e11f4d83e5167051cb35d86897cf004f93bcee221ff637512f5b1"
+    },
+    "book/life/community/neighbourhood/index.html": {
+      "bytes": 108854,
+      "sha256": "76a8cac2be69164f54190dc13ab0c9dcd2c4a48a2b67487d33ce1cc3206acd81"
+    },
+    "book/life/community/neighbourhood/index.md": {
+      "bytes": 4492,
+      "sha256": "e79c81f42397ae0a75a839293eff91e35325f23bbe141282c402e6543ce2f1ad"
+    },
+    "book/life/community/connections/index.html": {
+      "bytes": 109342,
+      "sha256": "c6030f44176b919c9207298806c47ddefa6e56945b2c3d17847abfe3e8163f6b"
+    },
+    "book/life/community/connections/index.md": {
+      "bytes": 5105,
+      "sha256": "d93572c633a1e73a42630d6ea14907e5ed2a5277a9560e9f45876f2f4ee44a40"
+    },
+    "book/life/community/public-facilities/index.html": {
+      "bytes": 114383,
+      "sha256": "2d11d61a108f0b9d75155d4e72f9f0f9de0d298d29bcc30f7af960ddec91b85e"
+    },
+    "book/life/community/public-facilities/index.md": {
+      "bytes": 8727,
+      "sha256": "d69ff92a2348cc316333badf27e41f0c55a8012cee722f851beb89e8432f3833"
+    },
+    "book/life/digital/privacy-fraud/index.html": {
+      "bytes": 118747,
+      "sha256": "165483f710f964a6e43fb43111cf76eda67681944e78898d25c0f210dfed414a"
+    },
+    "book/life/digital/privacy-fraud/index.md": {
+      "bytes": 12137,
+      "sha256": "86337fba75e077bd61b0828886dfece2d53e759509b0ba5560162938ab1a21f8"
+    },
+    "book/life/digital/telecom/index.html": {
+      "bytes": 118698,
+      "sha256": "bcdb1b48d5841db15fea22353e6d64f0ba6aaf85921c359600f88d4d62a6f885"
+    },
+    "book/life/digital/telecom/index.md": {
+      "bytes": 12475,
+      "sha256": "419528465b170d72247238c7c6ca42cfdce24fa785ec86010915b1bbde8b61f9"
+    },
+    "book/life/digital/accounts/index.html": {
+      "bytes": 120890,
+      "sha256": "a35bf47718afb9da4e3be0beaf8ce7b2959b3151365b58a7695bc2587287cd6c"
+    },
+    "book/life/digital/accounts/index.md": {
+      "bytes": 12711,
+      "sha256": "a8bf2f1e5d1d9ab9a81a3987814ec0c5af749c66289c397c3eba2b012c25ccfa"
+    },
+    "book/life/documents/permanent-residence/index.html": {
+      "bytes": 126022,
+      "sha256": "8218bfc99ab91c8111b4f79774514ea85064f0791848ed408bcd92ccd4f3f846"
+    },
+    "book/life/documents/permanent-residence/index.md": {
+      "bytes": 17269,
+      "sha256": "dbb0da1a1cda9e689fd7902940cf8e97813ee94935918351f85894ccfa1bf8fb"
+    },
+    "book/life/documents/national-service/index.html": {
+      "bytes": 117633,
+      "sha256": "694fbbccc8f991c0d236d5866badcb142faf7f51342102e752f9d87497774746"
+    },
+    "book/life/documents/national-service/index.md": {
+      "bytes": 10074,
+      "sha256": "ba2c5e9316e1b3a84117864967f392da73e00d3af0f1bc386272ace0e495def4"
+    },
+    "book/life/documents/status-and-eligibility/index.html": {
+      "bytes": 119163,
+      "sha256": "02b8edb83112e0fab79ddb8688ec2dd5e0acb5bace736eed80225bd823b29cb7"
+    },
+    "book/life/documents/status-and-eligibility/index.md": {
+      "bytes": 11267,
+      "sha256": "3b711e830650344bc0f886bc2ef56384994608e37229ab0a278de94c7c6fd253"
+    },
+    "book/life/documents/work-passes/index.html": {
+      "bytes": 123394,
+      "sha256": "20557e5519aaf9b1ea64e02da6c9d0aefb16a176dc19523b085ce8c61435cb17"
+    },
+    "book/life/documents/work-passes/index.md": {
+      "bytes": 14010,
+      "sha256": "10d4f7e060e1c891c813b4e20539eb0c49c65b6fb80b9ea2c7a6134da69a53bf"
+    },
+    "book/life/documents/documents/index.html": {
+      "bytes": 122100,
+      "sha256": "57962aff91412e4d4fb7ef7cb006098f015d74a9a4075bb94bd2db4452f22fb6"
+    },
+    "book/life/documents/documents/index.md": {
+      "bytes": 14533,
+      "sha256": "e6d19ee7d48b3c26b051c30e7e795c5672cb31aaba2064ef1424828399e8709e"
+    },
+    "book/life/documents/arrival-renewal/index.html": {
+      "bytes": 128471,
+      "sha256": "96afecbbe49d3af67d3bb4ce6f321ceee48fd0872e312865f69b706895ce1a7e"
+    },
+    "book/life/documents/arrival-renewal/index.md": {
+      "bytes": 19122,
+      "sha256": "08c08895a2898618e48c81f664355076d21d0b8a830269f80d336d01442c073b"
+    },
+    "book/life/documents/pass-management/index.html": {
+      "bytes": 139963,
+      "sha256": "2df596389d3a573b70c9ea96b330d7e8ded665498266add78ea8a5be6c2b4c2e"
+    },
+    "book/life/documents/pass-management/index.md": {
+      "bytes": 29403,
+      "sha256": "a2929ac4e895a52ec111a3207b0ba715533f058a501b3e0faf5e58b8cbeaf195"
+    },
+    "book/life/household/keeping-pets/index.html": {
+      "bytes": 116690,
+      "sha256": "3842533c3269ee8d28e27655cf2d3b87f2088fac1a06700206730b0a6da366a7"
+    },
+    "book/life/household/keeping-pets/index.md": {
+      "bytes": 10721,
+      "sha256": "9c65d8424d54ef392e236cfd38dfd11b4c4c48f5c2a00267e02eb76557c37130"
+    },
+    "book/life/household/home-maintenance/index.html": {
+      "bytes": 119107,
+      "sha256": "49a04ea876fb9f6865f71fabaead5e15407e97baeaf1efcaa887e774c147c1b7"
+    },
+    "book/life/household/home-maintenance/index.md": {
+      "bytes": 11763,
+      "sha256": "3a4a3e5e870fee80f0e8c770b04cab7fc4e380bd6ead54da5b4fb5c682a68b92"
+    },
+    "book/life/household/food-shopping/index.html": {
+      "bytes": 117169,
+      "sha256": "3b6b1dc816f7a6d1ff7e14052663b2e2dd26862c435bdb5db760b1e2f3f9fb22"
+    },
+    "book/life/household/food-shopping/index.md": {
+      "bytes": 10709,
+      "sha256": "a35f792f3fc9cce63c1efaa1f461630887d960004b92733aac6390bec74fc4e8"
+    },
+    "book/life/household/consumer-rights/index.html": {
+      "bytes": 116153,
+      "sha256": "eb488784cba86cd2dd98aaf5351afb401277fd45892eb9cb92fe28812bb2cef6"
+    },
+    "book/life/household/consumer-rights/index.md": {
+      "bytes": 10330,
+      "sha256": "3aaf88cb6597b0c69a429ecabb074a6ea958cb845e522eddd35d0410352ab675"
+    },
+    "book/life/housing/neighbours/index.html": {
+      "bytes": 121929,
+      "sha256": "3cc595a917240b43f7fcb07f64577a6ee829f0f355507090d0cf480af3e13723"
+    },
+    "book/life/housing/neighbours/index.md": {
+      "bytes": 14713,
+      "sha256": "9dcbd774e064a715d5f6c177447a605c8ab37349fb863cfc0a128167bce2ba44"
+    },
+    "book/life/housing/buying-private/index.html": {
+      "bytes": 129741,
+      "sha256": "26b8c684fbfdeda0a73f92f686400d72b8e4be2ee08e3472f3a51f35cddfc7d2"
+    },
+    "book/life/housing/buying-private/index.md": {
+      "bytes": 20766,
+      "sha256": "ed9c112c493a123dfca877142d59ed9a30cac9342dcef144276fcbff4a853066"
+    },
+    "book/life/housing/purchase-costs/index.html": {
+      "bytes": 139083,
+      "sha256": "0584534b91061b06381aba1d2d18697b2d56729633092869a25b0b099663c740"
+    },
+    "book/life/housing/purchase-costs/index.md": {
+      "bytes": 27888,
+      "sha256": "fc92507117af5e1d23070b25847d0f33225bac77ebf03f09b69019ddade6cd06"
+    },
+    "book/life/housing/tenancy/index.html": {
+      "bytes": 119018,
+      "sha256": "8d066d5f9f58f8aa1afff9cb5380b2efd037cb3b890d0d1d6446fdaeb70b6d6a"
+    },
+    "book/life/housing/tenancy/index.md": {
+      "bytes": 13090,
+      "sha256": "ec9bcb8c6e4de07c0b76518c43fc6ed336ff803d0104144e5e639b78f887c795"
+    },
+    "book/life/housing/renting/index.html": {
+      "bytes": 119766,
+      "sha256": "b6f012a27a1a9ed4f56b9371461c6bf44b6f836d609f00052826258a2a959bd2"
+    },
+    "book/life/housing/renting/index.md": {
+      "bytes": 13077,
+      "sha256": "2532755e038ff78f5546b9700d6c0f71b1dd6fbac8c8ba02ae54637a9c47590f"
+    },
+    "book/life/transport/airport-checkpoints/index.html": {
+      "bytes": 140953,
+      "sha256": "d223adbd99b0f9bb690676843b00c29c56756c75ca0c52d61f4930d529607015"
+    },
+    "book/life/transport/airport-checkpoints/index.md": {
+      "bytes": 28889,
+      "sha256": "88578a8a044b04621e45cceb6ae62d6a8e3c5219e0bc7299c957728cc5999e9e"
+    },
+    "book/life/transport/public-transport/index.html": {
+      "bytes": 117255,
+      "sha256": "52adb1cd4eefee521c1ff032db93211805b2ce8ca94eaff1a1d491960b62a14e"
+    },
+    "book/life/transport/public-transport/index.md": {
+      "bytes": 10094,
+      "sha256": "11a22b0c4c1c530bc6dfb2ed68ba519c3c5bf5d9e6d015850077551b6d2842bc"
+    },
+    "book/life/transport/active-mobility/index.html": {
+      "bytes": 121357,
+      "sha256": "4a649b7e00645892ad57cebf69a6adb3a6b9310cc39d83863e761fcc9dff3bdc"
+    },
+    "book/life/transport/active-mobility/index.md": {
+      "bytes": 15091,
+      "sha256": "a0ed19992e7916d4b874b5f87d643158028ad60befadec1e2fc146c2328bef1f"
+    },
+    "book/life/transport/driving/index.html": {
+      "bytes": 134502,
+      "sha256": "4c5ad11a84931c0d47acccf1bd0b1259b763ddb8040717bcc562f5013481748c"
+    },
+    "book/life/transport/driving/index.md": {
+      "bytes": 25323,
+      "sha256": "3afc49496a51d9c6bdd7eb8a73a128fc787e6f81ca08376881a19c7ce96403a2"
+    },
+    "book/life/transport/taxis-phv/index.html": {
+      "bytes": 115254,
+      "sha256": "710a86b44190a0238139859fe4fe4bcdca2a8ea33a5e433df8ff8e8c8f311635"
+    },
+    "book/life/transport/taxis-phv/index.md": {
+      "bytes": 9571,
+      "sha256": "be2ed82c7303873d7a8af677b6f6231e69a1a15ca6825a62c3f6eadfc1699ecc"
+    },
+    "webfonts/ibm-plex-sans/ibm-plex-sans-latin-ext-wght-italic.woff2": {
+      "bytes": 33900,
+      "sha256": "bf44b77cc751203b2f0ce95c048a9d8f984313f84b58106c7c4410ca50314016"
+    },
+    "webfonts/ibm-plex-sans/ibm-plex-sans-latin-ext-wght-normal.woff2": {
+      "bytes": 30964,
+      "sha256": "d160e20920ae4d6556518d352d3af27a74e9b0de3d8fe17b1c1044fc75aa2f81"
+    },
+    "webfonts/ibm-plex-sans/ibm-plex-sans-cyrillic-ext-wght-italic.woff2": {
+      "bytes": 26832,
+      "sha256": "a2d42695992c09c9ea546a48cbcae7b7d140d0e8e163c7cccf0e9bc86c54b5b3"
+    },
+    "webfonts/ibm-plex-sans/ibm-plex-sans-cyrillic-ext-wght-normal.woff2": {
+      "bytes": 23568,
+      "sha256": "7d0037a170882a49e65a45c38ef195237bb07b1cc791d078379f0ac0d7ae1935"
+    },
+    "webfonts/ibm-plex-sans/ibm-plex-sans-greek-wght-normal.woff2": {
+      "bytes": 19500,
+      "sha256": "f598dd0700f155e2facfaa8ecfacace397d4c2c153e9ce37ab7ad310e8505bc2"
+    },
+    "webfonts/ibm-plex-sans/ibm-plex-sans-greek-wght-italic.woff2": {
+      "bytes": 21752,
+      "sha256": "f1fae68d3ec66f93b54f951d1b1e3ff91250d0201c74d0904b9b76f842b6dcb1"
+    },
+    "webfonts/ibm-plex-sans/ibm-plex-sans-vietnamese-wght-italic.woff2": {
+      "bytes": 14868,
+      "sha256": "7077db90dd878de58b87c5d6762658b04ab940e644104211945b58203856a9ca"
+    },
+    "webfonts/ibm-plex-sans/ibm-plex-sans-vietnamese-wght-normal.woff2": {
+      "bytes": 13160,
+      "sha256": "73e7f7b1c980416ae0c2461268b14c7cfcce0668e683dc43fbb11a82a227b9f2"
+    },
+    "webfonts/ibm-plex-sans/ibm-plex-sans-latin-wght-normal.woff2": {
+      "bytes": 45712,
+      "sha256": "e2291e842cf5af167122a22881a740c7f2dda7716f1e8cd76680264f4a859470"
+    },
+    "webfonts/ibm-plex-sans/ibm-plex-sans-latin-wght-italic.woff2": {
+      "bytes": 50184,
+      "sha256": "4363757d2695c7633f98472855849f7c30528eba869d7968ee35b58c87cf14c1"
+    },
+    "webfonts/ibm-plex-sans/ibm-plex-sans-cyrillic-wght-italic.woff2": {
+      "bytes": 32632,
+      "sha256": "e71db60f3419842ad61305fcb22100fc0ea34f6aaa98d1f028de948751f08d88"
+    },
+    "webfonts/ibm-plex-sans/ibm-plex-sans-cyrillic-wght-normal.woff2": {
+      "bytes": 29512,
+      "sha256": "9409ee21811f0f5272b7e1d828fe8838005b0573481ef906e7e55b63f6610ab0"
+    },
+    "webfonts/brand/chakra-petch-latin-700-normal.woff2": {
+      "bytes": 9900,
+      "sha256": "ce5095dc1cb200aaa939e38067a0677018d10e9f26ec38cdcf1557ac524fc775"
+    },
+    "webfonts/brand/ibm-plex-mono-latin-400-normal.woff2": {
+      "bytes": 14708,
+      "sha256": "08949f728dc52d528e69b1667d15c89a5686a4ee9a296ff90983985f99c380f7"
+    },
+    "webfonts/brand/ibm-plex-mono-latin-400-italic.woff2": {
+      "bytes": 16448,
+      "sha256": "0840095faae86403735a8c04014b72cb29e7923646b222b360b7e8252932e4e3"
+    },
+    "webfonts/brand/ibm-plex-mono-latin-600-normal.woff2": {
+      "bytes": 15620,
+      "sha256": "0d1f0b8d0722224e32e9f28261bdc86c79115be73444ae5eceb73976a1bcdf83"
+    },
+    "webfonts/inter/inter-latin-ext-wght-italic.woff2": {
+      "bytes": 91900,
+      "sha256": "71254244ccb1ec21e14db3480fef6f6826d1136dc4aca1c7d3ca7ce31294fcce"
+    },
+    "webfonts/inter/inter-latin-ext-wght-normal.woff2": {
+      "bytes": 85068,
+      "sha256": "34b9c504cab7a73e37b746343a449132e56cf7b5481af2cb81dc74dcff25c956"
+    },
+    "webfonts/inter/inter-latin-wght-normal.woff2": {
+      "bytes": 48256,
+      "sha256": "3100e775e8616cd2611beecfa23a4263d7037586789b43f035236a2e6fbd4c62"
+    },
+    "webfonts/inter/inter-vietnamese-wght-normal.woff2": {
+      "bytes": 10252,
+      "sha256": "5c66f9e07e90c6d4ac4922cc68d60de26c17b1858e677fb5e603fce3952b3ff2"
+    },
+    "webfonts/inter/inter-latin-wght-italic.woff2": {
+      "bytes": 51832,
+      "sha256": "7291b5970da2237441273c03b424a504b70b18f09791473fab99687dcc314720"
+    },
+    "webfonts/inter/inter-vietnamese-wght-italic.woff2": {
+      "bytes": 10596,
+      "sha256": "1991ed5832eb07f7523f22a843ca9a8aa83c51c8e87062ce77794855d2f5dee8"
+    },
+    "webfonts/inter/inter-cyrillic-ext-wght-italic.woff2": {
+      "bytes": 27380,
+      "sha256": "39689184132e9fba8fb1066f429125d14445352a566f47f4edcae7c3c90e486d"
+    },
+    "webfonts/inter/inter-cyrillic-ext-wght-normal.woff2": {
+      "bytes": 25960,
+      "sha256": "ca157063339ac4ad418f214f3abfed119b0798ab4d377386ce5c9e5a7a435ebd"
+    },
+    "webfonts/inter/inter-greek-wght-normal.woff2": {
+      "bytes": 18996,
+      "sha256": "1be3448e292fbf05ffe176fe1e43f135013d50b1e7d324ad1a558f623d3bb6f6"
+    },
+    "webfonts/inter/inter-greek-wght-italic.woff2": {
+      "bytes": 20484,
+      "sha256": "29e273a42cac8240f37fbdd94c684f8a255e61c8076942d9b8f18a0e2c014991"
+    },
+    "webfonts/inter/inter-cyrillic-wght-italic.woff2": {
+      "bytes": 19980,
+      "sha256": "47d42151dff6d13f1c2b9a1f278290f625593c1f01c89612ee4ae7f063167f7a"
+    },
+    "webfonts/inter/inter-greek-ext-wght-normal.woff2": {
+      "bytes": 11232,
+      "sha256": "6e9e020a25f9b56d418f2c085b1d3c09725a4da23fe693a5b463064606732190"
+    },
+    "webfonts/inter/inter-cyrillic-wght-normal.woff2": {
+      "bytes": 18748,
+      "sha256": "71d5ee93cc1e9f1d520a3a8b66456de18c7879d8df09d57fcd2eaff75fef0075"
+    },
+    "webfonts/inter/inter-greek-ext-wght-italic.woff2": {
+      "bytes": 12096,
+      "sha256": "787fc783f35c913334445a7c4502bb272f94a8328426578776eac5e4ebd03ba1"
+    },
+    "docs/about/index.html": {
+      "bytes": 54511,
+      "sha256": "942180270cda90ef100d7a2b5f374c650275548828f38c1aecfa6bfe291b3530"
+    },
+    "docs/about/index.md": {
+      "bytes": 869,
+      "sha256": "a2f233e5da87b7b887e37b2a2407e8e666138693ec1800d8c82e181e8a7d4dac"
+    },
+    "docs/glossary/index.html": {
+      "bytes": 70924,
+      "sha256": "158848c1a4718fa44eeea3692ceb5f56c57dc175bfcfb6f536064b9e7a6b0e6a"
+    },
+    "docs/glossary/index.md": {
+      "bytes": 12915,
+      "sha256": "3fcd228d6eb2d555335b22300a19616ac47625455c38fb478014190a9347d27e"
+    },
+    "docs/profiles/index.html": {
+      "bytes": 56682,
+      "sha256": "05baa425228122b97dff4b9f344d92043597fe19b3fd7a083c7f4970e1bca82d"
+    },
+    "docs/profiles/index.md": {
+      "bytes": 1022,
+      "sha256": "f05c1548ac35eb0234742464e634b2e23901662e14a57c1b39d82eb27f533f93"
+    },
+    "docs/routes/index.html": {
+      "bytes": 58181,
+      "sha256": "631a0123bda6f70e95d09eac28ce0cb7809b8985c348ec3f4eabd93b6534f9ae"
+    },
+    "docs/routes/index.md": {
+      "bytes": 2117,
+      "sha256": "98fedd5a63f4906766019a2a6b06d79209a0ffe7ac3e7180990a824a0457388e"
+    },
+    "docs/routes/higher-study/index.html": {
+      "bytes": 57399,
+      "sha256": "823a645cf9d88e7d53fe311ba3413f2a33ce608284c0bc91ee52018e1e2bacf9"
+    },
+    "docs/routes/higher-study/index.md": {
+      "bytes": 1724,
+      "sha256": "facad3f7e07073c752c029b8decaf8a4a3d7866a7fd76bd1a1f216ed34ad6cad"
+    },
+    "docs/routes/cross-border-trip/index.html": {
+      "bytes": 55867,
+      "sha256": "81154d22be7aee0cbecfff03643f07384d0052a5697e6700c281adea231f2178"
+    },
+    "docs/routes/cross-border-trip/index.md": {
+      "bytes": 1315,
+      "sha256": "bb2e1ab8939a4ab8b35e07429ec192a0a44b28067792b0cdecec722f66ec7725"
+    },
+    "docs/routes/getting-married/index.html": {
+      "bytes": 56070,
+      "sha256": "7e90eeb76eeea797be2c5e48f544e859c55ac24417bdb6ef917ea2e6a897f74e"
+    },
+    "docs/routes/getting-married/index.md": {
+      "bytes": 1402,
+      "sha256": "1a8a663d1666d60268ced7599425e71c65b3e16956d1d8b53af0bf16aab2dea3"
+    },
+    "docs/routes/illness/index.html": {
+      "bytes": 56415,
+      "sha256": "aebf45c6e372ecac89b10ed3450ce220bb09909a117fbb013663adb79858c598"
+    },
+    "docs/routes/illness/index.md": {
+      "bytes": 1892,
+      "sha256": "6860a99ec00cf2644f0196dc00c4b42ad23ad438df27acef2e8ea4ded1db56e1"
+    },
+    "docs/routes/family-separation/index.html": {
+      "bytes": 57364,
+      "sha256": "d845e0b6bc729396163701357f0eb63c0ac9d000bfc0db4ef698c8283e813e46"
+    },
+    "docs/routes/family-separation/index.md": {
+      "bytes": 1726,
+      "sha256": "c1ce2c9267cb5ae9ee59c52ae89051f9a131310337b933fca1acf26b26de247c"
+    },
+    "docs/routes/renting/index.html": {
+      "bytes": 56763,
+      "sha256": "b667f092c9f7f444aa81c0105c306a621a5af8175eea2b17474922cdf366c9b5"
+    },
+    "docs/routes/renting/index.md": {
+      "bytes": 1336,
+      "sha256": "3d51b3a2b2c5ad3dd1e367323e81fad43e9cddd72138571b2a4a6737e9e451e5"
+    },
+    "docs/routes/leaving-job/index.html": {
+      "bytes": 57379,
+      "sha256": "0306e58ffe4e772e24ba4866224ef60d67f0fd63e0d71fac0b9914e6970e6541"
+    },
+    "docs/routes/leaving-job/index.md": {
+      "bytes": 1665,
+      "sha256": "faf9ecdaf5b4ed0dfa2750134453bc48a88a082490c6713aadb58532ae8d692c"
+    },
+    "docs/routes/digital-safety/index.html": {
+      "bytes": 55474,
+      "sha256": "f13da5581cbed45cca4d92370bc146fc2e99eec7cb018265a890365ed096c180"
+    },
+    "docs/routes/digital-safety/index.md": {
+      "bytes": 918,
+      "sha256": "ede17e458fa481acaf3a9a62b2e2f6fe648e9927014a5a8d56282e04f1b7e9a9"
+    },
+    "docs/routes/start-work/index.html": {
+      "bytes": 55682,
+      "sha256": "b8668c0c098341ccc0e85be404f479c7bf105444f8b4c9199bfe3412ec1d0074"
+    },
+    "docs/routes/start-work/index.md": {
+      "bytes": 1258,
+      "sha256": "9ba2724175189c860e15757246b6be00df16d4ba38e0a8005faadb463397ac18"
+    },
+    "docs/routes/settling-in/index.html": {
+      "bytes": 56250,
+      "sha256": "c54b08cf5db52dada11b8043846a2683a619c31554b8720f8004773b242d376b"
+    },
+    "docs/routes/settling-in/index.md": {
+      "bytes": 1736,
+      "sha256": "e5aa7e48b333cc124a727cf8ec292a3196a4b13d63c557666737aaa0b2564132"
+    },
+    "docs/routes/urgent-help/index.html": {
+      "bytes": 55559,
+      "sha256": "01d266e35c149bfb3aaebbb5c97ca19ea1e77e77606a27615dd74add5ed03481"
+    },
+    "docs/routes/urgent-help/index.md": {
+      "bytes": 1014,
+      "sha256": "3e519aab4c09dccbc42f7e633dd96ead373ba3d751852be65f9cf3637b2226c7"
+    },
+    "docs/routes/ns-family/index.html": {
+      "bytes": 55496,
+      "sha256": "1200f4f3aa821039c9c8a8b8c80b36efd4a524a42569fe843b4d484b31cd8174"
+    },
+    "docs/routes/ns-family/index.md": {
+      "bytes": 1011,
+      "sha256": "d36377676c11a3fdff24a3f183fdfcf11f37ceece99ff2a9171750249557e423"
+    },
+    "docs/routes/having-child/index.html": {
+      "bytes": 56465,
+      "sha256": "2758d21418e2eba15c31d500651316710f8557eb7989995529abdaf7c9ca6118"
+    },
+    "docs/routes/having-child/index.md": {
+      "bytes": 959,
+      "sha256": "bbe96e5de104f696638f4a3ea3ab778007692dd3573dc78f31b17101f1ee685a"
+    },
+    "docs/profiles/student/index.html": {
+      "bytes": 56206,
+      "sha256": "406a24f0e5c08c3557c5a7c4a56c858a21fabf597770feb07a3d1349810aa6d3"
+    },
+    "docs/profiles/student/index.md": {
+      "bytes": 1853,
+      "sha256": "9ea109e9140dc92740830a29f9a02125de9a519b41087491654d1f5020fc47d3"
+    },
+    "docs/profiles/family/index.html": {
+      "bytes": 56667,
+      "sha256": "709dd0c3ae98948867366e637462a9ce549651d128ceb54e7cf009168e38712d"
+    },
+    "docs/profiles/family/index.md": {
+      "bytes": 2333,
+      "sha256": "0b8f0353d8831bcd50744bcb8f599bb3009900776f670de46dda449617ecab9f"
+    },
+    "docs/profiles/citizen/index.html": {
+      "bytes": 55259,
+      "sha256": "14d2db29068f0476f70a36c555972b958a277bdd01656fcf168b8ab1143c9aa1"
+    },
+    "docs/profiles/citizen/index.md": {
+      "bytes": 975,
+      "sha256": "aea9f8d6c2c63d33dd7ea245fa5bd1a9557d84f2339d5ae610980590b412eab8"
+    },
+    "docs/profiles/pr/index.html": {
+      "bytes": 55607,
+      "sha256": "09fe2f6717e4ad790fbba1bbc80b64523c16025ebc8a1f5a37c9381ef4dca377"
+    },
+    "docs/profiles/pr/index.md": {
+      "bytes": 1319,
+      "sha256": "c841b23177aedcbd3608c0ea8b47d076a3b30384880c3701cc49ee2348e0afc3"
+    },
+    "docs/profiles/visitor/index.html": {
+      "bytes": 55094,
+      "sha256": "9dc713e8a4493b0b8b979d39227d326ad87a4d7170aeb5aae296c68c51c7cce4"
+    },
+    "docs/profiles/visitor/index.md": {
+      "bytes": 797,
+      "sha256": "159f6bda1e163c335344375bf3e9089c8b4dc468fe5c2e42132d8fcfe6b59e42"
+    },
+    "docs/profiles/worker/index.html": {
+      "bytes": 56710,
+      "sha256": "d86a0923cdeed4ea41d87a8bc556fbcf7458480a2ddb459817ec4b4198baa2bb"
+    },
+    "docs/profiles/worker/index.md": {
+      "bytes": 2308,
+      "sha256": "2cfffc519ccf6329359e650907aeff7c0654c04b259fb15c73a8ae50fe9158fc"
+    },
+    "js/chunks/local-search.min.ad4a7d3b4d19f90c98b8f7bcf3d778e5ed8fc02d0d351a62f42fd3b431310f05.js": {
+      "bytes": 21208,
+      "sha256": "ad4a7d3b4d19f90c98b8f7bcf3d778e5ed8fc02d0d351a62f42fd3b431310f05"
+    },
+    "js/chunks/shell.min.3fff704cad6701799a1f84dbb9aec8ec713d0879282871e4715d0ab446a2da0a.js": {
+      "bytes": 16487,
+      "sha256": "3fff704cad6701799a1f84dbb9aec8ec713d0879282871e4715d0ab446a2da0a"
+    },
+    "js/chunks/appearance.min.bb55c2f4f09f24fa67d623d0e49136f2ca909663c226f7d514250b0e71b173ab.js": {
+      "bytes": 5221,
+      "sha256": "bb55c2f4f09f24fa67d623d0e49136f2ca909663c226f7d514250b0e71b173ab"
+    },
+    "js/chunks/dark-mode.min.26a1ea15169b5422bd8de20c9df3013b8429dbc1a66b6e9ad70406bf05a344b6.js": {
+      "bytes": 3354,
+      "sha256": "26a1ea15169b5422bd8de20c9df3013b8429dbc1a66b6e9ad70406bf05a344b6"
+    },
+    "js/chunks/landing.min.9d461a9adad2296b810990b9711c39cb2bbcb1dc44723172051eb0f8480ea6e9.js": {
+      "bytes": 5278,
+      "sha256": "9d461a9adad2296b810990b9711c39cb2bbcb1dc44723172051eb0f8480ea6e9"
+    },
+    "js/chunks/keyboard.min.eece081e96fd92b1610336ebcc7e1ea9a5b1188b63ac9e279809cd6f27bf97f1.js": {
+      "bytes": 11911,
+      "sha256": "eece081e96fd92b1610336ebcc7e1ea9a5b1188b63ac9e279809cd6f27bf97f1"
+    },
+    "js/chunks/code-block.min.e93fca3edcac8b801a5038bcb8ff59f355dbb8865cfd2a32b4250bd3915b3360.js": {
+      "bytes": 5548,
+      "sha256": "e93fca3edcac8b801a5038bcb8ff59f355dbb8865cfd2a32b4250bd3915b3360"
+    },
+    "js/third_party/lunr.min.0c50d9002b85780a842afffb567bb54ede402dae7c6dc5997a018614d8044fc8.js": {
+      "bytes": 29510,
+      "sha256": "0c50d9002b85780a842afffb567bb54ede402dae7c6dc5997a018614d8044fc8"
+    },
+    "_print/book/index.html": {
+      "bytes": 1768204,
+      "sha256": "45d218f6bfd4c6da9c498f68ec72982be0039abd4dd0e4beaf394bedd1516f1c"
+    }
+  },
+  "limitations": [
+    "External links skipped by machine gate; adopted primary-source reading is documented in independent review.",
+    "Local acceptance and sync only; no external push or deployment.",
+    "Whole five-part 28-domain coverage, B06 and all-book humanization remain incomplete."
+  ]
+}

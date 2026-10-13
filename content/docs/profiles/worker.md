@@ -24,3 +24,5 @@ weight: 30
 在职期间，用[合同、工资、工时与休假](/book/work/employment/employment-rights/)核具体保障；境外雇主、派驻或海外收入另接[跨境个税](/book/work/tax/cross-border/)。需要情绪支持或心理治疗时，按[心理健康与移工支持](/book/people/accessibility/mental-health/)核年龄、语言、费用与服务范围。
 
 计划自行接单或设立企业时，先查[逐类准证的经营权限与注册](/book/work/business/starting-business/)，再安排登记与开业。
+
+因疾病、事故或残障需要调整岗位或复工时，查[工作与辅具支持](/book/people/accessibility/disability/)，核就业服务、雇主申请的岗位调整资助及适用条件。

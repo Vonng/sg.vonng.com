@@ -4,10 +4,10 @@ description: "从实际生活需要开始，办理残障验证、评估和辅具
 page_id: sg-disability-support
 content_kind: task
 scope: "新加坡；有身体、感官、认知或其他持续支持需要的人及家庭，按具体计划判断身份、年龄与资助资格"
-status: written
-draft: true
-verified: ""
-reviewed_by: ""
+status: integrated
+draft: false
+verified: '2026-10-13'
+reviewed_by: "事实：identity；编辑：root；集成：root"
 weight: 20
 search_keywords: ["残障", "无障碍", "SG Enable", "DVF", "ATF", "辅具", "听障", "视障", "自闭症", "EASE", "复工"]
 ---
