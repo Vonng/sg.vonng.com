@@ -1,0 +1,854 @@
+{
+  "saved_at": "2026-10-13T11:56:43.267369+08:00",
+  "goal_status": "paused",
+  "reason": "User requested cross-account handoff; no further goal work authorised during this save.",
+  "git_base_head": "2c0d1afb5a3581430d48c0c02dbeca7cbb93adc7",
+  "counts": {
+    "source_pages": 82,
+    "source_topics": 42,
+    "drafts": 16,
+    "public_source_pages": 66,
+    "accepted_topics": 26,
+    "public_html": 68,
+    "public_files": 188
+  },
+  "public_matches_last_production_review": true,
+  "public_inventory_sha256": "e28b4e000981b81465bf4ad0c85aee017821811f7d55febea42c26af169e8069",
+  "source_inventory": [
+    {
+      "path": "content/_index.md",
+      "title": "新加坡生活指南",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "editorial",
+      "bytes": 534,
+      "sha256": "b2965630e2e716bb75a33df7a1e0cdb933976c35cd9b0e252362051b33159a24",
+      "body_sha256": "ed629218397278f1e176e786716217f745ddd8523c993d2b7c3d770045109139"
+    },
+    {
+      "path": "content/book/_index.md",
+      "title": "全书导读",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "editorial",
+      "bytes": 1121,
+      "sha256": "9189b738e57cb384ae0889b345b264a8445e6a33f69bcd611ac32f968534167e",
+      "body_sha256": "a7b5161f0383886430f27204f5d1cb7e5add9f69f53b0699cb57807d2f4f1942"
+    },
+    {
+      "path": "content/book/foundations/_index.md",
+      "title": "认识新加坡",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "editorial",
+      "bytes": 520,
+      "sha256": "793d584bc849d0614c2decd94bba36a81f16f97e73c61f4d7bcfe8344730f6c2",
+      "body_sha256": "7be2e7c97b4e3c0fbe6aee1fe330c2762ade8a4892c564549d6d36a2a7455ee6"
+    },
+    {
+      "path": "content/book/foundations/culture/everyday-etiquette.md",
+      "title": "约时间、排队与相处的分寸",
+      "status": "written",
+      "draft": true,
+      "content_kind": "explainer",
+      "bytes": 6044,
+      "sha256": "05362e9943c4f09f1389067a826f78a7e1548f932deb6073e3f4c26ad5c6d074",
+      "body_sha256": "6da8a7c71050d38a1e2190e66cf6dab3b8177be7fb14e838db7bb1469c7ab94c"
+    },
+    {
+      "path": "content/book/foundations/culture/hawker-social-life.md",
+      "title": "小贩中心与日常社交生活",
+      "status": "written",
+      "draft": true,
+      "content_kind": "explainer",
+      "bytes": 6889,
+      "sha256": "7bad8754691a97ac8a39aa9f268375ce80ef3035560d4bf8b097caae3ef75fac",
+      "body_sha256": "04ebbbe698791bc6102a53eb45c294510232725958b7c710ee07c41577269b44"
+    },
+    {
+      "path": "content/book/foundations/culture/inequality.md",
+      "title": "富裕城市里的阶层、生活压力与歧视",
+      "status": "written",
+      "draft": true,
+      "content_kind": "explainer",
+      "bytes": 8943,
+      "sha256": "4eb684781f7158b75915a844c9aec86ac7805e9eed065db83733ce77e9a8900b",
+      "body_sha256": "efbcf7976ca27fbe311902440c39f8c9a93564b6427dfafc9eaa5bfe4703aed7"
+    },
+    {
+      "path": "content/book/foundations/geography/_index.md",
+      "title": "城市、地理与生活环境",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "editorial",
+      "bytes": 539,
+      "sha256": "0001e19df9b675e91365434a75044fae7252cd63a0d3b97a2ab4dcb931ca4bc5",
+      "body_sha256": "443e8a1ae9609a144212769e306f24c82bbbeadcbc43050c7cc379b355a229bc"
+    },
+    {
+      "path": "content/book/foundations/geography/addresses-weather.md",
+      "title": "读懂地址，按天气安排一天",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "explainer",
+      "bytes": 6921,
+      "sha256": "8a9d91cd240ceafd09926711f14e370d17c16344d304ef93e989dd4446ace735",
+      "body_sha256": "d0380d29ce21a715870462e767e7268a0b87a93be3e44915180d934cd29de88a"
+    },
+    {
+      "path": "content/book/foundations/geography/island-neighbourhoods.md",
+      "title": "怎样比较新加坡的生活圈",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "explainer",
+      "bytes": 6730,
+      "sha256": "379d2ba8643179be21973564e7d2149028744e360cb06efac51c2c7452d0a7db",
+      "body_sha256": "eca9944cdfc6caf9b48b131e424df2f2f9c355674fcefbe48c32e7766559891b"
+    },
+    {
+      "path": "content/book/foundations/geography/resources.md",
+      "title": "土地、水、电和食物从哪里来",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "explainer",
+      "bytes": 7399,
+      "sha256": "2be60848254e1dee766c415b427a2d02174bb2727fc04c2d1c4bea9d615bb6df",
+      "body_sha256": "207a9697bd7c713931b58d2f1f72ade186279f99412c7c58f7f2d6182c97e1f1"
+    },
+    {
+      "path": "content/book/foundations/government/_index.md",
+      "title": "国家制度与公共事务",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "editorial",
+      "bytes": 594,
+      "sha256": "90025bdfad8f41dd077cf32c419e715ae732ffffa2176119c3d393c025bbd1a8",
+      "body_sha256": "1a0e72ce861a95cdf1b3ea5d38715ba56975ef4b75a75f09abf6ddcad2f55e8c"
+    },
+    {
+      "path": "content/book/foundations/government/institutions.md",
+      "title": "总统、国会、内阁与法院各做什么",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "guide",
+      "bytes": 8595,
+      "sha256": "5b0bfd6bab5576cfffd2d9b8ef8e8d02d781e85d209d758468158f402253beda",
+      "body_sha256": "a91c73f6c2407e1139dbbb5f5df1ea51da00e3fa94eb1a0fcc5ed7d9243b0c9c"
+    },
+    {
+      "path": "content/book/foundations/government/participation.md",
+      "title": "投票、政策意见与公共参与",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "guide",
+      "bytes": 12528,
+      "sha256": "7635aabcfb9563e32878810eb219c59b174051514b4c114bbcb9ea677a1f329a",
+      "body_sha256": "56fcd4a4dcbc7bd0da32c9387cd4e8803b863a9a4b230db5a058c5364b154d1a"
+    },
+    {
+      "path": "content/book/foundations/government/public-services.md",
+      "title": "办事找谁：公共服务、街区反馈与预算",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "guide",
+      "bytes": 10882,
+      "sha256": "f47f21b912b0a8c8bd0be938f610ab8de07cf622515bc1eb9854630aa15eef24",
+      "body_sha256": "58812b892db8579a942fcfe61db8b37ebb08af5d6b64c1e4777cef7258f356ac"
+    },
+    {
+      "path": "content/book/foundations/history/_index.md",
+      "title": "关键历史与社会形成",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "editorial",
+      "bytes": 519,
+      "sha256": "eaf68d8980d298d7beeebf70b284f348a3c646e69b63a835a2c091245a6b20ef",
+      "body_sha256": "2dc21528516d00f26d1e4ae5eb8cdeaf65ac438dfebe92650db93d56043d7464"
+    },
+    {
+      "path": "content/book/foundations/history/housing-industrialisation.md",
+      "title": "工厂、组屋与家庭生活的改变",
+      "status": "written",
+      "draft": true,
+      "content_kind": "explainer",
+      "bytes": 6004,
+      "sha256": "d7ae7cdca09ec9e450085266142b846f104ac290996614a360b0e5375b28d73c",
+      "body_sha256": "2f7562c3fc59df60a9647fcd7070221a24049e044b8de0a1ec4b74e5624c6972"
+    },
+    {
+      "path": "content/book/foundations/history/memory.md",
+      "title": "纪念碑、口述与海岛记忆",
+      "status": "written",
+      "draft": true,
+      "content_kind": "explainer",
+      "bytes": 5334,
+      "sha256": "0079509c8a4633168d3ae6049289860a195f8e3abb392599732c271e526e1fdd",
+      "body_sha256": "2f3c98d20ddc6f887c9e0628209b981de2ddcc2843324cd62aaaa731cba2633a"
+    },
+    {
+      "path": "content/book/foundations/history/port-city-to-nation.md",
+      "title": "从海峡港口到独立国家",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "explanation",
+      "bytes": 7822,
+      "sha256": "38c45721d8c3097be5ce069378abaa817b18f5262130cd1055af63f3b7d41569",
+      "body_sha256": "4a980a8a43b6b8b6842bd65fe1b5b66d476da60ef30191a2b8b9539b04e6bc44"
+    },
+    {
+      "path": "content/book/foundations/society/communities.md",
+      "title": "族群分类与生活中的身份",
+      "status": "written",
+      "draft": true,
+      "content_kind": "concept",
+      "bytes": 10218,
+      "sha256": "6bf7680e4754f385386e57c0ae3c3cb94f36e54a2c19589a503182a171906e9f",
+      "body_sha256": "2fae26eaf693b31091c9d856cd51ef6f0a6bea399390eb3d772e90c82db6da08"
+    },
+    {
+      "path": "content/book/foundations/society/migration.md",
+      "title": "迁徙、定居与跨国家庭",
+      "status": "written",
+      "draft": true,
+      "content_kind": "concept",
+      "bytes": 10693,
+      "sha256": "6a9a49740ad104581fb310eab1a7f4065712303a6a0eeb87cce638b963d76c03",
+      "body_sha256": "d0a1562e24dce6df1721241c8f5a04b93f25a9d5d562c7a6ce80816b39e0e09f"
+    },
+    {
+      "path": "content/book/foundations/society/religion-festivals.md",
+      "title": "宗教生活、节庆与到访礼节",
+      "status": "written",
+      "draft": true,
+      "content_kind": "guide",
+      "bytes": 12136,
+      "sha256": "38ab351270d7aa4c403fdebf0c549f5fce9ebb35ff4490f297e68d087f43aa65",
+      "body_sha256": "ac34443905ba65fac3908e2b13e6bfa3449eccfa74ae23a495c591d0606f2629"
+    },
+    {
+      "path": "content/book/foundations/world/perspectives.md",
+      "title": "谈中美关系时，谁在表达“新加坡的看法”",
+      "status": "written",
+      "draft": true,
+      "content_kind": "explainer",
+      "bytes": 6428,
+      "sha256": "09ae630340d3ff87bffa3bc9deee266c9f3d4e186011193b31fef41dc5f0fa52",
+      "body_sha256": "5a37f748295366d95d0cd8dac666d0236bdfacf612bda687f274a0c7075a811d"
+    },
+    {
+      "path": "content/book/foundations/world/regional-ties.md",
+      "title": "马来西亚、印度尼西亚与东盟怎样进入日常生活",
+      "status": "written",
+      "draft": true,
+      "content_kind": "explainer",
+      "bytes": 6855,
+      "sha256": "066aea5f64ceb6a43518dca6f1b6d6f032f70e84efd7b0f81d57883f65b1f272",
+      "body_sha256": "bfd062163cb527a14abae83b6ca1c77ce437463c672da88b9dd7fd2e8d7388a6"
+    },
+    {
+      "path": "content/book/foundations/world/trade-migration.md",
+      "title": "港口、资本与人流怎样连接新加坡和世界",
+      "status": "written",
+      "draft": true,
+      "content_kind": "explainer",
+      "bytes": 7029,
+      "sha256": "cf227a5d2765e85ce5288bbebffc56adcc18a18d559de51dde17b50073ccf3f8",
+      "body_sha256": "0b3aeee8e539091b8a2079543680ce051dbe226f413f4e72f44fb072650e218a"
+    },
+    {
+      "path": "content/book/life/_index.md",
+      "title": "建立与经营日常生活",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "editorial",
+      "bytes": 519,
+      "sha256": "f065bda0d97b4698957152c0f317d7b617938c6d8639294307df98289700d326",
+      "body_sha256": "eaf9bb572d62d89afb240993163b08fc2b3313a77f4de1ad0d08ea65828a4610"
+    },
+    {
+      "path": "content/book/life/digital/accounts.md",
+      "title": "Singpass 与 Myinfo：注册、使用和找回账户",
+      "status": "written",
+      "draft": true,
+      "content_kind": "guide",
+      "bytes": 12019,
+      "sha256": "279676ca4b7d24a85c1fac5a958e37731ce907ff78a3400903fb9f9227344a15",
+      "body_sha256": "b53f5c15d53a9e55240407d4b3c7f73aa2cdbe96df7a5b086cebda7191305732"
+    },
+    {
+      "path": "content/book/life/digital/privacy-fraud.md",
+      "title": "保护资料、判断信息与应对诈骗",
+      "status": "written",
+      "draft": true,
+      "content_kind": "guide",
+      "bytes": 11954,
+      "sha256": "21287aa70affe1fb4fe2859b0e58f8959b8cb605599e29253124ba82f827ed49",
+      "body_sha256": "388356e812051a3020400a5945b5230b942c4188765f72ccfb350a191af260ea"
+    },
+    {
+      "path": "content/book/life/digital/telecom.md",
+      "title": "手机、宽带与订阅：开通、搬迁和取消",
+      "status": "written",
+      "draft": true,
+      "content_kind": "guide",
+      "bytes": 12411,
+      "sha256": "58210354e20ff72889ea53ccef088ddca9675cc9fff4fc29ba33eff0026cf8fe",
+      "body_sha256": "42543e4f45b1d209900195df870d946329160cf794435f3c01fa36c4b28ab80a"
+    },
+    {
+      "path": "content/book/life/documents/_index.md",
+      "title": "身份、准证与行政生活",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "editorial",
+      "bytes": 522,
+      "sha256": "2b879f46e3c1c6527066195132d3ea9c213fdac75bb2db1daa04af4b9aa61faf",
+      "body_sha256": "90b19012fe0dd6ec24ee53f53fd50b142f6ab825b5bc6aff4372c29deeb5a359"
+    },
+    {
+      "path": "content/book/life/documents/national-service.md",
+      "title": "谁需要国民服役，怎样安排学业和离境",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "task",
+      "bytes": 9424,
+      "sha256": "291b1d3cee3dfa3933f7e17ca6c81be3cf08aa482a725e0c1db378b3a9e8b06f",
+      "body_sha256": "0c98c58eaf16b42ac09ac69f7cb0b3fdb301238557193bfb742535114aeac5fe"
+    },
+    {
+      "path": "content/book/life/documents/permanent-residence.md",
+      "title": "申请 PR、公民与办理 REP",
+      "status": "written",
+      "draft": true,
+      "content_kind": "guide",
+      "bytes": 15563,
+      "sha256": "d7cc174c45e72fd7105d9372db80a9389975724f365b05faebd48c4e5f3e3a82",
+      "body_sha256": "e2a2ae53ac0d362c46c14e5578a33bcfd7c6095eb2542d651e5925b34d5dc8d2"
+    },
+    {
+      "path": "content/book/life/documents/status-and-eligibility.md",
+      "title": "先看身份，再判断能办什么",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "concept",
+      "bytes": 10577,
+      "sha256": "de7e99067e2fcc78deaf90bdedbde59533897445866f6c09a20695891fa27b40",
+      "body_sha256": "a936377f7278d2a245752cb1aeb58987216d0c5aee25a286022ddcb073b94d7e"
+    },
+    {
+      "path": "content/book/life/documents/work-passes.md",
+      "title": "工作准证怎么选，入职前查什么",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "concept",
+      "bytes": 12794,
+      "sha256": "a775e13e2c892479fc4e6066caec9deed05c66fb2d335e2f28d8a12087089f10",
+      "body_sha256": "5a1730c03cc45b06d5bd5e6dec795f6b4d180c966eff0b3fe31db46b57391d47"
+    },
+    {
+      "path": "content/book/life/household/_index.md",
+      "title": "衣食、购物与家庭运转",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "editorial",
+      "bytes": 562,
+      "sha256": "47e0530e450db27979119c06fbff3a0264d8330d6c0f54184f8118d57fb0ab86",
+      "body_sha256": "9af1f6883fb4fa7440587f344255782f7365772f8239f56f8953ce0c2314471e"
+    },
+    {
+      "path": "content/book/life/household/consumer-rights.md",
+      "title": "购物、退换与维修：消费问题怎样处理",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "guide",
+      "bytes": 10270,
+      "sha256": "5493af76b4f3130f07e93c071ccbe07e5a8e4816c5c1f07692ca803ddbfb4897",
+      "body_sha256": "ff8b1a5192bdd0e60177d79119ee986ca31bd68ee328fcc03d3d10c44b3db110"
+    },
+    {
+      "path": "content/book/life/household/food-shopping.md",
+      "title": "买菜与吃饭：从巴刹、小贩中心到超市",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "guide",
+      "bytes": 10613,
+      "sha256": "8db7ff37ce7a0b571f46d0a03fadd8d3bc9513f61dfc93e43d7092d517863aee",
+      "body_sha256": "9f1bdf8065ce01b9ee25accc52a125befa62d46b612c6c6248d9c7d47e1ad808"
+    },
+    {
+      "path": "content/book/life/household/home-maintenance.md",
+      "title": "打理住处：水电燃气、维修与垃圾回收",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "guide",
+      "bytes": 11450,
+      "sha256": "1fe61036236b61fc1b4143bffd006d3393e24e8302eedbb39828a6ac1da2c9a2",
+      "body_sha256": "5517558b2005ecdc6b27d20aada7469324a6d6a87906f8e70a2bba5117edbbcf"
+    },
+    {
+      "path": "content/book/life/household/keeping-pets.md",
+      "title": "养宠物：住处许可、日常花费与照顾责任",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "guide",
+      "bytes": 10847,
+      "sha256": "ea526c89a79f21991903d3031a91fcbef728f141cbca239534b1138d64377da6",
+      "body_sha256": "5fc4fde5afbed43237ac431ef2b2121a51d3f7c8e62f77c984ccb869891d3b6b"
+    },
+    {
+      "path": "content/book/life/housing/_index.md",
+      "title": "住房与租住关系",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "editorial",
+      "bytes": 539,
+      "sha256": "fc6d6885febe4d897613a357041b2af1475e2f746ff587e3dad28a9ec5315b16",
+      "body_sha256": "d580b49561104cfc59457603f985120d988ddb5afa8023e55520152dee1e43d0"
+    },
+    {
+      "path": "content/book/life/housing/renting.md",
+      "title": "租房：从核验房源到拿钥匙入住",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "task",
+      "bytes": 12730,
+      "sha256": "a4eee45fd2a7cf71f897706d4ae8488ac15db8cd7d3675a496c6ad3853d18505",
+      "body_sha256": "fd8dab390f1e849d959a0ebee2592d007affe6561c20bcfc03d8b967d9948e12"
+    },
+    {
+      "path": "content/book/life/transport/_index.md",
+      "title": "交通与出行",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "editorial",
+      "bytes": 517,
+      "sha256": "1156fe7a966afac658dde67676cf9b379be55a9bff40d95aa0319d45b458800c",
+      "body_sha256": "930a43e9d9a21e94e590bd32569151a80605f279a063ca381e4fd441c6e13030"
+    },
+    {
+      "path": "content/book/life/transport/public-transport.md",
+      "title": "地铁和巴士怎样乘、怎样付费",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "task",
+      "bytes": 8823,
+      "sha256": "15f7f2f3f09fb57cab50ea9483af249ab260c00d6892a9926c98441803d93502",
+      "body_sha256": "b49ae3a7932164bc72cdc9327a84df591a12df7198113db64a30f09b336d1062"
+    },
+    {
+      "path": "content/book/people/_index.md",
+      "title": "人生、健康、家庭与学习",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "editorial",
+      "bytes": 530,
+      "sha256": "67d48969dae90b0bc4c245a95d13d181c0b0de788fb437fd303761020d9986ff",
+      "body_sha256": "3193b6df63f9f2cd7b04ff54c6eb3221b176bc87487b35272b67a1bc30414139"
+    },
+    {
+      "path": "content/book/people/family/_index.md",
+      "title": "家庭、生育与孩子的身份",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "editorial",
+      "bytes": 579,
+      "sha256": "88ce3d5d6096cbba2b8bc8d69da6114c278ffbff77bbbf1f3c9417a011d48092",
+      "body_sha256": "120df4bc518f7855538af951456a4b22e71452f3411308ee3b73cf02c5ca256b"
+    },
+    {
+      "path": "content/book/people/family/birth.md",
+      "title": "怀孕到出生：就医、登记与孩子的身份",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "task",
+      "bytes": 11315,
+      "sha256": "1621b7e85398cb0ab1db27e93b3e3844de649de569c9e6f0047bf8575bcbaf02",
+      "body_sha256": "aabdd90a1d2dd642d99ee65bcddca0597636a11b43a87af35729e21d2e20a0d1"
+    },
+    {
+      "path": "content/book/people/healthcare/_index.md",
+      "title": "医疗与健康",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "editorial",
+      "bytes": 520,
+      "sha256": "1c8fcf0ad294c02c7105d153bc293eb7ddd37b347c893f447b6e3e7827be8869",
+      "body_sha256": "4d0bfff36e37fb7042bd8cde9eb480dd724b251fc96555dbc3f4f8fa0e599998"
+    },
+    {
+      "path": "content/book/people/healthcare/getting-care.md",
+      "title": "生病后去哪看：诊所、专科与急诊",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "task",
+      "bytes": 7854,
+      "sha256": "4cb39b923f3710dbe91c6cd1884dcf535f9b2096ebabdc95ea82737b93620315",
+      "body_sha256": "b5bb781c2fc6aeb13e019bd93db531fe3763eecb8d19cd2ace793bc4efb850db"
+    },
+    {
+      "path": "content/book/people/healthcare/healthcare-payments.md",
+      "title": "医疗费用怎样支付：补贴、MediSave 与保险",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "explainer",
+      "bytes": 9855,
+      "sha256": "03c6c0bf6b7971ba3745243afa49fb587481b5c897578781132c8a9fc695db2f",
+      "body_sha256": "3e86edad298db597fb2f5fe7f6bef120fa0fd48e5702f38c58ef005a227e38a8"
+    },
+    {
+      "path": "content/book/people/language/_index.md",
+      "title": "英语、华语与多语生活",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "editorial",
+      "bytes": 497,
+      "sha256": "3bc3d0be9d0ba424a093b8ab421e2dc0de96e84d8f8c39bc003df7111f9d40af",
+      "body_sha256": "45623cef4dce9b3595823602f03cdcc5d5a795ce1595ae0472ef2767593dade1"
+    },
+    {
+      "path": "content/book/people/language/everyday-language.md",
+      "title": "在多语环境里，把话听懂、把事说清",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "explanation",
+      "bytes": 8082,
+      "sha256": "80803221d288b80b11270f37c2c6219ce574b9a6c11c3e7305b5440853e5d5e6",
+      "body_sha256": "487a9a8320516e2b38bf4697eb9c57b3a419346353b5234599fb867eb168c280"
+    },
+    {
+      "path": "content/book/people/school/admission.md",
+      "title": "孩子怎样入学：小一、国际学生考试与学校选择",
+      "status": "written",
+      "draft": true,
+      "content_kind": "task",
+      "bytes": 14785,
+      "sha256": "fe7068688b4c82cf9625f377d17c80b6782b3f920005af0ed16920daf244a1fa",
+      "body_sha256": "d371e9d68f8fd629471b2588587b55fba671f6ab01bc3f4cc2372320028f975c"
+    },
+    {
+      "path": "content/book/rights/_index.md",
+      "title": "法律、风险与外部环境",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "editorial",
+      "bytes": 602,
+      "sha256": "504c68774cd68c7eadf2667b4edd78990461e237e7e85a407a28434132029fc7",
+      "body_sha256": "01cd1fc34f2c0fe4b2d0cf341e1ba5b2a928028c2825a3af0d41e106b2a408dd"
+    },
+    {
+      "path": "content/book/rights/safety/_index.md",
+      "title": "公共安全与应急",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "editorial",
+      "bytes": 552,
+      "sha256": "c15b328d68895b4281dc2b86708eb95d97deef4a45beda9dd262ffd4556d86bb",
+      "body_sha256": "7e00f036e29558158540b163d20ee0877d7ad5f54974f6032ff5a76a28a71757"
+    },
+    {
+      "path": "content/book/rights/safety/emergencies.md",
+      "title": "紧急求助：报警、救护与住家火灾",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "task",
+      "bytes": 10002,
+      "sha256": "ab87ab7398ef05a914d4e348d0ff2024202a84f18886fa2ddd14a31f03b7473a",
+      "body_sha256": "5af27696504a82a28defb256a89b81679c575bff4b83e8cdc4f5a905396fdeb3"
+    },
+    {
+      "path": "content/book/work/_index.md",
+      "title": "工作、收入、财务与经营",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "editorial",
+      "bytes": 548,
+      "sha256": "13688e775901608f77ff186b51967d8a66b3d4b0c1a6eaa5d3ccf38fd7d77ae8",
+      "body_sha256": "92a7dbcdaec842aadd37b0d4e80bd122fae5f757c1e45c8a18b6777fe7386e53"
+    },
+    {
+      "path": "content/book/work/employment/_index.md",
+      "title": "劳动关系与离职安排",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "editorial",
+      "bytes": 572,
+      "sha256": "22898038869cc7937da686b50e63400705b31ff92b50c63b35f6f13efd4fcd11",
+      "body_sha256": "1792c286894ba1158c694553525e8df3232fce85cf349284481bbf05a0263737"
+    },
+    {
+      "path": "content/book/work/employment/leaving-job.md",
+      "title": "离职时怎样结工资、交接准证和处理争议",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "guide",
+      "bytes": 12173,
+      "sha256": "ddbe6aa35dad63635698e25d251a727c5534185b715e495f82493d63c9ff1ac7",
+      "body_sha256": "ec71de55198a61e0796c2c393f0013c37b40ce86cf95abee1d87f1f7789c9e03"
+    },
+    {
+      "path": "content/book/work/finance/_index.md",
+      "title": "银行、CPF与个人财务",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "editorial",
+      "bytes": 563,
+      "sha256": "fd020a40b5bc27182ba03eb4475fa590e560919df3284e1830dcc14eed25036b",
+      "body_sha256": "ca76ebf376c281e1222eca7ff88c6e96463be3a656bb706cc3d550e9bc3e8e7c"
+    },
+    {
+      "path": "content/book/work/finance/cpf-basics.md",
+      "title": "CPF 基础：谁要缴、工资怎样扣、钱能做什么",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "explainer",
+      "bytes": 12191,
+      "sha256": "7c9e8f4af5dd34cf0266a707ea7189e7b602401370e820224156cff6c5d4d3ae",
+      "body_sha256": "a02f942c16e6f1bea943646ec62c36555d998b504d552d07d2879b5dcb6966e0"
+    },
+    {
+      "path": "content/book/work/finance/household-budget.md",
+      "title": "家庭预算：让每月收入接得住日常与意外",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "guide",
+      "bytes": 8418,
+      "sha256": "bfc754e7f40000ca298ec17a9b9d2f84ef3160ba31f24c16f91d6a05a7f0c1cc",
+      "body_sha256": "dc4146d2f62c6a5bad41b1c450b24ef9fec90b064d000e08f3b24914c0c9a19c"
+    },
+    {
+      "path": "content/book/work/tax/_index.md",
+      "title": "个人税务与离境税清",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "editorial",
+      "bytes": 566,
+      "sha256": "45e0fdace62a0c0f114bf91b3f79b45356378f1aa3162f67730d46ea773cb481",
+      "body_sha256": "83422acd1c7700931748558c11ec2db4352e46ab5e8c346a4a353ecf249e432e"
+    },
+    {
+      "path": "content/book/work/tax/leaving-singapore.md",
+      "title": "离职与离境税清：IR21 什么时候要办",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "guide",
+      "bytes": 11516,
+      "sha256": "1828381b1b30f7ec6fb86a8a36d6d2dba6d1197f394097825a6f544809f6f6a0",
+      "body_sha256": "8ebb1056ecac5d673852bc1beb65c4449673705f1bbd3f1badd8b91c588ba521"
+    },
+    {
+      "path": "content/book/work/tax/personal-tax.md",
+      "title": "个人所得税：居民身份、申报和缴款",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "guide",
+      "bytes": 10904,
+      "sha256": "e6ff76d775fec6ab97deeeba01247ab64aedae4bce9a397487aba65f2f255c2a",
+      "body_sha256": "51d4abf45e7317f4a744a0395ac6c809f4a382add5ec49397f60b491162e6ab6"
+    },
+    {
+      "path": "content/docs/_index.md",
+      "title": "查询入口",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "editorial",
+      "bytes": 529,
+      "sha256": "9640e05d266bf465dceb09e65e25f55813c47a1938141408f292c4d2256e8dc7",
+      "body_sha256": "b70e01580e2a1faa56dbdd77632a4ded68d868f92972d761567a2e1f11407035"
+    },
+    {
+      "path": "content/docs/about.md",
+      "title": "关于这本指南",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "editorial",
+      "bytes": 1054,
+      "sha256": "b99b6dba8f4796fd88788b9f2138b7e2aacb165a41dca23e90ff1201045e90c2",
+      "body_sha256": "838fa296451f54d7f09707d4f346340b96477188b17e6a8520be7dc1b669495a"
+    },
+    {
+      "path": "content/docs/glossary/_index.md",
+      "title": "中英术语与本地用语",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "editorial",
+      "bytes": 3936,
+      "sha256": "edf893f75c71a582225c865cfa4406f94e1a3be20bb47100f23a0b58e223458f",
+      "body_sha256": "90e856acb547294659d68c64dd33714cc2c5e693827c3e8ceb3cfec2d69f11b9"
+    },
+    {
+      "path": "content/docs/profiles/_index.md",
+      "title": "按身份与生活处境选路",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "editorial",
+      "bytes": 534,
+      "sha256": "90db5e7d0193ef88f926d5006d1a3cbc460fb7a30aadc384ec7dc55681ddce6c",
+      "body_sha256": "245201c63e4ce700dcdae47090a1cd02faec2afd802f2f2f1ce3e87998c929bb"
+    },
+    {
+      "path": "content/docs/profiles/citizen.md",
+      "title": "新加坡公民",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "editorial",
+      "bytes": 869,
+      "sha256": "de81357ce2d8e0de6f34b337bfe83e2fb9b48515a76eabbfac49836f0fb76e62",
+      "body_sha256": "66327259c84a0264cf7069ea62af2a843175a58cf20eb0c121a0320c4251d922"
+    },
+    {
+      "path": "content/docs/profiles/family.md",
+      "title": "家属与跨国家庭",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "editorial",
+      "bytes": 909,
+      "sha256": "047e8e73fc8dac37550506631b7cf44f19516bff79209b827edac44858527e7f",
+      "body_sha256": "5fe34fadb81a0c5494649eb4d8eafc4230e66d489818f5b0b8127652e2443374"
+    },
+    {
+      "path": "content/docs/profiles/pr.md",
+      "title": "永久居民 PR",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "editorial",
+      "bytes": 859,
+      "sha256": "b378928960d96cb6b0acd893021d6647e0f289e6f586b5d380236504078f84e5",
+      "body_sha256": "1a45bbb072990c6ea4fedbf4332affe2ef1bf3cb84ae00c5d0f1c9c12e03554c"
+    },
+    {
+      "path": "content/docs/profiles/student.md",
+      "title": "学生",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "editorial",
+      "bytes": 978,
+      "sha256": "548acd4980d35a06e76c600485b5a1f94cc3b472ee35d18ea74fac9bf49caffa",
+      "body_sha256": "ecddc6ba6a92978f1f446bc8468fa7dba2eea1c0bcdf78e17d3513143783e6a7"
+    },
+    {
+      "path": "content/docs/profiles/visitor.md",
+      "title": "短期访客",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "editorial",
+      "bytes": 879,
+      "sha256": "a73c4d82eb6dc895e3f2842737a56676621ba1bd1a58838461cb6e08e9e8168b",
+      "body_sha256": "9b71b28999479055087e990a873266d4e6da469902f9c2a087a8d8a948b3b5a3"
+    },
+    {
+      "path": "content/docs/profiles/worker.md",
+      "title": "工作准证持有人",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "editorial",
+      "bytes": 915,
+      "sha256": "eff994ee951039aa71e0dcc1dc838121440085797587cedbc63d18fa2b53483c",
+      "body_sha256": "7c2acb9eeab9fcb72e6690590958df104a2478c679914a540d48718cc57aa47e"
+    },
+    {
+      "path": "content/docs/routes/_index.md",
+      "title": "按事项查找",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "editorial",
+      "bytes": 481,
+      "sha256": "5ac9f6aa59f3b74c2b00e2bcfe121a1ba566a6c2713ea5493ec1c349c24401d1",
+      "body_sha256": "4faa51b2f2702c846eb9bb57f050ef3cae53147e3d01f06af119dfaad2ee2a5f"
+    },
+    {
+      "path": "content/docs/routes/having-child.md",
+      "title": "准备迎接孩子",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "editorial",
+      "bytes": 920,
+      "sha256": "9ea10dac951662ccc7ad2fdcb8a1d1ce0160190841fd3794ce50ee7833a9ae39",
+      "body_sha256": "d73707268f5ac2af71aae941a35bde8fba2dbb4bc061c6dcba57aac0c82ac053"
+    },
+    {
+      "path": "content/docs/routes/illness.md",
+      "title": "生病了，先安排就医",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "editorial",
+      "bytes": 1191,
+      "sha256": "92098b4c069b83ed28c4ab1b75ec14d059974039935abb1e1c4e7f4509d27e65",
+      "body_sha256": "34c53123bea90aa682e87202eea9b629ced1c928868a2724c2ef21edbdbb0679"
+    },
+    {
+      "path": "content/docs/routes/leaving-job.md",
+      "title": "准备离职、换工作或离境",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "editorial",
+      "bytes": 1262,
+      "sha256": "2340d403643d31c4e08356eb97fe5b71f88dab98bd6d18f7bfe6136b960bc37d",
+      "body_sha256": "a43747346795903bde898a6dfacbc6a54d955e7f1e6d188693cd45c48bb18328"
+    },
+    {
+      "path": "content/docs/routes/ns-family.md",
+      "title": "为孩子安排身份、学业与国民服役",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "editorial",
+      "bytes": 1207,
+      "sha256": "871669638c1444f0d8d1c83f30e9b70e51c93e048b4a7274ee1f1b7c6984649c",
+      "body_sha256": "4535fbc4188a058de1c155b43f0a62a7150418f042c7c2fc5fb8bd9be556b203"
+    },
+    {
+      "path": "content/docs/routes/renting.md",
+      "title": "准备租房与搬家",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "editorial",
+      "bytes": 1296,
+      "sha256": "c582b0424267921226f977095171dc567e42bbede11250e76b544d5daa6942b2",
+      "body_sha256": "49ddf8781db09c04db02b9089939346bc3af3027a426022c34dbe448cdbd4046"
+    },
+    {
+      "path": "content/docs/routes/settling-in.md",
+      "title": "把日常生活安顿下来",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "editorial",
+      "bytes": 1415,
+      "sha256": "74c3087e75ef001e5b5f96a8f2c1fbe79212b9ba14bf6be95bf82f2e580c5f94",
+      "body_sha256": "f51a58269c2c249d7c0fa560f8ac206a42431bf70069db35decefeda0b9e9429"
+    },
+    {
+      "path": "content/docs/routes/start-work.md",
+      "title": "准备开始工作",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "editorial",
+      "bytes": 1379,
+      "sha256": "0d9d74122778870d1137415cf9cfb54a4343ef74cb0ca8fc82cf9950785b89e5",
+      "body_sha256": "11e674f05f344a46f246de9fbd67868c982e15cba178668275a0bb464778e555"
+    },
+    {
+      "path": "content/docs/routes/urgent-help.md",
+      "title": "眼前有危险，需要立即求助",
+      "status": "integrated",
+      "draft": false,
+      "content_kind": "editorial",
+      "bytes": 816,
+      "sha256": "9c3ed2f1737872409717b2d39f8c1674da1f33d93e26209a7570f21eacbdd83f",
+      "body_sha256": "98287ef7b2f945a0c6485e9f02b208ed01f149feaae0a46fea3608daf5f964b2"
+    }
+  ],
+  "review_status": {
+    "b03b_history_culture_4": "facts identity + editorial root passed; not integrated",
+    "b03b_society_3": "facts care_finance + editorial root passed; not integrated",
+    "b03b_world_inequality_4": "daily_history source review performed; final facts report not written; root full-text read but third editorial not signed",
+    "b03c_accounts": "facts daily_history + editorial identity passed; not integrated",
+    "b03c_telecom": "facts daily_history + editorial identity passed; not integrated",
+    "b03c_privacy_fraud": "root written and self-read; independent facts not started",
+    "b03c_permanent_residence": "new identity draft; author final review/freeze incomplete; no independent facts",
+    "b02_admission": "held draft; missing core MOE current primary details"
+  },
+  "limitations": [
+    "This snapshot is a local inventory and handoff, not a new build or factual/rendering acceptance.",
+    "Last complete production and actual rendering acceptance is B03A; see ops/checks/b03-acceptance.json.",
+    "Ignored caches remain only on this filesystem and are not included in Git."
+  ]
+}

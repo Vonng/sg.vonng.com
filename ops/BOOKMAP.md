@@ -1,6 +1,6 @@
 # 全书内容地图
 
-更新：2026-10-13（Asia/Singapore）。这是持续目标的覆盖地图；候选路径只登记于此，不生成空正文。覆盖认定须检查每个领域的必要分支，文章数量不作完成门槛。
+更新：2026-10-13（Asia/Singapore）。用户已暂停并保存跨会话现场，见HANDOFF-2026-10-13.md。这是持续目标的覆盖地图；候选路径只登记于此，不生成空正文。覆盖认定须检查每个领域的必要分支，文章数量不作完成门槛。
 
 ## 内容与资格模型
 
@@ -27,8 +27,8 @@
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
 | `/book/foundations/history/port-city-to-nation/` | 港口如何成为国家：殖民前至独立的转折与多群体经历 | integrated（B01；事实/编辑/渲染通过） |
-| `/book/foundations/history/housing-industrialisation/` | 工业化和组屋怎样改变家庭与工作 | planned |
-| `/book/foundations/history/memory/` | 纪念碑、日据记忆和不同群体的历史表达 | planned |
+| `/book/foundations/history/housing-industrialisation/` | 工业化和组屋怎样改变家庭与工作 | written（B03B；独立事实与root第三编辑通过，待工程） |
+| `/book/foundations/history/memory/` | 纪念碑、日据记忆和不同群体的历史表达 | written（B03B；独立事实与root第三编辑通过，待工程） |
 
 ### 3. 国家制度、政府与公共事务（government）
 
@@ -46,9 +46,9 @@
 
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
-| `/book/foundations/society/communities/` | 族群分类怎样进入公共生活：华族马来族印度族欧亚等 | planned |
-| `/book/foundations/society/religion-festivals/` | 宗教与节庆怎样相处：场所礼节与社群表达 | planned |
-| `/book/foundations/society/migration/` | 本地出生者、新移民与各类外籍工作者的社会位置 | planned |
+| `/book/foundations/society/communities/` | 族群分类怎样进入公共生活：华族马来族印度族欧亚等 | written（B03B；care事实与root第三编辑通过，待工程） |
+| `/book/foundations/society/religion-festivals/` | 宗教与节庆怎样相处：场所礼节与社群表达 | written（B03B；care事实与root第三编辑通过，待工程） |
+| `/book/foundations/society/migration/` | 本地出生者、新移民与各类外籍工作者的社会位置 | written（B03B；care事实与root第三编辑通过，待工程） |
 
 ### 5. 社会文化、交往与默会知识（culture）
 
@@ -56,9 +56,9 @@
 
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
-| `/book/foundations/culture/everyday-etiquette/` | 排队预约拒绝承诺怎样说：生活场景 | planned |
-| `/book/foundations/culture/hawker-social-life/` | 小贩饮食、媒体、体育与休闲怎样连接人 | planned |
-| `/book/foundations/culture/inequality/` | 怎样理解阶层竞争贫困与歧视：研究对象和边界 | planned |
+| `/book/foundations/culture/everyday-etiquette/` | 排队预约拒绝承诺怎样说：生活场景 | written（B03B；独立事实与root第三编辑通过，待工程） |
+| `/book/foundations/culture/hawker-social-life/` | 小贩饮食、媒体、体育与休闲怎样连接人 | written（B03B；独立事实与root第三编辑通过，待工程） |
+| `/book/foundations/culture/inequality/` | 怎样理解阶层竞争贫困与歧视：研究对象和边界 | written（B03B；异人独立事实审中） |
 
 ### 6. 新加坡与世界（world）
 
@@ -66,9 +66,9 @@
 
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
-| `/book/foundations/world/regional-ties/` | 与马来西亚印尼和东盟如何相连 | planned |
-| `/book/foundations/world/trade-migration/` | 贸易金融与中国印度欧美的人流怎样影响生活 | planned |
-| `/book/foundations/world/perspectives/` | 官方立场、调查和个人经历分别能解释什么 | planned |
+| `/book/foundations/world/regional-ties/` | 与马来西亚印尼和东盟如何相连 | written（B03B；异人独立事实审中） |
+| `/book/foundations/world/trade-migration/` | 贸易金融与中国印度欧美的人流怎样影响生活 | written（B03B；异人独立事实审中） |
+| `/book/foundations/world/perspectives/` | 官方立场、调查和个人经历分别能解释什么 | written（B03B；异人独立事实审中） |
 
 ## 建立与经营日常生活
 
@@ -81,9 +81,9 @@
 | `/book/life/documents/status-and-eligibility/` | 先查哪些身份事实才知道能办什么 | integrated（B01；事实/编辑/渲染通过） |
 | `/book/life/documents/work-passes/` | 不同工作准证及家属工作资格怎样选路 | integrated（B01；事实/编辑/渲染通过） |
 | `/book/life/documents/national-service/` | 谁须服国民服役：国籍性别年龄PR途径代际 | integrated（B01；事实/编辑/渲染通过） |
-| `/book/life/documents/arrival-renewal/` | 入境停留、领取证件、地址更新和续期怎么办 | planned |
-| `/book/life/documents/permanent-residence/` | 怎样申请PR公民和处理REP | planned |
-| `/book/life/documents/documents/` | 翻译公证认证与文件保存怎样准备 | planned |
+| `/book/life/documents/arrival-renewal/` | 入境停留、领取证件、地址更新和续期怎么办 | researched（B03C；identity已分派） |
+| `/book/life/documents/permanent-residence/` | 怎样申请PR公民和处理REP | written（B03C；初稿落盘，作者自审冻结未完成） |
+| `/book/life/documents/documents/` | 翻译公证认证与文件保存怎样准备 | researched（B03C；identity已分派） |
 
 ### 8. 住房、租赁、购房与居住关系（housing）
 
@@ -92,10 +92,10 @@
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
 | `/book/life/housing/renting/` | 怎样找到可合法入住的住房并签租约 | integrated（B02；事实/编辑/渲染通过） |
-| `/book/life/housing/tenancy/` | 入住维修押金续租退租怎样处理 | planned |
-| `/book/life/housing/buying-hdb/` | BTO与转售怎样判断家庭资格、HFE和贷款 | planned |
-| `/book/life/housing/buying-private/` | 私人公寓EC有地住宅和交易税费怎样判断 | planned |
-| `/book/life/housing/neighbours/` | 市镇理事会MCST和邻里纠纷找谁 | planned |
+| `/book/life/housing/tenancy/` | 入住维修押金续租退租怎样处理 | assigned（B03C；daily_history，尚未研究） |
+| `/book/life/housing/buying-hdb/` | BTO与转售怎样判断家庭资格、HFE和贷款 | assigned（B03C；daily_history，尚未研究） |
+| `/book/life/housing/buying-private/` | 私人公寓EC有地住宅和交易税费怎样判断 | assigned（B03C；daily_history，尚未研究） |
+| `/book/life/housing/neighbours/` | 市镇理事会MCST和邻里纠纷找谁 | assigned（B03C；daily_history，尚未研究） |
 
 ### 9. 衣食、购物与家庭运转（household）
 
@@ -115,9 +115,10 @@
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
 | `/book/life/transport/public-transport/` | MRT巴士怎样支付换乘和查询无障碍 | integrated（B01；事实/编辑/渲染通过） |
-| `/book/life/transport/driving/` | 境外驾照使用转换、买车COEERP路税停车保险 | planned |
-| `/book/life/transport/active-mobility/` | 骑行步行PMD有哪些道路规则 | planned |
-| `/book/life/transport/airport-checkpoints/` | 去机场和柔佛关卡怎样安排行程 | planned |
+| `/book/life/transport/driving/` | 境外驾照使用转换、买车COEERP路税停车保险 | researched（B03C；care_finance已分派） |
+| `/book/life/transport/taxis-phv/` | 出租车与网约车乘客叫车费用、儿童轮椅、线下与投诉；从驾驶持车任务拆出 | researched（B03C；care_finance） |
+| `/book/life/transport/active-mobility/` | 骑行步行PMD有哪些道路规则 | researched（B03C；care_finance已分派） |
+| `/book/life/transport/airport-checkpoints/` | 去机场和柔佛关卡怎样安排行程 | researched（B03C；care_finance已分派） |
 
 ### 11. 数字生活、通信与信息判断（digital）
 
@@ -125,9 +126,10 @@
 
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
-| `/book/life/digital/accounts/` | SingpassMyinfo怎样设立使用与恢复 | written（B03C；root作者，daily事实审中） |
-| `/book/life/digital/telecom/` | 手机宽带合约订阅和取消怎样比较 | planned |
-| `/book/life/digital/privacy-fraud/` | 怎样判断信息和处理账户泄露诈骗：含线下入口 | planned |
+| `/book/life/digital/accounts/` | SingpassMyinfo怎样设立使用与恢复 | written（B03C；daily事实、identity第三编辑通过，待工程） |
+| `/book/life/digital/telecom/` | 手机宽带合约订阅和取消怎样比较 | written（B03C；daily事实与identity第三编辑通过，待工程） |
+| `/book/life/digital/privacy-fraud/` | 怎样判断信息和处理账户泄露诈骗：含线下入口 | written（B03C；root作者，待daily事实） |
+| `/book/life/digital/privacy-data/` | 向机构查阅更正撤回同意与资料投诉；从防骗即时应对拆出完整权利申请任务 | planned（当前PDPC细原文访问缺口，见b03c-digital证据） |
 
 ### 12. 社区、公共服务、文化与休闲（community）
 
