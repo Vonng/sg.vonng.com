@@ -84,7 +84,7 @@ PEP、ONE Pass，以及 ICA 家属的 LOC/PLOC，不应套用 EP 的整套取消
 
 家政雇佣关系可以依双方合同的通知期终止，未履行通知的一方通常须支付代通知金，双方也可同意免除。这里应查家政合同，不能套用上面的《雇佣法》默认通知期表。[MOM：家政合同与提前终止](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/employers-guide/contracts-and-safety-agreement)
 
-准备离开当前家庭时，先决定是回国，还是按 MOM 要求转给新雇主或就业中介；准证、工资、护照和机票都须衔接。发生欠薪或雇佣争议时，从 [MOM 联系入口](https://www.mom.gov.sg/contact-us) 说明家政准证及问题；不便使用网上服务可拨本地电话 **6438 5122** ，服务时间为工作日 8:30—17:30，公共假日除外。TADM 的一般雇员申索服务不受理家政移工。雇主与中介之间的服务合同争议则先走约定的争议解决机制，不能把它当成移工本人欠薪的同一种申索。[MOM：家政与中介争议](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/employers-guide/resolving-disputes)
+准备离开当前家庭时，先决定是回国，还是按 MOM 要求转给新雇主或就业中介；准证、工资、护照和机票都须衔接。发生欠薪或雇佣争议时，从 [MOM 联系入口](https://www.mom.gov.sg/contact-us) 说明家政准证及问题；不便使用网上服务可拨本地电话 **6438 5122** ，服务时间为工作日 8:30—17:30，公共假日除外。TADM 的一般雇员申索服务不受理家政移工。雇主与中介之间的服务合同争议则先走约定的争议解决机制。[MOM：家政与中介争议](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/employers-guide/resolving-disputes)
 
 ## 有争议时，先保住申索期限
 

@@ -23,7 +23,7 @@ weight: 20
 | 公民或 PR 自雇人士 | 年净营业收入超过 S$6,000 时须缴 MediSave | 年收入、年初年龄、是否另有工资或平台收入 |
 | 受制度涵盖的公民或 PR 平台工作者 | 平台运营商按收入扣缴；部分人同时获得平台方缴款 | 是否出生于 1995 年或之后、是否已选择提高缴款、年龄、净收入和年度 |
 
-受雇关系包括全职、兼职、临时和合同工作；公民或 PR 雇员的当月总工资超过 S$50，雇主一般就有缴款义务。符合特定条件的学生、部分国际机构雇员等存在豁免，学生打工应查自己的学校和工作安排，不能只看“学生”二字。[CPF：雇员资格及豁免](https://www.cpf.gov.sg/member/growing-your-savings/cpf-contributions/saving-as-an-employee)
+受雇关系包括全职、兼职、临时和合同工作；公民或 PR 雇员的当月总工资超过 S$50，雇主一般就有缴款义务。符合特定条件的学生、部分国际机构雇员等存在豁免，学生打工应查自己的学校和工作安排。[CPF：雇员资格及豁免](https://www.cpf.gov.sg/member/growing-your-savings/cpf-contributions/saving-as-an-employee)
 
 ## 雇员工资单：只扣你的份额
 

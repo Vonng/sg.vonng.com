@@ -33,7 +33,7 @@ search_keywords: ["MDW", "家政", "EOP", "SIP", "6ME", "CDE"]
 | LTVP 持有人 | 申请时须持有效 LTVP，并符合其他雇主条件；提交自己实际准证和家庭情况 |
 | ONE Pass、EntrePass、DP、Student's Pass、其他 Work Permit，或短期访客 | 不能用 EP、S Pass 或 LTVP 的答复替这些类别确认资格；付款前向 MOM 提交具体准证名称、签发机构、有效期、住所与收入资料，确认由谁申请 |
 
-前三类的依据分别见 [一般及特别计划](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/apply-under-a-special-scheme)、[EP／S Pass](https://www.mom.gov.sg/faq/work-permit-for-fdw/can-an-employment-pass-or-s-pass-holder-employ-an-fdw)、[PEP](https://www.mom.gov.sg/faq/work-permit-for-fdw/can-a-personalised-employment-pass-holder-employ-an-fdw)及 [LTVP](https://www.mom.gov.sg/faq/work-permit-for-fdw/can-i-hire-an-fdw-if-i-am-holding-a-long-term-visit-pass)。其他类别的逐项资格未由这些答复解决，可经 [MOM 查询入口](https://www.mom.gov.sg/contact-us)取得个案答复；不要把“未明确列出”理解为已经获准或一律禁止。
+前三类的依据分别见 [一般及特别计划](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/apply-under-a-special-scheme)、[EP／S Pass](https://www.mom.gov.sg/faq/work-permit-for-fdw/can-an-employment-pass-or-s-pass-holder-employ-an-fdw)、[PEP](https://www.mom.gov.sg/faq/work-permit-for-fdw/can-a-personalised-employment-pass-holder-employ-an-fdw)及 [LTVP](https://www.mom.gov.sg/faq/work-permit-for-fdw/can-i-hire-an-fdw-if-i-am-holding-a-long-term-visit-pass)。其他类别的逐项资格未由这些答复解决，可经 [MOM 查询入口](https://www.mom.gov.sg/contact-us)取得个案答复。
 
 EP、S Pass、PEP 家庭通常须提交本人及配偶当期或上一评税年的所得税评税通知书，或同意 MOM 向 IRAS 核实收入。刚到新加坡、没有本地评税通知书时，写明原因，并提供载有入职日和月薪的雇主信；无法提供指定材料时，可按官方说明补其他收入证明、海外税单或本地定期存款证明。[MOM：外籍雇主的材料及替代证明](https://www.mom.gov.sg/faq/work-permit-for-fdw/can-an-employment-pass-or-s-pass-holder-employ-an-fdw)
 

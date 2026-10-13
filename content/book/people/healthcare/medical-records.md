@@ -98,7 +98,7 @@ NUH 路径与表件见[当前申请页](https://www.nuh.com.sg/care-at-nuh/reque
 
 ## 未成年、欠缺能力、已故及雇主申请
 
-**未成年患者** ：直接按医院的申请与同意表处理。SGH 对未成年报告要求父母或法定监护人同意；NUHS Form A 对此项“minor”的定义是未满 21 岁，且不是现役国民服役人员、未婚并非鳏寡者。已经结婚或处于相关服役情形的未 21 岁患者，应主动说明情况，让医院使用正确分支。这些是报告申请条件。[SGH 申请人资格](https://www.sgh.com.sg/patient-services/personal-health-records/medical-reports)、[NUHS Form A 第三页](https://www.nuh.com.sg/docs/nuhlibraries/content-document/care-at-nuh/request-for-medical-report/fillable-medical-report-forms/form-a_nuhs_application-and-consent-for-release-of-medical-information_r22-03-26.pdf?sfvrsn=8718496f_3)
+**未成年患者** ：直接按医院的申请与同意表处理。SGH 对未成年报告要求父母或法定监护人同意；NUHS Form A 对此项“minor”的定义是未满 21 岁，且不是现役国民服役人员、未婚并非鳏寡者。已经结婚或处于相关服役情形的未 21 岁患者，应主动说明情况，让医院使用正确分支。[SGH 申请人资格](https://www.sgh.com.sg/patient-services/personal-health-records/medical-reports)、[NUHS Form A 第三页](https://www.nuh.com.sg/docs/nuhlibraries/content-document/care-at-nuh/request-for-medical-report/fillable-medical-report-forms/form-a_nuhs_application-and-consent-for-release-of-medical-information_r22-03-26.pdf?sfvrsn=8718496f_3)
 
 **患者欠缺精神能力** ：告诉医院患者为何不能同意，备好关系证明、能力证明及已有的 LPA 或法院委任代理命令。NUHS 的 Form D 另处理没有这类正式代理的近亲申请，须说明报告用途；部分用途还需其他近亲声明。涉及争议诉讼的近亲申请须有法院命令。家属之间有异议、没有明确代理，或只是替患者领取资料时，先让 MRO 核定所需表件和申请人。[NUHS Form D](https://www.nuh.com.sg/docs/nuhlibraries/content-document/care-at-nuh/request-for-medical-report/fillable-medical-report-forms/r4-12-24_nuhs_additional-declaration-for-release-of-medical-information-for-mental-incapacity-patient-%28form-d%29.pdf?sfvrsn=805ec96c_1)
 

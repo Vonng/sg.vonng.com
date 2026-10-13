@@ -93,7 +93,7 @@ search_keywords: ["海外收入", "境外雇主", "跨境", "双重征税", "COR
 
 金融机构可要求姓名、住址、出生日期、 **所有税务居民地及各地TIN税号** ，并索取证明；美国公民或税务居民还可能涉及FATCA及W-8／W-9表。按本人实际情况填写，迁居、派驻或税务居民地改变后及时通知机构。资料不足可影响开户、现有账户或信息报告，不能用“新加坡这笔收入免税”作为不回应的理由。[IRAS：账户持有人的资料与变更责任](https://www.iras.gov.sg/taxes/international-tax/common-reporting-standard-(crs)/basic-information-for-account-holders-of-financial-institutions)
 
-CRS由金融机构按规则向IRAS报告，再与有关税务辖区交换。银行收集信息与个人所得税申报各有用途；保存已交声明、证明及更改确认，报税时仍按收入性质处理。IRAS已公布修订CRS要求从 **2027年1月1日** 生效，预计2028年开始按修订标准交换；不要把金融机构的未来格式或年度报送期限当成个人现在须自行报送一套CRS报表的期限。[IRAS：现行CRS、修订日期与交换安排](https://www.iras.gov.sg/taxes/international-tax/common-reporting-standard-(crs)/crs-overview-and-latest-developments)
+CRS由金融机构按规则向IRAS报告，再与有关税务辖区交换。银行收集信息与个人所得税申报各有用途；保存已交声明、证明及更改确认，报税时仍按收入性质处理。IRAS已公布修订CRS要求从 **2027年1月1日** 生效，预计2028年开始按修订标准交换。[IRAS：现行CRS、修订日期与交换安排](https://www.iras.gov.sg/taxes/international-tax/common-reporting-standard-(crs)/crs-overview-and-latest-developments)
 
 ## 申报后、离境前怎样收尾
 

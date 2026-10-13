@@ -17,7 +17,7 @@ weight: 10
 
 Year of Assessment（YA，课税年度）通常是收入年度的下一年。 **YA 2026 对应 2025 年 1 月 1 日至 12 月 31 日的收入** 。按同一原则，2026 年正常取得的年度收入进入 YA 2027；离职或离境税清可能提前处理当年收入，不能等到下一次报税季才办理。[IRAS：税务居民与所得期间](https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/tax-residency-and-tax-rates/working-out-my-tax-residency)
 
-本页以已公布的 **2026 年报税季** 为申报实例：申报期为 3 月 1 日至 4 月 18 日。2027 年实际通知、入口和安排，应届时再查 IRAS；不要把页面上的 2026 年截止日当成未来年度的通知。[IRAS：2026 年报税安排](https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/understanding-my-income-tax-filing/tax-season-2026---all-you-need-to-know)
+本页以已公布的 **2026 年报税季** 为申报实例：申报期为 3 月 1 日至 4 月 18 日。2027 年实际通知、入口和安排，应届时再查 IRAS。[IRAS：2026 年报税安排](https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/understanding-my-income-tax-filing/tax-season-2026---all-you-need-to-know)
 
 ## 税务居民怎样判断
 
