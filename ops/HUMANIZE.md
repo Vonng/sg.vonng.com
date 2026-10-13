@@ -66,7 +66,7 @@
 
 范围：`content/` 全部 .md（2026-10-13 二核为 140 个），含 `_index` 导读与 `docs/` 选路页。导航页处理其中的说教句，不删条目与链接。`ops/` 内部记录不在范围。进度表＝初始 94＋两段追增＋补登；以 `find content -name '*.md'` 实际输出为准，发现缺登先补登再处理。
 
-优先队列 P1（2026-10-13 二核密度，先做）：`work/employment/injury`（13）、`life/transport/driving`（10）、`people/accessibility/mental-health`（8）、`work/finance/debt-disputes`（7）、`people/school/learning`（7）、`people/learning/tuition-grant`（7）、`people/family/separation-safety`（7）、`work/finance/insurance`（6）、`work/finance/srs`（5）、`work/finance/saving-investing`（5）、`work/business/starting-business`（5）、`people/accessibility/disability`（5）、`life/housing/buying-private`（5）、`life/documents/permanent-residence`（5）、`foundations/society/religion-festivals`（5）。HUM02 已于 2026-10-13 完成全部 P1 十五篇：三核心模式 101→36，残留均逐句过判据（失权、违法、安全后果类保留为具体规则）。之后按目录顺序：life → people → work → rights → foundations → docs。HUM03—HUM05（2026-10-13）按目录顺序完成其余批次：对全部剩余 content 文件执行命中行逐条判据＋训导词／复述归纳模式全扫，0 命中文件经扫描未见需改句；全文逐篇通读复核待后续批次，在途 draft（admission、adult-learning、caregiver-support、property-tax）未触碰。
+优先队列 P1（2026-10-13 二核密度，先做）：`work/employment/injury`（13）、`life/transport/driving`（10）、`people/accessibility/mental-health`（8）、`work/finance/debt-disputes`（7）、`people/school/learning`（7）、`people/learning/tuition-grant`（7）、`people/family/separation-safety`（7）、`work/finance/insurance`（6）、`work/finance/srs`（5）、`work/finance/saving-investing`（5）、`work/business/starting-business`（5）、`people/accessibility/disability`（5）、`life/housing/buying-private`（5）、`life/documents/permanent-residence`（5）、`foundations/society/religion-festivals`（5）。HUM02 已于 2026-10-13 完成全部 P1 十五篇：三核心模式 101→36，残留均逐句过判据（失权、违法、安全后果类保留为具体规则）。之后按目录顺序：life → people → work → rights → foundations → docs。HUM03—HUM05（2026-10-13）按目录顺序完成其余批次：对全部剩余 content 文件执行命中行逐条判据＋训导词／复述归纳模式全扫。HUM06—HUM08（2026-10-13，提交 3174037／6363811／e88a3a2）继而完成全部剩余文件的逐篇全文通读：life 31 篇（12 文件删 19 处）、people 22 篇（2 文件删 3 处）、work 15 篇（3 文件删 3 处）、rights 3＋foundations 23＋docs 22＋顶层导读 2 共 50 篇通读无新增改句——这些页面的否定均为统计口径、法定规则与文化解读边界，逐句通过唯一判据。至此全书 136 个非在途源全部完成全文通读处理；在途 draft（admission、adult-learning、caregiver-support、property-tax）待集成后补。
 
 在途协调：当前 4 个 draft（`people/school/admission`、`people/learning/adult-learning`、`people/accessibility/caregiver-support`、`work/tax/property-tax`）本任务跳过，待集成后补处理；各稿作者自审时直接套用本规则。B04I 注记“学校生活/工伤/税务更正已处理”仅指各自第三编辑动过的句段，队列仍须逐篇全文过判据。
 
@@ -74,169 +74,169 @@
 
 ### foundations（25）
 
-- [ ] `content/book/foundations/_index.md`
-- [ ] `content/book/foundations/culture/_index.md`
+- [x] `content/book/foundations/_index.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/book/foundations/culture/_index.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
 - [x] `content/book/foundations/culture/everyday-etiquette.md` — HUM01六处表达，独立差分与第三编辑通过，2026-10-13应用。
 - [x] `content/book/foundations/culture/hawker-social-life.md` — HUM01三处表达，独立差分与第三编辑通过，2026-10-13应用。
 - [x] `content/book/foundations/culture/inequality.md` — HUM05删1处，命中行逐条过判据，2026-10-13。
-- [ ] `content/book/foundations/geography/_index.md`
-- [ ] `content/book/foundations/geography/addresses-weather.md`
-- [ ] `content/book/foundations/geography/island-neighbourhoods.md`
+- [x] `content/book/foundations/geography/_index.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/book/foundations/geography/addresses-weather.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/book/foundations/geography/island-neighbourhoods.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
 - [x] `content/book/foundations/geography/resources.md` — HUM05删2处，命中行逐条过判据，2026-10-13。
-- [ ] `content/book/foundations/government/_index.md`
-- [ ] `content/book/foundations/government/institutions.md`
-- [ ] `content/book/foundations/government/participation.md`
+- [x] `content/book/foundations/government/_index.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/book/foundations/government/institutions.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/book/foundations/government/participation.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
 - [x] `content/book/foundations/government/public-services.md` — HUM05删1处，命中行逐条过判据，2026-10-13。
-- [ ] `content/book/foundations/history/_index.md`
-- [ ] `content/book/foundations/history/housing-industrialisation.md`
-- [ ] `content/book/foundations/history/memory.md`
-- [ ] `content/book/foundations/history/port-city-to-nation.md`
-- [ ] `content/book/foundations/society/_index.md`
-- [ ] `content/book/foundations/society/communities.md`
-- [ ] `content/book/foundations/society/migration.md`
+- [x] `content/book/foundations/history/_index.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/book/foundations/history/housing-industrialisation.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/book/foundations/history/memory.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/book/foundations/history/port-city-to-nation.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/book/foundations/society/_index.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/book/foundations/society/communities.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/book/foundations/society/migration.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
 - [x] `content/book/foundations/society/religion-festivals.md` — HUM02删7处改写1处，2026-10-13全文过判据。
-- [ ] `content/book/foundations/world/_index.md`
-- [ ] `content/book/foundations/world/perspectives.md`
-- [ ] `content/book/foundations/world/regional-ties.md`
-- [ ] `content/book/foundations/world/trade-migration.md`
+- [x] `content/book/foundations/world/_index.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/book/foundations/world/perspectives.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/book/foundations/world/regional-ties.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/book/foundations/world/trade-migration.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
 
 ### life（26）
 
-- [ ] `content/book/life/_index.md`
-- [ ] `content/book/life/community/connections.md`
-- [ ] `content/book/life/community/neighbourhood.md`
+- [x] `content/book/life/_index.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/book/life/community/connections.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/book/life/community/neighbourhood.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
 - [x] `content/book/life/community/public-facilities.md` — HUM03删3处，命中行逐条过判据，2026-10-13。
-- [ ] `content/book/life/digital/_index.md`
+- [x] `content/book/life/digital/_index.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
 - [x] `content/book/life/digital/accounts.md` — HUM03删1处，命中行逐条过判据，2026-10-13。
-- [ ] `content/book/life/digital/privacy-fraud.md`
+- [x] `content/book/life/digital/privacy-fraud.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
 - [x] `content/book/life/digital/telecom.md` — HUM03删1处，命中行逐条过判据，2026-10-13。
-- [ ] `content/book/life/documents/_index.md`
+- [x] `content/book/life/documents/_index.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
 - [x] `content/book/life/documents/documents.md` — HUM03删3处，命中行逐条过判据，2026-10-13。
-- [ ] `content/book/life/documents/national-service.md`
+- [x] `content/book/life/documents/national-service.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
 - [x] `content/book/life/documents/permanent-residence.md` — HUM02删4处改写1处（含第四节示例句），2026-10-13全文过判据。
-- [ ] `content/book/life/documents/status-and-eligibility.md`
-- [ ] `content/book/life/documents/work-passes.md`
-- [ ] `content/book/life/household/_index.md`
-- [ ] `content/book/life/household/consumer-rights.md`
+- [x] `content/book/life/documents/status-and-eligibility.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/book/life/documents/work-passes.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/book/life/household/_index.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/book/life/household/consumer-rights.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
 - [x] `content/book/life/household/food-shopping.md` — HUM03删1处，命中行逐条过判据，2026-10-13。
 - [x] `content/book/life/household/home-maintenance.md` — HUM03删1处，命中行逐条过判据，2026-10-13。
-- [ ] `content/book/life/household/keeping-pets.md`
-- [ ] `content/book/life/housing/_index.md`
+- [x] `content/book/life/household/keeping-pets.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/book/life/housing/_index.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
 - [x] `content/book/life/housing/renting.md` — HUM03删3处，命中行逐条过判据，2026-10-13。
 - [x] `content/book/life/housing/tenancy.md` — HUM03删1处，命中行逐条过判据，2026-10-13。
-- [ ] `content/book/life/transport/_index.md`
-- [ ] `content/book/life/transport/active-mobility.md`
+- [x] `content/book/life/transport/_index.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/book/life/transport/active-mobility.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
 - [x] `content/book/life/transport/public-transport.md` — HUM03删2处，命中行逐条过判据，2026-10-13。
-- [ ] `content/book/life/transport/taxis-phv.md`
+- [x] `content/book/life/transport/taxis-phv.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
 
 ### people（9）
 
-- [ ] `content/book/people/_index.md`
-- [ ] `content/book/people/family/_index.md`
-- [ ] `content/book/people/family/birth.md`
-- [ ] `content/book/people/healthcare/_index.md`
-- [ ] `content/book/people/healthcare/getting-care.md`
-- [ ] `content/book/people/healthcare/healthcare-payments.md`
-- [ ] `content/book/people/language/_index.md`
+- [x] `content/book/people/_index.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/book/people/family/_index.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/book/people/family/birth.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/book/people/healthcare/_index.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/book/people/healthcare/getting-care.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/book/people/healthcare/healthcare-payments.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/book/people/language/_index.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
 - [x] `content/book/people/language/everyday-language.md` — HUM04删1处，命中行逐条过判据，2026-10-13。
 - [○] `content/book/people/school/admission.md`
 
 ### rights（3）
 
-- [ ] `content/book/rights/_index.md`
-- [ ] `content/book/rights/safety/_index.md`
-- [ ] `content/book/rights/safety/emergencies.md`
+- [x] `content/book/rights/_index.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/book/rights/safety/_index.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/book/rights/safety/emergencies.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
 
 ### work（9）
 
-- [ ] `content/book/work/_index.md`
-- [ ] `content/book/work/employment/_index.md`
+- [x] `content/book/work/_index.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/book/work/employment/_index.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
 - [x] `content/book/work/employment/leaving-job.md` — HUM04删1处，命中行逐条过判据，2026-10-13。
-- [ ] `content/book/work/finance/_index.md`
+- [x] `content/book/work/finance/_index.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
 - [x] `content/book/work/finance/cpf-basics.md` — HUM04删1处，命中行逐条过判据，2026-10-13。
-- [ ] `content/book/work/finance/household-budget.md`
-- [ ] `content/book/work/tax/_index.md`
-- [ ] `content/book/work/tax/leaving-singapore.md`
+- [x] `content/book/work/finance/household-budget.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/book/work/tax/_index.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/book/work/tax/leaving-singapore.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
 - [x] `content/book/work/tax/personal-tax.md` — HUM04删1处，命中行逐条过判据，2026-10-13。
 
 ### docs 与站点入口（22）
 
-- [ ] `content/_index.md`
-- [ ] `content/book/_index.md`
-- [ ] `content/docs/_index.md`
-- [ ] `content/docs/about.md`
-- [ ] `content/docs/glossary/_index.md`
-- [ ] `content/docs/profiles/_index.md`
-- [ ] `content/docs/profiles/citizen.md`
-- [ ] `content/docs/profiles/family.md`
-- [ ] `content/docs/profiles/pr.md`
-- [ ] `content/docs/profiles/student.md`
-- [ ] `content/docs/profiles/visitor.md`
-- [ ] `content/docs/profiles/worker.md`
-- [ ] `content/docs/routes/_index.md`
-- [ ] `content/docs/routes/digital-safety.md`
-- [ ] `content/docs/routes/having-child.md`
-- [ ] `content/docs/routes/illness.md`
-- [ ] `content/docs/routes/leaving-job.md`
-- [ ] `content/docs/routes/ns-family.md`
-- [ ] `content/docs/routes/renting.md`
-- [ ] `content/docs/routes/settling-in.md`
-- [ ] `content/docs/routes/start-work.md`
-- [ ] `content/docs/routes/urgent-help.md`
+- [x] `content/_index.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/book/_index.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/docs/_index.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/docs/about.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/docs/glossary/_index.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/docs/profiles/_index.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/docs/profiles/citizen.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/docs/profiles/family.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/docs/profiles/pr.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/docs/profiles/student.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/docs/profiles/visitor.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/docs/profiles/worker.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/docs/routes/_index.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/docs/routes/digital-safety.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/docs/routes/having-child.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/docs/routes/illness.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/docs/routes/leaving-job.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/docs/routes/ns-family.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/docs/routes/renting.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/docs/routes/settling-in.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/docs/routes/start-work.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/docs/routes/urgent-help.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
 
 ## 恢复追增（2026-10-13）
 
 初始94文件是历史队列，范围始终包括实际全部content。HUM01已按固定版本应用，原事实日期及元数据保持；B04A生产、桌面手机和打印抽样验收已通过。下列为原队列之后的实际新增源，继续逐篇全文处理；在途草稿由作者先按本规范自审。
 
-- [ ] `content/book/life/community/_index.md`
-- [ ] `content/book/life/documents/arrival-renewal.md`
-- [ ] `content/book/life/documents/pass-management.md`
+- [x] `content/book/life/community/_index.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/book/life/documents/arrival-renewal.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/book/life/documents/pass-management.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
 - [x] `content/book/life/housing/buying-private.md` — HUM02删6处，2026-10-13全文过判据。
-- [ ] `content/book/life/housing/neighbours.md`
+- [x] `content/book/life/housing/neighbours.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
 - [x] `content/book/life/housing/purchase-costs.md` — HUM03删1处，命中行逐条过判据，2026-10-13。
-- [ ] `content/book/life/transport/airport-checkpoints.md`
+- [x] `content/book/life/transport/airport-checkpoints.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
 - [x] `content/book/life/transport/driving.md` — HUM02删5处改写2处，2026-10-13全文过判据。
-- [ ] `content/book/people/family/childcare.md`
-- [ ] `content/book/people/family/relationships.md`
-- [ ] `content/book/people/family/sexual-health.md`
+- [x] `content/book/people/family/childcare.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/book/people/family/relationships.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/book/people/family/sexual-health.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
 - [x] `content/book/people/healthcare/medical-records.md` — HUM04删1处，命中行逐条过判据，2026-10-13。
-- [ ] `content/book/people/language/communication.md`
-- [ ] `content/book/people/language/multilingual-family.md`
-- [ ] `content/book/work/finance/banking.md`
-- [ ] `content/docs/routes/cross-border-trip.md`
-- [ ] `content/docs/routes/getting-married.md`
+- [x] `content/book/people/language/communication.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/book/people/language/multilingual-family.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/book/work/finance/banking.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/docs/routes/cross-border-trip.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/docs/routes/getting-married.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
 - [x] `content/book/people/family/domestic-workers.md` — HUM04删1处，命中行逐条过判据，2026-10-13。
 
 ## B04I实际源追增
 
 2026-10-13：当前138个源文件。补齐下列未列入历史队列的实际路径；○仍为草稿。学校生活13处、工伤2处与税務更正2处表达在各自第三编辑中已处理并完成限定事实继承及B04I工程，具体SHA和范围见对应审稿报告；全书HUM队列仍未整体闭合。
 
-- [ ] `content/book/people/accessibility/_index.md`
+- [x] `content/book/people/accessibility/_index.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
 - [x] `content/book/people/accessibility/disability.md` — HUM02删13处，2026-10-13全文过判据。
 - [x] `content/book/people/accessibility/mental-health.md` — HUM02删8处，2026-10-13全文过判据。
 - [x] `content/book/people/family/separation-safety.md` — HUM02删1处（否定多绑定安全与失权后果，逐句保留），2026-10-13全文过判据。
-- [ ] `content/book/people/healthcare/medicines.md`
-- [ ] `content/book/people/healthcare/preventive-care.md`
-- [ ] `content/book/people/learning/_index.md`
+- [x] `content/book/people/healthcare/medicines.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/book/people/healthcare/preventive-care.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/book/people/learning/_index.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
 - [○] `content/book/people/learning/adult-learning.md`
-- [ ] `content/book/people/learning/higher-education.md`
+- [x] `content/book/people/learning/higher-education.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
 - [x] `content/book/people/learning/tuition-grant.md` — HUM02删8处改写1处，2026-10-13全文过判据。
-- [ ] `content/book/people/school/_index.md`
+- [x] `content/book/people/school/_index.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
 - [x] `content/book/people/school/learning.md` — HUM02删16处，2026-10-13全文过判据。
 - [x] `content/book/people/school/school-life.md` — HUM04删2处，命中行逐条过判据，2026-10-13。
-- [ ] `content/book/work/business/_index.md`
+- [x] `content/book/work/business/_index.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
 - [x] `content/book/work/business/starting-business.md` — HUM02删7处改写1处，2026-10-13全文过判据。
-- [ ] `content/book/work/employment/employment-rights.md`
+- [x] `content/book/work/employment/employment-rights.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
 - [x] `content/book/work/employment/injury.md` — HUM02删19处改写4处，2026-10-13全文过判据。
 - [x] `content/book/work/finance/debt-disputes.md` — HUM02删12处改写1处，2026-10-13全文过判据。
 - [x] `content/book/work/finance/insurance.md` — HUM02删5处改写1处，2026-10-13全文过判据。
 - [x] `content/book/work/finance/saving-investing.md` — HUM02删5处，2026-10-13全文过判据。
 - [x] `content/book/work/finance/srs.md` — HUM02删4处，2026-10-13全文过判据。
-- [ ] `content/book/work/tax/corrections-disputes.md`
+- [x] `content/book/work/tax/corrections-disputes.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
 - [x] `content/book/work/tax/cross-border.md` — HUM04删1处，命中行逐条过判据，2026-10-13。
-- [ ] `content/docs/routes/family-separation.md`
-- [ ] `content/docs/routes/higher-study.md`
-- [ ] `content/docs/routes/tax-problem.md`
+- [x] `content/docs/routes/family-separation.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/docs/routes/higher-study.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
+- [x] `content/docs/routes/tax-problem.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
 
 ## 补登（2026-10-13 二核）
 
