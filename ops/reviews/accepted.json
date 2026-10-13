@@ -610,5 +610,25 @@
     "editorial_report": "ops/reviews/b05-banking-editorial.md",
     "reviewed_file_sha256": "f77f3c927690763ecf8bf0a4b0058b14f14f72125a86956a508b7451e07254ae",
     "body_sha256": "5653a945cadfa69565cf8d2b8530de1ce2eb230f0cf5ae5e17024be13e9b73d2"
+  },
+  "content/book/people/healthcare/medical-records.md": {
+    "author": "care_finance",
+    "facts": "daily_history",
+    "editor": "root",
+    "report": "ops/reviews/b04-medical-records-facts.md",
+    "reviewed_file_sha256": "7088f1d1b988e7b4a9df03427f6f911d98afdaa259bd8d5424e7e54f9aa8c6c7",
+    "body_sha256": "c38c9b0f8132571bc5506c992c718553e16b6ee45351bc986481b8a18f6d71c7",
+    "date": "2026-10-13",
+    "editorial_report": "ops/reviews/b04b-editorial.md"
+  },
+  "content/book/people/family/childcare.md": {
+    "author": "identity",
+    "facts": "care_finance",
+    "editor": "root",
+    "report": "ops/reviews/b04-family-facts.md",
+    "reviewed_file_sha256": "a8d04aaf6954d816d3d0891df0870d4c27f0079e3fa82f435ecd16445eeb09ab",
+    "body_sha256": "59d75d5547f2d6a7709f4bd5809781f366038ba5a2284a3f3be1c3999eb31c31",
+    "date": "2026-10-13",
+    "editorial_report": "ops/reviews/b04b-editorial.md"
   }
 }

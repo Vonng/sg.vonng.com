@@ -70,3 +70,5 @@ weight: 30
 | DSC / PEP / PrEP / TOP / EEF | 性病控制诊所 / HIV暴露后预防 / 暴露前预防 / 终止妊娠 / 非医疗原因冻卵；医疗语境用语 | [性健康与生育选择](/book/people/family/sexual-health/) |
 | PayNow / FAST / NETS / eGIRO | 本地常见转账、付款与数字扣款授权服务 | [开户与支付](/book/work/finance/banking/) |
 | SDIC / FIDReC | 新加坡存款保险机构 / 金融业争议调解中心 | [存款保障与银行争议](/book/work/finance/banking/) |
+| MC、MRO、HIMS、NEHR、HMS、SMC | 病假证明、机构病历部门、全国健康记录及医疗调解／纪律渠道 | [医疗资料与沟通](/book/people/healthcare/medical-records/) |
+| AOP、POP、KiFAS、KCare、HHI、PCI、CCFA、EIPIC | 学前机构计划、学费／照护资助、家庭收入及早期介入；各自资格分开 | [托育与补贴](/book/people/family/childcare/) |

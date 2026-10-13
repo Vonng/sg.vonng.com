@@ -13,15 +13,19 @@
 | B03A 政府/地理/家庭日常/预算 | identity政府3；daily_history地理3；care_finance日常4；root预算1 | integrated | 11篇事实/第三编辑/生产构建与渲染通过；预算由care事实、identity第三编辑 |
 | B03B 社群/历史文化/世界与不平等 | identity社群3；daily_history历史文化4；care_finance世界与不平等4 | integrated | 11篇两轮审核、生产/25路径双视口/搜索/打印通过；版本见accepted和b03bc-acceptance |
 | B03C 身份住房交通数字社区余项 | root数字与社区；identity证件；daily住房；care交通 | writing / reviewing | 数字3、PR/文书2、社区3、出租车/主动出行2、租约、居留/准证管理、邻里与驾驶均已集成；机场、私宅与购房成本已集成；HDB/EC核心原文仍有明确来源缺口。root接第三编辑及工程；7—12领域缺口不按篇数认定完成 |
-| B04 家庭教育照护 | identity家庭；care医疗/心理残障/照护/老年；daily教育高教成人学习；root多语 | writing / researching | communication/multilingual-family及relationships/sexual-health已集成；childcare、medical-records完整稿最终事实通过，待第三编辑/工程，MDW/药物/高教研究写作。13—19全部种子、身份与生命周期分支逐条闭合；所分路径独占，必要拆页先登记 |
+| B04 家庭教育照护 | identity家庭；care医疗/心理残障/照护/老年；daily教育高教成人学习；root多语 | writing / researching | communication/multilingual-family及relationships/sexual-health已集成；childcare、medical-records已完成两轮审核及B04B实际工程，MDW/药物/高教研究写作。13—19全部种子、身份与生命周期分支逐条闭合；所分路径独占，必要拆页先登记 |
 | B05 财务经营法律安全 | root银行/个人金融；其余待分派 | writing / researching / planned | banking已完成独立两轮与生产实际验收；32详源及冲突边界已登记。root续储蓄投资保险及债务争议源矩阵；BOOKMAP领域20—28余项逐条闭合 |
 | B06 全书覆盖与情境走查 | root+独立审阅者 | planned | 全28领域种子/身份/生命周期/弱势处境逐条证明 |
-| HUM 全书说人话校对 | root；identity限定事实；care第三编辑 | in progress | 按 ops/HUMANIZE.md 初始94队列并追增实际源（当前111）；礼节/小贩两份九处表达已限定事实及第三编辑通过，主控已应用并完成B04A生产、双视口及打印验收。删说教/免责/无信息量否定，事实层零变动；在途draft待集成后补；独立版本与accepted SHA绑定，闭环后主控工程验收 |
+| HUM 全书说人话校对 | root；identity限定事实；care第三编辑 | in progress | 按 ops/HUMANIZE.md 初始94队列并追增实际源（当前112）；礼节/小贩两份九处表达已限定事实及第三编辑通过，主控已应用并完成B04A生产、双视口及打印验收。删说教/免责/无信息量否定，事实层零变动；在途draft待集成后补；独立版本与accepted SHA绑定，闭环后主控工程验收 |
 
 ## 日期触发与来源缺口
 
 | 触发日 | 重核对象 | 来源与受影响正文 |
 |---|---|---|
+| 2027-01-01 | ECDA托育／KiFAS收入上限及非工作低收入分支；KCare另外核 | childcare ECDA现行详页和2026／2027费表 |
+| 2027年初 | 普遍全额学前补贴扩展的详细安排 | childcare，MFF NDR2026原文，尚未替未来规则补条件 |
+| 2027-12-31 | Childminding试点期限及是否延续 | childcare ECDA试点详页 |
+| 2028—2030 | 政府支持学前机构分阶段费用调整 | childcare未来目标，不能当2026收费 |
 | 2026-11 | HealthHub增强服务整合是否实际启用 | medical-records证据所列MOH/Synapxe原文；未提前写成已实施 |
 | 2027（日期待公布） | HIA资料限制及2027—2030按服务贡献实施 | medical-records证据；不能自行写为2027-01-01 |
 | 2026-11-02 | 外国车辆未结罚款与VEP新限制 | LTA当前外牌车详页；airport-checkpoints |

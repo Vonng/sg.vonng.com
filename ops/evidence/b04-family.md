@@ -16,7 +16,7 @@
 
 ## 下一组待查
 
-relationships及sexual-health已获care独立事实与root第三编辑通过；root于2026-10-13确认完成构建、浏览器和打印检查并接收为integrated，正文SHA保持不变。后文各次交审为历史快照，最终元数据及完整SHA以主控接收记录为准。childcare完整稿按care两项精度反馈修改后已冻结交care最终复核；继续domestic-workers、separation-safety，成熟一篇即交care，不等整批完成。
+relationships及sexual-health已获care独立事实与root第三编辑通过；root于2026-10-13确认完成构建、浏览器和打印检查并接收为integrated，正文SHA保持不变。后文各次交审为历史快照，最终元数据及完整SHA以主控接收记录为准。childcare按care两项精度反馈修订后最终独立事实通过，root第三编辑及浏览器／打印抽样通过，于2026-10-13接收为integrated，正文body59d75d55…不变；继续domestic-workers、separation-safety，成熟一篇即交care，不等整批完成。
 
 ## Relationships 实际主管原件与采用范围
 

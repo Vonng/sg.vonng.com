@@ -1,6 +1,6 @@
 # 全书内容地图
 
-更新：2026-10-13（Asia/Singapore）。用户本次明确续跑，get_goal已实查active；继续完整五部分28领域。此前82源交接快照保留；本次恢复核实109源与实际审核版本，恢复三条独立写审线。恢复后累计接收60主题，最新六篇与HUM01工程范围见checks/b04a-acceptance.json。历史现场见HANDOFF-2026-10-13.md。这是持续目标的覆盖地图；候选路径只登记于此，不生成空正文。覆盖认定须检查每个领域的必要分支，文章数量不作完成门槛。
+更新：2026-10-13（Asia/Singapore）。用户本次明确续跑，get_goal已实查active；继续完整五部分28领域。此前82源交接快照保留；本次恢复核实109源与实际审核版本，恢复三条独立写审线。恢复后累计接收62主题，最新医疗记录／托育见checks/b04b-acceptance.json；上一六篇及HUM01见b04a。历史现场见HANDOFF-2026-10-13.md。这是持续目标的覆盖地图；候选路径只登记于此，不生成空正文。覆盖认定须检查每个领域的必要分支，文章数量不作完成门槛。
 
 ## 内容与资格模型
 
@@ -154,7 +154,7 @@
 |---|---|---|
 | `/book/people/healthcare/getting-care/` | 生病后怎样选GP综合诊疗所医院与转介 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 | `/book/people/healthcare/healthcare-payments/` | 补贴CHASMediSaveMediShieldLifeMediFund与保险谁可用 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
-| `/book/people/healthcare/medical-records/` | 医疗记录、代理同意、病假证明和沟通投诉怎样办理 | facts passed（care作者、daily最终事实通过；待root第三编辑与工程） |
+| `/book/people/healthcare/medical-records/` | 医疗记录、代理同意、病假证明和沟通投诉怎样办理 | integrated（care作者、daily事实、root第三编辑及实际工程通过） |
 | `/book/people/healthcare/medicines/` | 处方、药房、续配及携药怎样安排 | researching（care独占，从原records-medicines按办理目标拆分） |
 | `/book/people/healthcare/preventive-care/` | 牙眼、筛查、疫苗与公共卫生怎样按身份使用 | planned（care独占，从原records-medicines拆分） |
 
@@ -176,8 +176,8 @@
 |---|---|---|
 | `/book/people/family/relationships/` | 同居共同财务与民事穆斯林婚姻怎样安排 | integrated（异人事实、第三编辑、生产及实际渲染通过；版本见accepted.json） |
 | `/book/people/family/birth/` | 孕产生育出生登记、国籍证件怎样衔接 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
-| `/book/people/family/childcare/` | 托育选择费用补贴与资格 | facts passed（identity作者、care最终事实通过；待root第三编辑与工程） |
-| `/book/people/family/domestic-workers/` | 雇用家政移工的手续双方权利与照护责任 | planned |
+| `/book/people/family/childcare/` | 托育选择费用补贴与资格 | integrated（identity作者、care事实、root第三编辑及实际工程通过） |
+| `/book/people/family/domestic-workers/` | 雇用家政移工的手续双方权利与照护责任 | written（identity完整稿静态自审中，未集成） |
 | `/book/people/family/separation-safety/` | 分居离婚监护家庭暴力如何求助 | planned |
 | `/book/people/family/sexual-health/` | 同意、避孕、紧急避孕、STI/HIV、孕前及生育选择怎样求助 | integrated（异人事实、第三编辑、生产及实际渲染通过；版本见accepted.json） |
 

@@ -1,0 +1,623 @@
+{
+  "date": "2026-10-13",
+  "timezone": "Asia/Singapore",
+  "batch": "B04B medical records and childcare",
+  "integrated_topics": [
+    "content/book/people/healthcare/medical-records.md",
+    "content/book/people/family/childcare.md"
+  ],
+  "expression_maintenance": [],
+  "accepted_total": 62,
+  "goal_status": "active; all five parts and 28 fields remain in scope",
+  "production": {
+    "source_pages": 112,
+    "topics": 64,
+    "drafts": 2,
+    "html": 112,
+    "internal_references": 16622,
+    "external_references_skipped": 4166,
+    "errors": [],
+    "limitations": [
+      "No external URL check; no factual approval; no browser or visual certification."
+    ]
+  },
+  "public_source_pages": 110,
+  "output_files": 276,
+  "public_sync": "276 relative paths, byte sizes and SHA256 match checked production review output",
+  "output_inventory_sha256": "2b2c1461df8b31f03eb5b09c65a999b9c4595f17f106109e2beab5a25cda8453",
+  "pages": [
+    "/",
+    "/book/people/healthcare/",
+    "/book/people/family/",
+    "/docs/profiles/family/",
+    "/docs/profiles/worker/",
+    "/docs/routes/having-child/",
+    "/docs/routes/illness/",
+    "/docs/glossary/",
+    "/book/people/healthcare/medical-records/",
+    "/book/people/family/childcare/"
+  ],
+  "versions": {
+    "content/book/people/healthcare/medical-records.md": {
+      "current_full_sha256": "5d64be3ad1a32dd1ab6f45821838e51b1a65a0f24d7e855f17f9fd448c7f54f5",
+      "author": "care_finance",
+      "facts": "daily_history",
+      "editor": "root",
+      "report": "ops/reviews/b04-medical-records-facts.md",
+      "reviewed_file_sha256": "7088f1d1b988e7b4a9df03427f6f911d98afdaa259bd8d5424e7e54f9aa8c6c7",
+      "body_sha256": "c38c9b0f8132571bc5506c992c718553e16b6ee45351bc986481b8a18f6d71c7",
+      "date": "2026-10-13",
+      "editorial_report": "ops/reviews/b04b-editorial.md"
+    },
+    "content/book/people/family/childcare.md": {
+      "current_full_sha256": "8b535de97043a75607dea432805c01cbf0d388e5dda5dfa1932b0067cb5cf9df",
+      "author": "identity",
+      "facts": "care_finance",
+      "editor": "root",
+      "report": "ops/reviews/b04-family-facts.md",
+      "reviewed_file_sha256": "a8d04aaf6954d816d3d0891df0870d4c27f0079e3fa82f435ecd16445eeb09ab",
+      "body_sha256": "59d75d5547f2d6a7709f4bd5809781f366038ba5a2284a3f3be1c3999eb31c31",
+      "date": "2026-10-13",
+      "editorial_report": "ops/reviews/b04b-editorial.md"
+    }
+  },
+  "browser": {
+    "base": "http://127.0.0.1:1328",
+    "at": "2026-10-13T09:35:37.014Z",
+    "checks": [
+      {
+        "label": "desktop",
+        "path": "/",
+        "h1": 1,
+        "width": 1440,
+        "scroll": 1440,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "desktop",
+        "path": "/book/people/healthcare/",
+        "h1": 1,
+        "width": 1440,
+        "scroll": 1440,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "desktop",
+        "path": "/book/people/family/",
+        "h1": 1,
+        "width": 1440,
+        "scroll": 1440,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "desktop",
+        "path": "/docs/profiles/family/",
+        "h1": 1,
+        "width": 1440,
+        "scroll": 1440,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "desktop",
+        "path": "/docs/profiles/worker/",
+        "h1": 1,
+        "width": 1440,
+        "scroll": 1440,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "desktop",
+        "path": "/docs/routes/having-child/",
+        "h1": 1,
+        "width": 1440,
+        "scroll": 1440,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "desktop",
+        "path": "/docs/routes/illness/",
+        "h1": 1,
+        "width": 1440,
+        "scroll": 1440,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "desktop",
+        "path": "/docs/glossary/",
+        "h1": 1,
+        "width": 1440,
+        "scroll": 1440,
+        "strong": 0,
+        "tables": 1,
+        "brokenImages": []
+      },
+      {
+        "label": "desktop",
+        "path": "/book/people/healthcare/medical-records/",
+        "h1": 1,
+        "width": 1440,
+        "scroll": 1440,
+        "strong": 22,
+        "tables": 3,
+        "brokenImages": []
+      },
+      {
+        "label": "desktop",
+        "path": "/book/people/family/childcare/",
+        "h1": 1,
+        "width": 1440,
+        "scroll": 1440,
+        "strong": 15,
+        "tables": 4,
+        "brokenImages": []
+      },
+      {
+        "label": "desktop",
+        "dropdown": "阅读",
+        "children": 5
+      },
+      {
+        "label": "desktop",
+        "dropdown": "事项",
+        "children": 10
+      },
+      {
+        "label": "desktop",
+        "dropdown": "身份",
+        "children": 6
+      },
+      {
+        "label": "desktop",
+        "keyboardCard": "/book/foundations/"
+      },
+      {
+        "label": "desktop",
+        "nonCurrentBranch": true,
+        "keyboardFold": true
+      },
+      {
+        "label": "desktop",
+        "search": "CPF",
+        "results": "全书导读\nCPF 基础：谁要缴、工资怎样扣、钱能做什么\n按身份、年龄、PR 阶段和就业形式判断 CPF 缴纳，并理解住房、医疗与退休账户。\n银行、CPF与个人财务\n安排家庭现金流，开立和使用银行账户，理解CPF缴纳与账户用途。\n购房预算：税、现金、CPF 与住房贷款\n按购房身份、共同买家、现有住宅与贷款计算印花税，核清现金和 CPF 能支付的项目，并安排付款、换屋及贷款受阻后的下一步。\n工作、收入、财务与经营\n理解工作安排、CPF、税务与日常财务。\n富裕城市里的阶层、生活压力与歧视\n区分收入、财富、家庭需要和社会流动，结合本地研究理解生活压力与歧视，并找到具体求助入口。\n家庭预算：让每月收入接得住日常与意外\n从到手收入出发，安排固定账单、年度费用、家庭责任和应急现金，并识别需要求助的缺口。\n住房、买卖与居住关系\n核对租住与私宅购买条件，安排税费、贷款和交接，处理维修、押金及邻里纠纷。\n医疗费用怎样支付：补贴、MediSave 与保险\n按公民、PR 与外籍身份判断医疗补贴和保险，再核对账单中仍需自己承担的部分。\n查询入口\n新加坡公民\n从CPF、医疗与家人人生安排进入。\n永久居民 PR\n核对取得PR日期、取得途径和离境安排。"
+      },
+      {
+        "label": "desktop",
+        "search": "地铁",
+        "results": "全书导读\n地铁和巴士怎样乘、怎样付费\n第一次乘新加坡地铁或公共巴士，先准备一张可用的交通卡或感应银行卡，进出站、上下车都用同一张卡。手机与实体卡即使绑定同一个银行账…\n步行、骑行与助行工具可以走哪里\n…，优先查有连续坡道、电梯和安全过街的路线；中途接地铁或巴士，可看公共交通的无障碍安排。雷雨或路面湿滑时，留出步行时间，设备刹车和轮胎也要先检查。 五类工具的路径…\n全书导读\n…理养宠物：住处许可、日常花费与照顾责任交通与出行地铁和巴士怎样乘、怎样付费驾照、租买车与日常驾驶出租车和网约车怎样叫、怎样付费步行、骑行与助行工具可以走哪里机场…\n小贩中心与日常社交生活\n…026 年 3 月的国会答复说明，部分大型宿舍及地铁站设有前往康乐中心的免费接驳。组织活动时，除了安排项目，也要确认参与者怎样到达和返程。MOM 康乐中心目录、…\n怎样比较新加坡的生活圈\n…经形成的区域中心，商业设施与住宅相邻，并连接两条地铁线。裕廊湖区（Jurong Lake District）则把裕廊东一带的商业活动与湖畔休闲空间联系起来，仍在…\n查询入口\n中英术语与本地用语\n…保健储蓄、退休账户 CPF MRT / LRT 地铁 / 轻轨 乘车 PAB / PMD / PMA 电动助力脚踏车 / 个人移动设备 / 个人代步辅助设备 骑…"
+      },
+      {
+        "label": "desktop",
+        "search": "Singlish",
+        "results": "全书导读\n在多语环境里，把话听懂、把事说清\n理解英语、华语、马来语、泰米尔语与方言的生活位置，学习应对 Singlish、电话和办事沟通。\n约时间、排队与相处的分寸\n在预约、通勤、同事邀约和邻里交往中，怎样把时间、承诺、隐私与衣着要求说清楚。\n多语家庭：读物、日常练习与学校衔接\n按家人的实际语言和学习需要安排共读与交流，找到英语、华语、马来语、泰米尔语及手语资源，并准备海外学习与返校沟通。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+      },
+      {
+        "label": "desktop",
+        "darkMode": true
+      },
+      {
+        "label": "mobile",
+        "path": "/",
+        "h1": 1,
+        "width": 390,
+        "scroll": 390,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "mobile",
+        "path": "/book/people/healthcare/",
+        "h1": 1,
+        "width": 390,
+        "scroll": 390,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "mobile",
+        "path": "/book/people/family/",
+        "h1": 1,
+        "width": 390,
+        "scroll": 390,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "mobile",
+        "path": "/docs/profiles/family/",
+        "h1": 1,
+        "width": 390,
+        "scroll": 390,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "mobile",
+        "path": "/docs/profiles/worker/",
+        "h1": 1,
+        "width": 390,
+        "scroll": 390,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "mobile",
+        "path": "/docs/routes/having-child/",
+        "h1": 1,
+        "width": 390,
+        "scroll": 390,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "mobile",
+        "path": "/docs/routes/illness/",
+        "h1": 1,
+        "width": 390,
+        "scroll": 390,
+        "strong": 0,
+        "tables": 0,
+        "brokenImages": []
+      },
+      {
+        "label": "mobile",
+        "path": "/docs/glossary/",
+        "h1": 1,
+        "width": 390,
+        "scroll": 390,
+        "strong": 0,
+        "tables": 1,
+        "brokenImages": []
+      },
+      {
+        "label": "mobile",
+        "path": "/book/people/healthcare/medical-records/",
+        "h1": 1,
+        "width": 390,
+        "scroll": 390,
+        "strong": 22,
+        "tables": 3,
+        "brokenImages": []
+      },
+      {
+        "label": "mobile",
+        "path": "/book/people/family/childcare/",
+        "h1": 1,
+        "width": 390,
+        "scroll": 390,
+        "strong": 15,
+        "tables": 4,
+        "brokenImages": []
+      },
+      {
+        "label": "mobile",
+        "homeMenu": true
+      },
+      {
+        "label": "mobile",
+        "keyboardCard": "/book/foundations/"
+      },
+      {
+        "label": "mobile",
+        "nonCurrentBranch": true,
+        "keyboardFold": true
+      },
+      {
+        "label": "mobile",
+        "search": "CPF",
+        "results": "全书导读\nCPF 基础：谁要缴、工资怎样扣、钱能做什么\n按身份、年龄、PR 阶段和就业形式判断 CPF 缴纳，并理解住房、医疗与退休账户。\n银行、CPF与个人财务\n安排家庭现金流，开立和使用银行账户，理解CPF缴纳与账户用途。\n购房预算：税、现金、CPF 与住房贷款\n按购房身份、共同买家、现有住宅与贷款计算印花税，核清现金和 CPF 能支付的项目，并安排付款、换屋及贷款受阻后的下一步。\n工作、收入、财务与经营\n理解工作安排、CPF、税务与日常财务。\n富裕城市里的阶层、生活压力与歧视\n区分收入、财富、家庭需要和社会流动，结合本地研究理解生活压力与歧视，并找到具体求助入口。\n家庭预算：让每月收入接得住日常与意外\n从到手收入出发，安排固定账单、年度费用、家庭责任和应急现金，并识别需要求助的缺口。\n住房、买卖与居住关系\n核对租住与私宅购买条件，安排税费、贷款和交接，处理维修、押金及邻里纠纷。\n医疗费用怎样支付：补贴、MediSave 与保险\n按公民、PR 与外籍身份判断医疗补贴和保险，再核对账单中仍需自己承担的部分。\n查询入口\n新加坡公民\n从CPF、医疗与家人人生安排进入。\n永久居民 PR\n核对取得PR日期、取得途径和离境安排。"
+      },
+      {
+        "label": "mobile",
+        "search": "地铁",
+        "results": "全书导读\n地铁和巴士怎样乘、怎样付费\n第一次乘新加坡地铁或公共巴士，先准备一张可用的交通卡或感应银行卡，进出站、上下车都用同一张卡。手机与实体卡即使绑定同一个银行账…\n步行、骑行与助行工具可以走哪里\n…，优先查有连续坡道、电梯和安全过街的路线；中途接地铁或巴士，可看公共交通的无障碍安排。雷雨或路面湿滑时，留出步行时间，设备刹车和轮胎也要先检查。 五类工具的路径…\n全书导读\n…理养宠物：住处许可、日常花费与照顾责任交通与出行地铁和巴士怎样乘、怎样付费驾照、租买车与日常驾驶出租车和网约车怎样叫、怎样付费步行、骑行与助行工具可以走哪里机场…\n小贩中心与日常社交生活\n…026 年 3 月的国会答复说明，部分大型宿舍及地铁站设有前往康乐中心的免费接驳。组织活动时，除了安排项目，也要确认参与者怎样到达和返程。MOM 康乐中心目录、…\n怎样比较新加坡的生活圈\n…经形成的区域中心，商业设施与住宅相邻，并连接两条地铁线。裕廊湖区（Jurong Lake District）则把裕廊东一带的商业活动与湖畔休闲空间联系起来，仍在…\n查询入口\n中英术语与本地用语\n…保健储蓄、退休账户 CPF MRT / LRT 地铁 / 轻轨 乘车 PAB / PMD / PMA 电动助力脚踏车 / 个人移动设备 / 个人代步辅助设备 骑…"
+      },
+      {
+        "label": "mobile",
+        "search": "Singlish",
+        "results": "全书导读\n在多语环境里，把话听懂、把事说清\n理解英语、华语、马来语、泰米尔语与方言的生活位置，学习应对 Singlish、电话和办事沟通。\n约时间、排队与相处的分寸\n在预约、通勤、同事邀约和邻里交往中，怎样把时间、承诺、隐私与衣着要求说清楚。\n多语家庭：读物、日常练习与学校衔接\n按家人的实际语言和学习需要安排共读与交流，找到英语、华语、马来语、泰米尔语及手语资源，并准备海外学习与返校沟通。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+      },
+      {
+        "label": "mobile",
+        "darkMode": true
+      }
+    ],
+    "errors": [],
+    "screenshots": [
+      ".cache/render-b04b/desktop-home.png",
+      ".cache/render-b04b/desktop-topic.png",
+      ".cache/render-b04b/desktop-navigation.png",
+      ".cache/render-b04b/desktop-dark.png",
+      ".cache/render-b04b/mobile-home.png",
+      ".cache/render-b04b/mobile-topic.png",
+      ".cache/render-b04b/mobile-topic-table.png",
+      ".cache/render-b04b/mobile-navigation.png",
+      ".cache/render-b04b/mobile-dark.png"
+    ],
+    "print": {
+      "pages": 87,
+      "refs": 2539,
+      "sourceLists": 62,
+      "relative": [],
+      "broken": []
+    },
+    "pass": true
+  },
+  "extra_browser": {
+    "at": "2026-10-13T09:35:37.014Z",
+    "checks": [
+      {
+        "label": "desktop",
+        "branch": "healthcare",
+        "actualLeafClick": "/book/people/healthcare/medical-records/",
+        "keyboardFold": true
+      },
+      {
+        "label": "desktop",
+        "branch": "family",
+        "actualLeafClick": "/book/people/family/childcare/",
+        "keyboardFold": true
+      },
+      {
+        "label": "desktop",
+        "search": "NEHR",
+        "actualResultClick": "people/healthcare/medical-records",
+        "results": "全书导读\n病历、医疗报告、病假证明与诊疗沟通\n查看和申请就医资料，处理本人、孩子及代理授权，取得病假证明，并向医护或适当机构提出问题。\n电话、邮件、表格与口译：把事情办清楚\n准备姓名与编号，说明需要的动作，核对书面答复，并按工作、学校、政务、医疗和听觉沟通需要安排协助。\n开户与日常支付：工资、银行卡、PayNow 和 GIRO\n按身份和产品准备开户材料，安排工资收款、银行卡与转账扣费，处理错账，并在换资料或离境前办好账户手续。\n入住以后：维修、续租、退房与押金\n用租约、房况和付款记录处理租住期间的责任，完成续租或退房，并在押金与维修争议中找到适用的求助渠道。\n打理住处：水电燃气、维修与垃圾回收\n开通和核对家庭水电账户，处理漏水停电、空调潮湿及虫害，找合适的维修人员，并安排日常垃圾和大件回收。\n宗教生活、节庆与到访礼节\n认识新加坡不同信仰与无宗教者的生活，区分公共假期、家庭庆祝和礼拜仪式，按具体场所准备衣着、摄影与参访安排。\n买菜与吃饭：从巴刹、小贩中心到超市\n安排日常采购和外食，读懂食物标签、清真认证、GST与服务费，处理餐具归还、饮料押金和食品问题。\n性健康、避孕与生育选择\n找到避孕、STI与HIV检测、生育治疗和终止妊娠的就诊入口，核对时间窗口、年龄、婚姻、居留与费用条件。\n驾照、租买车与日常驾驶\n按居留和工作情况使用或转换驾照，完成首次学车，核对持车成本、停车、保险和事故报告。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+      },
+      {
+        "label": "desktop",
+        "search": "SMC",
+        "actualResultClick": "people/healthcare/medical-records",
+        "results": "全书导读\n病历、医疗报告、病假证明与诊疗沟通\n查看和申请就医资料，处理本人、孩子及代理授权，取得病假证明，并向医护或适当机构提出问题。\n手机、宽带与订阅：开通、搬迁和取消\n按证件和使用需要选通信服务，保住常用号码，安排接网搬迁，并把合约、订阅与自动扣款分别收尾。\n总统、国会、内阁与法院各做什么\n理解新加坡国家机构的分工、政府怎样组成、法律怎样通过，以及读政策消息和寻找办事入口时应区分什么。\n入境、停留与 ICA 证件管理\n填妥抵达申报，核对实际停留期限，完成学生及 ICA 长期探访准证手续，并办理身份证、地址和证件资料更新。\n步行、骑行与助行工具可以走哪里\n辨认人行道、专用步行道和骑行路径，核对自行车、电动工具与轮椅的使用、测试、注册及公交携带条件。\n投票、政策意见与公共参与\n查清新加坡选举资格、本地与海外投票、未投票后恢复名册，以及公民、PR 和其他外籍人士参与公共事务的不同边界。\n购房预算：税、现金、CPF 与住房贷款\n按购房身份、共同买家、现有住宅与贷款计算印花税，核清现金和 CPF 能支付的项目，并安排付款、换屋及贷款受阻后的下一步。\n性健康、避孕与生育选择\n找到避孕、STI与HIV检测、生育治疗和终止妊娠的就诊入口，核对时间窗口、年龄、婚姻、居留与费用条件。\n邻里滋扰与住宅管理：找谁、怎样推进\n区分组屋公共部分、公寓管理和邻居之间的滋扰，完成沟通、调解、协议登记及适用的法庭程序。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+      },
+      {
+        "label": "desktop",
+        "search": "KiFAS",
+        "actualResultClick": "people/family/childcare",
+        "results": "全书导读\n托育与学前照护：找位、费用和补贴\n按孩子年龄、身份与家庭照护时间选择托婴、托幼或幼儿园，核收费、公民补贴、LifeSG登记、特殊支持和换园退园安排。\nSingpass 与 Myinfo：注册、使用和找回账户\n按身份选择账户，完成注册与登录，核对资料授权，处理换手机、忘记密码和账户泄露，并找到柜台及照护协助。\n入境、停留与 ICA 证件管理\n填妥抵达申报，核对实际停留期限，完成学生及 ICA 长期探访准证手续，并办理身份证、地址和证件资料更新。\n医疗费用怎样支付：补贴、MediSave 与保险\n按公民、PR 与外籍身份判断医疗补贴和保险，再核对账单中仍需自己承担的部分。\nMOM 准证的签发、续期与资料更新\n从原则批准办理签发和领卡，按准证类别安排续期，并完成地址、护照、就业和家属资料的更新。\n翻译、公证与跨境文件认证\n按接收机关、文件出具地和用途选择翻译、公证、Apostille 或其他认证，准备原件、数字文件和代办材料。\n买菜与吃饭：从巴刹、小贩中心到超市\n安排日常采购和外食，读懂食物标签、清真认证、GST与服务费，处理餐具归还、饮料押金和食品问题。\n先看身份，再判断能办什么\n分清公民、PR、工作准证、学生与家属身份，找到居留、工作和公共服务资格的判断起点。\n离职与离境税清：IR21 什么时候要办\n非公民雇员离职、海外派驻或长期离境时，核对 IR21 豁免、工资暂扣、雇主缴税、个人补款与离职后追加收入。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+      },
+      {
+        "label": "desktop",
+        "search": "CCFA",
+        "actualResultClick": "people/family/childcare",
+        "results": "全书导读\n托育与学前照护：找位、费用和补贴\n按孩子年龄、身份与家庭照护时间选择托婴、托幼或幼儿园，核收费、公民补贴、LifeSG登记、特殊支持和换园退园安排。\nSingpass 与 Myinfo：注册、使用和找回账户\n按身份选择账户，完成注册与登录，核对资料授权，处理换手机、忘记密码和账户泄露，并找到柜台及照护协助。\n入境、停留与 ICA 证件管理\n填妥抵达申报，核对实际停留期限，完成学生及 ICA 长期探访准证手续，并办理身份证、地址和证件资料更新。\n银行、CPF与个人财务\n安排家庭现金流，开立和使用银行账户，理解CPF缴纳与账户用途。\n性健康、避孕与生育选择\n找到避孕、STI与HIV检测、生育治疗和终止妊娠的就诊入口，核对时间窗口、年龄、婚姻、居留与费用条件。\n入住以后：维修、续租、退房与押金\n用租约、房况和付款记录处理租住期间的责任，完成续租或退房，并在押金与维修争议中找到适用的求助渠道。\nCPF 基础：谁要缴、工资怎样扣、钱能做什么\n按身份、年龄、PR 阶段和就业形式判断 CPF 缴纳，并理解住房、医疗与退休账户。\n购房预算：税、现金、CPF 与住房贷款\n按购房身份、共同买家、现有住宅与贷款计算印花税，核清现金和 CPF 能支付的项目，并安排付款、换屋及贷款受阻后的下一步。\n驾照、租买车与日常驾驶\n按居留和工作情况使用或转换驾照，完成首次学车，核对持车成本、停车、保险和事故报告。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+      },
+      {
+        "label": "desktop",
+        "slug": "people/healthcare/medical-records",
+        "needle": "兼职雇员",
+        "tables": [
+          {
+            "columns": 2,
+            "width": 770,
+            "parentWidth": 770,
+            "parentScroll": 770,
+            "rows": 6
+          },
+          {
+            "columns": 2,
+            "width": 770,
+            "parentWidth": 770,
+            "parentScroll": 770,
+            "rows": 2
+          },
+          {
+            "columns": 2,
+            "width": 770,
+            "parentWidth": 770,
+            "parentScroll": 770,
+            "rows": 5
+          }
+        ]
+      },
+      {
+        "label": "desktop",
+        "slug": "people/family/childcare",
+        "needle": "教学虚构",
+        "tables": [
+          {
+            "columns": 3,
+            "width": 770,
+            "parentWidth": 770,
+            "parentScroll": 770,
+            "rows": 3
+          },
+          {
+            "columns": 2,
+            "width": 770,
+            "parentWidth": 770,
+            "parentScroll": 770,
+            "rows": 3
+          },
+          {
+            "columns": 4,
+            "width": 770,
+            "parentWidth": 770,
+            "parentScroll": 770,
+            "rows": 2
+          },
+          {
+            "columns": 5,
+            "width": 770,
+            "parentWidth": 770,
+            "parentScroll": 770,
+            "rows": 7
+          }
+        ]
+      },
+      {
+        "label": "mobile",
+        "branch": "healthcare",
+        "actualLeafClick": "/book/people/healthcare/medical-records/",
+        "keyboardFold": true
+      },
+      {
+        "label": "mobile",
+        "branch": "family",
+        "actualLeafClick": "/book/people/family/childcare/",
+        "keyboardFold": true
+      },
+      {
+        "label": "mobile",
+        "search": "NEHR",
+        "actualResultClick": "people/healthcare/medical-records",
+        "results": "全书导读\n病历、医疗报告、病假证明与诊疗沟通\n查看和申请就医资料，处理本人、孩子及代理授权，取得病假证明，并向医护或适当机构提出问题。\n电话、邮件、表格与口译：把事情办清楚\n准备姓名与编号，说明需要的动作，核对书面答复，并按工作、学校、政务、医疗和听觉沟通需要安排协助。\n开户与日常支付：工资、银行卡、PayNow 和 GIRO\n按身份和产品准备开户材料，安排工资收款、银行卡与转账扣费，处理错账，并在换资料或离境前办好账户手续。\n入住以后：维修、续租、退房与押金\n用租约、房况和付款记录处理租住期间的责任，完成续租或退房，并在押金与维修争议中找到适用的求助渠道。\n打理住处：水电燃气、维修与垃圾回收\n开通和核对家庭水电账户，处理漏水停电、空调潮湿及虫害，找合适的维修人员，并安排日常垃圾和大件回收。\n宗教生活、节庆与到访礼节\n认识新加坡不同信仰与无宗教者的生活，区分公共假期、家庭庆祝和礼拜仪式，按具体场所准备衣着、摄影与参访安排。\n买菜与吃饭：从巴刹、小贩中心到超市\n安排日常采购和外食，读懂食物标签、清真认证、GST与服务费，处理餐具归还、饮料押金和食品问题。\n性健康、避孕与生育选择\n找到避孕、STI与HIV检测、生育治疗和终止妊娠的就诊入口，核对时间窗口、年龄、婚姻、居留与费用条件。\n驾照、租买车与日常驾驶\n按居留和工作情况使用或转换驾照，完成首次学车，核对持车成本、停车、保险和事故报告。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+      },
+      {
+        "label": "mobile",
+        "search": "SMC",
+        "actualResultClick": "people/healthcare/medical-records",
+        "results": "全书导读\n病历、医疗报告、病假证明与诊疗沟通\n查看和申请就医资料，处理本人、孩子及代理授权，取得病假证明，并向医护或适当机构提出问题。\n手机、宽带与订阅：开通、搬迁和取消\n按证件和使用需要选通信服务，保住常用号码，安排接网搬迁，并把合约、订阅与自动扣款分别收尾。\n总统、国会、内阁与法院各做什么\n理解新加坡国家机构的分工、政府怎样组成、法律怎样通过，以及读政策消息和寻找办事入口时应区分什么。\n入境、停留与 ICA 证件管理\n填妥抵达申报，核对实际停留期限，完成学生及 ICA 长期探访准证手续，并办理身份证、地址和证件资料更新。\n步行、骑行与助行工具可以走哪里\n辨认人行道、专用步行道和骑行路径，核对自行车、电动工具与轮椅的使用、测试、注册及公交携带条件。\n投票、政策意见与公共参与\n查清新加坡选举资格、本地与海外投票、未投票后恢复名册，以及公民、PR 和其他外籍人士参与公共事务的不同边界。\n购房预算：税、现金、CPF 与住房贷款\n按购房身份、共同买家、现有住宅与贷款计算印花税，核清现金和 CPF 能支付的项目，并安排付款、换屋及贷款受阻后的下一步。\n性健康、避孕与生育选择\n找到避孕、STI与HIV检测、生育治疗和终止妊娠的就诊入口，核对时间窗口、年龄、婚姻、居留与费用条件。\n邻里滋扰与住宅管理：找谁、怎样推进\n区分组屋公共部分、公寓管理和邻居之间的滋扰，完成沟通、调解、协议登记及适用的法庭程序。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+      },
+      {
+        "label": "mobile",
+        "search": "KiFAS",
+        "actualResultClick": "people/family/childcare",
+        "results": "全书导读\n托育与学前照护：找位、费用和补贴\n按孩子年龄、身份与家庭照护时间选择托婴、托幼或幼儿园，核收费、公民补贴、LifeSG登记、特殊支持和换园退园安排。\nSingpass 与 Myinfo：注册、使用和找回账户\n按身份选择账户，完成注册与登录，核对资料授权，处理换手机、忘记密码和账户泄露，并找到柜台及照护协助。\n入境、停留与 ICA 证件管理\n填妥抵达申报，核对实际停留期限，完成学生及 ICA 长期探访准证手续，并办理身份证、地址和证件资料更新。\n医疗费用怎样支付：补贴、MediSave 与保险\n按公民、PR 与外籍身份判断医疗补贴和保险，再核对账单中仍需自己承担的部分。\nMOM 准证的签发、续期与资料更新\n从原则批准办理签发和领卡，按准证类别安排续期，并完成地址、护照、就业和家属资料的更新。\n翻译、公证与跨境文件认证\n按接收机关、文件出具地和用途选择翻译、公证、Apostille 或其他认证，准备原件、数字文件和代办材料。\n买菜与吃饭：从巴刹、小贩中心到超市\n安排日常采购和外食，读懂食物标签、清真认证、GST与服务费，处理餐具归还、饮料押金和食品问题。\n先看身份，再判断能办什么\n分清公民、PR、工作准证、学生与家属身份，找到居留、工作和公共服务资格的判断起点。\n离职与离境税清：IR21 什么时候要办\n非公民雇员离职、海外派驻或长期离境时，核对 IR21 豁免、工资暂扣、雇主缴税、个人补款与离职后追加收入。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+      },
+      {
+        "label": "mobile",
+        "search": "CCFA",
+        "actualResultClick": "people/family/childcare",
+        "results": "全书导读\n托育与学前照护：找位、费用和补贴\n按孩子年龄、身份与家庭照护时间选择托婴、托幼或幼儿园，核收费、公民补贴、LifeSG登记、特殊支持和换园退园安排。\nSingpass 与 Myinfo：注册、使用和找回账户\n按身份选择账户，完成注册与登录，核对资料授权，处理换手机、忘记密码和账户泄露，并找到柜台及照护协助。\n入境、停留与 ICA 证件管理\n填妥抵达申报，核对实际停留期限，完成学生及 ICA 长期探访准证手续，并办理身份证、地址和证件资料更新。\n银行、CPF与个人财务\n安排家庭现金流，开立和使用银行账户，理解CPF缴纳与账户用途。\n性健康、避孕与生育选择\n找到避孕、STI与HIV检测、生育治疗和终止妊娠的就诊入口，核对时间窗口、年龄、婚姻、居留与费用条件。\n入住以后：维修、续租、退房与押金\n用租约、房况和付款记录处理租住期间的责任，完成续租或退房，并在押金与维修争议中找到适用的求助渠道。\nCPF 基础：谁要缴、工资怎样扣、钱能做什么\n按身份、年龄、PR 阶段和就业形式判断 CPF 缴纳，并理解住房、医疗与退休账户。\n购房预算：税、现金、CPF 与住房贷款\n按购房身份、共同买家、现有住宅与贷款计算印花税，核清现金和 CPF 能支付的项目，并安排付款、换屋及贷款受阻后的下一步。\n驾照、租买车与日常驾驶\n按居留和工作情况使用或转换驾照，完成首次学车，核对持车成本、停车、保险和事故报告。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+      },
+      {
+        "label": "mobile",
+        "slug": "people/healthcare/medical-records",
+        "needle": "兼职雇员",
+        "tables": [
+          {
+            "columns": 2,
+            "width": 356,
+            "parentWidth": 356,
+            "parentScroll": 356,
+            "rows": 6
+          },
+          {
+            "columns": 2,
+            "width": 356,
+            "parentWidth": 356,
+            "parentScroll": 356,
+            "rows": 2
+          },
+          {
+            "columns": 2,
+            "width": 356,
+            "parentWidth": 356,
+            "parentScroll": 356,
+            "rows": 5
+          }
+        ]
+      },
+      {
+        "label": "mobile",
+        "slug": "people/family/childcare",
+        "scroll": 124
+      },
+      {
+        "label": "mobile",
+        "slug": "people/family/childcare",
+        "needle": "教学虚构",
+        "tables": [
+          {
+            "columns": 3,
+            "width": 356,
+            "parentWidth": 356,
+            "parentScroll": 356,
+            "rows": 3
+          },
+          {
+            "columns": 2,
+            "width": 356,
+            "parentWidth": 356,
+            "parentScroll": 356,
+            "rows": 3
+          },
+          {
+            "columns": 4,
+            "width": 384,
+            "parentWidth": 356,
+            "parentScroll": 384,
+            "rows": 2
+          },
+          {
+            "columns": 5,
+            "width": 480,
+            "parentWidth": 356,
+            "parentScroll": 480,
+            "rows": 7
+          }
+        ]
+      }
+    ],
+    "errors": [],
+    "pass": true
+  },
+  "print_styles": {
+    "at": "2026-10-13T09:35:36.997Z",
+    "base": "http://127.0.0.1:1328",
+    "menuIcons": [
+      "fa-solid fa-book-open",
+      "fa-solid fa-list-check",
+      "fa-solid fa-id-card",
+      "fa-solid fa-language"
+    ],
+    "print": {
+      "background": "rgb(255, 255, 255)",
+      "cells": [
+        "rgb(17, 17, 17)"
+      ],
+      "sources": 62,
+      "relative": [],
+      "broken": []
+    },
+    "pass": true
+  },
+  "physical_pdf_pages": 311,
+  "manual_visual_review": {
+    "reviewer": "root",
+    "screenshots": [
+      "mobile-childcare-table.png",
+      "mobile-childcare-table-right.png",
+      "desktop-medical-records-table.png",
+      "mobile-medical-records-table.png"
+    ],
+    "pdf_physical_pages": [
+      224,
+      226,
+      250,
+      251
+    ],
+    "observations": "Mobile five-column subsidy table scrolls through both ends; Chinese, English terms and medical rows readable. PDF fees, authorisation, complaint table and long sources readable; subsidy table and teaching example legible. Only these samples visually inspected."
+  },
+  "rendered_status": "verified/draft:false during browser and PDF; metadata-only promoted to integrated after render; both body hashes unchanged; status is not rendered by editorial-meta",
+  "reproduce": [
+    "make check DESTINATION=.cache/production-review",
+    "python3 scripts/serve_review.py",
+    "SG_PATHS_FILE=.cache/b04b-browser-paths.json SG_RENDER_DIR=.cache/render-b04b SG_TABLE_PATH=/book/people/family/childcare/ node scripts/check_browser.mjs",
+    "node .cache/check-b04b-extra.mjs",
+    "SG_RENDER_DIR=.cache/render-b04b node scripts/check_print.mjs",
+    "make sync"
+  ],
+  "artifacts": "Ignored .cache/render-b04b contains screenshots, PDF and raw reports; no external publication.",
+  "gate_history": "A newly written MDW draft appeared during final gate and failed seven bold-space checks. Its author fixed the draft. Sync rejected the failing inventory without modifying public; final gate and sync then passed. Draft never entered public. Browser/PDF accepted bodies did not change."
+}

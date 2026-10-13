@@ -8,7 +8,7 @@
 | --- | --- | --- |
 | `content/book/people/family/relationships.md` | 交往、同居及共同财务怎样约定；ROM与ROMM按宗教/年龄/婚姻/居留身份选路，文件/通知/宣誓/仪式/完成及失败；跨国伴侣、ICA PMLA/LTVP、MOM现任或曾持WP者结婚许可与例外 | R01—R41实际主管原件；care独立事实及root第三编辑通过，root完成构建／浏览器／打印检查并接收为integrated。正文body8409bf43…保持冻结；最终完整SHA及工程证据由主控接收记录绑定 |
 | `content/book/people/family/sexual-health.md` | 性健康与就诊沟通、避孕及紧急避孕、STI/HIV检测治疗、孕前和生育治疗的入口费用资格、终止妊娠的资格/孕周/同意/未成年人/过程及求助 | S01—S38实际原文及条件/版本矩阵；care独立事实及root第三编辑通过，root完成构建／浏览器／打印检查并接收为integrated。正文body614100dd…保持冻结；最终完整SHA及工程证据由主控绑定。TOP特定MediSave限额原文壳／一次正常浏览超时止损，未写搜索900/830数字或推定未成年账户授权 |
-| `content/book/people/family/childcare.md` | 托育/学前照护怎么选、核机构/地点/语言/时间、报名候补费用；公民PR外国孩子、家长就业/收入/家庭结构对补贴的影响，申请/核结果/复核/无线上支援 | C01—C35主管原件、资格／时期矩阵及完整稿已完成；恢复后全文自审并把教学例标明虚构，按care精度反馈修年龄日界／截止日后冻结28,733 bytes，fulla8d04aaf…/body59d75d55…交care最终复核。MK完整招生课程由daily school承接，本页维护KiFAS/KCare费用和照护；2026／2027／2028—2030明确分开，仍written/draft:true/核验空 |
+| `content/book/people/family/childcare.md` | 托育/学前照护怎么选、核机构/地点/语言/时间、报名候补费用；公民PR外国孩子、家长就业/收入/家庭结构对补贴的影响，申请/核结果/复核/无线上支援 | C01—C35主管原件及资格／时期矩阵；care最终独立事实、root第三编辑通过，主控确认浏览器／打印抽样通过并接收为integrated。正文body59d75d55…保持冻结；完整SHA和最终生产门禁由主控绑定。MK完整招生课程由daily school承接，本页维护KiFAS/KCare费用和照护；2026／2027／2028—2030明确分开 |
 | `content/book/people/family/domestic-workers.md` | 能否雇MDW、雇用资格/预算/EA核验/手续与合同；工作范围、工资、休息/休假/食宿/医疗/保险/隐私、双方沟通/照顾老人孩子、转雇/取消/返程/争议求助 | MOM详细雇主／员工规则、申请／转雇／结束、当前表格及CDE／HOME求助原件已读，正文成稿前收尾；原件缓存.cache/research/b04-mdw。工资争议按MOM专门途径，不套TADM。签发续期行政已由pass-management承接 |
 | `content/book/people/family/separation-safety.md` | 分居/民事或穆斯林离婚怎么准备并选择法院；孩子监护/照顾/探视/抚养与财产/居留衔接；家庭暴力/儿童或弱势成人保护、紧急和非紧急求助、保护令/申请/证据/送达/法律援助 | Family Justice Courts/Syariah Court/MSF/SPF/MinLaw及SSO可读原件；研究准备，高影响条件逐制度核 |
 
