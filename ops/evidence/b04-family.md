@@ -267,3 +267,108 @@ Relationships最终28,586 bytes版本已由care_finance独立事实通过，报�
 care指出ICA年龄日界与EIPIC截止日的两处精度。作者实际重新读原工具cache中ICA L54的“12 years 0 day or below”及SGEnable L180的“until 1 June annually”，正文改为“申请时为12岁0天或以下”和“通常最迟须在每年6月1日转介”，保留获准延迟P1例外。逆向这两处替换后完整SHA严格等于首次冻结稿，其他正文零变化；两处自审与全稿既有自审范围相衔接，不改其他制度条件或核验字段。
 
 当前冻结28,733B；完整SHA256 `a8d04aaf6954d816d3d0891df0870d4c27f0079e3fa82f435ecd16445eeb09ab`；正文SHA256 `59d75d5547f2d6a7709f4bd5809781f366038ba5a2284a3f3be1c3999eb31c31`。已交care最终复核，未自行签事实或修改其报告。
+
+care其后对上版全文及两处精度最终独立事实通过；root第三编辑、浏览器／打印抽样通过并接收integrated。上表完整SHA为作者交审快照，主控改变元数据后完整SHA另记，正文59d75d55…不变。以下继续新的MDW研究，不改已接收三篇正文。
+
+## Domestic-workers 实际主管原件
+
+以下均于2026-10-13（Asia/Singapore）实际打开详细原文并读所采用上下文；无另注者是查阅时现行规则，非只读搜索摘要。新加坡雇主、MDW本人、EA、来源国制度分开判断，税务居民不作为雇用资格。官方原件中的FDW旧称与现用MDW指同类家政准证，不扩展至产业Work Permit。
+
+| 编号及真实来源 | 实际支持事实／适用条件／有效时期 | 阅读范围、冲突或边界 |
+| --- | --- | --- |
+| D01 [MOM雇主要求](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/eligibility-and-requirements/employer-requirements) | 年满21、非未解除破产者、有理解及承担义务能力；照护需要、经济能力和住宿；首次EOP | 完整规则正文；不把医诊标签扩为所有同类人的个别能力结论 |
+| D02 [单身雇主](https://www.mom.gov.sg/faq/work-permit-for-fdw/can-any-single-person-employ-an-fdw) | 单身可按需要与稳定收入评估 | 完整答复；不推为必批 |
+| D03 [最低收入](https://www.mom.gov.sg/faq/work-permit-for-fdw/what-is-the-minimum-income-needed-to-employ-an-fdw)、[无收入](https://www.mom.gov.sg/faq/work-permit-for-fdw/can-i-employ-an-fdw-if-i-dont-have-any-income) | 无公开固定门槛；配偶合并收入；无收入可交存款／定存，特别计划另核 | 两答复完整；不造市场流传门槛 |
+| D04 [EP／S Pass](https://www.mom.gov.sg/faq/work-permit-for-fdw/can-an-employment-pass-or-s-pass-holder-employ-an-fdw)、[PEP](https://www.mom.gov.sg/faq/work-permit-for-fdw/can-a-personalised-employment-pass-holder-employ-an-fdw) | 明确可申请；护照／准证／家庭材料、当前或前一NOA、IRAS授权、雇主信及替代证明 | 先读MOM AskGov同题原答，后实际取得主站详细正文；不推ONE／Entre／DP／STP／其他WP／访客 |
+| D05 [LTVP雇主](https://www.mom.gov.sg/faq/work-permit-for-fdw/can-i-hire-an-fdw-if-i-am-holding-a-long-term-visit-pass) | 申请时有效LTVP、其他要求仍适用 | 答复未区分签发机构；正文要求提交实际准证，不编造ICA与MOM细分许可 |
+| D06 [EOP](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/eligibility-and-requirements/employers-orientation-programme-eop) | 首雇至少申请前2工作日完成；课堂／线上；特定健康、行动、孕产条件可按程序申请代表 | 实读L32—131适用范围；不写所有人可随意代学，不采用课程报价 |
+| D07 [特别计划](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/apply-under-a-special-scheme) | Joint Income：SC／PR21+、同住非配偶家庭成员、较高收入者雇主；Sponsorship：SC／PR60+无收入、无同住在职成人、最多2担保者，均有责任 | 完整L32—80；担保亲属与D08新版表列举有差异，正文显式提示 |
+| D08 [2026-06-15申请表](https://www.mom.gov.sg/-/media/mom/documents/services-forms/passes/fdw-appln-form.pdf) | 无Singpass直接雇主电子表渠道；第3页特别计划雇主／担保／共同申请全须SC／PR、参与者21+、住址及既有雇用／担保条件 | 18页文字提取并实际目视第1、3、7页；表格有无法提取的矢量／控件内容，未声称读到隐藏选择值。原PDF保存，页面3条件已由目视确认 |
+| D09 [第二名MDW](https://www.mom.gov.sg/faq/work-permit-for-fdw/can-i-hire-a-second-fdw) | 本人／配偶60+、至少2同住未满18孩子、同住父母／姻亲父母60+、AIC残障优惠；资金与住宿仍评估；每户最多2 | 完整答复；60岁不能移作外劳税长者67岁门槛 |
+| D10 [MDW资格](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/eligibility-and-requirements/fdw-eligibility) | 女性、23至未满50申请，50+可续至60，13来源地、8年教育、不为亲属、申报地址居住、首次SIP | 完整规则；本地转雇独立，不套境外新申请的境外等批条件 |
+| D11 [HSS](https://www.mom.gov.sg/faq/work-permit-for-foreign-worker/what-is-household-services-scheme) | 公司服务与名单、临时家务、部分基本长者看护、专业护理另找；儿童看护试点人力优惠2026年3月停止 | 完整答复；不采用2026年1月回函的旧儿童试点描述覆盖3月变化，不等于禁止所有儿童看护 |
+| D12 [工资](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/employers-guide/salary-guidelines) | 月薪不少于申报，周期≤月、结束后7天；员工要求个人银行转账须遵从，不与雇主联名；现金双方签记录；雇主不保管钱、卡、存折 | 规则全文；不把placement loan与工资混作雇主自由扣留权 |
+| D13 [MDW最低工资](https://www.mom.gov.sg/faq/work-permit-for-fdw/do-i-need-to-pay-a-minimum-wage-to-my-fdw) | MOM不规定MDW统一最低工资 | 完整答复；不把其旧广义表述扩写成全新加坡所有工作均无工资规则；来源国条件未核全，不列统一美元数字 |
+| D14 [缴纳levy](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/foreign-domestic-worker-levy/paying-levy) | 首300／后续450／优惠60，MDW无CPF；次月17、周末公假下一工作日、GIRO／PayNow | 完整规则；首来者起算第5日等未在正文详列，实际非整月看账单 |
+| D15 [levy优惠](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/foreign-domestic-worker-levy/levy-concession) | SC未满16；SC67+；PR67+按公民配偶／本人／父祖辈关系；PWD至少1ADL及SC／特定SC亲属PR、NRIC同址、登记和AIC推荐；一合资格人一员工、每户最多2；2账单内追溯 | 完整各表与办理段；“parent”不擅改“亲生父母”；该页HCG旧400额不采用，照护资助由care线另核 |
+| D16 [levy豁免](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/foreign-domestic-worker-levy/apply-for-levy-waiver) | 海外7连续天、每历年最多60；本地医疗机构的新加坡注册医生签发住院病假，独立60天上限等，账单后申请窗口与证明 | 完整相关规则；不把海外和病假互相推定；未自行停缴 |
+| D17 [security bond](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/eligibility-and-requirements/security-bond) | 非马来西亚5000银行／保险担保、雇主付、入境生效；取消／回国／无违约后解除，特定违约可没收 | 完整规则；保额不写成一律现金申请费，不写必然没收全部 |
+| D18 [医疗及人身意外保险](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/eligibility-and-requirements/insurance-requirements) | MI住院／日手术年≥60k，2023-07-01起>15k段75／25，2025-07-01起新／续／延保第二阶段；PAI年≥60k、意外死亡／永久残障赔员工／受益人；保费雇主 | 规则及时期表完整；保费和保额分开，实际除外与理赔需看保险条款 |
+| D19 [超过保险医疗费](https://www.mom.gov.sg/faq/work-permit-for-fdw/can-i-get-my-fdw-to-co-pay-her-medical-expenses-that-exceed-the-insurance-benefit-limit)、[WICA](https://www.mom.gov.sg/faq/work-permit-for-fdw/are-fdws-covered-under-the-work-injury-compensation-act) | 雇主负责必要医疗含超保险，员工不分摊；MDW不在WICA范围 | 完整答复；不把保险存在当免除医疗责任 |
+| D20 [EA Directory说明及入口](https://www.mom.gov.sg/eservices/services/employment-agencies-and-personnel-search)、[记录指标](https://www.mom.gov.sg/faq/work-permit-for-fdw/how-do-i-check-an-employment-agencys-track-record-for-fdws) | 公司／人员查询、撤销／暂停／监察页签；留任率、上年安置量 | 实际读取服务说明与FAQ，不声称代用户核某EA或进入交易 |
+| D21 [合同和安全协议](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/employers-guide/contracts-and-safety-agreement) | Employment Act不适用MDW；鼓励书面雇用合同、工资／休息／贷款／通知等双方议定；安全协议须签、母语、首次SIP后开工前／其余派入前、现有续约例外；通知／代通知金／双方豁免 | 全文；雇用合同鼓励与EA书面服务协议／安全协议必需分开 |
+| D22 [EA书面服务协议](https://www.mom.gov.sg/faq/employment-agencies/what-must-be-included-in-an-eas-service-agreement-with-an-fdw-employer) | EA必须与MDW雇主签书面协议，替换／退款／争议机制 | 完整答复；中介合同不当员工工资合同 |
+| D23 [2026-09-28 EA Alert／10月1日起修订](https://www.mom.gov.sg/-/media/mom/documents/employment-agencies/ea-alerts/2026/ea-alert-280926-amendments-to-ealc-to-take-effect-from-1-oct-2026.pdf) | 6A(c)(d)解释、填满、阅读时间、可理解语言；6B不助违法；15A过渡EA责任；17B尊严 | 三页提取全文并三页实际渲染目视，表格续页归属已核；采用已生效条件，不把10月后当未来 |
+| D24 [员工代理费](https://www.mom.gov.sg/faq/employment-agencies/how-will-foreign-workers-know-the-amount-that-they-are-expected-to-pay-the-singapore-ea)、[工资基数](https://www.mom.gov.sg/faq/employment-agencies/what-component-of-a-worker-s-salary-does-mom-base-the-fee-cap-on) | 每年服务一月固定工资、最多2月；IPA工资和本地EA费、超额MOM；基本工资及固定津贴 | 当前官方FAQ完整；没有仅用2011新闻／旧指南签当前规则，未把本地上限当海外所有收费总上限 |
+| D25 [未还placement loan](https://www.mom.gov.sg/faq/work-permit-for-fdw/what-can-i-do-if-my-fdw-wants-to-end-her-employment-contract-early-but-has-not-repaid-her-placement-loan) | EA合同须写贷款退款，可选择不需雇主垫款的安排 | 完整；不将债务推定为不得辞职 |
+| D26 [EA服务费退款](https://www.mom.gov.sg/employment-agencies/refund-of-ea-service-fee) | 自2022-06-01签EA合同、首6月终止至少50%、必须及时事先通知；全部5类排除、替换次数、照顾对象离户；排除费用；较迟书面请求／取消日起14工作日 | 完整正文及替换案例表；正文列具体替换门槛与其他条件，不承诺所有费50% |
+| D27 [首六个月计算](https://www.mom.gov.sg/faq/employment-agencies/how-is-the-first-six-months-of-the-mdw-employment-calculated) | 起聘日至取消／向EA书面终止请求较早日期 | 完整答复；非统一以最后工作日算 |
+| D28 [Work Permit申请](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/apply-for-work-permit) | 员工书面同意、35申请／35签发、在线约1周／表格3周、无Singpass电子表；新雇非马来西亚境外等IPA／保；来源国条件；入境2周体检及签发，TWP及卡后续 | 申请页全文实读；麻疹幼儿家庭高影响条件本页已明确简述，具体准证行政由实际integrated pass-management段承接 |
+| D29 [SIP](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/eligibility-and-requirements/settling-in-programme-sip) | 首次1日课程，抵达7日内排Sun／PH、不在到达日、开工前；雇主付费 | 完整规则；正文不采用机构报价，未把课程完成当单独工作授权 |
+| D30 [休息／生活](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/employers-guide/rest-days-and-well-being) | 周休互议；月1不可买掉、可2半日、最多下月月底；住宿通风寝具隐私、不得成年／少年男同房；三餐饮食、CCTV通知及私密区域限制 | 完整相关规则；独立房间是建议，足够空间隐私必需；未编8小时法定睡眠或具体工时 |
+| D31 [休息日补偿](https://www.mom.gov.sg/faq/work-permit-for-fdw/how-do-i-calculate-my-fdws-pay-in-lieu-of-a-weekly-rest-day) | 基本月薪外额外至少日薪，日薪=月薪÷26 | 完整答复；每月不可买掉的一日仍保留 |
+| D32 [扣护照／准证的EA提醒](https://www.mom.gov.sg/-/media/mom/documents/employment-agencies/ea-alerts/2023/ea-alert-012023-employers-are-not-allowed-to-retain-their-migrant-domestic-workers-passports-and-wor.pdf) | 雇主扣留属违法，即使代存或员工请求也不行；员工随时自由取用，给柜屉自行存 | 单页实际全文与PDF实体下载；比一般FAQ的should not明确，不反向放宽 |
+| D33 [工作地点与范围](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/employers-guide/employment-rules) | 自己雇主、申报住宅、家务、不得其他工作；自家孩子／父母在亲属家照顾须事前MOM、员工书面同意、不做两家整套家务、过夜住所、原雇主责任 | 全文；不扩为随意借调给亲属／生意 |
+| D34 [2026-04安全协议及附件A](https://www.mom.gov.sg/-/media/mom/documents/employment-agencies/fdw/safety-agreement-between-mdw-and-employer-bahasa-indonesia-apr-2026.pdf) | 窗外清洁地面／公共走廊例外；其他须锁窗花、能监督的成人全程、员工在房内且除臂不越窗沿 | 四页全文提取；实体PDF已存，第4页附件A实际渲染目视；不以签字替监督 |
+| D35 [6ME](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/eligibility-and-requirements/six-monthly-medical-examination) | 诊所注册医、雇主付、不陪诊；项目不同频率、50+仅续期体检、延期豁免、未通过处理 | 全文；不将各项目一律写成每6个月、不提供诊断建议 |
+| D36 [面谈／体检／家访及安置后检查](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/publications-and-resources/employment-rules/three-mandatory-measures-to-check-if-your-mdw-is-fitting-into-her-job-well) | 首次第一年2次私下面谈，选中家访必配合，EA到户后3月内至少1检查 | 全文，L49—159各段；不把所有MDW每年无限重复2次 |
+| D37 [海外休假](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/employers-guide/overseas-leave-for-fdw) | 准证／护照／出入境、levy豁免、6ME延期、不返回取消、再来新申请 | 当前正确URL正文；旧猜错/employers-guide/overseas-leave失败不重探 |
+| D38 [假期工资](https://www.mom.gov.sg/faq/work-permit-for-fdw/must-the-employer-pay-the-salary-of-their-fdw-when-she-is-on-overseas-leave)、[假期机票](https://www.mom.gov.sg/faq/work-permit-for-fdw/who-should-pay-for-an-fdws-air-ticket-if-she-goes-on-overseas-leave) | 合同约定海外假期工资，机票双方约定 | 完整两答复；与结束雇用的雇主返程责任分开 |
+| D39 [直接转雇](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/transfer-to-a-new-employer) | 员工意愿、原雇主同意、新申请／保／保险、6ME；核6ME及获原雇主同意后递交新申请两步，须至少到期前30天完成；约定日签发及IPA期限、原证自动取消 | 完整旧／新雇主步骤；正文未把批准等同可提前工作 |
+| D40 [EA过渡转雇](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/transfer-to-new-employer-through-ea) | 员工同意、EA愿接、按专门取消；EA食宿医疗／保险及无新雇主须返程；Special Pass有限 | 全文；还核D23现行15A。不把单纯送中介等同免责 |
+| D41 [取消](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/cancel-a-work-permit)、[返国](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/employers-guide/sending-an-fdw-home) | 最后工作日后一周／离境不返后一周取消；结清工资等；机票行李转机生活费书面议；取消后2周内走、Special Pass合法停留、不可工作、levy前1日 | 完整流程，取消已过期准证例外与合法停留另核；返程目的地准确为近家乡国际口岸，不承诺送到门 |
+| D42 [提前终止返国费用](https://www.mom.gov.sg/faq/work-permit-for-fdw/who-pays-for-sending-an-fdw-home-if-the-contract-is-terminated-early-either-by-the-employer-of-the-fdw) | 不论谁提前终止，雇主承担结束雇用的返国费用 | 完整答复；与D38假期机票不同 |
+| D43 [无力付代通知金](https://www.mom.gov.sg/faq/work-permit-for-fdw/my-fdw-wants-to-end-her-employment-contract-without-serving-notice) | 原合同通知义务、协商缩短／部分豁免 | 完整答复；不声称雇主可强迫劳动抵债 |
+| D44 [雇主去世](https://www.mom.gov.sg/faq/work-permit-for-fdw/what-should-the-family-do-if-an-fdws-employer-passes-away) | 死亡起1月内取消返国或转雇；新家属也新申请、保险、家庭同意，长者优惠可能终止 | 完整答复；不默认为家属自动继承准证 |
+| D45 [雇主MOM准证失效](https://www.mom.gov.sg/faq/work-pass-general/i-am-an-mdw-employer-but-my-mom-issued-pass-is-no-longer-valid-can-i-continue-to-hire-my-mdw) | 已申请新MOM／PR等结果可继续；失败／未申请共用14日转雇或员工不继续则取消返国 | 先全文，另正常urllib获取HTML实际核rowspan=2，闭合未申请的共享结果；原文14日起点为雇主准证取消，未自行重算成拒批日 |
+| D46 [争议](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/employers-guide/resolving-disputes) | 误解沟通、EA明示机制、调解／合适SCT；犯罪交主管 | 全文；MDW欠薪走MOM专线，不套一般TADM |
+| D47 [MDW欠薪](https://www.mom.gov.sg/faq/work-permit-for-fdw/how-can-an-fdw-report-that-her-salary-has-not-been-paid) | MOM18003395505／海外号码、周一至五08:30—17:30、协助工资争议 | 完整答复；移动电话1800可能计费 |
+| D48 [过劳／食物／欠薪报告](https://www.mom.gov.sg/faq/work-permit-for-fdw/what-should-i-do-if-an-fdw-has-not-been-paid-is-overworked-or-not-given-enough-food) | 在线、MOM专线、CDE24h、可陪同至MOM Services Centre Hall A 1500Bendemeer339946 | 完整答复；没有无障碍／翻译保证，先热线确认帮助 |
+| D49 [受困MDW](https://www.mom.gov.sg/faq/work-permit-for-fdw/i-am-an-mdw-in-distress) | 危险999、专线时间、1800手机计费 | 完整答复；一般查询不占用受困专线 |
+| D50 [CDE联络](https://www.cde.org.sg/contact-us) | 18002255233，24小时及就业／生活支持 | 机构本身详细联系页实际全文；无真人联络 |
+| D51 [HOME](https://www.home.org.sg/) | 家政call／WhatsApp97873122、庇护／食物／咨询等本人机构服务说明 | 实际主页L45—79服务和明确联系人；仅支撑该组织服务，不将主页当法律依据 |
+| D52 [MOM联络](https://www.mom.gov.sg/contact-us) | 电话64385122、周一至五08:30—17:30公假除外；线上查询／报告 | 详细联系页实际L36—90；无提交表单／外部联系 |
+
+### MDW 身份、时期与未核部分
+
+- 公民／PR一般条件、EP／S／PEP、有效LTVP各有实际来源。ONE／Entre／DP／STP／其他WP／访客的雇主资格未找到逐类直接许可；正文列明需持具体准证向MOM核，不因相邻准证或地址变更页面列DP雇主就推成全部同类人的初次许可。
+- D07网页Sponsorship列子女／子女配偶／孙辈／孙辈配偶／兄弟姐妹，D08申请表另列兄弟姐妹配偶；Joint Income网页有较宽relative，而表列child／parent／sibling。共同申请／担保者SC／PR、21+、同住或不同住、当前雇用／担保关系的表条件已目视。正文说明差异并让读者先核拟用关系，不自行裁定两个官方版本孰废止。
+- 60岁特别计划／第二员工与67岁levy、未满16公民孩子与未满18第二员工条件不混同。levy PWD 1ADL与其他照护补助3ADL不互推。MI60k／PAI60k／bond5000是各自法律用途，不当一般实际保费。
+- 2026-10-01 EALC当前已生效；2026-03 HSS儿童试点人力优惠已停。2023／2025保险按保单生效或续延日期。申请表2026-06-15和安全表2026-04实际版本固定在缓存。
+- 各来源国使馆、出境证、最低合同待遇未逐国研究，正文只让按本人来源国核，不罗列未经核实的统一工资／押金。没有使用“每天法定8小时睡眠”或MDW适用一般Employment Act／WICA／TADM的错误推定。
+- 照护训练、家庭轮班、沟通／接送／用药交接清单是明确的行动建议，不虚构法定专业资格，不以MDW代替专业医护。没有教学算例／案例或真实代办。
+
+### MDW 原件缓存、失败及实际目视
+
+`.cache/research/b04-mdw/` 在下载前已确认被Git忽略。`tool-results.json`保存mdw1—14；`tool-results-supplement.json`保存mdw15—22，含成功全文、部分仅metadata、搜索和失败，须按D行实际范围读取，不能当全部已读。二者分别353,597／185,833字符，字节值以实际文件为准。
+
+- `application.pdf`：普通urllib成功200、application/pdf、19,156,434B，SHA `5ee9008eb4def2e0110189ef874a559c729dbca1f7caf6a829830a28f9970309`；网页工具报过大后改正常实体读取。`application.txt`提取18页，但控件／矢量丢字；`application-page-1.png`、`-3.png`、`-7.png`中实际目视第1、3、7页，未称18页全目视，未填表或读取不存在的下拉选项。
+- `ealc-20261001.pdf`：361,076B，SHA `2b6624af974325d216bf19e890040c74fc77baf56ebbd06e29c97362149738e8`；3页原件全文及`ealc-20261001-1.png`至`-3.png`全部目视。原件表格跨页，对应6A／6B／15A／17B实际确认。
+- `passport-alert.pdf`：53,577B，SHA `790b99de596be330eb95ea2779e555a1206d78276d73f14ae91326ae28447f31`，单页全文提取实读；未额外声称本页图片目视。
+- `safety-agreement.pdf`：462,461B，SHA `5c4cad30e97d739d9fdf87f9e1454c595b6eb1b373614513215582b56aede898`；4页工具全文已读，第4页Annex A额外渲染`safety-agreement-4.png`并目视；无需把印尼语表译成通用申请表。
+- `employer-pass-invalid.html`：正常urllib成功、SHA `924104d17df7bd467d7f298d0e63b251671815484a5e5e0bb7dbfdcf0cb3141d`；已实际核表格rowspan=2同时适用申请失败／未申请。
+- SSO当前`https://sso.agc.gov.sg/SL/EAA1958-S172-2011`工具返回Internal Error；已经有主管当前退款页及当前员工费用FAQ支持，本轮未额外重探或代理。较早旧猜错`/employers-guide/overseas-leave`失败，已通过当前官方入口取得D37正确URL，不重探旧错址。
+
+### MDW 作者自审和首次冻结
+
+完整稿`content/book/people/family/domestic-workers.md`已写成并分段全文实际通读；自审修掉“亲生父母”不当缩窄、补50+续期至60、具体退款替换排除及6月起止，删除无用比喻，修加粗空格。原先在写稿的7处加粗被主控并行门禁如实发现，作者已修、没有主控代改正文。五个relref均为实际存在的integrated主文，全文10个H2、78处HTTPS近邻来源，written/draft:true/verified及reviewed_by空、无正文H1、单EOF。未自行构建、实际网页渲染或声称独立事实通过。
+
+首次冻结34,776B；完整SHA256 `26bead66538c107570d3f07d7e5c2e6d70398d16f22538a7a9eaa1d3fcefcbe6`；正文SHA256 `e59cbb452eb7ef1040637de1e8b89b4d53b39057c6224a476fff456f7d46e0fc`，正文算法同前。交care_finance逐源独立事实，再由root第三编辑；当前正文冻结等待具体反馈，作者按root新分派先独立事实审higher-education，再继续separation-safety研究。
+
+
+### MDW 独立事实反馈后的两处作者校准
+
+2026-10-13，care_finance已独立核申请表第1／3／7页与levy原文，尚在继续余项；作者仅修两处：特别计划首句明确雇主／共同申请人／担保者均SC或PR，共同申请人和担保者21岁及以上；住院病假由本地医疗机构的新加坡注册医生签发，不限医院。D08相关2026-06-15表第3页及D16详页支持，实际原件见既有矩阵。原两字符串分别为“MOM 有两类特别计划，雇主及共同申请／担保者须符合相应条件，不能只借用亲属姓名递交：”与“医院签发的住院病假”。作者复读改变段、静态粗体空格通过；逆向替换严格回初冻full26bead66538c107570d3f07d7e5c2e6d70398d16f22538a7a9eaa1d3fcefcbe6。
+
+新冻结34,889B，full `fce430bc5428853601773ee4f36690d1be1bab46a2a38afa42e60606261dddcf`／body `49de6a73432ad8c6780d2478c22168ea91d6fdfd4e72a67fd2150e0a02cf1af2`；仍written／draft:true／核验空，已交care续独审。此为在审版本，不冒称最终事实通过。
+
+
+MDW第二轮事实反馈作者已处理：实际回读D39（mdw7 L46—69）及D28（mdw5 L62），将“到期前30天开始”改为先核6ME、获现雇主同意后递交新申请，两步须至少到期前30天完成；收到IPA后才准备保险／保证／声明。另在入境段明确家有未满7岁且未完成麻疹接种儿童时须确保MDW免疫，并近邻引用D28。复读改变段、加粗静态通过。最新冻结35,313B／full `65a640cf98dc5a1834911d093372d7eb240721b0981ae760d15505165f02e385`／body `4ec7dae302a1811f3c44ef0cf7dc1d1244f5bb58373223d6df94e928323aa550`，care最终全文独审仍在进行。
+
+
+### MDW 最终独立事实通过
+
+2026-10-13，care_finance实际完整复读四项修订后的最终全文，在`ops/reviews/b04-family-facts.md`签通过，无剩余事实阻断。绑定35,313B／full `65a640cf98dc5a1834911d093372d7eb240721b0981ae760d15505165f02e385`／body `4ec7dae302a1811f3c44ef0cf7dc1d1244f5bb58373223d6df94e928323aa550`；该报告分别记录三阶段SHA、逆向差分、采用原文及四份PDF实际目视范围。作者正文冻结，已交root第三编辑；此时未将元数据提升为integrated，也未声称工程验收。
+
+
+2026-10-13，主控确认MDW第三编辑静态审、B04C实际浏览器／打印验收及public同步完成，正文body `4ec7dae302a1811f3c44ef0cf7dc1d1244f5bb58373223d6df94e928323aa550` 未变，接收为integrated。主控已改接收元数据，完整SHA及工程记录由主控绑定，作者不重写已审正文。

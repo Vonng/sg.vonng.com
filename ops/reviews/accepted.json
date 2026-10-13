@@ -630,5 +630,49 @@
     "body_sha256": "59d75d5547f2d6a7709f4bd5809781f366038ba5a2284a3f3be1c3999eb31c31",
     "date": "2026-10-13",
     "editorial_report": "ops/reviews/b04b-editorial.md"
+  },
+  "content/book/people/learning/higher-education.md": {
+    "author": "daily_history",
+    "facts": "identity",
+    "editor": "root",
+    "report": "ops/reviews/b04-higher-education-facts.md",
+    "reviewed_file_sha256": "4bfeffcbf39bf75639137dd192f198da2f2cc5524719bddd3deb9fa9e62b842f",
+    "body_sha256": "37c662a2e83b67d7578f6d1cb9ec64751b07e0b6f77ef79097fc256dd0a6ec3c",
+    "date": "2026-10-13",
+    "editorial_report": "ops/reviews/b04c-editorial.md",
+    "engineering": "B04C accepted; production, actual desktop/mobile and sampled print passed; ops/checks/b04c-acceptance.json"
+  },
+  "content/book/people/healthcare/medicines.md": {
+    "author": "care_finance",
+    "facts": "daily_history",
+    "editor": "root",
+    "report": "ops/reviews/b04-medicines-facts.md",
+    "reviewed_file_sha256": "bba7ee61803286553fc2190761bf14518076ed102d74c5ead556750ef4a4b495",
+    "body_sha256": "42367a166bcef5f283486bd6fd68858e7589a49893f10c782b8092a9f38463e3",
+    "date": "2026-10-13",
+    "editorial_report": "ops/reviews/b04c-editorial.md",
+    "engineering": "B04C accepted; production, actual desktop/mobile and sampled print passed; ops/checks/b04c-acceptance.json"
+  },
+  "content/book/people/family/domestic-workers.md": {
+    "author": "identity",
+    "facts": "care_finance",
+    "editor": "root",
+    "report": "ops/reviews/b04-family-facts.md",
+    "reviewed_file_sha256": "65a640cf98dc5a1834911d093372d7eb240721b0981ae760d15505165f02e385",
+    "body_sha256": "4ec7dae302a1811f3c44ef0cf7dc1d1244f5bb58373223d6df94e928323aa550",
+    "date": "2026-10-13",
+    "editorial_report": "ops/reviews/b04c-editorial.md",
+    "engineering": "B04C accepted; production, actual desktop/mobile and sampled print passed; ops/checks/b04c-acceptance.json"
+  },
+  "content/book/work/finance/srs.md": {
+    "author": "root",
+    "facts": "daily_history",
+    "editor": "identity",
+    "report": "ops/reviews/b05-srs-facts.md",
+    "reviewed_file_sha256": "bf9b066e02b3b1847717dfe53aabd9c37155fd83a37e7ddb518512540487b80a",
+    "body_sha256": "0e1044105ab9d7dd48c8383ac3c8680d2c8ad04c9f9541c7e27f33f2157f0190",
+    "date": "2026-10-13",
+    "editorial_report": "ops/reviews/b05-srs-editorial.md",
+    "engineering": "B04C accepted; production, actual desktop/mobile and sampled print passed; ops/checks/b04c-acceptance.json"
   }
 }

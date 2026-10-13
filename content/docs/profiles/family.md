@@ -16,3 +16,5 @@ weight: 50
 筹备共同生活或结婚时，读[伴侣与婚姻](/book/people/family/relationships/)，按年龄、宗教与准证历史选择流程；避孕、检测或生育治疗读[性健康与生育选择](/book/people/family/sexual-health/)。孩子出生时处理[登记、护照及居留](/book/people/family/birth/)；主准证持有人离职时，按[离职事项](/docs/routes/leaving-job/)核对关联准证。
 
 孩子需要学前照护时，读[托育、收费与补贴](/book/people/family/childcare/)，分别核孩子身份、主申请人与家庭情况。替家人看健康记录或取正式报告，使用[医疗资料与授权](/book/people/healthcare/medical-records/)。
+
+需要在家协助照顾孩子或长者，先用[家政雇用与双方责任](/book/people/family/domestic-workers/)评估任务、资格、费用及替补安排。家庭成员准备升学时，按[高等教育](/book/people/learning/higher-education/)核申请与资助，分别处理每个人的居留和学习条件。

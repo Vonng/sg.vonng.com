@@ -16,3 +16,5 @@ weight: 30
 换工作或离开新加坡时，按[离职事项](/docs/routes/leaving-job/)衔接工资、准证与税清；安排住房可用[租房流程](/book/life/housing/renting/)。
 
 生病请假时，在[病假证明与有薪条件](/book/people/healthcare/medical-records/)核对适用雇佣规则、通知和提交办法；本人查看HealthHub、无Singpass取报告也由该篇分流。
+
+家政工作者及雇主可直接使用[家政雇用、工资休息与求助](/book/people/family/domestic-workers/)，查看入职、转雇、结束雇用和双方责任。有应税收入并考虑长期储蓄时，先读[SRS缴款与提款](/book/work/finance/srs/)，分别判断银行材料、税务居民和以后用钱的条件。

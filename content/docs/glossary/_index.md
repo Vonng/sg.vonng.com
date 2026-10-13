@@ -72,3 +72,7 @@ weight: 30
 | SDIC / FIDReC | 新加坡存款保险机构 / 金融业争议调解中心 | [存款保障与银行争议](/book/work/finance/banking/) |
 | MC、MRO、HIMS、NEHR、HMS、SMC | 病假证明、机构病历部门、全国健康记录及医疗调解／纪律渠道 | [医疗资料与沟通](/book/people/healthcare/medical-records/) |
 | AOP、POP、KiFAS、KCare、HHI、PCI、CCFA、EIPIC | 学前机构计划、学费／照护资助、家庭收入及早期介入；各自资格分开 | [托育与补贴](/book/people/family/childcare/) |
+| AU / ITE / HESL / Tuition Grant | 自治大学 / 工艺教育学院 / 高等教育贷款 / 学费补助 | [高等教育申请与费用](/book/people/learning/higher-education/) |
+| SDL / MAF / POM / P / GSL | 药物补贴名录、援助基金及处方／药房／一般销售分类 | [取药与药物资助](/book/people/healthcare/medicines/) |
+| MDW / EOP / SIP / 6ME / CDE | 家政移工、雇主及员工适应课程、定期体检与家政雇员中心 | [家政雇用与求助](/book/people/family/domestic-workers/) |
+| SRS / statutory retirement age / withholding tax | 退休辅助计划、适用法定退休年龄、预扣税 | [SRS缴款与提款](/book/work/finance/srs/) |

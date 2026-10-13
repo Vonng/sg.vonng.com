@@ -1,6 +1,6 @@
 # 全书内容地图
 
-更新：2026-10-13（Asia/Singapore）。用户本次明确续跑，get_goal已实查active；继续完整五部分28领域。此前82源交接快照保留；本次恢复核实109源与实际审核版本，恢复三条独立写审线。恢复后累计接收62主题，最新医疗记录／托育见checks/b04b-acceptance.json；上一六篇及HUM01见b04a。历史现场见HANDOFF-2026-10-13.md。这是持续目标的覆盖地图；候选路径只登记于此，不生成空正文。覆盖认定须检查每个领域的必要分支，文章数量不作完成门槛。
+更新：2026-10-13（Asia/Singapore）。用户本次明确续跑，get_goal已实查active；继续完整五部分28领域。此前82源交接快照保留；本次恢复核实109源与实际审核版本，恢复三条独立写审线。恢复后累计接收66主题，最新高教／药品／家政移工／SRS见checks/b04c-acceptance.json；医疗记录／托育及上一六篇分别见b04b与b04a。历史现场见HANDOFF-2026-10-13.md。这是持续目标的覆盖地图；候选路径只登记于此，不生成空正文。覆盖认定须检查每个领域的必要分支，文章数量不作完成门槛。
 
 ## 内容与资格模型
 
@@ -155,8 +155,8 @@
 | `/book/people/healthcare/getting-care/` | 生病后怎样选GP综合诊疗所医院与转介 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 | `/book/people/healthcare/healthcare-payments/` | 补贴CHASMediSaveMediShieldLifeMediFund与保险谁可用 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 | `/book/people/healthcare/medical-records/` | 医疗记录、代理同意、病假证明和沟通投诉怎样办理 | integrated（care作者、daily事实、root第三编辑及实际工程通过） |
-| `/book/people/healthcare/medicines/` | 处方、药房、续配及携药怎样安排 | researching（care独占，从原records-medicines按办理目标拆分） |
-| `/book/people/healthcare/preventive-care/` | 牙眼、筛查、疫苗与公共卫生怎样按身份使用 | planned（care独占，从原records-medicines拆分） |
+| `/book/people/healthcare/medicines/` | 处方、药房、续配及携药怎样安排 | integrated（独立事实、第三编辑、B04C生产及实际渲染通过；accepted SHA绑定） |
+| `/book/people/healthcare/preventive-care/` | 牙眼、筛查、疫苗与公共卫生怎样按身份使用 | writing（care独占，当前CDA疫苗／PSS牙眼等详源已读，完整稿撰写中） |
 
 ### 14. 心理健康、残障与无障碍生活（accessibility）
 
@@ -177,8 +177,8 @@
 | `/book/people/family/relationships/` | 同居共同财务与民事穆斯林婚姻怎样安排 | integrated（异人事实、第三编辑、生产及实际渲染通过；版本见accepted.json） |
 | `/book/people/family/birth/` | 孕产生育出生登记、国籍证件怎样衔接 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 | `/book/people/family/childcare/` | 托育选择费用补贴与资格 | integrated（identity作者、care事实、root第三编辑及实际工程通过） |
-| `/book/people/family/domestic-workers/` | 雇用家政移工的手续双方权利与照护责任 | written（identity完整稿静态自审中，未集成） |
-| `/book/people/family/separation-safety/` | 分居离婚监护家庭暴力如何求助 | planned |
+| `/book/people/family/domestic-workers/` | 雇用家政移工的手续双方权利与照护责任 | integrated（独立事实、第三编辑、B04C生产及实际渲染通过；accepted SHA绑定） |
+| `/book/people/family/separation-safety/` | 分居离婚监护家庭暴力如何求助 | written（identity完整首稿自审及证据补齐中，尚未交独立事实） |
 | `/book/people/family/sexual-health/` | 同意、避孕、紧急避孕、STI/HIV、孕前及生育选择怎样求助 | integrated（异人事实、第三编辑、生产及实际渲染通过；版本见accepted.json） |
 
 ### 16. 儿童、青少年与基础教育（school）
@@ -197,8 +197,8 @@
 
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
-| `/book/people/learning/higher-education/` | 大学理工ITE怎样申请和比较费用 | planned |
-| `/book/people/learning/tuition-grant/` | TuitionGrant义务和学生实习工作条件 | planned |
+| `/book/people/learning/higher-education/` | 大学理工ITE怎样申请和比较费用 | integrated（独立事实、第三编辑、B04C生产及实际渲染通过；accepted SHA绑定） |
+| `/book/people/learning/tuition-grant/` | TuitionGrant义务和学生实习工作条件 | writing（daily新主管指南、FAQ与三身份申请原件已读，保留来源冲突） |
 | `/book/people/learning/adult-learning/` | SkillsFuture培训质量海外学历职业资格怎样核验 | planned |
 
 ### 18. 英语、华语与多语生活（language）
@@ -254,8 +254,8 @@
 | `/book/work/finance/household-budget/` | 到手收入、年度费用和应急现金怎样安排；家庭预算种子单列 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 | `/book/work/finance/banking/` | 开户PayNowFASTNETSGIRO如何使用 | integrated（异人事实、第三编辑、生产及实际渲染通过；版本见accepted.json） |
 | `/book/work/finance/cpf-basics/` | CPF谁缴、年龄和PR阶段怎样改变、钱怎样用 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
-| `/book/work/finance/saving-investing/` | 储蓄工具、国债、证券基金、账户费用风险及机构核验 | researching |
-| `/book/work/finance/srs/` | SRS开户缴款减税、身份变化与提款税款怎样安排 | researching |
+| `/book/work/finance/saving-investing/` | 储蓄工具、国债、证券基金、账户费用风险及机构核验 | written（28组原文，care独立事实已通过；daily第三编辑术语修订待最终SHA重绑） |
+| `/book/work/finance/srs/` | SRS开户缴款减税、身份变化与提款税款怎样安排 | integrated（独立事实、第三编辑、B04C生产及实际渲染通过；accepted SHA绑定） |
 | `/book/work/finance/insurance/` | 保额条款、投保告知、保费续保及理赔争议怎样处理 | researching |
 | `/book/work/finance/debt-disputes/` | 信用贷款债务理赔和金融争议怎样处理 | planned |
 

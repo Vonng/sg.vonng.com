@@ -1,3 +1,32 @@
+# identity 当前续跑断点
+
+2026-10-13，Asia/Singapore。用户已明确恢复完整目标，历史暂停只保留追溯。实际读PROMPT/AGENTS、BOOKMAP/TASKS/CHECKPOINT及文件/Git。root拥有工程／总账／导航／构建与提交；care_finance独立事实；daily_history教育／住房。作者不改共享台账、不构建提交。
+
+## 当前实际状态
+
+- relationships、sexual-health、childcare：care最终独立事实与root第三编辑通过，root浏览器／打印检查通过并接收integrated。正文分别8409bf43162ed33b0d1012611f90af7ccd8b471ea659a1fe2b37334bacca37aa、614100dda3e5a969c88e5c1fa5dc672e08b1d60a45fb08d37bd5e2049e52e3e4、59d75d5547f2d6a7709f4bd5809781f366038ba5a2284a3f3be1c3999eb31c31；作者保持冻结。主控已修改元数据，旧full仅历史作者快照。
+- childcare最后仅校准ICA“12岁0天或以下”及EIPIC“最迟每年6月1日”两个精度，care独立逆向差分已验证无其他漂移；最终作者冻结28,733B/full a8d04aaf6954d816d3d0891df0870d4c27f0079e3fa82f435ecd16445eeb09ab。不得按旧队列重审未变报告。
+- domestic-workers完整34,776B、10H2、78HTTPS、5个integrated relref；作者全文自审、静态字段／空核验／written/draft:true／加粗空格／无H1／EOF通过。首次冻结full26bead66538c107570d3f07d7e5c2e6d70398d16f22538a7a9eaa1d3fcefcbe6／bodye59cbb452eb7ef1040637de1e8b89b4d53b39057c6224a476fff456f7d46e0fc。care两处精度反馈已修：特别计划参与者均SC/PR且共同申请人／担保者21+；levy病假由本地医疗机构的新加坡注册医生签发。现34,889B/full fce430bc5428853601773ee4f36690d1be1bab46a2a38afa42e60606261dddcf/body49de6a73432ad8c6780d2478c22168ea91d6fdfd4e72a67fd2150e0a02cf1af2，逆向两字符串严格回初冻，care续余下独审。第二轮已核D39与D28并修转雇两步到期前30天完成及麻疹幼儿家庭条件；最新35,313B/full65a640cf98dc5a1834911d093372d7eb240721b0981ae760d15505165f02e385/body4ec7dae302a1811f3c44ef0cf7dc1d1244f5bb58373223d6df94e928323aa550，care最终独立事实及root第三编辑通过；root B04C实际渲染／打印验收与public同步完成，元数据接收integrated，正文不变，完整SHA由root最新记录绑定。D01—D52证据、PDF／HTML及工具原件全部保存；当前等具体事实反馈，不改正文。
+- separation-safety完整首稿已落盘，尚未完成作者全文自审或交审冻结。已实读FJC现行离婚／PPO程序、SYC2026页面、MSF安全计划及SPF70999；抚养、跨境儿童、居留、法律援助及程序细节已读，下一步全文自审、补实际证据矩阵并冻结交care。工具sep1—31已持久化.cache/research/b04-separation/author-tool-1-11.json及author-tool-12-31.json；MSF报告页普通直连成功HTML已存，SSO WC1961 web失败且普通／唯一8888均403已止损。首稿written/draft:true/核验空，不冒称审核完成。
+- root新增顺序：MDW交care后，先独立事实审daily的content/book/people/learning/higher-education.md，再继续separation-safety。待审作者锁26,083B/full147715ad9b9ec1b68dba75b540bc61d08ece3287811c65b5489b867132bb971f／bodyaf67b4446a616853829e8bbe7f95dad2ed36c58e2ab26aca38a967016529508e；已全文读取并独立回源全部采用范围；唯一HESL毕业后一年内还款已限定NUS并补近邻引，独立逆向差分严格回初冻；最终26,251B/full4bfeffcbf39bf75639137dd192f198da2f2cc5524719bddd3deb9fa9e62b842f/body37c662a2e83b67d7578f6d1cb9ec64751b07e0b6f77ef79097fc256dd0a6ec3c，已在ops/reviews/b04-higher-education-facts.md签通过并交root第三编辑。依据ops/evidence/b04-education.md E01/02、E06—33、E36—39及.cache/research/b04-education。重点2026HESL与旧贷、ITE国际学历IS排除、SP下一DAE窗、费表口径、NUS规则和校内申诉范围；TG完整另篇不混同。
+- 银行与已完成住房事实／第三编辑报告交root接收，不动正文。purchase-costs唯一“教学假设→教学虚构”限定复核已在b03c-purchase-costs-facts签新fullafa5e9e4ea33639d9cc7fa71333f37a3c6a3131e30ab8bf71ca1a4e79907e2a4／body7eea21348ebcd9e704f784048b60d4566f9ab108c223ae10a42d9be1d613a60c；buying-private未变报告不重审。
+
+family地图／证据本人独占；b04-family-facts由care独占。root已经取入上一批family稳定地图／证据，允许本次继续追加MDW矩阵；Git index与工作树不同是正常本批推进，不能回滚／stage替root操作。root工程曾在MDW在写稿检到7处加粗，作者当次已修，真实门禁记录由root保存。
+
+## 限制、缓存及下一步
+
+MDW关键未核：ONE／Entre／DP／STP／其他WP／访客初次雇主资格未逐类有明确原文，正文要求实际准证向MOM核，绝不从相邻类型推定；特别计划网页与2026-06-15表的亲属列举冲突显式说明；来源国逐国出境／合同金额不统一编造。已采用2026-10-01 EALC与2026-03 HSS变更。所有来源／适用／时期／未知见b04-family D01—52。
+
+.cache/research/b04-mdw内tool-results.json、tool-results-supplement.json含mdw1—22工具原样（成功原文／搜索／失败要分辨）；application.pdf 18页文本有矢量丢字，实际目视第1/3/7页；ealc-20261001.pdf 3页全部目视；safety-agreement第4页AnnexA目视；employer-pass-invalid.html实际核rowspan=2。缓存及二进制已忽略。SSO规则URL一次Internal Error未重试，现行MOM详细页已覆盖必要退款与费用规则；旧错误overseas-leave不重探，正确overseas-leave-for-fdw已读。
+
+高教本轮独审原件缓存.cache/research/b04-higher-facts：reviewer-tool-1-3.json／reviewer-tool-4-10.json含实际新web原文与Reg10失败；MOE原HTML独立静态解析比对、SLSG43公开FAQ独立提取全文读、ITE两页原PDF自行提取并目视第一页。Reg10本轮web Internal Error即止损，实际独立读同日官方工具L66—414；Accessibility按同日成功工具L175—268实际读，未重探已知失败。三费表／全部贷款／招生身份／校园支持申诉已核，最终事实已通过见报告。
+
+SRS已获daily最终独立事实通过，本人第三编辑完整通读及静态检查通过，报告ops/reviews/b05-srs-editorial.md，23,087B/fullbf9b066e02b3b1847717dfe53aabd9c37155fd83a37e7ddb518512540487b80a/body0e1044105ab9d7dd48c8383ac3c8680d2c8ad04c9f9541c7e27f33f2157f0190。未改作者正文，交root工程验收。当前没有本代理活的exec后台进程、下载或浏览器会话。下一步family separation-safety完整稿全文自审、证据矩阵、静态与最终SHA后交care独立事实。SRS及高教已由root完成B04C接收／实际验收，正文冻结。
+
+---
+
+以下是历史暂停交接，文件状态和任务已被上方取代：
+
 # identity 暂停交接
 
 保存时间：2026-10-13，Asia/Singapore。用户明确暂停目标以更换订阅号；本次只保存现场，没有继续研究、网络请求、正文写作、构建或提交。恢复工作须等用户明确恢复。

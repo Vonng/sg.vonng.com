@@ -1,104 +1,95 @@
-# daily_history 暂停交接
+# daily_history 当前交接
 
-日期：2026-10-13（Asia/Singapore）。用户明确要求暂停目标准备更换订阅号；收到 root 暂停指令后已停止研究、正文写作与网络访问，只保存本文件和已有工具原文缓存。**不要自动续工，等用户恢复目标。** 本执行者没有运行构建、提交、外部发布或真实代办。
+保存于2026-10-13，Asia/Singapore。本轮最近实查日期18:02 +08，root确认整书goal为active；旧暂停已经解除，旧代理不存在。**全书任务继续，不是等待新用户指令。** 本文件替代旧暂停断点；旧各批审稿历史仍在ops/reviews和相应evidence。
 
-## 职责与约束
+## 权限与已读要求
 
-执行者 `/root/daily_history`。共享工程、导航、总账由 root 持有；他人正文只读，问题发原作者并抄 root；本执行者只改分派正文/证据/地图/审稿记录。PROMPT.md 已在前序完整读过，AGENTS.md 已读；恢复先按 AGENTS 读 BOOKMAP/TASKS/CHECKPOINT、实查文件与日期。加拿大只读，不启动 Claude。written/draft:true，核验字段空；必须异人事实审、第三编辑、root 工程接收后才能集成。
+本轮先完整读PROMPT、AGENTS、BOOKMAP→TASKS→CHECKPOINT及旧handoff，并核Git实际文件。执行者不动共享总账、配置、模板、导航，不运行共享构建，不stage/commit。root负责第三编辑、工程、public同步与提交。本轮未启动自有后台任务或服务器，未操作真实学校／医疗／贷款账户或外部联系。
 
-来源必须详细原文实读，不能用摘要补缺。已失败 URL 没有新入口/新版本/外部变化不重复探测；必要时最多一次正常 8888 代理，不关 TLS、不绕挑战。缓存都在已忽略的 `.cache`，不得提交原件、截图或下载依赖。
+本人独占住房尚余 buying-hdb／buying-ec，教育 school/admission／learning／school-life 和 learning/higher-education／tuition-grant／adult-learning，ops/maps和evidence的b04-education。本轮root明确将admission从care转给本人，care已确认当前没有编辑；旧地图只读分派已更正。身份制度不可由相邻政策推定。作者written/draft:true/核验空→identity异人事实→root第三编辑工程，完整稿不积压。
 
-## 已完成、冻结的本执行者工作
+## 已交主控／继续冻结
 
-- B01 自写公共交通、港口至独立历史、多语生活；B02 自写 renting/emergencies；B03A 地理三稿均已审且由 root 集成，禁止本轮顺手改动。
-- 本执行者完成 B01 care/CPF、B02 birth/admission、B03A household 四篇事实审；报告见现有 `ops/reviews`。B02 admission 仍部分通过/留稿，有 MOE 核心未闭，不得提升。
-- B03B 自写历史文化四稿，identity 已完成独立事实审，报告 `ops/reviews/b03b-history-culture-facts.md`；本轮 root 已另落第三编辑报告 `ops/reviews/b03b-editorial.md`（只看到存在，未读其结论）。四稿保持冻结，不改。
-- root accounts 独立事实审已完成通过：`ops/reviews/b03c-accounts-facts.md`。A01/A02/A03/E01 均由 root 修复后复核；完整 SHA `279676ca4b7d24a85c1fac5a958e37731ce907ff78a3400903fb9f9227344a15`，统一正文 `b53f5c15d53a9e55240407d4b3c7f73aa2cdbe96df7a5b086cebda7191305732`。identity 已另有编辑报告，主控负责后续。
-- root telecom 独立事实审已完成通过：`ops/reviews/b03c-telecom-facts.md`，已通知 root。13 组细源全部核完、全篇读完，无正文修订。完整 SHA `58210354e20ff72889ea53ccef088ddca9675cc9fff4fc29ba33eff0026cf8fe`，统一正文 `42543e4f45b1d209900195df870d946329160cf794435f3c01fa36c4b28ab80a`。第三编辑文件亦已存在，但本执行者未读其结论。
+- purchase-costs：root第三编辑要求仅“教学假设”改“教学虚构”，本人精确只改该标签；identity逆差分严格恢复原通过SHA并更新正式事实报告。最终作者28,103B，full `afa5e9e4ea33639d9cc7fa71333f37a3c6a3131e30ab8bf71ca1a4e79907e2a4`，body `7eea21348ebcd9e704f784048b60d4566f9ab108c223ae10a42d9be1d613a60c`。root已接收并实际构建／浏览器／打印；当前元数据快照28,169B/full `d30b3be93e4f04dafc145bf9b6913357f465c5a2e9b33e96da6f50908db78e94`，body不变。
+- buying-private：最终作者21,137B/full `dfeef8872a550c16ae5e13b640db327db3bc1d7ae148a5309042063eb3b79982`，body `07eaf4b852ee114b1bc9d0cb16c8adb2d246fb1bcab54ecc726c4ebee8a9e751`。identity最终事实已过；root已编辑工程接收，当前元数据快照21,203B/full `3892d3946af0b810cbcf9cec04a17e56d61abe2957148536eeb0b96b8105c1e4`，body不变。
+- root要求两住房专题地图标integrated，本人已同步 `ops/maps/b03c-housing.md` 和 `ops/evidence/b03c-housing.md`，稳定快照已告root。final gate／public同步／本地提交由root执行，不能冒称本人做了这些。
+- airport、banking 既有正式事实报告root复用，本轮没有重审。banking最后日期修订原报告已签；已接收冻结。更早tenancy／neighbours、交通、语言、world、privacy-fraud等报告均已有，不按旧handoff重新开始。
 
-## B03B 自写历史文化冻结版本
+## 医疗记录独立事实审已完成
 
-证据/地图 `ops/evidence/b03b-history-culture.md`、`ops/maps/b03b-history-culture.md`。完整 SHA：
+care稿 `content/book/people/healthcare/medical-records.md`：24,344B，full `7088f1d1b988e7b4a9df03427f6f911d98afdaa259bd8d5424e7e54f9aa8c6c7`／body `c38c9b0f8132571bc5506c992c718553e16b6ee45351bc986481b8a18f6d71c7`。正式通过报告 `ops/reviews/b04-medical-records-facts.md` 已写并交care/root。
 
-| 正文 | SHA256 |
-| --- | --- |
-| `content/book/foundations/history/housing-industrialisation.md` | `d7ae7cdca09ec9e450085266142b846f104ac290996614a360b0e5375b28d73c` |
-| `content/book/foundations/history/memory.md` | `0079509c8a4633168d3ae6049289860a195f8e3abb392599732c271e526e1fdd` |
-| `content/book/foundations/culture/everyday-etiquette.md` | `05362e9943c4f09f1389067a826f78a7e1548f932deb6073e3f4c26ad5c6d074` |
-| `content/book/foundations/culture/hawker-social-life.md` | `7bad8754691a97ac8a39aa9f268375ce80ef3035560d4bf8b097caae3ef75fac` |
+本人全文首稿→实际独立读RMC01—30原工具和六PDF→提出14/60全职与兼职小时、SMC彩色扫描两反馈→care修订并补RMC31→本人最终全文再读并签SHA。31源范围、六PDF SHA及真实目视边界均在报告。目视只有NEHR物理1页、NUHS A物理1／3页；不冒称全PDF。新MOM兼职详源实际web读，忽略原件 `daily-medical-parttime-original.json`；care另独立读同页。没有剩余事实阻断。下一care成熟稿 medicines 正研究，会交本人独审；收到后按完整节点接，不阻塞教育写作。
 
-identity 审 memory 的 M6 Malay Regiment 展区时，web 和一次 8888 均 403；本执行者此前成功工具提取原件已经存到 `.cache/b03b-malay-regiment-web-result.txt` 并交 identity。它是完整工具响应的原样缓存，**不是原始 HTML**。identity 已独立逐行阅读 L10，确认展区装备、专门设计制服、战前照片与 Adnan Saidi 展示断言均获支持，M01 关闭，四稿通过。不可再重试这个失败 URL。
+## 首篇高教完整稿已交审
 
-## 当前未完成：care_finance 世界与不平等四篇事实审
+`content/book/people/learning/higher-education.md`：首冻26,083B已经完成异人事实反馈修订。唯一改动是 HESL 毕业后一年还款上限限定 NUS 并加 E13 引用，不推全校；当前26,251B/full `4bfeffcbf39bf75639137dd192f198da2f2cc5524719bddd3deb9fa9e62b842f`／body `37c662a2e83b67d7578f6d1cb9ec64751b07e0b6f77ef79097fc256dd0a6ec3c`。identity正式通过报告 `ops/reviews/b04-higher-education-facts.md`，逆差分严格回首冻；root实际完整读158行并第三编辑通过，待B04C工程接收。**正文继续冻结，不自签事实，不提前标integrated。** 作者机器旧首冻结果 `.cache/research/b04-education/higher-education-author-check.json` 是历史，当前外引新增1处。
 
-报告预定 `ops/reviews/b03b-world-inequality-facts.md`，**尚未创建、未签发通过**。作者证据/地图已读完：`ops/evidence/b03b-world-inequality.md`、`ops/maps/b03b-world-inequality.md`。四篇正文全部读完且逐项回源已进行到末尾，暂停前最后一次本地重算与作者完整/正文 SHA 一致。未改他人正文，未发送事实修订；目前没有发现阻断事实错误，但不能将这个过程状态当作正式通过。
+覆盖院校与学历选路→SP／ITE／NUS申请→2026三费表示例→TG概述／助学金／PSEA／CPF／HESL新旧→担保申请签约和偿还→STP／DP／LTVP／访客及MOM实习工作→科研学术、考试受阻、无障碍心理、骚扰求助／正式报告、校纪申诉与离校。NUS／SP／ITE实例不推全岛；TG完整合约、成人培训与基础教育仍独立未闭。
 
-| 正文 | 完整 SHA256 | 统一正文 SHA256 |
-| --- | --- | --- |
-| `content/book/foundations/world/regional-ties.md` | `066aea5f64ceb6a43518dca6f1b6d6f032f70e84efd7b0f81d57883f65b1f272` | `bfd062163cb527a14abae83b6ca1c77ce437463c672da88b9dd7fd2e8d7388a6` |
-| `content/book/foundations/world/trade-migration.md` | `cf227a5d2765e85ce5288bbebffc56adcc18a18d559de51dde17b50073ccf3f8` | `0b3aeee8e539091b8a2079543680ce051dbe226f413f4e72f44fb072650e218a` |
-| `content/book/foundations/world/perspectives.md` | `09ae630340d3ff87bffa3bc9deee266c9f3d4e186011193b31fef41dc5f0fa52` | `5a37f748295366d95d0cd8dac666d0236bdfacf612bda687f274a0c7075a811d` |
-| `content/book/foundations/culture/inequality.md` | `4eb684781f7158b75915a844c9aec86ac7805e9eed065db83733ce77e9a8900b` | `efbcf7976ca27fbe311902440c39f8c9a93564b6427dfafc9eaa5bfe4703aed7` |
+证据 `ops/evidence/b04-education.md` 与地图已更新：E01/02、E06—33相应原文及新E36—39。来源缓存 `.cache/research/b04-education/`：
 
-统一正文算法：UTF-8 文本 `split("---", 2)[2]` 重新编码求 SHA256，保留闭分隔符后的换行。
+- 原工具01—20为txt，新21／22／23为JSON编码的真实web返回字符串，先json.loads再读；新24保存本轮Accessibility重开timeout（该页已有同日真实完整成功缓存，正文基于实际复读）。不重复失败探测。
+- MOE普通直连原HTML成功，无挑战执行／接口调用。公开返回RSC record静态解析仍同一已返回原件。学费SC理工3100在同原件record146，不能拿未解引用的`$146`当内容。
+- StudentLoanSG公开FAQ43项已完整实际读，HESL基础SC90／PR diploma75 degree65／IS poly55 AU45；ITE diploma与arts仅SC/PR，兼职AU本科仅SC；收入及living／OSP范围按制度。先校内aid后means loan，学生Singpass和外国担保无Singpass不同；approved仍双方签；离校即时全还与正常毕业最迟一年还款分开。
+- E10 ITE实体PDF147278B，SHA `0f344b49a2bdd15506721e3e50c944ab7e72899597d16f67861eb150f415bccd`，两页文字已读；本轮再目视物理1页。护理不同保险、按term身份通知时点、国际费表不推外国学历IS可录取。
+- E11 NUS本科费表工具真PDF文字物理2／14已读；实体普通／唯一8888皆212B HTML，停止，没有实体目视。E22当前Code为2025-12-15版完整工具文字已读，实体212BHTML停止；不冒称看图。E26 Reg10采用物理2—11部分L66—414，不称全11页／全部性不当行为程序。
+- E36 SP资格表；E37 DAE真实2026-10-05更新，国际学历／返新SC／居家教育下一窗2026-10-19—30，其他学历窗口不同；E39 ITE2026 Other Qualifications明确外国／私立学历IS不录取fulltime，既有Jan/Apr窗口已过，下一年必须新公告。
+- E27 Accessibility本轮最后一次web重开timeout，原成功同日缓存 `education-source-17-0.txt`实际175—268支持；没有再试同URL。E28 UCS现用ucs邮箱／Lifeline65167777，旧SOS1800不采用；NCU不是调查裁决，电话迁移／旧notice矛盾不用来许诺24小时接听。
 
-### 已实际读到的项目
+## 下一动作：TG完整义务链，然后基础教育／成人
 
-下列编号与作者证据对应，真实 URL 均在证据和保存的工具响应头中；证据只用于定位，以下确为本执行者另读来源。为更换账号保存了本轮现有工具响应：`.cache/daily-history-handoff/world-*.txt`，共 29 份。它们是 web 工具返回的原样提取（部分长报告只含指定片段），不是完整原始 HTML/PDF，不能宣称因此已读整份长报告。成功读取的来源可以在确有需要时重新正常访问；失败原件限制另列。
+先从已成功MOE根页原HTML里的真实href定位新主管子页，逐项核 overview／application／employment-and-pass／deferment／liquidated-damages，完整读条件、身份、担保、各deadline、TG&S无账号／境外材料、就业更新、升学／NS／家庭变化延期、违约偿付与完成／受阻入口。不能只写三年bond摘要交完TG。根页 `.cache/research/b04-education/moe-tuition-grant-root-direct.html`／`.txt` 已实读，仅根页的overview段已闭；`-returned-content-text.txt`解析只取到导航banner，须用真正正文txt。根页原HTML97530B、SHA `877647f784e79be8febcc7ef2d2c251454e208ae9a67aaad647d5bc15d6ff2d8`。
 
-- **R01** 新马 2025-12-04 联合声明，实读 L23–86 全部实质正文：JS-SEZ ratification、PayNow–DuitNow 实施、CIQ/RTS 旧目标、水质水量、1962 协议、跨境电力及未闭海界，稿件将合作阶段分开。
-- **R02** LTA 2026-10-02 联合公告，实读 L5–11 四段：2027-02 载客目标，2026-12-31 最终测试预期，独立安全认证及最终监管批准。未把目标作已开通。
-- **R03/R04** 新印 2026-07-06 新加坡 PMO 讲话及印尼内阁秘书处总统声明实读。BBK、能源 MOU、教育、防务、粮食供应链及海峡风险有支持。印尼声明主要说马六甲海峡；新加坡声明明确马六甲和新加坡海峡，正文近邻两源能支持整体叙述。
-- **R05** 驻东盟使团现行页实读 L19–26：1967、11 成员包括东帝汶。另主动补读 MFA ASEAN 总页 `https://www.mfa.gov.sg/about-mfa/foreign-policy/international-organisations/association-of-southeast-asian-nations-asean/` L34 核 Singapore 为 1967 创始成员；该总页其他“近期”段实际仍旧，不用于当期成员/RCEP判断。缓存 `world-R05-extra.txt`。
-- **R06** MFA 2026-02-27 外长讲话实读第 1–47 段相关全文（工具 L31–120，分批读，未读其余政务官全文），尤其规则、小国、美国投资技术防务、中国经济/多元身份、独立立场、东盟/邻国。与 regional/trade/perspectives 使用范围相符。
-- **T01** MPA 2026-01-13 公告实读港口段至行业段：2025 年 44.66m TEU＝4,466 万标准箱，不是 GT/货值。
-- **T02** SingStat merchandise 数据解释 L106–181：transhipment 排除、domestic exports、re-export 未转化、包装分批不算转化，及实际价格调整定义。
-- **T03** MAS 5 页 PDF 可读文本：年末 2025、约 S$6.7 trillion、76% 来源境外、88% 投向境外；最后 About the Report 方法段亦读。未看图，88% 的 outside Singapore 标签在解析文字中明确，主文字也说 invested globally。未重新下载作者已失败的原件。
-- **T04** METI CECA L37–106 实读：工作准证/入境条件仍适用，ICT 广告例外非免准证，9.1.2 无公民/PR承诺；正文未扩大 DP 规则。
-- **T05** EU DTA 2026-02-02 公告实读正文：实际生效 2026-02-01，电子签名合同发票/消费者保护。
-- **T06** NPTD population 完整采用段/脚注已读：2026-06 总人口 6.21m、SC3.68m、PR0.55m、NR1.98m；通常居住/海外连续12月排除；正文与旧图片 alt6.11m 冲突采用新正文，不冒称图核。
-- **P01** ISEAS 原 PDF 方法印刷页2–3实读，国籍页7另由本地真实PDF重新 pdftotext 读；2,008/SG246、在线定向混合抽样、筛选、时间均核。印刷48–49的 Q30/Q31 已重新读原文并**实际看作者保存的原页 PNG**：1.6/19.5/35.8/43.1，66.3/33.7；主体ASEAN、强制二选一前提明确。
-- **P02/P03** Pew 发布页实读标题、时间、研究介绍及所用比较角度；topline 第6页 Q3b 另重新 pdftotext，并**实际看 PNG**，SG2026 73/27，15+58=73。没有把跨国42,151作SG样本或作与ISEAS跨年差值。
-- **P04** Pew报告方法页已读相关国际方法段，另正常 web 直接读公开API `https://www.pewresearch.org/wp-json/prc-api/v2/interactive?slug=international-methodology-database` 的SG2026完整行，另读取原JSON缓存核一致：Feb9–Apr1、1003、电话手机RDD、18+SC/PR、性别年龄教育地区选择概率权重。未新打开交互前端作实际筛选，但正文所用方法来自公开原始数据。
-- **I01** SingStat Household Income Our Data Explained 主要解释/词汇 L119–242实读：市场/就业收入、雇主CPF及利息、转移、家庭参考人、median/Gini/decile变动等。
-- **I02** MOF40页原报告文本实读定义、财富13–14、流动18–25所用段、Annex A与B方法。父亲收入理由脚注4/5实际已读；包含较早代母亲婚育退出就业带来的变异。未看图、不用基尼/收入/跨国排名数字。未新打开发布入口，不影响已读原报告主体；不要称全文40页逐页审。
-- **I03/I04** MIS FAQ 实读参与者/定价/研究/家庭/健康/住房/补贴等方法段，2023年归档实质全文、MOF/MOM/MSF2023回应相应实质段。健康基本案例、研究非随机民调、两方对补贴/样本争论有据；未把2023金额当2026标准。未读39页报告全文，不需要为稿件当前范围硬补。
-- **I05** IPS WP64原PDF解析实读摘要相关段、方法印刷12–18、3.7.1/3.7.2文字：2024、4000、18+SC/PR、住户及Malay/Indian booster、加权；嘲弄/负面评价/笑话/排斥的群体差异有连续原文支持。没有用图形比例，未看图，未读141页全文。保存 `world-I05-lived.txt` 中相关后续文字可在报告定稿时再对照。
-- **I06** TAFEP Contact Us 独立读 workplace discrimination 段、表单所需截图/日期/公司/人员、可能联系企业及顾虑、电话68380969办公时间。不承诺绝对保密/赔偿。
-- **I07** SupportGoWhere web 只得 JS 壳；随后本人以 `.cache/browser/node_modules/playwright` + 本机 Chrome 正常加载，HTTP200，实际 body 看见 Financial support and benefits、caregiving等分类及ComCare/SCFA，同时“No internet connection”提示；正文仅作分类入口，无未核资格或金额。浏览器已经 finally close，命令已退出0。
+根页 href 已用标准库 HTMLParser 提取，五个详情及其一次代理均失败止损（见下方新断点），不能重复此旧步骤。系统无bs4，不需要安装。无需再问root是否继续。
 
-### 尚未完成的事项
+之后 school/learning：PSLE／Full SBB与2027SEC／2028招生分期、MTL评分／豁免、课程及SC/PR/IS费、SEN/SPED与申请支持；school-life：家校、缺课转学、霸凌保护、青少年转衔和NS；adult-learning：SC/PR／外籍权益、SkillsFuture／补贴津贴、培训质量／私校合同费用保护申诉、海外与职业认可。均完整行动链逐篇成熟就交异人审，不为减少难度删高影响分支。已有 `moe-fullsbb-microsite-direct.*` 真原件需实际读；E34 MK及E35KCare真原文已闭部分费用，但不因此关闭学习与特教。
 
-23 组已回源到正文关键采用范围，没有留待阅读的核心断言组；**正式汇总报告、最后全篇可用性裁断及交付未做**。恢复后先比对 SHA 是否仍一致，读本交接与缓存，检查引用范围/群体/年份是否仍有遗漏，再撰写 `ops/reviews/b03b-world-inequality-facts.md`。不需要为了报告重新扩大到长报告所有图表，未读部分如上如实写明。若发现修订则发 care_finance 并抄 root，作者修改后再复核最终版本；不得自己修改正文或提升状态。
+## 不重探的真实缺口
 
-### 世界四篇关键缓存与失败边界
+- HDB／EC：`ops/evidence/b03c-housing.md`最后访问节已有详细失败。新旧sitecore家庭／seniors／singles及HFE Ask等403或JS导航；已各正常直连和规定一次8888。MND两真新200仅导航。核心家庭／单身／非公民配偶、PR年限／既有产权，以及EC旧5/10和新批次10/15资格与开放条件未闭；已有HFE／BTO／resale流程不能代替资格。无新URL／版本／外部变化不再请求。保持researching，不建不完整正文。
+- admission：旧MOE P1、international-students、AEIS、S-AEIS、eligibility、user-guide、20260910新P1公告及旧MTL learning-in-school失败已止损；年龄／CEQ各年级、当期日期、2027报名入2028框架／抽签核心仍缺。真正新主管URL／版本才继续，不能缩成“学校类型简介”宣布入学完成。`ops/evidence/b02-family-school.md`、`school-access-followup.md`和本教育证据保留。
+- 医疗SSO／PDPC／旧OPG等失败不为本轮通过篇重探；其他医疗专题若有真正新入口，由作者记录。
 
-- `.cache/research/b03b/iseas.pdf` 7,196,961 bytes，SHA `0330240836c4cffdf8c113ac7c553ade1e8b1004f22a237a0f74d56c98d13643`；原页 PNG `iseas-page-50.png`、`iseas-page-51.png`，已实际查看。
-- `.cache/research/b03b/pew-topline.pdf` 324,532 bytes，SHA `53cc976924d60f4de7e882e11deacd3db0f9584fecc719cfa984ede3f994ad27`；`pew-page-06.png` 已实际查看。
-- `.cache/research/b03b/pew-method-data.json` 452,420 bytes，SHA `82a4ae22c3d617e2496cbd2caa9434098724257f2e518f64cd49e14f569d4cd9`。本轮也成功读公开API，同缓存SG行一致。
-- MAS/MOF/IPS长报告 web 文本可读，本执行者未重试作者已失败的下载。作者已止损：MAS下载HTML，MOF普通/8888均403，IPS普通/8888为212bytes JS壳；不能再探测。
-- SingStat2025家庭收入大PDF、2026贸易图PDF、ASEAN Charter、MSF directories等作者已失败并止损，原路径见 evidence。当前正文不采用受阻数字/资格；本轮均未重试。
+所有源码／轻原创／轻量证据可入Git；下载原件、JSON缓存、PDF、图像、机器结果都在ignore的.cache，本人未暂存。root并行改共享文件正常，不清理或回滚。
 
-## 下一审稿：root privacy-fraud，尚未开始
 
-在世界四稿正式事实审完成后，**先审此篇，再写住房**。路径 `content/book/life/digital/privacy-fraud.md`，报告归本执行者 `ops/reviews/b03c-privacy-fraud-facts.md`。只收到 root 分派，**尚未读正文、证据或来源**。
+## 追加当前断点：TG补源保存，接medicines事实
 
-root交付完整SHA `21287aa70affe1fb4fe2859b0e58f8959b8cb605599e29253124ba82f827ed49`；统一正文 `388356e812051a3020400a5945b5230b942c4188765f72ccfb350a191af260ea`，本执行者尚未本地实查。
+TG根HTML真href已用标准库HTMLParser提取（系统没有bs4）；五个详情已各web挑战、普通202空、唯一8888仍202空，止损，不执行旧“再查五页”动作。教育证据已追加E40—44及失败原件。两成功实体PDF与指定图片：tg-application-guide.pdf 2,765,043B/SHA97274a68…，26页文字全读、物理4/26目视；tg-surety-criteria.pdf406,869B/SHA65511112…，2页文字全读、物理1目视。26/27/28工具JSON保留真实返回，搜索块只定位。
 
-证据 `ops/evidence/b03c-digital.md` 末尾15组ScamShield/CSA/NLB/MDDI实际原文。重点999/1799/银行分工、恶意app顺序、NRIC2026年底/2027执法、公私部门资料保留范围、NLB旧指南不能作为当期技术保证。**严格停止所有已记录 PDPC/SSO 失败请求**。PDPA查阅、更正、撤回同意、DPO投诉已另拆 `privacy-data` planned，属全书真实缺口，不得把它当privacy-fraud已完成范围。
+下一TG真正新来源：`https://go.gov.sg/imptnotefortgapplication`（26页指南真实嵌入链接）；RP当前页MOE coverletters links2/4/5；根FAQ queryweb挑战但尚未直接／代理。就业计入／更新、延期及担保保证金、赔偿和解除核心仍未闭，不写窄版替完整页。NTU实际正文2026申请／签约日期与搜索2027XX占位不同，按实际正文，不用摘要。
 
-## 下一作者批次：B03C 住房四篇，尚未开始
+**medicines 完整事实已通过**：最终20,493B/full `bba7ee61803286553fc2190761bf14518076ed102d74c5ead556750ef4a4b495`／body `42367a166bcef5f283486bd6fd68858e7589a49893f10c782b8092a9f38463e3`。本人完整读首稿和MD01—26实际主管缓存，发现电子药房FAQ Q7应物理3页而不是4页，care精确修并逆差分回旧冻；报告 `ops/reviews/b04-medicines-facts.md` 正式交root，root已全文读116行第三编辑通过，待B04C工程。本人新正常取得电子药房PDF199107B/SHA8490b6fc…并真实目视物理3页，`daily-fact-epharmacy.*`，不是重试失败的HSA携药指南。后者仍仅6页工具文字、未目视、普通+唯一8888已403不重探。三HTML SHA核对一致；报告清楚同日缓存和新获取边界。正文冻结。
 
-计划独占 `content/book/life/housing/{tenancy,buying-hdb,buying-private,neighbours}.md`，及 `ops/maps/b03c-housing.md` / `ops/evidence/b03c-housing.md`。**未创建地图、证据或正文，未启动本批研究。** 必须先完成世界四稿与privacy-fraud事实审。
+root通知B04B两篇已验收本地提交4625e25，累计62主题；后续B04C将组合高教、药品、MDW及SRS，主控工程尚未完成。**SRS事实和第三编辑均正式通过**：作者仅补医疗表独立精神障碍分支，最终23,087B/full `bf9b066e02b3b1847717dfe53aabd9c37155fd83a37e7ddb518512540487b80a`／body `0e1044105ab9d7dd48c8383ac3c8680d2c8ad04c9f9541c7e27f33f2157f0190`。本人新段全文复读并逆差分严格恢复初冻；`ops/reviews/b05-srs-facts.md` 已交identity/root，identity `ops/reviews/b05-srs-editorial.md` 当前通过，未改正文。S01—13实际同日缓存采用范围和四PDF SHA均在报告；目视医疗表1页、MOF2017手册4页、UOB费表2页，非全部PDF；两DOC未读不冒称，未另联网。正文冻结。
 
-覆盖PROMPT住房余项：租赁维修退押金与完成/受阻；HDB身份家庭/房型、HFE、贷款、CPF、购税分开；EC、有地、公寓差异；MCST与邻里。高影响购房可合理拆页但先告路径边界。恢复研究前回读 PROMPT住房种子、BOOKMAP及`ops/evidence/housing-access.md`旧失败清单，只找新的主管详源/原件，不凭经验推断资格，不重复HDB旧受阻路径。既有renting.md已集成冻结，不改。
+## 18:02之后TG当前研究断点
 
-## 其他访问缓存和后台状态
+旧下方“47932进行”已作废；47932、13493下载会话均已完成，没有尚待poll进程。源29—32新原工具JSON在教育缓存，尚待追加E45起证据条目。
 
-- telecom GOMO原HTML `.cache/gomo-terminate.html`，96,343 bytes，SHA `27747adefe88f396ffa0dd8fa9bb13f4d928b43fa25917d1076863f906be2596`，本轮独立解析阅读；不是新抓取。IMDA ADR/后付费公告、NetLink、StarHub已由root一次代理止损，不可重复。
-- telecom SMC PDF本轮web文本成功，web截图只返引用；普通下载403后一次正常8888成功。`.cache/daily-telecom-smc-rules.pdf` 116,296 bytes/13页，SHA `22e1284f931a1c698fdac98ad056ee2d0aec633eac5c17caccce9f8ce4dfc837`；`.cache/daily-telecom-smc-fees.png`第13页实际看图，线上/当面均S$10，裁定225/375。SPF2025诈骗PDF文字成功、截图403后停止；没有伪称图像审。
-- accounts PDF缓存`.cache/singpass-registration.pdf`和报告记录仍在；2026-06-30人工热线变化已核，不须重新扩审。
-- 本执行者**无仍在运行的自有后台任务**。最后Playwright统一exec会话58924已poll获得exit0并关闭浏览器；其余exec均同步结束。未启动本地服务器；root的1328服务器归root管理，恢复实查，不盲停。
-- 最后现场`git status --short`有root共享总账改动和多作者B03B/B03C未跟踪稿件，这是团队并行成果，不清理、不回滚。未做stage/commit。
+- MOE2026-01-12三coverletters全部文字实际读（SC1／PR2／IS2页）；普通200真实实体各232398／242906／244328B，tg-letter-{sc,pr,is}-2026.*。IS物理2页实际目视，above21 below65；RP专有窗口5/16—30已过。SC同/更高级已完成TG资格、PRIS三年当地实体、IS名额择优；实际材料不等于完整agreement。
+- 新短链imptnotefortgapplication首次普通成功至file.go.gov.sg同名PDF，11页文字全部读，物理8页实际目视，**July2026**版（搜索Sep2025旧不采用）。1440165B/SHA6135233e19c272549320ddb229d4c362cb0d6d1a1683968af5a1fdc409ce72b0，tg-important-note-direct.*。身份／外国住址／English公证／独立个人邮箱、Singpass约2周与STPbiometric同步5工作日、5task100%仍submit、学生surety1surety2电子签等。Q7错误bond验证、Q8编辑既有task不删、签后download，完整行动已闭申请。
+- 旧FAQ根query已首次普通及唯一8888均202空，`tg-faq-root-{direct,proxy-once}.*`，停止；不再执行旧handoff“尚未直连”。
+- 真新MOE briefing FAQ `https://file.go.gov.sg/tg-application-faq.pdf` 7页工具全文L0—245及实体layout文字全部读，326574B/SHA03dfa28300756212c18643bad166a486c83d4685b03f9bffffab55aeaa3969c7。tg-briefing-faq.*。注意A11广义不允许担保其他TG，A20父母可担保兄弟姊妹，较E41／coverletter“其他已失约受资助者”更严格；不能隐去冲突。B6仅毕业后全职，B5一般求职约半年不是正式宽限，B9升学批准至少开课前8周取得。B8SingaporeNS不用延期，D1foreignNS要先批。D6LDgrant+10%年复利+逾期另算，已有新官方估算入口grantsense尚未读。
+- MOE main recipient guide短链 `https://go.gov.sg/tgr-userguide` 首次普通成功至公开PDF `https://tgs.moe.gov.sg/protected/nr/dkSdF/TGR_User_Guide_Public_V0.6.pdf`；7179453B/SHAc25e7fe8901caf9c3eed1a930a5976ab6464e9b6c86f56bb2bd2eb5d240fc5a6，58页。**18:02后物理1—58全部文字已实际读完**。此前1—38，当前39—58逐页补读；不声称全部图像已目视。contact变更与换surety分程序；每6个月或就业变更即时更新；buyout经通知金额／截止／上传支付证据／两次确认；defer先申请→处理通知BG→填BG→批准结果→期满更新/回新加坡住址→取得并开始当地就业才请求返BG，须review/submit。新多项图片正在render；以实际view_image记录范围为准。
+- 4页MOE就业指南 `https://go.gov.sg/tg-userguide-employmentupdates` 首次普通成功至file.go.gov.sg同名PDF；584281B/SHAda84c434ddc51e76da1ac04333dcee839b693dd57b07b4da0a6386c6e647329c，tg-employment-guide.*，全工具L0—17和实体文字实际读。图片doc字段下一目视，不用文字抽取空白推无材料。
+- TGportal public `/res/p/tuition-grant/`及`/res/p/tg/`全部23／10行实读：新首次Singpass、既有email／reset、原records逐步迁移、资料改Pages→EditMyProfile，忘email官方enquiry。NTU bond management仅采用实际676—683：2026-04-01NTUSE/NTUST转MOEadmin，不拿其六年奖学金bond套TG。
 
-下一明确动作：收到用户恢复后，先实查状态并完成世界四稿事实报告，再独立审privacy-fraud，最后才开启住房四稿；暂停期间不执行这些动作。
+下一：目视FAQ物理5／7及main recipient就业／延期BG截图，读原件真实href所指的新主管就业及延期详情／完整协议；grantsense新官方工具只公开说明，不提交虚构个人资料。核心就业计入、海外派遣／自雇、BG金额时期、LD计算和解除证据仍要补，现有58页只说明系统流程不可冒充全合约条款。若真正新来源耗尽则精确保存缺口并推进school/learning，不缩题交稿。完成E45起证据条目、map稳定快照时通知root。全程不重探旧TG五页、旧admission或HDB/EC失败。
+
+## 最新断点：B04C已接收，教育证据快照已完整落盘
+
+root已确认B04C高教／药品／MDW／SRS完成构建和实际浏览器／打印，66主题、286产物一致。higher-education当前integrated/draft:false，26391B/full09d27ad74c0c428611d8dd55bd70a775376a30bf54f9dee28fb27b8bade92e7e，原body37c662a2…不变；medicines20634B/fulla400461b…，原body42367a16…不变；SRS23113B/fulla58ceb3b…，原body0e104410…不变。本人的正式事实报告仍绑定各作者冻结正文，元数据变化不冒充正文重审。root正本地提交。
+
+**教育evidence/map已追加E45—62完整本批新资料**，恢复优先读最后新节，旧“核心尚未闭／源29未入证据”的断点为历史。TG通过真正新PDF内链接首次普通取到六个MOE详页，全主体及相应折叠原record已读。新employment FAQ query正常200原HTML1308012B/SHA83b4f60d…包含250公开类别；同一已返回数据静态解出TG六类47问已逐题全文读，原objects+text保存在moe-tg-new-faq-employment-direct-{all-original-categories,tg-questions-resolved}.json及-tg-questions-text.txt，没有接口请求。其他教育类别未读，潜在可补旧入学但不重探旧URL。
+
+当前TG完整写作信息已足以覆盖资格→担保签约→不同身份→就业计入／材料→延期BG→赔偿／身份变更→正式discharge，尚未创建正文（不建空页）。需如实处理原件冲突：E53毕业首次3月、E59Q19/Q24一年；E50每6月、E57同工每年；E55本地NS“do need”与E49B8“不需”相反，不能擅补not；E49升学至少8周前**取得批准**与E54两月处理／E59迟录取即申，不写保证；BG页5日银行3周与defer各页7日2周，不保证时限。可给较早准备动作而不伪称统一法律。surety正文用主管above21/below65，另担保他人限制说明E49A11较广、JuneFAQ Q8及coverletter只指已失约受资助者；父母为在读兄弟姊妹仍可。
+
+47问新闭：LD总grant含GST＋10%每学年末复利；后补TG只余期仍3年；PR次term调层不免3年／SC立即告校次term最高层且释放；NS不抵免；就业正式毕业日期用成绩单而非毕业礼；终了更新后tg-enquiry求discharge并portal存PDF；LOD须整笔电子付款；若居留申请因缺12月更新受阻，提交本人FIN校名过去12月活动，不保证恢复。
+
+新目视：E49物理5/7；E50物理40/48/51/53/55；E51物理3。E50全58页文字读完非全目视。BG原件只给估算LD及本人通知额，未采用论坛20%/100%。grantsense短链正常到官方所指lovable.app公开HTML，未填表／运行估算。个人完整TGA未登录取得，不称逐条读私人协议。MOM／ICA用已实读E32/E33；TG&S菜单提临时LOC／LTVP支持信但公开完整资格未闭，不能推普遍可工作。
+
+**当前先接saving-investing第三编辑**：care最终事实正式通过并root安排，作者最终23192B/full `1bf7ff46edb391422c6e487f82f6f66688bba7d0db4a25aa536b5d6dab581a21`／body `cdf88da7b21302108c2e5d102fb2c495f49d3abf51549aa5dd967c6b6e8b1049`；`ops/reviews/b05-saving-investing-facts.md`已落盘。下一全文读稿及报告，编辑静态检查，不重做已独审事实；问题交root作者修，不代改正文。通过后写独占 `ops/reviews/b05-saving-investing-editorial.md` 交root。随后完成TG作者稿＋自审＋静态＋SHA交identity事实（root协调）。
+
+所有下载会话已完成，无待poll后台进程。本人未构建／提交／登录账户或外部联系。旧TG五详情、旧FAQ根、旧HDB/EC/admission仍无条件不重探；新success原件复读可用但必须说明同日缓存。

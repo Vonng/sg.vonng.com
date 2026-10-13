@@ -8,9 +8,9 @@
 
 | 计划正文 | 要闭合的行动与高影响分支 | 主管原文方向与阶段 |
 | --- | --- | --- |
-| content/book/people/healthcare/medical-records.md | 看病沟通/知情同意、MC及医疗报告的不同用途、HealthHub/NEHR与机构记录取得、本人/儿童/代理/缺乏能力/死亡记录、费用和授权、无Singpass/外国护照、隐私与医疗投诉不同渠道 | daily_history最终独立事实及root完整第三编辑通过；root已完成B04B实际网页/手机/打印采用范围验证，正执行integrated接收与最终gate/public同步。审核正文SHA仍c38c9b0f8132571bc5506c992c718553e16b6ee45351bc986481b8a18f6d71c7；31组来源、六PDF及实际范围见证据，作者不代称亲自构建/目视 |
-| content/book/people/healthcare/medicines.md | 处方/药房/可买药分类、补药与外地处方、药单过敏/用药及安全保存、SG内获取与境外带入带出、受管制药/许可/申报、身份及雇主/学校保险/无数字 | researching：已实际读HSA/HealthHub/SingHealth续配、分类与当前携药；补MOH SDL/MAF及境外处方/药单。完整后才建公开稿；不把所有处方药一律视作免许可 |
-| content/book/people/healthcare/preventive-care.md | 牙科与眼科就诊/急症转介、筛查与疫苗预约、HealthierSG/CHAS/年龄及疾病条件、SC/PR/外国与儿童/孕产、账单项目和结果跟进、公共卫生入口 | MOH/HPB/HealthHub/CHAS/NDCS/SNEC及公立机构当前细页；待研究，不将SC免费给PR或全部外籍 |
+| content/book/people/healthcare/medical-records.md | 看病沟通/知情同意、MC及医疗报告的不同用途、HealthHub/NEHR与机构记录取得、本人/儿童/代理/缺乏能力/死亡记录、费用和授权、无Singpass/外国护照、隐私与医疗投诉不同渠道 | integrated：daily_history最终独立事实及root完整第三编辑通过；root已完成B04B实际网页/手机/打印采用范围验证并接收。17:47实际正文SHA仍c38c9b0f8132571bc5506c992c718553e16b6ee45351bc986481b8a18f6d71c7；31组来源、六PDF及实际范围见证据，作者不代称亲自构建/目视 |
+| content/book/people/healthcare/medicines.md | 处方/药房/可买药分类、补药与外地处方、药单过敏/用药及安全保存、SG内获取与境外带入带出、受管制药/许可/申报、身份及雇主/学校保险/无数字 | integrated：daily_history最终事实、root第三编辑及B04C实际验收/同步完成，正文42367a166…未变；作者冻结20493B/fullbba7ee618…保留在事实报告，接收元数据由root修改。MD01—26及工具原文/3个普通HTML/电子药房PDF物理3页实际目视边界见证据，作者不代称亲自构建 |
+| content/book/people/healthcare/preventive-care.md | 牙科与眼科就诊/急症转介、筛查与疫苗预约、HealthierSG/CHAS/年龄及疾病条件、SC/PR/外国与儿童/孕产、账单项目和结果跟进、公共卫生入口 | 18时段研究中，尚无公开初稿。CDA最新2026-10-12 NCIS/NAIS原PDF成功下载；完整文本实读及两张首图实际目视，HPB/MOH/CHAS/CPF/NDCS/SNEC采用主文已分段读。PSS自2026-09-01合资格60+公民与PR基础三项全补贴，RHZV仍有共付例外，学校外籍转诊条件分开；剩公共卫生正文、个别筛查临床与无数字原件待闭，实读断点见ignored目录和HANDOFF |
 | content/book/people/accessibility/mental-health.md | 文化适应/压力孤独、一般辅导及医疗服务、危机即时/非即时路径、未成年与隐私、语言/听觉需要、SC/PR/foreign费用和资格、无Singpass及服务受阻 | MOH/IMH/NHG、nationalmindline1771/SOS、真实社区机构/学生或雇主渠道；待研究。已集成应急保持互引 |
 | content/book/people/accessibility/disability.md | 身体/感官/认知及隐性障碍、评估和认证、辅具/维修/费用资格、学校/就业/住宅/数字可及性、本人及儿童/照顾者、外国人真实可用服务及排除 | SGEnable/AIC/MSF/MOE/MOM/HDB/IMDA和当前服务机构；待研究，不从交通许可推全部器具或补贴资格 |
 | content/book/people/accessibility/caregiver-support.md | 识别照护需要、医院出院/社工/AIC转介、评估服务培训/喘息、就业收入变化、照顾者本人和受照护人两套身份、现金/器具资助/申请/复核、无数字 | AIC/SGEnable/MSF/MOM与真实培训/照护营运者；待研究。与LTC分开照顾者行动，MDW雇用由family主文承接 |

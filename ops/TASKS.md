@@ -13,10 +13,10 @@
 | B03A 政府/地理/家庭日常/预算 | identity政府3；daily_history地理3；care_finance日常4；root预算1 | integrated | 11篇事实/第三编辑/生产构建与渲染通过；预算由care事实、identity第三编辑 |
 | B03B 社群/历史文化/世界与不平等 | identity社群3；daily_history历史文化4；care_finance世界与不平等4 | integrated | 11篇两轮审核、生产/25路径双视口/搜索/打印通过；版本见accepted和b03bc-acceptance |
 | B03C 身份住房交通数字社区余项 | root数字与社区；identity证件；daily住房；care交通 | writing / reviewing | 数字3、PR/文书2、社区3、出租车/主动出行2、租约、居留/准证管理、邻里与驾驶均已集成；机场、私宅与购房成本已集成；HDB/EC核心原文仍有明确来源缺口。root接第三编辑及工程；7—12领域缺口不按篇数认定完成 |
-| B04 家庭教育照护 | identity家庭；care医疗/心理残障/照护/老年；daily教育高教成人学习；root多语 | writing / researching | communication/multilingual-family及relationships/sexual-health已集成；childcare、medical-records已完成两轮审核及B04B实际工程，MDW/药物/高教研究写作。13—19全部种子、身份与生命周期分支逐条闭合；所分路径独占，必要拆页先登记 |
+| B04 家庭教育照护 | identity家庭；care医疗/心理残障/照护/老年；daily教育高教成人学习；root多语 | writing / researching | communication/multilingual-family及relationships/sexual-health已集成；childcare、medical-records已完成B04B，MDW/药物/高教已完成B04C两轮审核及实际工程；分居安全作者自审，TG及预防医疗写作。13—19全部种子、身份与生命周期分支逐条闭合；所分路径独占，必要拆页先登记 |
 | B05 财务经营法律安全 | root银行/个人金融；其余待分派 | writing / researching / planned | banking已完成独立两轮与生产实际验收；32详源及冲突边界已登记。root续储蓄投资保险及债务争议源矩阵；BOOKMAP领域20—28余项逐条闭合 |
 | B06 全书覆盖与情境走查 | root+独立审阅者 | planned | 全28领域种子/身份/生命周期/弱势处境逐条证明 |
-| HUM 全书说人话校对 | root；identity限定事实；care第三编辑 | in progress | 按 ops/HUMANIZE.md 初始94队列并追增实际源（当前112）；礼节/小贩两份九处表达已限定事实及第三编辑通过，主控已应用并完成B04A生产、双视口及打印验收。删说教/免责/无信息量否定，事实层零变动；在途draft待集成后补；独立版本与accepted SHA绑定，闭环后主控工程验收 |
+| HUM 全书说人话校对 | root；identity限定事实；care第三编辑 | in progress | 按 ops/HUMANIZE.md 初始94队列并追增实际源（当前117）；礼节/小贩两份九处表达已限定事实及第三编辑通过，主控已应用并完成B04A生产、双视口及打印验收。删说教/免责/无信息量否定，事实层零变动；在途draft待集成后补；独立版本与accepted SHA绑定，闭环后主控工程验收 |
 
 ## 日期触发与来源缺口
 
@@ -60,3 +60,7 @@ B02入学未闭：AEIS/S-AEIS逐年级年龄与CEQ、当期/下一届关键窗�
 RTS维护：care_finance实际读到LTA2026-10-02公告，载客目标改为2027年2月，仍待独立安全认证和最终监管批准；常驻项目页旧写2026年底。由B03B regional-ties承接新公告，交通余项同步交叉检查：https://www.lta.gov.sg/content/ltagov/en/newsroom/2026/10/news-releases/grantors-informed-rts-link-service-targeted-feb-2027.html 。
 
 数字隐私权利待研究：PDPC当前概述/投诉/2022指南PDF及SSO PDPA原文挑战，普通8888已各止损，详细URL在b03c-digital证据。已有防骗稿仅采用实际MDDI原文的NRIC验证/保留限制/公私框架；查阅更正撤回同意及投诉另列privacy-data候选，不把部分覆盖记全。
+
+B05 SRS已随B04C完成本地验收，最终正文SHA见accepted。储蓄投资28组原文及care独立事实通过，daily第三编辑提出三处「营运行」统一为「营运银行」，作者已修、两审限定差分重绑中。保险继续主管详源；债务争议和其余B05领域仍未完成。
+
+B04C已本地验收：higher-education、medicines、domestic-workers、SRS，累计66接收主题。117源/68主题/2草稿、117HTML，18018内部引用、4753外链跳过HTTP；15路径双视口46+25检查，92打印节点/66来源表/345页，286产物路径/大小/SHA同步一致（详checks/b04c-acceptance.json）。root续insurance，28源saving-investing已交care事实/daily第三编辑；此前SRS初冻记录为历史，最终SHA见accepted。TG、分居保护、预防健康仍由原作者推进。全28领域/B06/HUM未闭。
