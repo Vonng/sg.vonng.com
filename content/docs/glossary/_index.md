@@ -83,3 +83,7 @@ weight: 30
 | PPO / DEO / SAO / NCO / PHC / NAVH | 家庭保护命令、住所／地点／联络限制、骚扰保护法院与反暴力求助热线；PHC此处是法院语境 | [家庭安全与保护](/book/people/family/separation-safety/) |
 | custody / care and control / access / CPP / MCP | 孩子重大决定、日常照顾、探视、共同育儿及婚姻辅导 | [分居、离婚与孩子安排](/book/people/family/separation-safety/) |
 | EIR / CBS / MLCB / DCP / DMP / MDMP / DRS | 有效利率、信用资料机构、债务整合、银行及持牌放贷债务管理和法院转介偿债计划 | [信用与债务](/book/work/finance/debt-disputes/) |
+| EA / KET / PWM / LQS | 雇佣法、主要雇佣条款、渐进式薪金及本地员工薪金要求；适用条件各自判断 | [劳动权益](/book/work/employment/employment-rights/) |
+| GPPL / SPL / FWA | 政府付薪陪产假、共享育儿假及弹性工作安排 | [假期与工作安排](/book/work/employment/employment-rights/) |
+| COR / FTC / CRS / FATCA | 税务居民证明、外国税抵免及金融账户税务信息制度 | [跨境税务](/book/work/tax/cross-border/) |
+| CREST / COMIT / CHAT / IMH / NAMS | 社区外展、社区介入、青年评估、心理卫生学院及成瘾治疗服务 | [心理支持与治疗](/book/people/accessibility/mental-health/) |

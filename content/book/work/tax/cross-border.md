@@ -4,10 +4,10 @@ description: "判断境外工资、投资及经营收入的来源，办理税收
 page_id: "sg-tax-cross-border"
 content_kind: "task"
 scope: "新加坡个人跨境所得与金融账户声明；按实际工作、收入性质、税务居民和适用协定判断"
-status: "written"
-draft: true
-verified: ""
-reviewed_by: ""
+status: integrated
+draft: false
+verified: '2026-10-13'
+reviewed_by: "事实：identity；编辑：daily_history；集成：root"
 weight: 30
 search_keywords: ["海外收入", "境外雇主", "跨境", "双重征税", "COR", "FTC", "CRS", "FATCA", "税务居民"]
 ---

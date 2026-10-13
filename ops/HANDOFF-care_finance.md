@@ -1,6 +1,26 @@
 # care_finance 当前交接（2026-10-13）
 
-工作目录 /Users/vonng/www/sg.vonng.com；Singapore日期本轮实际核为2026-10-13（18时段）。用户已明确续跑，旧交接的暂停/等待授权约束已经上级解除；持续执行同一完整目标。主控工具目标状态由root处理，本人不改变它。
+工作目录 /Users/vonng/www/sg.vonng.com；Singapore日期本轮实际核为2026-10-13（19:08）。用户已明确续跑，旧交接的暂停/等待授权约束已经上级解除；持续执行同一完整目标。主控工具目标状态由root处理，本人不改变它。
+
+## 最新：心理事实已通过；disability研究保存，优先经营独审
+
+心理稿已由identity正式独立事实、root第三编辑及B04F实际生产／桌手机／打印抽样／public同步通过，body190b3a1f…未变，integrated；本地图按root消息更新，不冒称作者亲自工程检查。disability尚无公开正文，真实原文open1—10、五PDF实体与实际页图、MOE采用Q范围和剩余私宅EASE／居家及交通衔接，均落盘.cache/research/b04-care-ageing/disability/read-checkpoint.md。不可拿搜索或metadata冒充实读，HDB原页普通与唯一8888均403不重探；私宅入口本轮web403尚无正常下载。
+
+root当前优先交starting-business完整首冻独立事实：22,821B/fulld6fa0603beec208e72f62c20e64782bb4ccf00b7efa9e17c32d15b110b2c2dff/body4e8f99eef6c9a26012eab8ac7aa39ef74a81484ff164c91dd01653674c8fc03a，31源证据ops/evidence/b05-business.md，原件business-open1..20.txt。下一命令先完整读正文与证据，独占ops/reviews/b05-business-facts.md回源核，问题交root本人修，完后daily第三编辑；随后回disability完整写作和其余5篇必要队列。
+
+## 最新：劳动权益事实已通过，开始disability完整作者稿
+
+employment-rights已完成55组采用HTML独立事实，正式报告ops/reviews/b05-employment-facts.md已交root第三编辑。最终36,219B/fullc84b5eff5665a19366aa2bc927c0e15ef0e9ad658c444956760e4a365d68d744/body45a995d41c5ed6832475a2e5e6881f9b291170b5768c2fc4aa86a71632499a95；首末全文均实际读，唯一全职／兼职近邻新增段逆删严格回首冻，无其余事实阻断。3页本轮新开、其余当日真实官方HTML缓存独立读；无PDF／图片／私有账户或构建声明。read-log及final-check落盘，以下未读列表已闭合，不重审未变稿。
+
+当前下一命令：读PROMPT无障碍种子及现有主文边界→SG Enable／AIC／MSF／医疗与可及性真实详源→disability完整稿自审交异人事实。心理首冻仍交identity独占事实；预防维护已root完整integrated。本人继续disability、caregiver-support、ageing四篇，不改共享总账或运行构建。
+
+## 19:08实际断点：预防已integrated；劳动事实续核父母假及申索
+
+root确认B04E预防维护完整接收，正文c8199fc2…保持；daily限定事实、root第三编辑及实际工程均完成，地图已如实标integrated。root报告125HTML零错警／44桌手机项／236页PDF采用范围／302产物同步，不是本人亲自构建或目视。心理稿首冻bb855c58…／190b3a1f…仍冻结；root改派identity独立事实，daily尚未回源或建报告，避免双签。
+
+劳动权益首冻215行已全文实读，R01—55证据全读；实际主管HTML采用段独审已闭合R01—34、R37、R43—44、R53，真实范围存.cache/research/b05-employment-facts/read-log.json。R35—36 MSF完整父母假、R38—42儿童假、R45—52 FWA／TADM／联系、R54—55单亲和未就业配偶尚待本人读，不能提前签。缓存source-index最终76项含重复／目录／metadata，不能把76当独立已读详源；正确分隔为长连字符后下一行标题URL，保留公式横线和没有前导换行的工具分隔。fresh1当前MOM月薪／兼职公假／LQS原件已实读。
+
+唯一已发现问题由identity修：年病假表前补全职天数与兼职小时比例近邻条件，现36,219B/fullc84b5eff5665a19366aa2bc927c0e15ef0e9ad658c444956760e4a365d68d744/body45a995d41c5ed6832475a2e5e6881f9b291170b5768c2fc4aa86a71632499a95，待本人限定逆差分及改变段复读。本人只写b05-employment-facts报告，不改作者正文。下一命令读source040/049 GPPL与039/048 SPL，再余儿童假／FWA／TADM等实际原件，完成最终全文和SHA绑定后交root。随后继续disability／caregiver-support／ageing四篇。
 
 ## 最新：mental-health完整冻结交daily；转employment-rights独立事实
 

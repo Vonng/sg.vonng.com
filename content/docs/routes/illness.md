@@ -20,3 +20,5 @@ weight: 10
 5. 需要MC、检验结果、正式报告或替家人申请时，接[医疗记录与授权](/book/people/healthcare/medical-records/)；沟通、账单或专业行为问题按同篇的渠道办理。
 
 网上没有名额或无法使用账户时，就医页列有电话和现场帮助。计划使用商业保单支付时，按[保险与理赔](/book/work/finance/insurance/)核网络、预授权、现金差额和文件；日常筛查、疫苗及牙眼预约接[预防保健](/book/people/healthcare/preventive-care/)。
+
+心理、情绪或适应压力影响生活时，使用[心理健康与求助](/book/people/accessibility/mental-health/)选择危机支持、社区评估或医疗入口。

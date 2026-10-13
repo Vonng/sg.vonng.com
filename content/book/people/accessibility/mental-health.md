@@ -4,10 +4,10 @@ description: "从压力、孤独和文化适应开始，找到即时危机支持
 page_id: sg-mental-health
 content_kind: task
 scope: "新加坡；公民、PR、工作准证、学生、家属及访客的心理健康支持与就医"
-status: written
-draft: true
-verified: ""
-reviewed_by: ""
+status: integrated
+draft: false
+verified: '2026-10-13'
+reviewed_by: "事实：identity；编辑：root；集成：root"
 weight: 10
 search_keywords: ["心理健康", "1771", "SOS", "CHAT", "IMH", "抑郁", "焦虑", "孤独", "文化适应"]
 ---

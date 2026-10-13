@@ -81,3 +81,7 @@ employment-rights完整稿已落盘并从头到尾分两段实际通读，随后
 作者首次冻结：`content/book/work/employment/employment-rights.md`，35,852 B，完整SHA `75f9e596538c69796f8bb820640baf8d1f8a519b3bf50a5d300095a459486fd4`；正文SHA `423698ed90edcae38f535d9ac952395e0f41a70de5ecd465a1f07dc3bd8516d1`（UTF-8 text.split('---',2)[2]，保留关闭frontmatter后空白）。215行、11 H2／4 H3、81处HTTPS／55唯一URL、8内链／5唯一目标均integrated；9字段、written/draft:true/核验空、无H1、加粗外普通空格、单EOF、全部正文外链有对应证据、2200÷22×11=1100均静态通过。实际页面和打印尚未检查，共享构建由root。
 
 现交care异人独立事实，作者正文冻结，反馈由本人修改后再次绑定；报告拟由care独占ops/reviews/b05-employment-facts.md，root第三编辑。未宣称事实审或编辑接收通过。
+
+care首轮指出年病假表须在近邻明示全职范围。作者再读R25原工具tool6 L43—52／75—97后，仅在该节标题后补一段全职天数、兼职同等服务年资／小时比例及小时记录，承接后节，附同一主管链接；修改段已实际复读。第二冻稿36,219 B／full `c84b5eff5665a19366aa2bc927c0e15ef0e9ad658c444956760e4a365d68d744`／body `45a995d41c5ed6832475a2e5e6881f9b291170b5768c2fc4aa86a71632499a95`。与首次冻稿严格差分仅新增该段及空行，其他文本不变；缓存author-freeze-2.md／json。care仍在全篇独立回源，尚非事实通过，正文继续冻结。
+
+care最终报告ops/reviews/b05-employment-facts.md已正式签发通过，绑定上述第二冻稿36,219 B／fullc84b5eff…／body45a995d4…；已核实际报告及正文SHA一致。审者独立回读55组采用原文、复读最终217行，并逆删唯一近邻段严格回首冻。作者正文继续冻结，待root第三编辑及实际工程；此前“尚非事实通过”仅指首轮反馈时点。

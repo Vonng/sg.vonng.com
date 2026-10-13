@@ -4,7 +4,13 @@
 
 ## 在途与下一步
 
-最新优先级（19:01 SGT复核后进展）：cross-border独立事实已正式通过ops/reviews/b05-tax-cross-border-facts.md，交daily第三编辑。最终17951B／full1fdb5a63c9ac60ee8d4ebe5f2f3a0c94fdc0d882736e5709440e242e360a9eb4／body34f41a148d60a75df96c860de5fe04763765b6a9545defcbb69f81acac779adc。17组采用原文实际读；唯一AR段补支付方／4月18日，最终104行全文复读，严格逆差分回首冻。审者.cache/research/b05-tax-facts保存新web、同日原工具提取／SHA清单及初最终冻稿；T04只实际读L0—455文字，已知403不重试，无实体或图片目视。现在处理care劳动权益首轮近邻兼职说明，再续injury下列断点。
+最新主控分派（本轮最新）：injury研究保存断点后优先独立事实school/learning，作者daily_history，报告ops/reviews/b04-school-learning-facts.md由本人独占，root第三编辑。首冻35,995 B/full29a5353ab1c520ac52f6935085d60f15ee73c12fc080db234e42c423a1fe68c4/body2e5c4b88857f93083587e3ede9635dffe448eb3d665fe308dc7856e5a60a5b2d。E01/33/34、E63—91在b04-education，具体原件待读作者记录。不得把未读余源签成通过；问题交daily本人修。
+
+最新优先级（2026-10-13 19:13 SGT复核后进展）：心理健康独立事实已正式通过，报告ops/reviews/b04-mental-health-facts.md已交root第三编辑；无修改，完整121行及采用原件均实际读。21953B／fullbb855c589051a3ef9980efcedb74e8153c80fd7f932b137166c4239c074cc66f／body190b3a1f4cd6f7ab941b95a3d0c47c4e6d6d39cb3f9b3f8ce253600d5317db15，最终逐字节等首冻。缓存实际路径.cache/research/b04-care-ageing/mental-health/open1..15，审者新web／提取／首冻／静态在.cache/research/b04-mental-health-facts。新联网MOH／IMH／HPP／CDE；SOS FAQ新开503后独立读同日成功缓存；mindline已知403不重试。无PDF或浏览器目视声称。作者care正文继续冻结。
+
+cross-border独立事实已正式通过ops/reviews/b05-tax-cross-border-facts.md并交daily第三编辑。最终17951B／full1fdb5a63c9ac60ee8d4ebe5f2f3a0c94fdc0d882736e5709440e242e360a9eb4／body34f41a148d60a75df96c860de5fe04763765b6a9545defcbb69f81acac779adc。17组采用原文实际读；唯一AR段补支付方／4月18日，最终104行全文复读，严格逆差分回首冻。审者.cache/research/b05-tax-facts保存新web、同日原工具提取／SHA清单及初最终冻稿；T04只实际读L0—455文字，已知403不重试，无实体或图片目视。
+
+劳动权益care最终独立事实已通过，ops/reviews/b05-employment-facts.md绑定新版36,219 B／fullc84b5eff5665a19366aa2bc927c0e15ef0e9ad658c444956760e4a365d68d744／body45a995d41c5ed6832475a2e5e6881f9b291170b5768c2fc4aa86a71632499a95；55组详原文、最终217行及唯一新增兼职段严格逆差分均完成，已交root第三编辑。本文继续冻结。当前真正下一步为injury以下研究断点，随后hardship。
 
 1. separation-safety 已完整作者全文自审、静态通过并交care_finance独立事实。路径 content/book/people/family/separation-safety.md，第一轮反馈仅补2引用：现36,859B，完整SHA fc21f2c710cd1aa1bf35a210dc7b14e8e162fa884db0fb245795f3ba8923d353，正文SHA 3437f001435f518f48eb727f2981cf5c1e02a9ef435fef5a9c09c1a2fc9214af。10H2／2H3、78处HTTPS／55唯一URL、6条integrated内链，9必需字段、written/draft:true/核验空、粗体外空格、无H1、单EOF均通过。care最终全文复读、独立回源及限定差分已正式通过；正文冻结，root已完整第三编辑通过（b04d-editorial）并完成B04D真实构建／浏览器／打印，已接收integrated；上述完整SHA为作者元数据前历史值。
 2. Tuition Grant 独立事实已正式通过，报告ops/reviews/b04-tuition-grant-facts.md并经root第三编辑／B04D实际工程接收integrated；正文仍原冻29,400B／full59375dab1db724dcc56e445d6bca8b4a173b447f3e16b4816ba1454dcdd805bc／bodya62d60bb44721b7ddf1c8f7a3070d791bbdc1acf875d2146049305f75e6156ee。六PDF独立新下载200/SHA相同、16页实际目视；九MOE原HTML独立解析、47问全读，所有冲突保留。ICA／TG portal本轮web失败后停止，实际用同日成功原件回读。缓存.cache/research/b04-tg-facts；完整范围见报告，不冒称recipient58页全读。
@@ -13,11 +19,21 @@
 
 ### injury 实际研究断点
 
-尚无正文／未签事实。已核ignore后存.cache/research/b05-injury/author-tool-1..4.json，含web完整原字符串；查阅2026-10-13。已实际读MOM who-is-covered L34—53、eligible-claims L34—66、types-of-compensation L34—161、insurance L34—115、employees-how-to-claim L34—160、platform-workers-act/work-injury-compensation-for-platform-workers L34—232、wica-versus-common-law L34—64、employers-what-to-do-during-a-claim L34—140、disputing-a-claim L34—79、deemed-claim FAQ L34—47。全部HTML，未读／下载任何工伤PDF，不称计算器或登录服务已操作。
+劳动首轮修改已完成：仅年病假标题后加一段全职天数／兼职按相似全职同等年资及小时比例、以小时记录，R25实际重读及改段复读。现36,219 B／fullc84b5eff5665a19366aa2bc927c0e15ef0e9ad658c444956760e4a365d68d744／body45a995d41c5ed6832475a2e5e6881f9b291170b5768c2fc4aa86a71632499a95；care最终独立事实已经通过并交root第三编辑。上列35,852 B仅首次冻稿历史值，当前正文再次冻结。
+
+尚无正文／未签事实。已核ignore后存.cache/research/b05-injury/author-tool-1..6.json，含web完整原字符串；查阅2026-10-13。已实际读MOM who-is-covered L34—53、eligible-claims L34—66、types-of-compensation L34—161、insurance L34—115、employees-how-to-claim L34—160、platform-workers-act/work-injury-compensation-for-platform-workers L34—232、wica-versus-common-law L34—64、employers-what-to-do-during-a-claim L34—140、disputing-a-claim L34—79、deemed-claim FAQ L34—47。全部HTML，未读／下载任何工伤PDF，不称计算器或登录服务已操作。
 
 已确认一般雇员与平台不同基数／任务阶段、2025-11-01新医费53000及PI116000—346000×比例／死亡91000—269000、前14门诊／60住院全AME后2/3且平台无light-duty补偿、mandatory保险manual全部/nonmanual basic≤2600但coverage无工资上限、雇员deemed claim通知后流程、升级PI一年／NOA/NOC异议14日及撤回14/28日。须保留精度：雇员工伤死亡报告10日从事故日，平台原文从通知；nonfatal从雇主／平台获通知；一般 medical wages仅工作日。types及platform原文都有提前复工后后续MC不再可claim的强表述，未擅自扩展解释。
 
-未完、税审完成后下一步：回源WP食宿／取消／遣返和合法停留边界、MDW医疗与个人意外险、本人报告及无Singpass入口、WSH预防／unsafe报告／职业病期限、死亡家属领取程序、AME细节；不得从EA或相邻准证推定。inj1两个猜测旧URL（/work-injury-compensation/what-is-covered、/platform-workers-act/work-injury-compensation）失败后已经官方导航定位上述正确页，无需重试。原件矩阵尚未写入正式证据，后续用I编号附b05-employment或单独清楚登记。
+未完、心理事实通过后的下一步：已读WP食宿／终止／离境及Special Pass边界和个人报告入口（见下段）；继续MDW医疗与个人意外险、无Singpass替代入口、WSH预防／unsafe报告／职业病期限、死亡家属领取程序、AME细节；不得从EA或相邻准证推定。inj1两个猜测旧URL（/work-injury-compensation/what-is-covered、/platform-workers-act/work-injury-compensation）失败后已经官方导航定位上述正确页，无需重试。原件矩阵尚未写入正式证据，后续用I编号附b05-employment或单独清楚登记。
+
+追加inj5／6已真实落盘：重新开雇员／雇主主程序并从官方链接读四页。foreign-worker-leave FAQ L33—34：医生fit-to-travel可在claim未结离开，但离境前通知MOM以继续处理；Special Pass只在本人留新确为解决索赔所需时发，不自动延期。terminate FAQ L34—37：按EA可终止但WICA赔偿仍须，wrongful dismissal转TADM。work-permit-expired FAQ L34：仍负责upkeep／wellbeing至返国及提供住宿，正文若采用须按WP题目不扩成所有准证。WSH Incident Reporting完整L34—164读：雇主myMOM，雇员／家属／trustee／平台个人入口，details/工资/保险/医学文件，不能使用eService可onlinefeedback；网页只对企业解释无Corppass，不将此推个人没有Singpass也可直接登录。新的MH事实完成后从这些已读原件续，不重复已有成功内容。
+
+新增injury研究已完成且保存：author-tool-7..9.json；独立逐URL行号原件source-corpus.json、所有原工具字节/SHA source-manifest.json。实际读OD FAQ完整L34—160（2025-12-01增列/扩展、诊断及雇主/医生各10日、诊断后1年及离职/暴露后1—3年两期限、2026-11-30移出两项过渡截止）；MDW保险34—65/不可转嫁医费34—39；SnapSAFE34—68/工人保护34—73；check-status34—49；WSH职责34—116/覆盖34—71；heat FAQ34—277（不声称附件）、heat主详34—178和2026-10-07平台专答32—46；ManagementWIC34—104；eServices/forms34—45；MOM电话34—50；平台定义34—63；2025-10-14死亡家属援助34—43。AME计算器只实际见空字段和免责声明，不称操作或结果。
+
+MOM当前资源页仍链接2021-01雇主guide。已正常HTTPS200下载4,895,337 B，SHA9470af6f3ca8e5dc9da7e17ad0500af91c766813c75de626c6946c2215fa3f93，40物理页；本次采用仅死亡材料物理27/印刷25。独立pdftotext物理27—29实际读，物理27单页已渲染并完整目视；没有称40页全目视，旧赔偿表及旧MedicalBoard357元不采用，均按当前详页。最初Python requests未安装导致未发网络请求；改标准urllib一次成功，无代理、无TLS改变。渲染字体weight警告不影响所看页可读。pdf-manifest.json和实体/页图/文字均在忽略目录。
+
+工伤当前下一步是整理I01—33详源矩阵并写完整稿、自审冻结交care；还没有正式证据页或公开正文。材料已足以写限定完整行动链：一般WICA/平台/MDW/自雇分流、险种和赔偿不同、事故医疗报告及异议/撤回、职业病时点、外籍离境及家属、unsafe/热应激预防。不要重复请求已有来源。无Singpass可用MOM电话64385122/现行工伤问询页面取得办理帮助；未读登录表字段、不保证无账号在线提交。Workers’Fund当前仅采用2025家属答复的条件性MOM援助，不把2019搜索历史推成2026统一金额。
 
 ## 已完成且冻结
 

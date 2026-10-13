@@ -4,10 +4,10 @@ description: 判断《雇佣法》和工时保障是否适用，逐项核对合�
 page_id: sg-employment-rights
 content_kind: task
 scope: 新加坡；公民、PR及获准工作的外籍雇员；另说明家政移工、自雇、平台工作者、兼职及青年工作者的制度边界
-status: written
-draft: true
-verified: ""
-reviewed_by: ""
+status: integrated
+draft: false
+verified: '2026-10-13'
+reviewed_by: "事实：care_finance；编辑：root；集成：root"
 weight: 10
 search_keywords: ["Employment Act", "雇佣法", "KET", "工资单", "加班", "病假", "年假", "育儿假", "共享育儿假", "PWM", "LQS", "弹性工作"]
 ---
@@ -102,6 +102,8 @@ EA 雇员至少每月发薪一次，一般工资须在工资期结束后 **7 天
 Part 4 雇员每周应有 1 个法定休息日，由排班明确；周末的另一休息时间可能只是“非工作日”。在法定休息日出勤，支付取决于谁提出要求及工作时数：雇主要求做不超过正常半天，通常付 1 天基本工资；超过半天而不超过正常一天，付 2 天。本人要求工作的对应支付是半天或 1 天；超过正常每日工时的部分另算加班。保存指定休息日和要求出勤的记录，才能用正确规则核算。[MOM：休息日工作报酬](https://www.mom.gov.sg/employment-practices/hours-of-work-overtime-and-rest-days)
 
 ## 年假、病假和医疗证明
+
+下列年假、病假和住院假天数按全职雇员列出。兼职雇员须参照相似全职雇员的同等服务年资及双方工作小时，按比例计算，以小时记录假期；其他安排见后面的“公共假日、兼职和平台工作”。[MOM：兼职年假与病假计算](https://www.mom.gov.sg/employment-practices/part-time-employment/leave)
 
 受 EA 涵盖、连续服务至少 **3 个月** 的雇员有法定带薪年假，包括仍在试用期的人。第一服务年最低 7 天，此后每年加 1 天，第八年起最低 14 天；合同可以更优厚。服务年从入职日计算，不必等下一公历年才开始。未满完整服务年的比例按已完成月份计算，结果不足半天舍去、至少半天进为一天；认可的无薪假会影响服务期计算。[MOM：年假资格及比例](https://www.mom.gov.sg/employment-practices/leave/annual-leave/eligibility-and-entitlement)
 

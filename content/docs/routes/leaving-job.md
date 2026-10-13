@@ -20,3 +20,5 @@ weight: 25
 5. 若要搬家或退租，重读[租约责任与提前解约条款](/book/life/housing/renting/)。PR还须按[身份主文](/book/life/documents/status-and-eligibility/)检查离境及REP。
 
 收入中断后，先重排[家庭预算](/book/work/finance/household-budget/)；若无法维持原定还款，再按[债务困难与争议](/book/work/finance/debt-disputes/)准备债务清单、选择对应求助渠道并处理来信期限。
+
+争议涉及少发工资、扣款、加班或假期时，先对照[在职劳动权益](/book/work/employment/employment-rights/)保存记录；有跨境收入时，再核[海外收入、协定与抵免](/book/work/tax/cross-border/)。

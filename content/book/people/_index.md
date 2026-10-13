@@ -14,3 +14,5 @@ icon: fa-solid fa-people-roof
 ---
 
 需要看病时先选就医入口，再查支付条件。处理家庭与学习事务时，逐人确认身份、年龄和照护需要。
+
+压力与情绪困扰可从[心理健康支持](/book/people/accessibility/mental-health/)开始，核危机帮助、社区评估、费用和持续治疗。

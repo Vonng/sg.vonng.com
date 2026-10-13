@@ -752,5 +752,38 @@
     "body_sha256": "56c13a38c8b52aad3f552d51501861151a21a606db62b6999d3d0bf9c5a167d7",
     "reviewed_file_sha256": "c59dafc6958316e2f879a2d6061ee37c4832b09b5136093d3617fce83c9588b2",
     "engineering": "B04E accepted; production, actual desktop/mobile and sampled print passed; ops/checks/b04e-acceptance.json"
+  },
+  "content/book/work/employment/employment-rights.md": {
+    "author": "identity",
+    "facts": "care_finance",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b05-employment-facts.md",
+    "editorial_report": "ops/reviews/b04f-editorial.md",
+    "body_sha256": "45a995d41c5ed6832475a2e5e6881f9b291170b5768c2fc4aa86a71632499a95",
+    "reviewed_file_sha256": "c84b5eff5665a19366aa2bc927c0e15ef0e9ad658c444956760e4a365d68d744",
+    "engineering": "B04F production and actual desktop/mobile passed; sampled print and final sync recorded in ops/checks/b04f-acceptance.json"
+  },
+  "content/book/people/accessibility/mental-health.md": {
+    "author": "care_finance",
+    "facts": "identity",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b04-mental-health-facts.md",
+    "editorial_report": "ops/reviews/b04f-editorial.md",
+    "body_sha256": "190b3a1f4cd6f7ab941b95a3d0c47c4e6d6d39cb3f9b3f8ce253600d5317db15",
+    "reviewed_file_sha256": "bb855c589051a3ef9980efcedb74e8153c80fd7f932b137166c4239c074cc66f",
+    "engineering": "B04F production and actual desktop/mobile passed; sampled print and final sync recorded in ops/checks/b04f-acceptance.json"
+  },
+  "content/book/work/tax/cross-border.md": {
+    "author": "root",
+    "facts": "identity",
+    "editor": "daily_history",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b05-tax-cross-border-facts.md",
+    "editorial_report": "ops/reviews/b05-tax-cross-border-editorial.md",
+    "body_sha256": "34f41a148d60a75df96c860de5fe04763765b6a9545defcbb69f81acac779adc",
+    "reviewed_file_sha256": "1fdb5a63c9ac60ee8d4ebe5f2f3a0c94fdc0d882736e5709440e242e360a9eb4",
+    "engineering": "B04F production and actual desktop/mobile passed; sampled print and final sync recorded in ops/checks/b04f-acceptance.json"
   }
 }

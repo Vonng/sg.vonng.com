@@ -4,7 +4,7 @@
 
 | 路径 | 完整行动链和边界 | 状态 |
 |---|---|---|
-| /book/work/tax/cross-border/ | 实际工作与收入性质、境外雇主/海外就业/投资收入、税居与双重征税、COR/FTC、账户CRS/FATCA声明及变化后的处理 | written；17组IRAS详细原文和完整稿已冻结，root→identity事实→daily第三编辑 |
+| /book/work/tax/cross-border/ | 实际工作与收入性质、境外雇主/海外就业/投资收入、税居与双重征税、COR/FTC、账户CRS/FATCA声明及变化后的处理 | integrated；17组IRAS详细原文，identity事实/daily第三编辑与B04F实际工程通过，正文34f41a14…绑定accepted |
 | /book/work/tax/property-tax/ | 自住/出租/空置、AV与年度房产税、租金所得、买卖印花税交叉、通知更正和缴款 | planned；从原cross-border过宽候选拆出完整住房持有税任务，不建公开空页 |
 | /book/work/tax/corrections-disputes/ | 申报后修正、税单异议、既往错误自愿披露、缴款困难/罚款与升级 | planned；从原候选拆出有时限的完整错误处理链，不以现有30日提醒代替完整办理 |
 

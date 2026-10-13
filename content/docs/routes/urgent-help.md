@@ -16,3 +16,5 @@ weight: 5
 生病但不属于眼前危险时，可看[就医入口](/book/people/healthcare/getting-care/)；如果需要核对费用，再看[医疗支付](/book/people/healthcare/healthcare-payments/)。
 
 涉及家庭暴力、儿童或弱势成人安全时，使用[家庭保护与求助](/book/people/family/separation-safety/)选择保护路径，安排临时住处、证据及后续支持。
+
+有自伤风险或心理危机时，使用[心理健康的即时帮助](/book/people/accessibility/mental-health/#眼前有危险先取得即时帮助)按眼前危险程度联系救援或危机支持。

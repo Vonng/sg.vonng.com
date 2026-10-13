@@ -1,6 +1,6 @@
 # 全书内容地图
 
-更新：2026-10-13（Asia/Singapore）。用户本次明确续跑，get_goal已实查active；继续完整五部分28领域。此前82源交接快照保留；本次恢复核实109源与实际审核版本，恢复三条独立写审线。恢复后累计接收72主题，最新债务与预防支付日期维护见checks/b04e-acceptance.json；分居安全／TG／储蓄投资／保险及预防原版见checks/b04d-acceptance.json；高教／药品／家政移工／SRS见checks/b04c-acceptance.json；医疗记录／托育及上一六篇分别见b04b与b04a。历史现场见HANDOFF-2026-10-13.md。这是持续目标的覆盖地图；候选路径只登记于此，不生成空正文。覆盖认定须检查每个领域的必要分支，文章数量不作完成门槛。
+更新：2026-10-13（Asia/Singapore）。用户本次明确续跑，get_goal已实查active；继续完整五部分28领域。此前82源交接快照保留；本次恢复核实109源与实际审核版本，恢复三条独立写审线。恢复后累计接收75主题，劳动权益／心理健康／跨境个税见checks/b04f-acceptance.json，债务与预防支付日期维护见checks/b04e-acceptance.json；分居安全／TG／储蓄投资／保险及预防原版见checks/b04d-acceptance.json；高教／药品／家政移工／SRS见checks/b04c-acceptance.json；医疗记录／托育及上一六篇分别见b04b与b04a。历史现场见HANDOFF-2026-10-13.md。这是持续目标的覆盖地图；候选路径只登记于此，不生成空正文。覆盖认定须检查每个领域的必要分支，文章数量不作完成门槛。
 
 ## 内容与资格模型
 
@@ -164,7 +164,7 @@
 
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
-| `/book/people/accessibility/mental-health/` | 压力孤独与危机怎样获得支持 | written（care作者，daily独立事实中） |
+| `/book/people/accessibility/mental-health/` | 压力孤独与危机怎样获得支持 | integrated（事实/第三编辑/生产与渲染通过；B04F接收版本见accepted.json） |
 | `/book/people/accessibility/disability/` | 评估辅具交通住宅工作数字无障碍怎样申请 | planned |
 | `/book/people/accessibility/caregiver-support/` | 照顾者喘息服务与费用资格怎样查 | planned |
 
@@ -188,7 +188,7 @@
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
 | `/book/people/school/admission/` | 小一报名AEISS-AEIS国际私立学校如何入学 | written（B02；核心来源待核，保留草稿） |
-| `/book/people/school/learning/` | 课程PSLEFullSBB母语特殊教育与制度过渡 | planned |
+| `/book/people/school/learning/` | 课程PSLEFullSBB母语特殊教育与制度过渡 | written（课程考试费用支持完整稿；identity独立事实中） |
 | `/book/people/school/school-life/` | 家校沟通网络霸凌保护与青少年路径 | planned |
 
 ### 17. 高等教育、职业教育与终身学习（learning）
@@ -240,7 +240,7 @@
 
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
-| `/book/work/employment/employment-rights/` | 工资工时休假工资单哪些人适用 | written（identity作者，care事实/root第三编辑） |
+| `/book/work/employment/employment-rights/` | 工资工时休假工资单哪些人适用 | integrated（事实/第三编辑/生产与渲染通过；B04F接收版本见accepted.json） |
 | `/book/work/employment/injury/` | 职业安全工伤赔偿保险怎样求助 | planned |
 | `/book/work/employment/leaving-job/` | 辞职解雇裁员后的准证税务家属怎样处理 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 | `/book/work/employment/hardship/` | 薪资争议和收入中断怎样找TADM及生活支持 | planned |
@@ -267,7 +267,7 @@
 |---|---|---|
 | `/book/work/tax/personal-tax/` | 居民身份YA和所得期间、申报报送缴税怎样衔接 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 | `/book/work/tax/leaving-singapore/` | 离职离境IR21税务清算哪些人适用 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
-| `/book/work/tax/cross-border/` | 海外收入与跨境工作、COR/FTC、资产账户CRS/FATCA | written（root作者，identity事实/daily第三编辑） |
+| `/book/work/tax/cross-border/` | 海外收入与跨境工作、COR/FTC、资产账户CRS/FATCA | integrated（事实/第三编辑/生产与渲染通过；B04F接收版本见accepted.json） |
 | `/book/work/tax/property-tax/` | 自住出租空置的年度房产税与租金所得、买卖税费交叉 | planned（从原过宽候选拆出） |
 | `/book/work/tax/corrections-disputes/` | 申报更正、税单异议、自愿披露与缴款困难 | planned（从原过宽候选拆出） |
 
@@ -277,7 +277,7 @@
 
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
-| `/book/work/business/starting-business/` | 独资合伙公司、外国人权限、UENCorppass牌照 | researching（root，2026-10-08迁移后的ACRA详页） |
+| `/book/work/business/starting-business/` | 独资合伙公司、外国人权限、UENCorppass牌照 | written（完整稿31组证据；care事实/daily第三编辑中） |
 | `/book/work/business/running-business/` | 董事秘书申报银行记账发票GST公司税雇主责任 | planned |
 | `/book/work/business/risk-exit/` | 合同知识产权数据融资保险与跨境停业退出 | planned |
 

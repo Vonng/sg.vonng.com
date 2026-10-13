@@ -139,3 +139,15 @@ root确认B04D五篇投资／保险／分居／预防／TG全部integrated，124
 预防保健因care新发现MOH一般门诊页40岁与CPF50岁冲突，已在原接受版上仅替换支付一段为三段，当前22,974B/full `219b60c93f5c4184972a852912a4b7f3a2513bc471a90af80f7089c3edc6b5fb`／body `c8199fc2ad6e28ac93da174e4904a5589b864c31a719192cbcba06cf1ac3b03e`。本人新联网HPP／CPF实际读采用段；同日MOH一般页、3月公告采用段实际读；CDMP2027实体SHA复核，物理107—108／印刷105—106文字及两PNG实际目视。HPP明确2027-01-01最低年龄及年度700／1,000新规生效，现行2026仍按CPF50岁；临床筛查及HSG资格分开。限定逆差分严格恢复原已通过正文ac9f9953…，元数据未改，`b04-preventive-care-facts.md`正式维护通过交root补第三编辑／工程，root此前B04D验收不能代替此次维护。未重复PC01—34，旧CPF FAQ不重探。
 
 教育fees49FAQ现已全部实读；Pathlight／Maitri当前资助与费表也已实读，moe-mtl root／exemption／overseas同日原件采用段重读。E73起证据尚待归档，source51—53已保存。primary curriculum overview及EDB living guide已各唯一8888仍202空停止；types-of-schools、primary/subject-based-banding和transition-to-secondary-school资源页首次普通202空，前两web挑战；这三项尚未代理。新Junyuan2026FAS公告副本真URL首次普通及web404，停止不采用。没有后台待poll；下一写完整school/learning，按已核支撑关闭课程／费用／SEN行动链，未闭admission保留原范围。
+
+## 19:19 最新断点：跨境税第三编辑通过，课程完整稿交审
+
+Asia/Singapore仍2026-10-13。root已接收预防三段维护的第三编辑并做工程补检；本人事实维护版219b60c9…／c8199fc2…继续冻结，无新增待修。跨境税identity事实通过后，本人实际完整读104行及事实报告，17951B/full `1fdb5a63c9ac60ee8d4ebe5f2f3a0c94fdc0d882736e5709440e242e360a9eb4`／body `34f41a148d60a75df96c860de5fe04763765b6a9545defcbb69f81acac779adc`核相符，`ops/reviews/b05-tax-cross-border-editorial.md`正式通过已交root，无作者修改。静态11H2／32HTTPS／4真实目标／2表通过，不冒称重做事实或工程。
+
+root已将mental-health独立事实改派identity。本人**尚未回源或创建该报告**，已把care的首冻及MH01—30路径交identity、告care；本人不再写b04-mental-health-facts.md，避免重叠。后续心理作者修改由care，root第三编辑。
+
+school/learning已完整首冻，35,995B/full `29a5353ab1c520ac52f6935085d60f15ee73c12fc080db234e42c423a1fe68c4`／body `2e5c4b88857f93083587e3ede9635dffe448eb3d665fe308dc7856e5a60a5b2d`。187行作者全文自审及最终改段复读，11H2／81HTTPS／7relref／5表静态通过；written/draft:true/核验空。证据E73—91和地图已完整落盘，原工具42—65、49fees／13FAS／11Edusave／48curriculum／13MK问实际读的范围明示；2017MOE分科册2页实体全文及PNG实看，配2026学校链接与当前FAQ，不伪装新册。作者不自签事实，交root协调异人后root第三编辑。
+
+旧“types／primarySBB／transition尚未代理”已过时：18:57各唯一8888仍202空停止。新CE法20260105版本403、CE／private／syllabus及学校类型与中学guide两PDF202无原件，未追加代理；详见E91后失败清单。所有下载会话完成，无待poll；未运行共享构建、stage或commit。校内沟通、家长／学生参与、SLS／设备／网络、同伴霸凌与保护、请假海外LOA／回校／转学仍是下一school-life整篇；已有school-related25、P1matters3等原FAQ可真实复读，先补学校保护详文再写。成人学习与普通admission剩余资格仍完整保留，HDB/EC不重探旧失败。
+
+care另在写disability，已给其E67 SEN原件46问、E72交通、新学校费用及已集成高教支持原件范围，仅供其残障接口复读；school正文／教育map/evidence仍本人独占。下一命令从 `moe-school-faq-school-related-*` 和 `moe-school-faq-p1-matters-*` 实际文件定位，读取已成功原件而非重试旧P1/AEIS。
