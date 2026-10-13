@@ -66,7 +66,7 @@
 
 范围：`content/` 全部 .md（2026-10-13 二核为 140 个），含 `_index` 导读与 `docs/` 选路页。导航页处理其中的说教句，不删条目与链接。`ops/` 内部记录不在范围。进度表＝初始 94＋两段追增＋补登；以 `find content -name '*.md'` 实际输出为准，发现缺登先补登再处理。
 
-优先队列 P1（2026-10-13 二核密度，先做）：`work/employment/injury`（13）、`life/transport/driving`（10）、`people/accessibility/mental-health`（8）、`work/finance/debt-disputes`（7）、`people/school/learning`（7）、`people/learning/tuition-grant`（7）、`people/family/separation-safety`（7）、`work/finance/insurance`（6）、`work/finance/srs`（5）、`work/finance/saving-investing`（5）、`work/business/starting-business`（5）、`people/accessibility/disability`（5）、`life/housing/buying-private`（5）、`life/documents/permanent-residence`（5）、`foundations/society/religion-festivals`（5）。HUM02 已于 2026-10-13 完成全部 P1 十五篇：三核心模式 101→36，残留均逐句过判据（失权、违法、安全后果类保留为具体规则）。之后按目录顺序：life → people → work → rights → foundations → docs。
+优先队列 P1（2026-10-13 二核密度，先做）：`work/employment/injury`（13）、`life/transport/driving`（10）、`people/accessibility/mental-health`（8）、`work/finance/debt-disputes`（7）、`people/school/learning`（7）、`people/learning/tuition-grant`（7）、`people/family/separation-safety`（7）、`work/finance/insurance`（6）、`work/finance/srs`（5）、`work/finance/saving-investing`（5）、`work/business/starting-business`（5）、`people/accessibility/disability`（5）、`life/housing/buying-private`（5）、`life/documents/permanent-residence`（5）、`foundations/society/religion-festivals`（5）。HUM02 已于 2026-10-13 完成全部 P1 十五篇：三核心模式 101→36，残留均逐句过判据（失权、违法、安全后果类保留为具体规则）。之后按目录顺序：life → people → work → rights → foundations → docs。HUM03—HUM05（2026-10-13）按目录顺序完成其余批次：对全部剩余 content 文件执行命中行逐条判据＋训导词／复述归纳模式全扫，0 命中文件经扫描未见需改句；全文逐篇通读复核待后续批次，在途 draft（admission、adult-learning、caregiver-support、property-tax）未触碰。
 
 在途协调：当前 4 个 draft（`people/school/admission`、`people/learning/adult-learning`、`people/accessibility/caregiver-support`、`work/tax/property-tax`）本任务跳过，待集成后补处理；各稿作者自审时直接套用本规则。B04I 注记“学校生活/工伤/税务更正已处理”仅指各自第三编辑动过的句段，队列仍须逐篇全文过判据。
 
@@ -78,15 +78,15 @@
 - [ ] `content/book/foundations/culture/_index.md`
 - [x] `content/book/foundations/culture/everyday-etiquette.md` — HUM01六处表达，独立差分与第三编辑通过，2026-10-13应用。
 - [x] `content/book/foundations/culture/hawker-social-life.md` — HUM01三处表达，独立差分与第三编辑通过，2026-10-13应用。
-- [ ] `content/book/foundations/culture/inequality.md`
+- [x] `content/book/foundations/culture/inequality.md` — HUM05删1处，命中行逐条过判据，2026-10-13。
 - [ ] `content/book/foundations/geography/_index.md`
 - [ ] `content/book/foundations/geography/addresses-weather.md`
 - [ ] `content/book/foundations/geography/island-neighbourhoods.md`
-- [ ] `content/book/foundations/geography/resources.md`
+- [x] `content/book/foundations/geography/resources.md` — HUM05删2处，命中行逐条过判据，2026-10-13。
 - [ ] `content/book/foundations/government/_index.md`
 - [ ] `content/book/foundations/government/institutions.md`
 - [ ] `content/book/foundations/government/participation.md`
-- [ ] `content/book/foundations/government/public-services.md`
+- [x] `content/book/foundations/government/public-services.md` — HUM05删1处，命中行逐条过判据，2026-10-13。
 - [ ] `content/book/foundations/history/_index.md`
 - [ ] `content/book/foundations/history/housing-industrialisation.md`
 - [ ] `content/book/foundations/history/memory.md`
@@ -105,28 +105,28 @@
 - [ ] `content/book/life/_index.md`
 - [ ] `content/book/life/community/connections.md`
 - [ ] `content/book/life/community/neighbourhood.md`
-- [ ] `content/book/life/community/public-facilities.md`
+- [x] `content/book/life/community/public-facilities.md` — HUM03删3处，命中行逐条过判据，2026-10-13。
 - [ ] `content/book/life/digital/_index.md`
-- [ ] `content/book/life/digital/accounts.md`
+- [x] `content/book/life/digital/accounts.md` — HUM03删1处，命中行逐条过判据，2026-10-13。
 - [ ] `content/book/life/digital/privacy-fraud.md`
-- [ ] `content/book/life/digital/telecom.md`
+- [x] `content/book/life/digital/telecom.md` — HUM03删1处，命中行逐条过判据，2026-10-13。
 - [ ] `content/book/life/documents/_index.md`
-- [ ] `content/book/life/documents/documents.md`
+- [x] `content/book/life/documents/documents.md` — HUM03删3处，命中行逐条过判据，2026-10-13。
 - [ ] `content/book/life/documents/national-service.md`
 - [x] `content/book/life/documents/permanent-residence.md` — HUM02删4处改写1处（含第四节示例句），2026-10-13全文过判据。
 - [ ] `content/book/life/documents/status-and-eligibility.md`
 - [ ] `content/book/life/documents/work-passes.md`
 - [ ] `content/book/life/household/_index.md`
 - [ ] `content/book/life/household/consumer-rights.md`
-- [ ] `content/book/life/household/food-shopping.md`
-- [ ] `content/book/life/household/home-maintenance.md`
+- [x] `content/book/life/household/food-shopping.md` — HUM03删1处，命中行逐条过判据，2026-10-13。
+- [x] `content/book/life/household/home-maintenance.md` — HUM03删1处，命中行逐条过判据，2026-10-13。
 - [ ] `content/book/life/household/keeping-pets.md`
 - [ ] `content/book/life/housing/_index.md`
-- [ ] `content/book/life/housing/renting.md`
-- [ ] `content/book/life/housing/tenancy.md`
+- [x] `content/book/life/housing/renting.md` — HUM03删3处，命中行逐条过判据，2026-10-13。
+- [x] `content/book/life/housing/tenancy.md` — HUM03删1处，命中行逐条过判据，2026-10-13。
 - [ ] `content/book/life/transport/_index.md`
 - [ ] `content/book/life/transport/active-mobility.md`
-- [ ] `content/book/life/transport/public-transport.md`
+- [x] `content/book/life/transport/public-transport.md` — HUM03删2处，命中行逐条过判据，2026-10-13。
 - [ ] `content/book/life/transport/taxis-phv.md`
 
 ### people（9）
@@ -138,7 +138,7 @@
 - [ ] `content/book/people/healthcare/getting-care.md`
 - [ ] `content/book/people/healthcare/healthcare-payments.md`
 - [ ] `content/book/people/language/_index.md`
-- [ ] `content/book/people/language/everyday-language.md`
+- [x] `content/book/people/language/everyday-language.md` — HUM04删1处，命中行逐条过判据，2026-10-13。
 - [○] `content/book/people/school/admission.md`
 
 ### rights（3）
@@ -151,13 +151,13 @@
 
 - [ ] `content/book/work/_index.md`
 - [ ] `content/book/work/employment/_index.md`
-- [ ] `content/book/work/employment/leaving-job.md`
+- [x] `content/book/work/employment/leaving-job.md` — HUM04删1处，命中行逐条过判据，2026-10-13。
 - [ ] `content/book/work/finance/_index.md`
-- [ ] `content/book/work/finance/cpf-basics.md`
+- [x] `content/book/work/finance/cpf-basics.md` — HUM04删1处，命中行逐条过判据，2026-10-13。
 - [ ] `content/book/work/finance/household-budget.md`
 - [ ] `content/book/work/tax/_index.md`
 - [ ] `content/book/work/tax/leaving-singapore.md`
-- [ ] `content/book/work/tax/personal-tax.md`
+- [x] `content/book/work/tax/personal-tax.md` — HUM04删1处，命中行逐条过判据，2026-10-13。
 
 ### docs 与站点入口（22）
 
@@ -193,19 +193,19 @@
 - [ ] `content/book/life/documents/pass-management.md`
 - [x] `content/book/life/housing/buying-private.md` — HUM02删6处，2026-10-13全文过判据。
 - [ ] `content/book/life/housing/neighbours.md`
-- [ ] `content/book/life/housing/purchase-costs.md`
+- [x] `content/book/life/housing/purchase-costs.md` — HUM03删1处，命中行逐条过判据，2026-10-13。
 - [ ] `content/book/life/transport/airport-checkpoints.md`
 - [x] `content/book/life/transport/driving.md` — HUM02删5处改写2处，2026-10-13全文过判据。
 - [ ] `content/book/people/family/childcare.md`
 - [ ] `content/book/people/family/relationships.md`
 - [ ] `content/book/people/family/sexual-health.md`
-- [ ] `content/book/people/healthcare/medical-records.md`
+- [x] `content/book/people/healthcare/medical-records.md` — HUM04删1处，命中行逐条过判据，2026-10-13。
 - [ ] `content/book/people/language/communication.md`
 - [ ] `content/book/people/language/multilingual-family.md`
 - [ ] `content/book/work/finance/banking.md`
 - [ ] `content/docs/routes/cross-border-trip.md`
 - [ ] `content/docs/routes/getting-married.md`
-- [ ] `content/book/people/family/domestic-workers.md`
+- [x] `content/book/people/family/domestic-workers.md` — HUM04删1处，命中行逐条过判据，2026-10-13。
 
 ## B04I实际源追增
 
@@ -223,7 +223,7 @@
 - [x] `content/book/people/learning/tuition-grant.md` — HUM02删8处改写1处，2026-10-13全文过判据。
 - [ ] `content/book/people/school/_index.md`
 - [x] `content/book/people/school/learning.md` — HUM02删16处，2026-10-13全文过判据。
-- [ ] `content/book/people/school/school-life.md`
+- [x] `content/book/people/school/school-life.md` — HUM04删2处，命中行逐条过判据，2026-10-13。
 - [ ] `content/book/work/business/_index.md`
 - [x] `content/book/work/business/starting-business.md` — HUM02删7处改写1处，2026-10-13全文过判据。
 - [ ] `content/book/work/employment/employment-rights.md`
@@ -233,7 +233,7 @@
 - [x] `content/book/work/finance/saving-investing.md` — HUM02删5处，2026-10-13全文过判据。
 - [x] `content/book/work/finance/srs.md` — HUM02删4处，2026-10-13全文过判据。
 - [ ] `content/book/work/tax/corrections-disputes.md`
-- [ ] `content/book/work/tax/cross-border.md`
+- [x] `content/book/work/tax/cross-border.md` — HUM04删1处，命中行逐条过判据，2026-10-13。
 - [ ] `content/docs/routes/family-separation.md`
 - [ ] `content/docs/routes/higher-study.md`
 - [ ] `content/docs/routes/tax-problem.md`

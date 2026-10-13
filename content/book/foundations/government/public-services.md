@@ -17,7 +17,7 @@ weight: 20
 
 部委由部长领导，负责相关政策方向；法定机构依据各自设立法令履行职责，具有独立法律身份和董事会，通常在主管部委的政策范围内执行工作。这样的安排让同一领域既有政策部门，也有负责具体监管或服务的机构。PSD 在[公共部门治理说明](https://www.psd.gov.sg/newsroom/public-sector-governance-bill-by-min-ong-ye-kung-at-parliament/)中解释了这种分工；文件发表于 2018 年，机构现名及隶属关系应查当前目录。
 
-例如，国家发展部（MND）的工作涉及住房政策、土地使用和城市发展，目录另列 HDB、URA、BCA、CEA 和 NParks 等法定机构。住房资格与组屋业务可由 HDB 承办，私人住宅出租用途规则则有 URA 的职责；不能把同属一个部委理解为任一柜台都能批准所有事项。[SGDI 的 MND 职掌与所属机构](https://www.sgdi.gov.sg/ministries/mnd)
+例如，国家发展部（MND）的工作涉及住房政策、土地使用和城市发展，目录另列 HDB、URA、BCA、CEA 和 NParks 等法定机构。住房资格与组屋业务可由 HDB 承办，私人住宅出租用途规则则有 URA 的职责。[SGDI 的 MND 职掌与所属机构](https://www.sgdi.gov.sg/ministries/mnd)
 
 市镇理事会（Town Council）负责所在市镇 HDB 住宅和商业物业的公共部分，例如电梯、走廊、底层空间、连接走道及公共花园的管理、清洁和维修，并管理相关财务。它由民选议员与获委任的成员等组成，是依据《市镇理事会法》运作的自主实体；MND 负责监管，并公布市镇理事会管理报告。私人公寓内部管理、国家道路或自己的准证申请，不能一概当成市镇理事会事务。[政府对市镇理事会职责的说明](https://www.gov.sg/explainers/what-do-town-councils-do-and-who-regulates-them/)
 

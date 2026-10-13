@@ -48,11 +48,11 @@ EMA 的能源统计显示， **2024 年发电燃料组合中天然气占 94.0%�
 
 太阳能可布置在屋顶、水面、临时空地和建筑表面，仍受可用空间、云量和日照变化制约。电网需要配合预测、储能等手段处理其出力波动。看到太阳能板时，既可以理解它在增加本地供给，也要把装机容量和实际发电量分开看。[EMA 太阳能部署与限制](https://www.ema.gov.sg/our-energy-story/energy-supply/solar)
 
-对家庭而言，电费变化要分开看 **用了多少电** 与 **合同按什么价格收费** 。SP 的受监管电价按季度检讨，零售商合同另有价格安排，批发电价则按半小时变动。租房时先确认由谁持有账户、实际计费方式，以及账单如何分摊；续约时读新价格和条款，避免只按旧账单估算未来开支。[EMA 住户购电方式与价格影响](https://www.ema.gov.sg/consumer-information/energy-prices-in-singapore-what-you-need-to-know/what-is-affecting-energy-prices-in-singapore)
+对家庭而言，电费变化要分开看 **用了多少电** 与 **合同按什么价格收费** 。SP 的受监管电价按季度检讨，零售商合同另有价格安排，批发电价则按半小时变动。租房时先确认由谁持有账户、实际计费方式，以及账单如何分摊；续约时读新价格和条款。[EMA 住户购电方式与价格影响](https://www.ema.gov.sg/consumer-information/energy-prices-in-singapore-what-you-need-to-know/what-is-affecting-energy-prices-in-singapore)
 
 ## 食物供应跨越许多边界
 
-根据 SFA 于 2026 年 5 月发布的 2025 年食品统计，新加坡超过九成食物依赖进口，2025 年来源遍及 180 多个国家和地区。多元来源让进口商能在某一产地受疾病、天气或运输影响时寻找替代供应。食品安全仍有独立的准入和监管要求，不能只凭产地远近判断。[SFA Singapore Food Statistics 2025](https://www.sfa.gov.sg/news-publications/newsroom/singapore-food-statistics-2025)
+根据 SFA 于 2026 年 5 月发布的 2025 年食品统计，新加坡超过九成食物依赖进口，2025 年来源遍及 180 多个国家和地区。多元来源让进口商能在某一产地受疾病、天气或运输影响时寻找替代供应；食品安全仍有独立的准入和监管要求。[SFA Singapore Food Statistics 2025](https://www.sfa.gov.sg/news-publications/newsroom/singapore-food-statistics-2025)
 
 SFA 在 2025 年 11 月公布的 Singapore Food Story 2，把进口多元化、全球伙伴关系、储备和本地生产列为四项支柱。本地农场供应一部分蔬菜、鸡蛋和水产，与进口体系互相补充。[SFA 现行食品供应战略](https://www.sfa.gov.sg/news-publications/newsroom/singapore-food-statistics-2025)
 
