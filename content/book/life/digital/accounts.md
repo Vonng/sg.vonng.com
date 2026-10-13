@@ -4,11 +4,12 @@ description: "按身份选择账户，完成注册与登录，核对资料授权
 page_id: sg-digital-accounts
 content_kind: guide
 scope: "新加坡公民、PR、合资格FIN持有人及特定外国账户使用者；含无智能手机和照护协助分支"
-status: written
-draft: true
-verified: ""
-reviewed_by: ""
+status: integrated
+draft: false
+verified: "2026-10-13"
+reviewed_by: "daily_history（独立事实）；identity（第三人编辑）"
 weight: 10
+search_keywords: ["Singpass", "Myinfo", "SFA", "passkey", "数字账户", "换机"]
 ---
 
 Singpass 用来证明你是谁、登录政府及部分私人服务；Myinfo 可把相关个人资料填入申请表。先确认自己适用哪一种账户，再完成注册和验证。登录成功之后，还要按具体服务提交申请、保存回执和查看结果，账户本身不会赋予补助、就业或居留资格。

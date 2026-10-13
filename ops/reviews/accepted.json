@@ -58,9 +58,13 @@
     "facts": "identity",
     "editor": "root",
     "date": "2026-10-13",
-    "report": "ops/reviews/b01-daily-facts.md",
-    "body_sha256": "b49ae3a7932164bc72cdc9327a84df591a12df7198113db64a30f09b336d1062",
-    "reviewed_file_sha256": "df165007d245bc559ab44899cee5cbfee16933a1ec9424b3cabc4de0f164537a"
+    "report": "ops/reviews/b03c-public-transport-maintenance-facts.md",
+    "editorial_report": "ops/reviews/b03c-public-transport-editorial.md",
+    "previous_report": "ops/reviews/b01-daily-facts.md",
+    "previous_body_sha256": "b49ae3a7932164bc72cdc9327a84df591a12df7198113db64a30f09b336d1062",
+    "review_scope": "新增巴士行为小节；其余正文复用B01事实/编辑审",
+    "body_sha256": "ea39157484fc03e113703da88fedbcdf55d5bfabf55de80aa34a4815a351f56e",
+    "reviewed_file_sha256": "83ae3bfee3bf13b5d3ef434077dc0f90b419c63dffedee21eb7b077570be33ef"
   },
   "content/book/foundations/history/port-city-to-nation.md": {
     "author": "daily_history",
@@ -244,5 +248,155 @@
     "editorial_report": "ops/reviews/b03-budget-editorial.md",
     "body_sha256": "dc4146d2f62c6a5bad41b1c450b24ef9fec90b064d000e08f3b24914c0c9a19c",
     "reviewed_file_sha256": "5323b90bfa02ff23a60695b6afaf93546a47eb4bbdadbf99753283685d0a3eed"
+  },
+  "content/book/foundations/history/housing-industrialisation.md": {
+    "author": "daily_history",
+    "facts": "identity",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b03b-history-culture-facts.md",
+    "editorial_report": "ops/reviews/b03b-editorial.md",
+    "body_sha256": "2f7562c3fc59df60a9647fcd7070221a24049e044b8de0a1ec4b74e5624c6972",
+    "reviewed_file_sha256": "d7ae7cdca09ec9e450085266142b846f104ac290996614a360b0e5375b28d73c"
+  },
+  "content/book/foundations/history/memory.md": {
+    "author": "daily_history",
+    "facts": "identity",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b03b-history-culture-facts.md",
+    "editorial_report": "ops/reviews/b03b-editorial.md",
+    "body_sha256": "2f3c98d20ddc6f887c9e0628209b981de2ddcc2843324cd62aaaa731cba2633a",
+    "reviewed_file_sha256": "0079509c8a4633168d3ae6049289860a195f8e3abb392599732c271e526e1fdd"
+  },
+  "content/book/foundations/culture/everyday-etiquette.md": {
+    "author": "daily_history",
+    "facts": "identity",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b03b-history-culture-facts.md",
+    "editorial_report": "ops/reviews/b03b-editorial.md",
+    "body_sha256": "6da8a7c71050d38a1e2190e66cf6dab3b8177be7fb14e838db7bb1469c7ab94c",
+    "reviewed_file_sha256": "05362e9943c4f09f1389067a826f78a7e1548f932deb6073e3f4c26ad5c6d074"
+  },
+  "content/book/foundations/culture/hawker-social-life.md": {
+    "author": "daily_history",
+    "facts": "identity",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b03b-history-culture-facts.md",
+    "editorial_report": "ops/reviews/b03b-editorial.md",
+    "body_sha256": "04ebbbe698791bc6102a53eb45c294510232725958b7c710ee07c41577269b44",
+    "reviewed_file_sha256": "7bad8754691a97ac8a39aa9f268375ce80ef3035560d4bf8b097caae3ef75fac"
+  },
+  "content/book/foundations/society/communities.md": {
+    "author": "identity",
+    "facts": "care_finance",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b03b-society-facts.md",
+    "editorial_report": "ops/reviews/b03b-editorial.md",
+    "body_sha256": "2fae26eaf693b31091c9d856cd51ef6f0a6bea399390eb3d772e90c82db6da08",
+    "reviewed_file_sha256": "6bf7680e4754f385386e57c0ae3c3cb94f36e54a2c19589a503182a171906e9f"
+  },
+  "content/book/foundations/society/religion-festivals.md": {
+    "author": "identity",
+    "facts": "care_finance",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b03b-society-facts.md",
+    "editorial_report": "ops/reviews/b03b-editorial.md",
+    "body_sha256": "ac34443905ba65fac3908e2b13e6bfa3449eccfa74ae23a495c591d0606f2629",
+    "reviewed_file_sha256": "38ab351270d7aa4c403fdebf0c549f5fce9ebb35ff4490f297e68d087f43aa65"
+  },
+  "content/book/foundations/society/migration.md": {
+    "author": "identity",
+    "facts": "care_finance",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b03b-society-facts.md",
+    "editorial_report": "ops/reviews/b03b-editorial.md",
+    "body_sha256": "d0a1562e24dce6df1721241c8f5a04b93f25a9d5d562c7a6ce80816b39e0e09f",
+    "reviewed_file_sha256": "6a9a49740ad104581fb310eab1a7f4065712303a6a0eeb87cce638b963d76c03"
+  },
+  "content/book/life/digital/accounts.md": {
+    "author": "root",
+    "facts": "daily_history",
+    "editor": "identity",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b03c-accounts-facts.md",
+    "editorial_report": "ops/reviews/b03c-accounts-editorial.md",
+    "body_sha256": "b53f5c15d53a9e55240407d4b3c7f73aa2cdbe96df7a5b086cebda7191305732",
+    "reviewed_file_sha256": "279676ca4b7d24a85c1fac5a958e37731ce907ff78a3400903fb9f9227344a15"
+  },
+  "content/book/life/digital/telecom.md": {
+    "author": "root",
+    "facts": "daily_history",
+    "editor": "identity",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b03c-telecom-facts.md",
+    "editorial_report": "ops/reviews/b03c-telecom-editorial.md",
+    "body_sha256": "42543e4f45b1d209900195df870d946329160cf794435f3c01fa36c4b28ab80a",
+    "reviewed_file_sha256": "58210354e20ff72889ea53ccef088ddca9675cc9fff4fc29ba33eff0026cf8fe"
+  },
+  "content/book/foundations/world/regional-ties.md": {
+    "author": "care_finance",
+    "facts": "daily_history",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b03b-world-inequality-facts.md",
+    "editorial_report": "ops/reviews/b03b-editorial.md",
+    "body_sha256": "bfd062163cb527a14abae83b6ca1c77ce437463c672da88b9dd7fd2e8d7388a6",
+    "reviewed_file_sha256": "066aea5f64ceb6a43518dca6f1b6d6f032f70e84efd7b0f81d57883f65b1f272"
+  },
+  "content/book/foundations/world/trade-migration.md": {
+    "author": "care_finance",
+    "facts": "daily_history",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b03b-world-inequality-facts.md",
+    "editorial_report": "ops/reviews/b03b-editorial.md",
+    "body_sha256": "0b3aeee8e539091b8a2079543680ce051dbe226f413f4e72f44fb072650e218a",
+    "reviewed_file_sha256": "cf227a5d2765e85ce5288bbebffc56adcc18a18d559de51dde17b50073ccf3f8"
+  },
+  "content/book/foundations/world/perspectives.md": {
+    "author": "care_finance",
+    "facts": "daily_history",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b03b-world-inequality-facts.md",
+    "editorial_report": "ops/reviews/b03b-editorial.md",
+    "body_sha256": "5a37f748295366d95d0cd8dac666d0236bdfacf612bda687f274a0c7075a811d",
+    "reviewed_file_sha256": "09ae630340d3ff87bffa3bc9deee266c9f3d4e186011193b31fef41dc5f0fa52"
+  },
+  "content/book/foundations/culture/inequality.md": {
+    "author": "care_finance",
+    "facts": "daily_history",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b03b-world-inequality-facts.md",
+    "editorial_report": "ops/reviews/b03b-editorial.md",
+    "body_sha256": "efbcf7976ca27fbe311902440c39f8c9a93564b6427dfafc9eaa5bfe4703aed7",
+    "reviewed_file_sha256": "4eb684781f7158b75915a844c9aec86ac7805e9eed065db83733ce77e9a8900b"
+  },
+  "content/book/life/documents/permanent-residence.md": {
+    "author": "identity",
+    "facts": "care_finance",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b03c-documents-facts.md",
+    "editorial_report": "ops/reviews/b03c-documents-editorial.md",
+    "body_sha256": "d4aae3d940406cdf565c5ec4a0192615674180fd3386213e8f113be80cba4c3b",
+    "reviewed_file_sha256": "592bb7c402bafdc91d856342c7e1d7abff12886631a5d59fb9de3f86cc1e10fd"
+  },
+  "content/book/life/digital/privacy-fraud.md": {
+    "author": "root",
+    "facts": "daily_history",
+    "editor": "identity",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b03c-privacy-fraud-facts.md",
+    "editorial_report": "ops/reviews/b03c-privacy-fraud-editorial.md",
+    "body_sha256": "388356e812051a3020400a5945b5230b942c4188765f72ccfb350a191af260ea",
+    "reviewed_file_sha256": "21287aa70affe1fb4fe2859b0e58f8959b8cb605599e29253124ba82f827ed49"
   }
 }

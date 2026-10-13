@@ -43,3 +43,9 @@ weight: 30
 | CASE / SCT | 消费者协会 / 小额索偿庭 | [消费争议](/book/life/household/consumer-rights/) |
 | AVS / PALS | 动物与兽医事务组 / 宠物执照系统 | [养宠物](/book/life/household/keeping-pets/) |
 | Credit Counselling Singapore | 信贷辅导机构；其缩写CCS须结合语境辨认 | [家庭预算与债务求助](/book/work/finance/household-budget/) |
+| CMIO / IRO | 常见族群统计分类 / 跨宗教交流组织 | [族群与身份](/book/foundations/society/communities/)、[宗教与节庆](/book/foundations/society/religion-festivals/) |
+| Singpass / Myinfo / passkey | 数字身份账户 / 资料预填服务 / 通行密钥 | [账户与资料](/book/life/digital/accounts/)、[账户安全](/book/life/digital/privacy-fraud/) |
+| GIRO / telecom ADR | 定期扣款安排 / 电信服务争议解决途径 | [通信合约与订阅](/book/life/digital/telecom/) |
+| SCJ / ORAL / PRSEP | 公民旅程 / 特定未成年入籍者成年宣誓 / PR单次入境通行安排 | [申请PR、公民与REP](/book/life/documents/permanent-residence/) |
+| ASEAN / BBK / RTS Link | 东盟 / 巴淡、民丹和卡里汶 / 柔新捷运项目 | [邻国与区域联系](/book/foundations/world/regional-ties/) |
+| Gini / MIS / TEU | 基尼系数 / 基本生活需要研究 / 标准箱 | [阶层与生活压力](/book/foundations/culture/inequality/)、[开放经济口径](/book/foundations/world/trade-migration/) |

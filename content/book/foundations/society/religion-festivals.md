@@ -4,10 +4,11 @@ description: "认识新加坡不同信仰与无宗教者的生活，区分公共
 page_id: sg-religion-festivals
 content_kind: guide
 scope: "新加坡居民与访客；宗教文化理解、节庆邀请及日常宗教场所参访，不提供改宗、宗教婚姻或宗教活动许可程序"
-status: written
-draft: true
-verified: ""
-reviewed_by: ""
+status: integrated
+draft: false
+verified: "2026-10-13"
+reviewed_by: "care_finance（独立事实）；root（第三人编辑）"
+weight: 20
 ---
 
 在新加坡参加节庆或到访宗教场所，先确认自己受邀参加的是聚餐、文化活动、导览，还是礼拜仪式。衣着、饮食、摄影和能进入的区域，应以该场所与主人的说明为准。可以真诚祝福、认真了解，也可以提前说明自己只参观或不参加某项仪式。

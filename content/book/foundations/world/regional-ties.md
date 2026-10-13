@@ -4,11 +4,12 @@ description: 从柔佛通勤、廖内群岛合作、水与能源供应和海峡�
 page_id: sg-world-regional-ties
 content_kind: explainer
 scope: 希望理解新加坡区域位置的居民与访客；解释邻国关系与日常影响，不替代跨境入境、就业或投资手续指南
-status: written
-draft: true
-verified: ""
-reviewed_by: ""
+status: integrated
+draft: false
+verified: "2026-10-13"
+reviewed_by: "daily_history（独立事实）；root（第三人编辑）"
 weight: 10
+search_keywords: ["ASEAN", "BBK", "RTS", "柔佛", "东盟"]
 ---
 
 新加坡与邻国的关系，会具体表现为通勤时间、家人能否方便往来、水与能源的供应，以及货物能否安全通过海峡。马来西亚和印度尼西亚是紧邻的合作伙伴，东盟则提供更广的区域协商框架。理解这些关系，需要同时看合作怎样落实、哪些问题仍在谈判，以及跨境生活仍受哪些边界约束。

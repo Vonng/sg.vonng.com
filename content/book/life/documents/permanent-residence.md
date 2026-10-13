@@ -4,11 +4,12 @@ description: "按家庭、工作和学习情况找到申请路径，准备及更
 page_id: sg-permanent-residence
 content_kind: guide
 scope: "新加坡 PR 与公民申请人、担保家庭及准备跨境出行的 PR；含线上困难、批准后手续和未成年取得公民身份者的成年宣誓"
-status: written
-draft: true
-verified: ""
-reviewed_by: ""
+status: integrated
+draft: false
+verified: "2026-10-13"
+reviewed_by: "care_finance（独立事实）；root（第三人编辑）"
 weight: 50
+search_keywords: ["PR", "REP", "SCJ", "ORAL", "PRSEP", "入籍", "再入境许可"]
 ---
 
 PR 申请、公民申请和 Re-Entry Permit（REP，再入境许可）处理的是不同事项。先确认要取得什么身份、谁负责申请或担保，再准备文件；已经是 PR 而准备出境的人，应先核对 REP。申请回执、原则批准信和正式完成身份手续，也分别对应不同阶段。
@@ -54,6 +55,16 @@ ICA 列出的主要申请类别如下。符合类别只是进入评估的起点�
 
 提交和付款成功后，应看到确认页并收到确认邮件；下载申请副本，保存申请编号、付款凭据和所交文件版本。单纯保存草稿不算提交完成。[ICA：成功提交的确认](https://ask.gov.sg/ica/questions/clxwhkixw007wdsot13sf0s53)
 
+2026 年 10 月查阅的 PR 费用为每项申请 S$100；获批后另列 Entry Permit S$20、五年 REP S$50，以及适用的身份证 S$50。公民申请费用按申请人的类别分流：
+
+| 公民申请类别 | 提交时 | 完成手续时 |
+| --- | --- | --- |
+| 成年 PR 及 PR 的子女 | 每项申请 S$100 | 公民证书 S$70；满 15 岁新公民的身份证 S$10 |
+| 符合 ICA 列明父母关系条件的公民海外出生子女 | 每项申请 S$18，已含公民证书 | 满 15 岁新公民的身份证 S$10 |
+| 其他海外或本地出生子女 | 每项申请 S$100 | 公民证书 S$70；满 15 岁新公民的身份证 S$10 |
+
+上述 S$18 类别适用于生育母亲为公民，或父亲为公民且在孩子出生时与生育母亲结婚的海外出生子女。公布的费用不退；获批通知也可能列出其他适用费用。付款前按本人类别核对 [PR 费用表](https://www.ica.gov.sg/reside/PR/apply)或[公民费用表](https://www.ica.gov.sg/reside/citizenship/apply)。
+
 ## 等待期间怎样跟进
 
 ICA 在材料齐全的情况下，一般于六个月内处理 PR、十二个月内处理公民申请；部分个案会更久。公民的海外出生子女申请另有材料齐全时一个月的处理说明。具体进度从 MyICA 或相应 e-Service 查看，留意补件与其他指示。[PR 处理说明](https://www.ica.gov.sg/reside/PR/apply)、[公民处理说明](https://www.ica.gov.sg/reside/citizenship/apply)
@@ -74,7 +85,7 @@ ICA 在材料齐全的情况下，一般于六个月内处理 PR、十二个月�
 
 公民申请获原则批准后，仍须完成信中条件。ICA 规定 16 至 60 岁申请人完成 Singapore Citizenship Journey（SCJ）。完成 SCJ 并收到通知后，从 e-Service 下载后续结果信；需要退出原国籍的申请人，再拿 ICA 批准信向原国籍的使领馆或主管办理，不要仅凭已提交申请就提前注销自己现有国籍。[ICA：批准后条件](https://www.ica.gov.sg/reside/citizenship/apply)、[取得办理退籍的批准信](https://ask.gov.sg/ica/questions/clxwhkixo004sdsotdlvbqax2)
 
-适用的成年申请人须取得退出外国国籍的文件，再完成新加坡公民登记手续；不同国家的退籍程序由该国主管决定。将文件上传原案件，按 e-Service 的最终指示准备登记所需材料与预约。上传有问题，可通过查询表附上退籍文件求助。[ICA：外国国籍退出与登记先后](https://ask.gov.sg/ica/questions/clxwrieja001bq3htzcsmfx75)、[上传退籍文件](https://ask.gov.sg/ica/questions/clxwriejb001lq3htufgg8up4)、[登记最终指示](https://ask.gov.sg/ica/questions/clxwriejb001pq3htlhj0423t)
+批准信要求退出外国国籍的成年申请人，须先取得退籍文件，再完成新加坡公民登记手续；不同国家的退籍程序由该国主管决定。将文件上传原案件，按 e-Service 的最终指示准备登记所需材料与预约。上传有问题，可通过查询表附上退籍文件求助。[ICA：外国国籍退出与登记先后](https://ask.gov.sg/ica/questions/clxwrieja001bq3htzcsmfx75)、[上传退籍文件](https://ask.gov.sg/ica/questions/clxwriejb001lq3htufgg8up4)、[登记最终指示](https://ask.gov.sg/ica/questions/clxwriejb001pq3htlhj0423t)
 
 登记后的公民仪式和领取公民证书另有通知，按邮件安排办理。[ICA：领取公民证书](https://ask.gov.sg/ica/questions/clxwriej7000bq3ht5v2536fc) 收到新身份文件后，检查姓名及日期，按新的公民身份更新需要使用这些记录的服务。个案退籍时间、跨国姓名和旅行证件衔接有困难，应把具体文件与计划交 ICA 和原国籍主管分别确认。
 
@@ -96,12 +107,14 @@ REP 用于 PR 离境后保有身份并返回， **REP 有效期不等于身份�
 
 ### 已在境外而 REP 无效，不能只靠回境补救
 
-自 **2025 年 12 月 1 日** 起，以下两种情况须在规定 180 日内申请 REP，且申请仍须获批：
+以下规则适用于 **2025 年 12 月 1 日或之后** 发生的无有效 REP 离境，或人在境外时 REP 失效。须在规定 180 日内申请 REP，且申请仍须获批：
 
 | 情形 | 180 日从哪里起算 |
 | --- | --- |
 | 离开新加坡时没有有效 REP | 离境日 |
 | 离境时 REP 有效，人在境外期间失效 | REP 到期日 |
+
+在 2025 年 12 月 1 日之前已无有效 REP 身处境外的情形，适用当时的身份丧失及恢复规则，不能直接套用这个 180 日窗口；应把离境和 REP 日期交 ICA 确认。[ICA：新旧规则，第 1—3 页](https://www.ica.gov.sg/files/faqs_revisions-to-permanent-resident-re-entry-permit-application-process-from-1-december-2025)
 
 在期限内申请，可在等待结果期间保留 PR；申请不成功，会在结果发出翌日失去 PR。没有在 180 日内申请，也会在该期限结束翌日失去 PR。 **期间回到新加坡不会免除申请要求** ，已经回来且在拒绝结果发出时人在境内者，也会受此影响。[ICA：REP 有效性规则](https://www.ica.gov.sg/enter-depart/for-PR/check-REP-validity)、[2025 年 11 月 12 日版问答，第 2—5 页](https://www.ica.gov.sg/files/faqs_revisions-to-permanent-resident-re-entry-permit-application-process-from-1-december-2025)
 

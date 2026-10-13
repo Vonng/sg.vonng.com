@@ -4,11 +4,12 @@ description: 用 2026 年外交讲话、ISEAS 区域调查与 Pew 本地公众�
 page_id: sg-world-perspectives
 content_kind: explainer
 scope: 阅读国际新闻和参与日常讨论的读者；聚焦中美关系中的证据与观点，不推定任何族群或个人的政治立场
-status: written
-draft: true
-verified: ""
-reviewed_by: ""
+status: integrated
+draft: false
+verified: "2026-10-13"
+reviewed_by: "daily_history（独立事实）；root（第三人编辑）"
 weight: 30
+search_keywords: ["ISEAS", "Pew", "中美关系", "民调"]
 ---
 
 谈论“新加坡怎么看中国和美国”，首先要分清发言者与问题。政府说明外交政策，研究机构记录特定人群对特定问题的回答，媒体决定怎样呈现材料，个人则讲述自己的经历。2026 年的原始材料就展示了几种可以同时存在的判断：政府希望保持独立选择，一项区域调查询问被迫选边，另一项公众调查测量对中国的好感。

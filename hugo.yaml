@@ -185,3 +185,8 @@ menus:
     name: 准备迎接孩子
     pageRef: /docs/routes/having-child/
     weight: 35
+  - identifier: routes-digital-safety
+    parent: routes
+    name: 怀疑被骗或账户遭盗用
+    pageRef: /docs/routes/digital-safety/
+    weight: 8

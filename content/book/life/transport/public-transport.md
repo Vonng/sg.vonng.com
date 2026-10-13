@@ -41,6 +41,12 @@ SimplyGo 接受符合条件的 American Express、Mastercard、Visa 和 NETS 感
 
 同卡同设备是正确计费的关键。若进站用实体卡、出站改用手机，系统会把它们看成不同交易；手机也要留够电量。[SimplyGo 使用说明](https://www.simplygo.com.sg/faqs/cards-and-charms/simplygo/contactless-bank-cards/)
 
+### 车内饮食、音量与车长提醒
+
+公共巴士车内不吃东西、不喝饮料、不乱丢垃圾，也不要把脚放在座位上或大声播放音频影响别人。听音乐、看视频时使用耳机。 **2026 年 9 月 23 日起** ，车内饮食及这些滋扰行为已纳入新的巴士行为规例。[LTA 巴士及转换站行为规例公告](https://www.lta.gov.sg/content/ltagov/en/newsroom/2026/9/news-releases/-new-regulations-on-public-buses-and-at-bus-interchanges-termina.html)
+
+车长要求停止滋扰行为时，应配合；拒不配合的乘客可被要求下车。需要因身体或心理健康状况获得帮助，可以向工作人员说明具体需要；LTA 表明处理相关情况时仍会酌情、公平判断。上述公告同时说明车长负责安全驾驶，违规通知由获授权的其他人员发出，之后由 LTA 调查。
+
 ## 换乘为什么有时重新收费
 
 使用卡片按距离计费，合资格换乘会合并为同一行程，不再加收一次起步部分。普通距离票价的主要限制是：

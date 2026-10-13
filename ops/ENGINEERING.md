@@ -1,5 +1,15 @@
 # 工程与验收
 
+## B03B/C恢复批本地验收（2026-10-13）
+
+接续交接的历史文化4、社会3、世界/不平等4、数字3及PR申请1，共新增15主题；同时维护公共交通巴士2026-09-23新规。全部有异人事实及第三编辑，接收只改元数据、排序与检索关键词，正文SHA与相应报告一致。新增society/culture/world/digital导读、防骗事项入口和术语。
+
+实际检查25路径×桌面1440×1000/手机390×844，共66项；5个新/变动侧栏分支在两视口逐层展开、Space/Enter折叠并实点叶子，CMIO/RTS/Myinfo/ORAL/1799/不平等/ISEAS搜索及两类专题探针共28项通过。无脚本错误或本地请求失败。ORAL首次没有进入前十，核主题实现后以八篇元数据的search_keywords数组补足；该字段由OINK search/metadata读取并进入索引，不在正文展示，不提升核验日期。正文哈希均未变，复测两视口ORAL首个正文结果为PR主题。
+
+整书打印65书节点、41来源附录、180物理页，无失效锚点或相对站内外链；暗色转纸面白底、表格黑字通过。root实际看桌面观点页、手机观点三列表/PR费用表及打印66/86/130页；中文字、跨页表格与来源长网址可读。这是指定样本目视，非180页逐张检查。原图/PDF及完整报告在忽略.cache/render-b03bc，轻量记录见checks/b03bc-acceptance.json。
+
+复现：SG_PATHS_FILE=.cache/b03bc-browser-paths.json SG_RENDER_DIR=.cache/render-b03bc SG_TABLE_PATH=/book/foundations/world/perspectives/ node scripts/check_browser.mjs；SG_RENDER_DIR=.cache/render-b03bc node scripts/check_print.mjs。额外探针源保存在忽略.cache/check-b03bc-extra.mjs，本批范围和结果在轻量记录中。生产最终make check与同步数量以下述验收JSON实际值为准。后续新稿独立验收，不把本批覆盖扩大到全书。
+
 ## 锁定基线
 
 2026-10-13实际：Hugo v0.166.0+extended+withdeploy darwin/arm64（Homebrew）；OINK v1.2.0，Git子模块固定 f8f476e660cf053a2645b7b923ae8d08d5448fce，远程 https://github.com/pgsty/oink.git。初次从加拿大本地主题只读克隆并改为公开上游URL，未改加拿大源码。Python PyYAML 6.0.1；浏览器检查依赖Playwright 1.62.1置于忽略.cache/browser，Chrome采用本机独立headless实例。

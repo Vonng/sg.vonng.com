@@ -4,10 +4,10 @@ description: 从就业、公共住房和家庭照顾理解工业化：新镇带�
 page_id: sg-housing-industrialisation
 content_kind: explainer
 scope: 新加坡二十世纪中后期工业化与公共住房的社会史；供所有读者理解日常生活的形成，不列现行住房申请资格
-status: written
-draft: true
-verified: ""
-reviewed_by: ""
+status: integrated
+draft: false
+verified: "2026-10-13"
+reviewed_by: "identity（独立事实）；root（第三人编辑）"
 weight: 20
 ---
 

@@ -4,10 +4,11 @@ description: "分清本地出生、新移民和外籍工作者的不同含义，
 page_id: sg-migration-and-families
 content_kind: concept
 scope: "新加坡本地出生者、新公民、PR、各类外籍工作者、学生及跨国家庭；社会理解和支持选路，具体准证、工作及家庭法律依相应主文"
-status: written
-draft: true
-verified: ""
-reviewed_by: ""
+status: integrated
+draft: false
+verified: "2026-10-13"
+reviewed_by: "care_finance（独立事实）；root（第三人编辑）"
+weight: 30
 ---
 
 在新加坡，“本地人”“新移民”“外籍人士”常出现在同一场讨论里，却可能分别指国籍、出生地、到来时间或工作身份。要理解一个人的生活处境，先弄清这些词在当时指什么，再看他与家庭如何居住、工作、照护和建立联系。

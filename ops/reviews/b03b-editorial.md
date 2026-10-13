@@ -28,3 +28,16 @@ HEB引用修订版全文复读，与care报告一致；宪法标2023汇编并以
 | `content/book/foundations/society/communities.md` | `6bf7680e4754f385386e57c0ae3c3cb94f36e54a2c19589a503182a171906e9f` | `2fae26eaf693b31091c9d856cd51ef6f0a6bea399390eb3d772e90c82db6da08` |
 | `content/book/foundations/society/religion-festivals.md` | `38ab351270d7aa4c403fdebf0c549f5fce9ebb35ff4490f297e68d087f43aa65` | `ac34443905ba65fac3908e2b13e6bfa3449eccfa74ae23a495c591d0606f2629` |
 | `content/book/foundations/society/migration.md` | `6a9a49740ad104581fb310eab1a7f4065712303a6a0eeb87cce638b963d76c03` | `d0a1562e24dce6df1721241c8f5a04b93f25a9d5d562c7a6ce80816b39e0e09f` |
+
+## 世界与不平等四篇：通过（恢复后完成）
+
+root；2026-10-13 Asia/Singapore。作者care_finance，独立事实daily_history。已完整阅读四篇最终正文与新签发事实报告，核对采用范围、题目、年份、内链与状态。区域合作的实施、目标、待批准和谈判分别表述；RTS采用2026-10-02新公告。港口、贸易、资产管理与人口口径有实际解释用途，CECA不推导个人工作权。ISEAS与Pew的样本、主体、题意及时间保留，未机械比较两个比例；教学转述有明确标记。阶层篇没有用居民家庭统计代表全部外籍工作者，研究争论两方有归属，困难及歧视有具体入口。
+
+静态核对九项元数据、无重复H1、中文粗体、引用与内部目标存在，通过；正文未改。事实报告明确原文缓存再读、PDF采用页与真实浏览器读取范围，本编辑不另作回源声明。工程、双视口及打印待主控执行。
+
+| 文件 | 完整SHA256 | 正文SHA256 |
+|---|---|---|
+| `content/book/foundations/world/regional-ties.md` | `066aea5f64ceb6a43518dca6f1b6d6f032f70e84efd7b0f81d57883f65b1f272` | `bfd062163cb527a14abae83b6ca1c77ce437463c672da88b9dd7fd2e8d7388a6` |
+| `content/book/foundations/world/trade-migration.md` | `cf227a5d2765e85ce5288bbebffc56adcc18a18d559de51dde17b50073ccf3f8` | `0b3aeee8e539091b8a2079543680ce051dbe226f413f4e72f44fb072650e218a` |
+| `content/book/foundations/world/perspectives.md` | `09ae630340d3ff87bffa3bc9deee266c9f3d4e186011193b31fef41dc5f0fa52` | `5a37f748295366d95d0cd8dac666d0236bdfacf612bda687f274a0c7075a811d` |
+| `content/book/foundations/culture/inequality.md` | `4eb684781f7158b75915a844c9aec86ac7805e9eed065db83733ce77e9a8900b` | `efbcf7976ca27fbe311902440c39f8c9a93564b6427dfafc9eaa5bfe4703aed7` |

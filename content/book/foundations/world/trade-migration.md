@@ -4,10 +4,10 @@ description: 分清货物贸易、港口吞吐、金融资产与人口口径，�
 page_id: sg-world-trade-migration
 content_kind: explainer
 scope: 希望理解新加坡开放经济与人口流动的居民；不提供投资建议、商业报关或移民申请判断
-status: written
-draft: true
-verified: ""
-reviewed_by: ""
+status: integrated
+draft: false
+verified: "2026-10-13"
+reviewed_by: "daily_history（独立事实）；root（第三人编辑）"
 weight: 20
 ---
 

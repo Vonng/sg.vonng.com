@@ -4,10 +4,10 @@ description: 在预约、通勤、同事邀约和邻里交往中，怎样把时�
 page_id: sg-everyday-etiquette
 content_kind: explainer
 scope: 在新加坡日常生活、工作和访问公共场所的读者；提供场景沟通建议，区分机构要求与个人偏好
-status: written
-draft: true
-verified: ""
-reviewed_by: ""
+status: integrated
+draft: false
+verified: "2026-10-13"
+reviewed_by: "identity（独立事实）；root（第三人编辑）"
 weight: 10
 ---
 

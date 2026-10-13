@@ -1,0 +1,355 @@
+{
+  "date": "2026-10-13T12:38:05.048499+08:00",
+  "batch": "B03B/C recovery integration",
+  "new_topics": [
+    "content/book/foundations/history/housing-industrialisation.md",
+    "content/book/foundations/history/memory.md",
+    "content/book/foundations/culture/everyday-etiquette.md",
+    "content/book/foundations/culture/hawker-social-life.md",
+    "content/book/foundations/society/communities.md",
+    "content/book/foundations/society/religion-festivals.md",
+    "content/book/foundations/society/migration.md",
+    "content/book/life/digital/accounts.md",
+    "content/book/life/digital/telecom.md",
+    "content/book/foundations/world/regional-ties.md",
+    "content/book/foundations/world/trade-migration.md",
+    "content/book/foundations/world/perspectives.md",
+    "content/book/foundations/culture/inequality.md",
+    "content/book/life/documents/permanent-residence.md",
+    "content/book/life/digital/privacy-fraud.md"
+  ],
+  "maintained_topic": "content/book/life/transport/public-transport.md",
+  "accepted_topics": 41,
+  "build": {
+    "source_pages": 94,
+    "topics": 49,
+    "drafts": 8,
+    "html": 88,
+    "internal_references": 10670,
+    "external_references_skipped": 2011,
+    "errors": []
+  },
+  "public_source_pages": 86,
+  "output_files": 228,
+  "output_inventory_sha256": "dcf86d43923498ed6ce8e7a193f3bf5c598ad410e5736619ef65cecfe26a4aaa",
+  "public_exactly_synced": true,
+  "paths": [
+    "/",
+    "/book/foundations/",
+    "/book/foundations/history/",
+    "/book/foundations/society/",
+    "/book/foundations/culture/",
+    "/book/foundations/world/",
+    "/book/life/digital/",
+    "/docs/routes/digital-safety/",
+    "/docs/glossary/",
+    "/book/life/transport/public-transport/",
+    "/book/foundations/history/housing-industrialisation/",
+    "/book/foundations/history/memory/",
+    "/book/foundations/culture/everyday-etiquette/",
+    "/book/foundations/culture/hawker-social-life/",
+    "/book/foundations/society/communities/",
+    "/book/foundations/society/religion-festivals/",
+    "/book/foundations/society/migration/",
+    "/book/life/digital/accounts/",
+    "/book/life/digital/telecom/",
+    "/book/foundations/world/regional-ties/",
+    "/book/foundations/world/trade-migration/",
+    "/book/foundations/world/perspectives/",
+    "/book/foundations/culture/inequality/",
+    "/book/life/documents/permanent-residence/",
+    "/book/life/digital/privacy-fraud/"
+  ],
+  "browser": {
+    "pass": true,
+    "check_count": 66,
+    "viewports": [
+      [
+        1440,
+        1000
+      ],
+      [
+        390,
+        844
+      ]
+    ],
+    "errors": [],
+    "screenshots": [
+      ".cache/render-b03bc/desktop-home.png",
+      ".cache/render-b03bc/desktop-topic.png",
+      ".cache/render-b03bc/desktop-navigation.png",
+      ".cache/render-b03bc/desktop-dark.png",
+      ".cache/render-b03bc/mobile-home.png",
+      ".cache/render-b03bc/mobile-topic.png",
+      ".cache/render-b03bc/mobile-topic-table.png",
+      ".cache/render-b03bc/mobile-navigation.png",
+      ".cache/render-b03bc/mobile-dark.png"
+    ]
+  },
+  "extra_browser": {
+    "pass": true,
+    "check_count": 28,
+    "checks": [
+      {
+        "label": "desktop",
+        "branch": "society",
+        "visibleLeafAndActualClick": "/book/foundations/society/communities/",
+        "keyboardFold": true
+      },
+      {
+        "label": "desktop",
+        "branch": "culture",
+        "visibleLeafAndActualClick": "/book/foundations/culture/inequality/",
+        "keyboardFold": true
+      },
+      {
+        "label": "desktop",
+        "branch": "world",
+        "visibleLeafAndActualClick": "/book/foundations/world/perspectives/",
+        "keyboardFold": true
+      },
+      {
+        "label": "desktop",
+        "branch": "digital",
+        "visibleLeafAndActualClick": "/book/life/digital/privacy-fraud/",
+        "keyboardFold": true
+      },
+      {
+        "label": "desktop",
+        "branch": "documents",
+        "visibleLeafAndActualClick": "/book/life/documents/permanent-residence/",
+        "keyboardFold": true
+      },
+      {
+        "label": "desktop",
+        "search": "CMIO",
+        "expected": "族群分类",
+        "results": "全书导读\n族群分类与生活中的身份\n认识华族、马来族、印度族、欧亚及其他社群，分清行政族群分类、历史来源与个人的语言、信仰和身份认同。\n谁需要国民服役，怎样安排学业和离境\n按国籍、性别、年龄和 PR 取得途径判断 NS 义务，查清登记、延缓入伍与海外居住的手续。\n医疗费用怎样支付：补贴、MediSave 与保险\n按公民、PR 与外籍身份判断医疗补贴和保险，再核对账单中仍需自己承担的部分。\n总统、国会、内阁与法院各做什么\n理解新加坡国家机构的分工、政府怎样组成、法律怎样通过，以及读政策消息和寻找办事入口时应区分什么。\n购物、退换与维修：消费问题怎样处理\n下单前确认退换和保修，商品有缺陷时向卖家提出补救，并按条件使用 CASE 协商和小额索偿程序。\n富裕城市里的阶层、生活压力与歧视\n区分收入、财富、家庭需要和社会流动，结合本地研究理解生活压力与歧视，并找到具体求助入口。\n手机、宽带与订阅：开通、搬迁和取消\n按证件和使用需要选通信服务，保住常用号码，安排接网搬迁，并把合约、订阅与自动扣款分别收尾。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+      },
+      {
+        "label": "desktop",
+        "search": "RTS",
+        "expected": "马来西亚",
+        "results": "全书导读\n马来西亚、印度尼西亚与东盟怎样进入日常生活\n从柔佛通勤、廖内群岛合作、水与能源供应和海峡安全，理解新加坡与邻国及东盟的联系。\n申请 PR、公民与办理 REP\n按家庭、工作和学习情况找到申请路径，准备及更新材料，完成批准后的手续，并在离境返回前处理 REP。\nCPF 基础：谁要缴、工资怎样扣、钱能做什么\n按身份、年龄、PR 阶段和就业形式判断 CPF 缴纳，并理解住房、医疗与退休账户。\n个人所得税：居民身份、申报和缴款\n分清税务居民与准证身份、YA 与所得年度，以及 AIS、NFS、D-NOA、税单更正和缴税各自需要做什么。\n买菜与吃饭：从巴刹、小贩中心到超市\n安排日常采购和外食，读懂食物标签、清真认证、GST与服务费，处理餐具归还、饮料押金和食品问题。\n怀孕到出生：就医、登记与孩子的身份\n安排产检和生产，按时登记出生，并按父母与孩子的身份衔接护照、居留和产假。\n地铁和巴士怎样乘、怎样付费\n从选卡和上下车刷卡开始，弄清换乘计费、儿童与长者优惠，以及轮椅出行和扣费异常的处理。\n工作准证怎么选，入职前查什么\n比较 EP、S Pass、行业及家政 Work Permit、PEP、ONE Pass 与 EntrePass，并核对 offer、准证状态 …\n谁需要国民服役，怎样安排学业和离境\n按国籍、性别、年龄和 PR 取得途径判断 NS 义务，查清登记、延缓入伍与海外居住的手续。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+      },
+      {
+        "label": "desktop",
+        "search": "Myinfo",
+        "expected": "Singpass",
+        "results": "全书导读\nSingpass 与 Myinfo：注册、使用和找回账户\n按身份选择账户，完成注册与登录，核对资料授权，处理换手机、忘记密码和账户泄露，并找到柜台及照护协助。\n保护资料、判断信息与应对诈骗\n收到可疑电话和消息时怎样核实，账户或手机出事后怎样止损、留证与报案，并养成保护个人资料和查证信息的习惯。\n全书导读\n从社会背景到人生事务，沿五部分阅读新加坡。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+      },
+      {
+        "label": "desktop",
+        "search": "ORAL",
+        "expected": "申请 PR",
+        "results": "全书导读\n申请 PR、公民与办理 REP\n按家庭、工作和学习情况找到申请路径，准备及更新材料，完成批准后的手续，并在离境返回前处理 REP。\n族群分类与生活中的身份\n认识华族、马来族、印度族、欧亚及其他社群，分清行政族群分类、历史来源与个人的语言、信仰和身份认同。\n租房：从核验房源到拿钥匙入住\n按 HDB 与私宅、整套与房间核验租住条件，谈清租约和费用，完成印花税、租客登记与交接。\n个人所得税：居民身份、申报和缴款\n分清税务居民与准证身份、YA 与所得年度，以及 AIS、NFS、D-NOA、税单更正和缴税各自需要做什么。\n离职与离境税清：IR21 什么时候要办\n非公民雇员离职、海外派驻或长期离境时，核对 IR21 豁免、工资暂扣、雇主缴税、个人补款与离职后追加收入。\n养宠物：住处许可、日常花费与照顾责任\n养猫养狗前核对住宅限制，办理芯片和执照，安排日常照顾、兽医及旅行寄养，并处理走失和无法继续饲养的情况。\n纪念碑、口述与海岛记忆\n理解新加坡公共纪念怎样形成，并通过博物馆、私人档案与南部岛民的自述，看见不同群体保存过去的方式。\n工厂、组屋与家庭生活的改变\n从就业、公共住房和家庭照顾理解工业化：新镇带来的便利、搬迁的代价，以及女性劳动和社群关系的变化。\n怎样比较新加坡的生活圈\n从岛国空间、人口分布和多个就业中心出发，用门到门通勤、服务可达性与实际居住环境比较住处。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+      },
+      {
+        "label": "desktop",
+        "search": "1799",
+        "expected": "保护资料",
+        "results": "全书导读\n保护资料、判断信息与应对诈骗\n收到可疑电话和消息时怎样核实，账户或手机出事后怎样止损、留证与报案，并养成保护个人资料和查证信息的习惯。\n租房：从核验房源到拿钥匙入住\n按 HDB 与私宅、整套与房间核验租住条件，谈清租约和费用，完成印花税、租客登记与交接。\n工厂、组屋与家庭生活的改变\n从就业、公共住房和家庭照顾理解工业化：新镇带来的便利、搬迁的代价，以及女性劳动和社群关系的变化。\n从海峡港口到独立国家\n沿着贸易、殖民、战争与政治选择，理解新加坡怎样从区域港口走到 1965 年独立。\n小贩中心与日常社交生活\n从街头小贩到共同用餐空间，理解饮食传承、摊贩劳动，以及运动、休闲和多语媒体怎样连接日常生活。\n紧急求助：报警、救护与住家火灾\n分清 999、995 和两种紧急短信号码，说明通话、无法讲话、报案受阻及火灾无法自行疏散时的下一步。\nCPF 基础：谁要缴、工资怎样扣、钱能做什么\n按身份、年龄、PR 阶段和就业形式判断 CPF 缴纳，并理解住房、医疗与退休账户。\n怎样比较新加坡的生活圈\n从岛国空间、人口分布和多个就业中心出发，用门到门通勤、服务可达性与实际居住环境比较住处。\n港口、资本与人流怎样连接新加坡和世界\n分清货物贸易、港口吞吐、金融资产与人口口径，理解中国、印度、美国及欧洲与新加坡工作的不同联系。\n在多语环境里，把话听懂、把事说清\n理解英语、华语、马来语、泰米尔语与方言的生活位置，学习应对 Singlish、电话和办事沟通。"
+      },
+      {
+        "label": "desktop",
+        "search": "不平等",
+        "expected": "阶层",
+        "results": "全书导读\n富裕城市里的阶层、生活压力与歧视\n…和获得机会的条件，回答的是不同问题。理解新加坡的不平等，既要看统计覆盖谁，也要看钱是否能在需要时使用、照护怎样安排，以及一个人是否受到不公平对待。 一份家庭收入…\n从海峡港口到独立国家\n…居民的机会和权力并不相同。陈泰永对移民劳动与殖民不平等的讨论 1826 年，新加坡与槟城、马六甲组成海峡殖民地；同年的第二司法宪章为英国法在当地的实施建立正式依…"
+      },
+      {
+        "label": "desktop",
+        "search": "ISEAS",
+        "expected": "中美关系",
+        "results": "全书导读\n谈中美关系时，谁在表达“新加坡的看法”\n用 2026 年外交讲话、ISEAS 区域调查与 Pew 本地公众调查，理解官方立场、假设选边、国家好感和个人经历之间的区别。\nSingpass 与 Myinfo：注册、使用和找回账户\n按身份选择账户，完成注册与登录，核对资料授权，处理换手机、忘记密码和账户泄露，并找到柜台及照护协助。\n买菜与吃饭：从巴刹、小贩中心到超市\n安排日常采购和外食，读懂食物标签、清真认证、GST与服务费，处理餐具归还、饮料押金和食品问题。\n租房：从核验房源到拿钥匙入住\n按 HDB 与私宅、整套与房间核验租住条件，谈清租约和费用，完成印花税、租客登记与交接。\n个人所得税：居民身份、申报和缴款\n分清税务居民与准证身份、YA 与所得年度，以及 AIS、NFS、D-NOA、税单更正和缴税各自需要做什么。\n保护资料、判断信息与应对诈骗\n收到可疑电话和消息时怎样核实，账户或手机出事后怎样止损、留证与报案，并养成保护个人资料和查证信息的习惯。\n离职与离境税清：IR21 什么时候要办\n非公民雇员离职、海外派驻或长期离境时，核对 IR21 豁免、工资暂扣、雇主缴税、个人补款与离职后追加收入。\n先看身份，再判断能办什么\n分清公民、PR、工作准证、学生与家属身份，找到居留、工作和公共服务资格的判断起点。\n打理住处：水电燃气、维修与垃圾回收\n开通和核对家庭水电账户，处理漏水停电、空调潮湿及虫害，找合适的维修人员，并安排日常垃圾和大件回收。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+      },
+      {
+        "label": "desktop",
+        "prTables": [
+          {
+            "client": 770,
+            "scroll": 770,
+            "width": 770,
+            "strong": 0
+          },
+          {
+            "client": 770,
+            "scroll": 770,
+            "width": 770,
+            "strong": 0
+          },
+          {
+            "client": 770,
+            "scroll": 770,
+            "width": 770,
+            "strong": 0
+          },
+          {
+            "client": 770,
+            "scroll": 770,
+            "width": 770,
+            "strong": 0
+          }
+        ]
+      },
+      {
+        "label": "desktop",
+        "fraudBoldAndDates": [
+          "适用：",
+          "事实核验：",
+          "1799",
+          "+65 6869 1799",
+          "教学虚构",
+          "999",
+          "1799 提供防骗咨询，但不能替你报案",
+          "2026 年 12 月 31 日前",
+          "2027 年 1 月 1 日起"
+        ]
+      },
+      {
+        "label": "mobile",
+        "branch": "society",
+        "visibleLeafAndActualClick": "/book/foundations/society/communities/",
+        "keyboardFold": true
+      },
+      {
+        "label": "mobile",
+        "branch": "culture",
+        "visibleLeafAndActualClick": "/book/foundations/culture/inequality/",
+        "keyboardFold": true
+      },
+      {
+        "label": "mobile",
+        "branch": "world",
+        "visibleLeafAndActualClick": "/book/foundations/world/perspectives/",
+        "keyboardFold": true
+      },
+      {
+        "label": "mobile",
+        "branch": "digital",
+        "visibleLeafAndActualClick": "/book/life/digital/privacy-fraud/",
+        "keyboardFold": true
+      },
+      {
+        "label": "mobile",
+        "branch": "documents",
+        "visibleLeafAndActualClick": "/book/life/documents/permanent-residence/",
+        "keyboardFold": true
+      },
+      {
+        "label": "mobile",
+        "search": "CMIO",
+        "expected": "族群分类",
+        "results": "全书导读\n族群分类与生活中的身份\n认识华族、马来族、印度族、欧亚及其他社群，分清行政族群分类、历史来源与个人的语言、信仰和身份认同。\n谁需要国民服役，怎样安排学业和离境\n按国籍、性别、年龄和 PR 取得途径判断 NS 义务，查清登记、延缓入伍与海外居住的手续。\n医疗费用怎样支付：补贴、MediSave 与保险\n按公民、PR 与外籍身份判断医疗补贴和保险，再核对账单中仍需自己承担的部分。\n总统、国会、内阁与法院各做什么\n理解新加坡国家机构的分工、政府怎样组成、法律怎样通过，以及读政策消息和寻找办事入口时应区分什么。\n购物、退换与维修：消费问题怎样处理\n下单前确认退换和保修，商品有缺陷时向卖家提出补救，并按条件使用 CASE 协商和小额索偿程序。\n富裕城市里的阶层、生活压力与歧视\n区分收入、财富、家庭需要和社会流动，结合本地研究理解生活压力与歧视，并找到具体求助入口。\n手机、宽带与订阅：开通、搬迁和取消\n按证件和使用需要选通信服务，保住常用号码，安排接网搬迁，并把合约、订阅与自动扣款分别收尾。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+      },
+      {
+        "label": "mobile",
+        "search": "RTS",
+        "expected": "马来西亚",
+        "results": "全书导读\n马来西亚、印度尼西亚与东盟怎样进入日常生活\n从柔佛通勤、廖内群岛合作、水与能源供应和海峡安全，理解新加坡与邻国及东盟的联系。\n申请 PR、公民与办理 REP\n按家庭、工作和学习情况找到申请路径，准备及更新材料，完成批准后的手续，并在离境返回前处理 REP。\nCPF 基础：谁要缴、工资怎样扣、钱能做什么\n按身份、年龄、PR 阶段和就业形式判断 CPF 缴纳，并理解住房、医疗与退休账户。\n个人所得税：居民身份、申报和缴款\n分清税务居民与准证身份、YA 与所得年度，以及 AIS、NFS、D-NOA、税单更正和缴税各自需要做什么。\n买菜与吃饭：从巴刹、小贩中心到超市\n安排日常采购和外食，读懂食物标签、清真认证、GST与服务费，处理餐具归还、饮料押金和食品问题。\n怀孕到出生：就医、登记与孩子的身份\n安排产检和生产，按时登记出生，并按父母与孩子的身份衔接护照、居留和产假。\n地铁和巴士怎样乘、怎样付费\n从选卡和上下车刷卡开始，弄清换乘计费、儿童与长者优惠，以及轮椅出行和扣费异常的处理。\n工作准证怎么选，入职前查什么\n比较 EP、S Pass、行业及家政 Work Permit、PEP、ONE Pass 与 EntrePass，并核对 offer、准证状态 …\n谁需要国民服役，怎样安排学业和离境\n按国籍、性别、年龄和 PR 取得途径判断 NS 义务，查清登记、延缓入伍与海外居住的手续。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+      },
+      {
+        "label": "mobile",
+        "search": "Myinfo",
+        "expected": "Singpass",
+        "results": "全书导读\nSingpass 与 Myinfo：注册、使用和找回账户\n按身份选择账户，完成注册与登录，核对资料授权，处理换手机、忘记密码和账户泄露，并找到柜台及照护协助。\n保护资料、判断信息与应对诈骗\n收到可疑电话和消息时怎样核实，账户或手机出事后怎样止损、留证与报案，并养成保护个人资料和查证信息的习惯。\n全书导读\n从社会背景到人生事务，沿五部分阅读新加坡。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+      },
+      {
+        "label": "mobile",
+        "search": "ORAL",
+        "expected": "申请 PR",
+        "results": "全书导读\n申请 PR、公民与办理 REP\n按家庭、工作和学习情况找到申请路径，准备及更新材料，完成批准后的手续，并在离境返回前处理 REP。\n族群分类与生活中的身份\n认识华族、马来族、印度族、欧亚及其他社群，分清行政族群分类、历史来源与个人的语言、信仰和身份认同。\n租房：从核验房源到拿钥匙入住\n按 HDB 与私宅、整套与房间核验租住条件，谈清租约和费用，完成印花税、租客登记与交接。\n个人所得税：居民身份、申报和缴款\n分清税务居民与准证身份、YA 与所得年度，以及 AIS、NFS、D-NOA、税单更正和缴税各自需要做什么。\n离职与离境税清：IR21 什么时候要办\n非公民雇员离职、海外派驻或长期离境时，核对 IR21 豁免、工资暂扣、雇主缴税、个人补款与离职后追加收入。\n养宠物：住处许可、日常花费与照顾责任\n养猫养狗前核对住宅限制，办理芯片和执照，安排日常照顾、兽医及旅行寄养，并处理走失和无法继续饲养的情况。\n纪念碑、口述与海岛记忆\n理解新加坡公共纪念怎样形成，并通过博物馆、私人档案与南部岛民的自述，看见不同群体保存过去的方式。\n工厂、组屋与家庭生活的改变\n从就业、公共住房和家庭照顾理解工业化：新镇带来的便利、搬迁的代价，以及女性劳动和社群关系的变化。\n怎样比较新加坡的生活圈\n从岛国空间、人口分布和多个就业中心出发，用门到门通勤、服务可达性与实际居住环境比较住处。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+      },
+      {
+        "label": "mobile",
+        "search": "1799",
+        "expected": "保护资料",
+        "results": "全书导读\n保护资料、判断信息与应对诈骗\n收到可疑电话和消息时怎样核实，账户或手机出事后怎样止损、留证与报案，并养成保护个人资料和查证信息的习惯。\n租房：从核验房源到拿钥匙入住\n按 HDB 与私宅、整套与房间核验租住条件，谈清租约和费用，完成印花税、租客登记与交接。\n工厂、组屋与家庭生活的改变\n从就业、公共住房和家庭照顾理解工业化：新镇带来的便利、搬迁的代价，以及女性劳动和社群关系的变化。\n从海峡港口到独立国家\n沿着贸易、殖民、战争与政治选择，理解新加坡怎样从区域港口走到 1965 年独立。\n小贩中心与日常社交生活\n从街头小贩到共同用餐空间，理解饮食传承、摊贩劳动，以及运动、休闲和多语媒体怎样连接日常生活。\n紧急求助：报警、救护与住家火灾\n分清 999、995 和两种紧急短信号码，说明通话、无法讲话、报案受阻及火灾无法自行疏散时的下一步。\nCPF 基础：谁要缴、工资怎样扣、钱能做什么\n按身份、年龄、PR 阶段和就业形式判断 CPF 缴纳，并理解住房、医疗与退休账户。\n怎样比较新加坡的生活圈\n从岛国空间、人口分布和多个就业中心出发，用门到门通勤、服务可达性与实际居住环境比较住处。\n港口、资本与人流怎样连接新加坡和世界\n分清货物贸易、港口吞吐、金融资产与人口口径，理解中国、印度、美国及欧洲与新加坡工作的不同联系。\n在多语环境里，把话听懂、把事说清\n理解英语、华语、马来语、泰米尔语与方言的生活位置，学习应对 Singlish、电话和办事沟通。"
+      },
+      {
+        "label": "mobile",
+        "search": "不平等",
+        "expected": "阶层",
+        "results": "全书导读\n富裕城市里的阶层、生活压力与歧视\n…和获得机会的条件，回答的是不同问题。理解新加坡的不平等，既要看统计覆盖谁，也要看钱是否能在需要时使用、照护怎样安排，以及一个人是否受到不公平对待。 一份家庭收入…\n从海峡港口到独立国家\n…居民的机会和权力并不相同。陈泰永对移民劳动与殖民不平等的讨论 1826 年，新加坡与槟城、马六甲组成海峡殖民地；同年的第二司法宪章为英国法在当地的实施建立正式依…"
+      },
+      {
+        "label": "mobile",
+        "search": "ISEAS",
+        "expected": "中美关系",
+        "results": "全书导读\n谈中美关系时，谁在表达“新加坡的看法”\n用 2026 年外交讲话、ISEAS 区域调查与 Pew 本地公众调查，理解官方立场、假设选边、国家好感和个人经历之间的区别。\nSingpass 与 Myinfo：注册、使用和找回账户\n按身份选择账户，完成注册与登录，核对资料授权，处理换手机、忘记密码和账户泄露，并找到柜台及照护协助。\n买菜与吃饭：从巴刹、小贩中心到超市\n安排日常采购和外食，读懂食物标签、清真认证、GST与服务费，处理餐具归还、饮料押金和食品问题。\n租房：从核验房源到拿钥匙入住\n按 HDB 与私宅、整套与房间核验租住条件，谈清租约和费用，完成印花税、租客登记与交接。\n个人所得税：居民身份、申报和缴款\n分清税务居民与准证身份、YA 与所得年度，以及 AIS、NFS、D-NOA、税单更正和缴税各自需要做什么。\n保护资料、判断信息与应对诈骗\n收到可疑电话和消息时怎样核实，账户或手机出事后怎样止损、留证与报案，并养成保护个人资料和查证信息的习惯。\n离职与离境税清：IR21 什么时候要办\n非公民雇员离职、海外派驻或长期离境时，核对 IR21 豁免、工资暂扣、雇主缴税、个人补款与离职后追加收入。\n先看身份，再判断能办什么\n分清公民、PR、工作准证、学生与家属身份，找到居留、工作和公共服务资格的判断起点。\n打理住处：水电燃气、维修与垃圾回收\n开通和核对家庭水电账户，处理漏水停电、空调潮湿及虫害，找合适的维修人员，并安排日常垃圾和大件回收。\n查询入口\n中英术语与本地用语\n从英文缩写和文件用语找到对应解释。"
+      },
+      {
+        "label": "mobile",
+        "prTables": [
+          {
+            "client": 356,
+            "scroll": 356,
+            "width": 356,
+            "strong": 0
+          },
+          {
+            "client": 356,
+            "scroll": 356,
+            "width": 356,
+            "strong": 0
+          },
+          {
+            "client": 356,
+            "scroll": 356,
+            "width": 356,
+            "strong": 0
+          },
+          {
+            "client": 356,
+            "scroll": 356,
+            "width": 356,
+            "strong": 0
+          }
+        ]
+      },
+      {
+        "label": "mobile",
+        "fraudBoldAndDates": [
+          "适用：",
+          "事实核验：",
+          "1799",
+          "+65 6869 1799",
+          "教学虚构",
+          "999",
+          "1799 提供防骗咨询，但不能替你报案",
+          "2026 年 12 月 31 日前",
+          "2027 年 1 月 1 日起"
+        ]
+      }
+    ]
+  },
+  "print": {
+    "pass": true,
+    "details": {
+      "background": "rgb(255, 255, 255)",
+      "cells": [
+        "rgb(17, 17, 17)"
+      ],
+      "sources": 41,
+      "relative": [],
+      "broken": []
+    },
+    "book_nodes": 65,
+    "physical_pages": 180
+  },
+  "visual_read": [
+    "desktop-topic.png",
+    "mobile-topic-table.png",
+    "mobile-pr-fees-table.png",
+    "print-page-066.png",
+    "print-page-086.png",
+    "print-page-130.png"
+  ],
+  "search_keywords_field": "OINK Params.search_keywords; indexes existing body terms, not displayed; body SHA unchanged",
+  "review_record": "ops/reviews/accepted.json",
+  "limitations": [
+    "All integration is local; no push or deployment.",
+    "External references counted but not HTTP checked automatically.",
+    "Visual review limited to the named samples; not all 180 PDF pages or every screenshot read.",
+    "Remaining drafts and the full 28-field completion audit are not covered by this acceptance."
+  ]
+}

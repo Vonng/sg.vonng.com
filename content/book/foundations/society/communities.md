@@ -4,10 +4,12 @@ description: "认识华族、马来族、印度族、欧亚及其他社群，分
 page_id: sg-communities
 content_kind: concept
 scope: "新加坡各族群及其内部差异；面向居民、新来者和访客，不提供族群登记变更或个别优惠计划的资格裁定"
-status: written
-draft: true
-verified: ""
-reviewed_by: ""
+status: integrated
+draft: false
+verified: "2026-10-13"
+reviewed_by: "care_finance（独立事实）；root（第三人编辑）"
+weight: 10
+search_keywords: ["CMIO", "华族", "马来族", "印度族", "欧亚"]
 ---
 
 在新加坡，华族、马来族、印度族和“其他”是常见的行政与统计分类。认识一个人时，还需要听他怎样介绍自己的家庭、语言、信仰和生活经历。这些信息不能从肤色、姓名或证件中的一个族群栏位全部推出来。

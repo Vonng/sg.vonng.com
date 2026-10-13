@@ -5,8 +5,8 @@
 | 页面与独立问题 | 必须闭合的读者分支与动作 | 主管详细来源方向及阅读状态 |
 | --- | --- | --- |
 | `content/book/life/documents/arrival-renewal.md`：从抵达到续期，怎样持续持有正确的停留及工作/学习文件 | SGAC 与签证/入境/Visit Pass 区别，陆海空豁免；入境资料、e-Pass/电子准证、IPA 后完成手续与开工界限；NRIC/FIN；SC/PR 与 ICA/MOM 地址更改；各主要准证续期申请人、窗口、等待期/到期处理；无手机/线上失败求助 | ICA 入境条件、SGAC、延长停留、IC 领取与地址、LTVP/STP 完成手续及续期；MOM EP/S/WP/MDW/DP/LTVP 签发续期与地址更新，待逐页实读 |
-| `content/book/life/documents/permanent-residence.md`：PR、公民与 REP 三种申请分别解决什么问题 | PR 类别与担保、自评限制、材料/提交/待审变化/批准后手续；公民年龄与家庭分支、SC Journey/原国籍/未成年誓言与NS衔接；REP 有效性、在境内/外续期、2025-12-01后180日和拒绝后果、返回与失去PR区别；线上失败求助 | ICA PR / citizenship apply、completion formalities、REP apply/validity、官方FAQ与表件，待逐页实读；已有 status/work-passes/NS 主文只作衔接 |
-| `content/book/life/documents/documents.md`：向新加坡或境外机构交文件，翻译、公证、认证怎样分流 | 接收机关先确认、原件/副本/翻译区别；ICA可接受翻译、外地文书与新加坡文书；Notary Public/SAL Apostille、缔约国与非缔约国、政府数字/法院文件特殊路径；遗失补件、姓名差异及文件安全保存；线下入口与失败处理 | ICA 文件翻译说明、SAL Legalisation/Apostille/FAQ、Singapore Academy of Law 与MFA目的地要求，待实读；不把认证等同内容真实或外国机构必然接受 |
+| `content/book/life/documents/permanent-residence.md`：PR、公民与 REP 三种申请分别解决什么问题 | PR 类别与担保、自评限制、材料/费用/提交/待审变化/批准后手续；公民年龄与家庭分支、SC Journey/原国籍/未成年誓言与NS衔接；REP 有效性、在境内/外续期、2025-12-01后180日和拒绝后果、返回与失去PR区别；线上失败求助 | P01—P27详细原文已实读；2026-10-13恢复通读缓存与首稿后完成作者自审，正文冻结交care_finance事实审；尚未独立通过或集成。已有 status/work-passes/NS 主文只作衔接 |
+| `content/book/life/documents/documents.md`：向新加坡或境外机构交文件，翻译、公证、认证怎样分流 | 接收机关先确认、原件/副本/翻译区别；ICA与MOM具体收件、外地文书与新加坡文书；Notary Public/SAL Apostille、缔约国/领土/异议与非缔约国、政府数字/法院文件特殊路径；电子公证与ACRA特殊渠道；遗失补件、姓名差异及文件安全保存；线下入口与失败处理 | 2026-10-13 SAL四份详细原件、19页新FAQ及相关ICA/MOM/MFA/HCCH/法院原文已实际读，首稿完成作者通读自审，冻结交care_finance事实审。证据D01—D10；未独立通过或集成 |
 
 ## 范围与依赖
 

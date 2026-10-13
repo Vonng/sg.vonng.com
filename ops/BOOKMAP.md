@@ -1,6 +1,6 @@
 # 全书内容地图
 
-更新：2026-10-13（Asia/Singapore）。用户已暂停并保存跨会话现场，见HANDOFF-2026-10-13.md。这是持续目标的覆盖地图；候选路径只登记于此，不生成空正文。覆盖认定须检查每个领域的必要分支，文章数量不作完成门槛。
+更新：2026-10-13（Asia/Singapore）。用户更换订阅号后明确续跑，持续目标 active；已核82份源文件与交接快照一致，恢复三条独立写审线。历史现场见HANDOFF-2026-10-13.md。这是持续目标的覆盖地图；候选路径只登记于此，不生成空正文。覆盖认定须检查每个领域的必要分支，文章数量不作完成门槛。
 
 ## 内容与资格模型
 
@@ -16,9 +16,9 @@
 
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
-| `/book/foundations/geography/island-neighbourhoods/` | 怎样比较生活圈：城市空间、密度、通勤和服务可达性 | integrated（B03A；事实/编辑/渲染通过） |
-| `/book/foundations/geography/addresses-weather/` | 怎样看地址和适应湿热：邮编单位号、雨季雷雨日照 | integrated（B03A；事实/编辑/渲染通过） |
-| `/book/foundations/geography/resources/` | 水、电和食物从哪里来：土地约束与供给 | integrated（B03A；事实/编辑/渲染通过） |
+| `/book/foundations/geography/island-neighbourhoods/` | 怎样比较生活圈：城市空间、密度、通勤和服务可达性 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
+| `/book/foundations/geography/addresses-weather/` | 怎样看地址和适应湿热：邮编单位号、雨季雷雨日照 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
+| `/book/foundations/geography/resources/` | 水、电和食物从哪里来：土地约束与供给 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 
 ### 2. 关键历史与社会形成（history）
 
@@ -26,9 +26,9 @@
 
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
-| `/book/foundations/history/port-city-to-nation/` | 港口如何成为国家：殖民前至独立的转折与多群体经历 | integrated（B01；事实/编辑/渲染通过） |
-| `/book/foundations/history/housing-industrialisation/` | 工业化和组屋怎样改变家庭与工作 | written（B03B；独立事实与root第三编辑通过，待工程） |
-| `/book/foundations/history/memory/` | 纪念碑、日据记忆和不同群体的历史表达 | written（B03B；独立事实与root第三编辑通过，待工程） |
+| `/book/foundations/history/port-city-to-nation/` | 港口如何成为国家：殖民前至独立的转折与多群体经历 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
+| `/book/foundations/history/housing-industrialisation/` | 工业化和组屋怎样改变家庭与工作 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
+| `/book/foundations/history/memory/` | 纪念碑、日据记忆和不同群体的历史表达 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 
 ### 3. 国家制度、政府与公共事务（government）
 
@@ -36,9 +36,9 @@
 
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
-| `/book/foundations/government/institutions/` | 国会、政府、法院各做什么 | integrated（B03A；事实/编辑/渲染通过） |
-| `/book/foundations/government/public-services/` | 事情交给谁：部委法定机构市镇理事会与预算反馈 | integrated（B03A；事实/编辑/渲染通过） |
-| `/book/foundations/government/participation/` | 选举和公共参与有哪些资格与渠道 | integrated（B03A；事实/编辑/渲染通过） |
+| `/book/foundations/government/institutions/` | 国会、政府、法院各做什么 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
+| `/book/foundations/government/public-services/` | 事情交给谁：部委法定机构市镇理事会与预算反馈 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
+| `/book/foundations/government/participation/` | 选举和公共参与有哪些资格与渠道 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 
 ### 4. 族群、宗教、语言与社会构成（society）
 
@@ -46,9 +46,9 @@
 
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
-| `/book/foundations/society/communities/` | 族群分类怎样进入公共生活：华族马来族印度族欧亚等 | written（B03B；care事实与root第三编辑通过，待工程） |
-| `/book/foundations/society/religion-festivals/` | 宗教与节庆怎样相处：场所礼节与社群表达 | written（B03B；care事实与root第三编辑通过，待工程） |
-| `/book/foundations/society/migration/` | 本地出生者、新移民与各类外籍工作者的社会位置 | written（B03B；care事实与root第三编辑通过，待工程） |
+| `/book/foundations/society/communities/` | 族群分类怎样进入公共生活：华族马来族印度族欧亚等 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
+| `/book/foundations/society/religion-festivals/` | 宗教与节庆怎样相处：场所礼节与社群表达 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
+| `/book/foundations/society/migration/` | 本地出生者、新移民与各类外籍工作者的社会位置 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 
 ### 5. 社会文化、交往与默会知识（culture）
 
@@ -56,9 +56,9 @@
 
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
-| `/book/foundations/culture/everyday-etiquette/` | 排队预约拒绝承诺怎样说：生活场景 | written（B03B；独立事实与root第三编辑通过，待工程） |
-| `/book/foundations/culture/hawker-social-life/` | 小贩饮食、媒体、体育与休闲怎样连接人 | written（B03B；独立事实与root第三编辑通过，待工程） |
-| `/book/foundations/culture/inequality/` | 怎样理解阶层竞争贫困与歧视：研究对象和边界 | written（B03B；异人独立事实审中） |
+| `/book/foundations/culture/everyday-etiquette/` | 排队预约拒绝承诺怎样说：生活场景 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
+| `/book/foundations/culture/hawker-social-life/` | 小贩饮食、媒体、体育与休闲怎样连接人 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
+| `/book/foundations/culture/inequality/` | 怎样理解阶层竞争贫困与歧视：研究对象和边界 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 
 ### 6. 新加坡与世界（world）
 
@@ -66,9 +66,9 @@
 
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
-| `/book/foundations/world/regional-ties/` | 与马来西亚印尼和东盟如何相连 | written（B03B；异人独立事实审中） |
-| `/book/foundations/world/trade-migration/` | 贸易金融与中国印度欧美的人流怎样影响生活 | written（B03B；异人独立事实审中） |
-| `/book/foundations/world/perspectives/` | 官方立场、调查和个人经历分别能解释什么 | written（B03B；异人独立事实审中） |
+| `/book/foundations/world/regional-ties/` | 与马来西亚印尼和东盟如何相连 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
+| `/book/foundations/world/trade-migration/` | 贸易金融与中国印度欧美的人流怎样影响生活 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
+| `/book/foundations/world/perspectives/` | 官方立场、调查和个人经历分别能解释什么 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 
 ## 建立与经营日常生活
 
@@ -78,12 +78,13 @@
 
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
-| `/book/life/documents/status-and-eligibility/` | 先查哪些身份事实才知道能办什么 | integrated（B01；事实/编辑/渲染通过） |
-| `/book/life/documents/work-passes/` | 不同工作准证及家属工作资格怎样选路 | integrated（B01；事实/编辑/渲染通过） |
-| `/book/life/documents/national-service/` | 谁须服国民服役：国籍性别年龄PR途径代际 | integrated（B01；事实/编辑/渲染通过） |
-| `/book/life/documents/arrival-renewal/` | 入境停留、领取证件、地址更新和续期怎么办 | researched（B03C；identity已分派） |
-| `/book/life/documents/permanent-residence/` | 怎样申请PR公民和处理REP | written（B03C；初稿落盘，作者自审冻结未完成） |
-| `/book/life/documents/documents/` | 翻译公证认证与文件保存怎样准备 | researched（B03C；identity已分派） |
+| `/book/life/documents/status-and-eligibility/` | 先查哪些身份事实才知道能办什么 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
+| `/book/life/documents/work-passes/` | 不同工作准证及家属工作资格怎样选路 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
+| `/book/life/documents/national-service/` | 谁须服国民服役：国籍性别年龄PR途径代际 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
+| `/book/life/documents/arrival-renewal/` | 入境/SGAC/短访停留、NRIC/FIN、ICA学生及LTVP和居民改址 | researched（identity；与MOM管理按办理主体拆分） |
+| `/book/life/documents/pass-management/` | MOM各工作及家属准证怎样签发、领卡、改址、续期与处理受阻 | researched（identity；从arrival-renewal按主管与准证动作拆出） |
+| `/book/life/documents/permanent-residence/` | 怎样申请PR公民和处理REP | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
+| `/book/life/documents/documents/` | 翻译公证认证与文件保存怎样准备 | written（care事实与root第三编辑通过，待下一批工程） |
 
 ### 8. 住房、租赁、购房与居住关系（housing）
 
@@ -91,8 +92,8 @@
 
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
-| `/book/life/housing/renting/` | 怎样找到可合法入住的住房并签租约 | integrated（B02；事实/编辑/渲染通过） |
-| `/book/life/housing/tenancy/` | 入住维修押金续租退租怎样处理 | assigned（B03C；daily_history，尚未研究） |
+| `/book/life/housing/renting/` | 怎样找到可合法入住的住房并签租约 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
+| `/book/life/housing/tenancy/` | 入住维修押金续租退租怎样处理 | written（作者自审冻结，identity事实审中） |
 | `/book/life/housing/buying-hdb/` | BTO与转售怎样判断家庭资格、HFE和贷款 | assigned（B03C；daily_history，尚未研究） |
 | `/book/life/housing/buying-private/` | 私人公寓EC有地住宅和交易税费怎样判断 | assigned（B03C；daily_history，尚未研究） |
 | `/book/life/housing/neighbours/` | 市镇理事会MCST和邻里纠纷找谁 | assigned（B03C；daily_history，尚未研究） |
@@ -103,10 +104,10 @@
 
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
-| `/book/life/household/food-shopping/` | 巴刹小贩超市如何买吃：标签清真点餐GST服务费 | integrated（B03A；事实/编辑/渲染通过） |
-| `/book/life/household/home-maintenance/` | 水电燃气空调防潮防虫垃圾如何安排 | integrated（B03A；事实/编辑/渲染通过） |
-| `/book/life/household/consumer-rights/` | 退换保修维修与消费争议如何处理；从原consumer-pets按行动目标拆分 | integrated（B03A；事实/编辑/渲染通过） |
-| `/book/life/household/keeping-pets/` | 养宠的许可、成本、公共空间责任与求助；拆自原consumer-pets | integrated（B03A；事实/编辑/渲染通过） |
+| `/book/life/household/food-shopping/` | 巴刹小贩超市如何买吃：标签清真点餐GST服务费 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
+| `/book/life/household/home-maintenance/` | 水电燃气空调防潮防虫垃圾如何安排 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
+| `/book/life/household/consumer-rights/` | 退换保修维修与消费争议如何处理；从原consumer-pets按行动目标拆分 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
+| `/book/life/household/keeping-pets/` | 养宠的许可、成本、公共空间责任与求助；拆自原consumer-pets | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 
 ### 10. 公共交通、驾驶与出行（transport）
 
@@ -114,10 +115,10 @@
 
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
-| `/book/life/transport/public-transport/` | MRT巴士怎样支付换乘和查询无障碍 | integrated（B01；事实/编辑/渲染通过） |
+| `/book/life/transport/public-transport/` | MRT巴士怎样支付换乘和查询无障碍 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 | `/book/life/transport/driving/` | 境外驾照使用转换、买车COEERP路税停车保险 | researched（B03C；care_finance已分派） |
-| `/book/life/transport/taxis-phv/` | 出租车与网约车乘客叫车费用、儿童轮椅、线下与投诉；从驾驶持车任务拆出 | researched（B03C；care_finance） |
-| `/book/life/transport/active-mobility/` | 骑行步行PMD有哪些道路规则 | researched（B03C；care_finance已分派） |
+| `/book/life/transport/taxis-phv/` | 出租车与网约车乘客叫车费用、儿童轮椅、线下与投诉；从驾驶持车任务拆出 | written（daily事实通过，待root第三编辑及工程） |
+| `/book/life/transport/active-mobility/` | 骑行步行PMD有哪些道路规则 | written（作者自审冻结，daily独立事实审中） |
 | `/book/life/transport/airport-checkpoints/` | 去机场和柔佛关卡怎样安排行程 | researched（B03C；care_finance已分派） |
 
 ### 11. 数字生活、通信与信息判断（digital）
@@ -126,9 +127,9 @@
 
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
-| `/book/life/digital/accounts/` | SingpassMyinfo怎样设立使用与恢复 | written（B03C；daily事实、identity第三编辑通过，待工程） |
-| `/book/life/digital/telecom/` | 手机宽带合约订阅和取消怎样比较 | written（B03C；daily事实与identity第三编辑通过，待工程） |
-| `/book/life/digital/privacy-fraud/` | 怎样判断信息和处理账户泄露诈骗：含线下入口 | written（B03C；root作者，待daily事实） |
+| `/book/life/digital/accounts/` | SingpassMyinfo怎样设立使用与恢复 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
+| `/book/life/digital/telecom/` | 手机宽带合约订阅和取消怎样比较 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
+| `/book/life/digital/privacy-fraud/` | 怎样判断信息和处理账户泄露诈骗：含线下入口 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 | `/book/life/digital/privacy-data/` | 向机构查阅更正撤回同意与资料投诉；从防骗即时应对拆出完整权利申请任务 | planned（当前PDPC细原文访问缺口，见b03c-digital证据） |
 
 ### 12. 社区、公共服务、文化与休闲（community）
@@ -137,9 +138,9 @@
 
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
-| `/book/life/community/public-facilities/` | 图书馆社区俱乐部体育公园怎样报名使用 | planned |
-| `/book/life/community/neighbourhood/` | 邻里问题怎样反馈与找到居民网络 | planned |
-| `/book/life/community/connections/` | 怎样参加志愿宗教兴趣社群并建立支持 | planned |
+| `/book/life/community/public-facilities/` | 图书馆社区俱乐部体育公园怎样报名使用 | written（care独立事实通过，identity第三编辑中） |
+| `/book/life/community/neighbourhood/` | 邻里问题怎样反馈与找到居民网络 | written（care独立事实通过，identity第三编辑中） |
+| `/book/life/community/connections/` | 怎样参加志愿宗教兴趣社群并建立支持 | written（care独立事实通过，identity第三编辑中） |
 
 ## 人生、健康、家庭与学习
 
@@ -149,8 +150,8 @@
 
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
-| `/book/people/healthcare/getting-care/` | 生病后怎样选GP综合诊疗所医院与转介 | integrated（B01；事实/编辑/渲染通过） |
-| `/book/people/healthcare/healthcare-payments/` | 补贴CHASMediSaveMediShieldLifeMediFund与保险谁可用 | integrated（B01；事实/编辑/渲染通过） |
+| `/book/people/healthcare/getting-care/` | 生病后怎样选GP综合诊疗所医院与转介 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
+| `/book/people/healthcare/healthcare-payments/` | 补贴CHASMediSaveMediShieldLifeMediFund与保险谁可用 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 | `/book/people/healthcare/records-medicines/` | 药房处方牙眼预防、病假证明记录同意与投诉 | planned |
 
 ### 14. 心理健康、残障与无障碍生活（accessibility）
@@ -170,7 +171,7 @@
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
 | `/book/people/family/relationships/` | 同居共同财务与民事穆斯林婚姻怎样安排 | planned |
-| `/book/people/family/birth/` | 孕产生育出生登记、国籍证件怎样衔接 | integrated（B02；事实/编辑/渲染通过） |
+| `/book/people/family/birth/` | 孕产生育出生登记、国籍证件怎样衔接 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 | `/book/people/family/childcare/` | 托育选择费用补贴与资格 | planned |
 | `/book/people/family/domestic-workers/` | 雇用家政移工的手续双方权利与照护责任 | planned |
 | `/book/people/family/separation-safety/` | 分居离婚监护家庭暴力如何求助 | planned |
@@ -201,7 +202,7 @@
 
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
-| `/book/people/language/everyday-language/` | 英语华语马来语泰米尔语Singlish如何选场合 | integrated（B01；事实/编辑/渲染通过） |
+| `/book/people/language/everyday-language/` | 英语华语马来语泰米尔语Singlish如何选场合 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 | `/book/people/language/communication/` | 电话邮件表格口译怎样清楚表达 | planned |
 | `/book/people/language/multilingual-family/` | 多语家庭怎样选择学习资源与日常练习 | planned |
 
@@ -236,7 +237,7 @@
 |---|---|---|
 | `/book/work/employment/employment-rights/` | 工资工时休假工资单哪些人适用 | planned |
 | `/book/work/employment/injury/` | 职业安全工伤赔偿保险怎样求助 | planned |
-| `/book/work/employment/leaving-job/` | 辞职解雇裁员后的准证税务家属怎样处理 | integrated（B02；事实/编辑/渲染通过） |
+| `/book/work/employment/leaving-job/` | 辞职解雇裁员后的准证税务家属怎样处理 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 | `/book/work/employment/hardship/` | 薪资争议和收入中断怎样找TADM及生活支持 | planned |
 
 ### 22. 银行、CPF、储蓄、投资与保险（finance）
@@ -245,9 +246,9 @@
 
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
-| `/book/work/finance/household-budget/` | 到手收入、年度费用和应急现金怎样安排；家庭预算种子单列 | integrated（B03A；事实/编辑/渲染通过） |
+| `/book/work/finance/household-budget/` | 到手收入、年度费用和应急现金怎样安排；家庭预算种子单列 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 | `/book/work/finance/banking/` | 开户PayNowFASTNETSGIRO如何使用 | planned |
-| `/book/work/finance/cpf-basics/` | CPF谁缴、年龄和PR阶段怎样改变、钱怎样用 | integrated（B01；事实/编辑/渲染通过） |
+| `/book/work/finance/cpf-basics/` | CPF谁缴、年龄和PR阶段怎样改变、钱怎样用 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 | `/book/work/finance/saving-insurance/` | SRS储蓄债券证券保险与存款保障怎样理解 | planned |
 | `/book/work/finance/debt-disputes/` | 信用贷款债务理赔和金融争议怎样处理 | planned |
 
@@ -257,8 +258,8 @@
 
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
-| `/book/work/tax/personal-tax/` | 居民身份YA和所得期间、申报报送缴税怎样衔接 | integrated（B02；事实/编辑/渲染通过） |
-| `/book/work/tax/leaving-singapore/` | 离职离境IR21税务清算哪些人适用 | integrated（B02；事实/编辑/渲染通过） |
+| `/book/work/tax/personal-tax/` | 居民身份YA和所得期间、申报报送缴税怎样衔接 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
+| `/book/work/tax/leaving-singapore/` | 离职离境IR21税务清算哪些人适用 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 | `/book/work/tax/cross-border/` | 海外收入资产跨境信息、房产GST印花税、更正异议 | planned |
 
 ### 24. 创业、企业、经营与公司税务（business）
@@ -299,7 +300,7 @@
 
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
-| `/book/rights/safety/emergencies/` | 警察消防救护报案与家庭应急怎样求助 | integrated（B02；事实/编辑/渲染通过） |
+| `/book/rights/safety/emergencies/` | 警察消防救护报案与家庭应急怎样求助 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 | `/book/rights/safety/tropical-hazards/` | 火灾停电积水雷电高温登革热烟霾怎样应对 | planned |
 | `/book/rights/safety/controlled-items/` | 烟草电子烟酒精药品受管制物品有哪些规则 | planned |
 

@@ -4,11 +4,12 @@ description: 区分收入、财富、家庭需要和社会流动，结合本地�
 page_id: sg-culture-inequality
 content_kind: explainer
 scope: 希望理解新加坡社会差异的居民；解释统计与生活经验的边界，不用单一金额判定所有家庭贫困或援助资格
-status: written
-draft: true
-verified: ""
-reviewed_by: ""
+status: integrated
+draft: false
+verified: "2026-10-13"
+reviewed_by: "daily_history（独立事实）；root（第三人编辑）"
 weight: 40
+search_keywords: ["MIS", "Gini", "TAFEP", "不平等", "贫困", "歧视"]
 ---
 
 城市富裕、家庭收入增长与一些人的生活困难，可以同时存在。收入分配、可动用的资产、家庭成员的需要和获得机会的条件，回答的是不同问题。理解新加坡的不平等，既要看统计覆盖谁，也要看钱是否能在需要时使用、照护怎样安排，以及一个人是否受到不公平对待。

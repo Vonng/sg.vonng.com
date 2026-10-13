@@ -4,10 +4,10 @@ description: 理解新加坡公共纪念怎样形成，并通过博物馆、私�
 page_id: sg-public-memory
 content_kind: explainer
 scope: 新加坡公共纪念、战争记忆与迁居记忆；介绍读史方法和具体案例，不作博物馆票务或开放时间指南
-status: written
-draft: true
-verified: ""
-reviewed_by: ""
+status: integrated
+draft: false
+verified: "2026-10-13"
+reviewed_by: "identity（独立事实）；root（第三人编辑）"
 weight: 30
 ---
 

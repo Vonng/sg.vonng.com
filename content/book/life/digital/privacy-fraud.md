@@ -4,11 +4,12 @@ description: 收到可疑电话和消息时怎样核实，账户或手机出事�
 page_id: sg-privacy-fraud
 content_kind: guide
 scope: 新加坡居民与访客的个人数字安全、信息核实和诈骗应对；包括没有智能手机、账户受限及身处海外的读者
-status: written
-draft: true
-verified: ""
-reviewed_by: ""
+status: integrated
+draft: false
+verified: "2026-10-13"
+reviewed_by: "daily_history（独立事实）；identity（第三人编辑）"
 weight: 30
+search_keywords: ["ScamShield", "1799", "NRIC", "PDPA", "诈骗", "恶意软件"]
 ---
 
 怀疑被骗时，先停止转账、交验证码和继续安装软件。银行账户或银行卡可能被盗用，就立即通过银行自己的渠道联系银行；随后报案并保护其他账户。尚未确定一条消息是否可信，可以拨打全天候 **1799** ScamShield 热线核实；人在海外可拨 **+65 6869 1799** 。[ScamShield 受骗处理步骤](https://www.scamshield.gov.sg/i-have-been-scammed/)、[1799 的用途与海外号码](https://www.scamshield.gov.sg/check-for-scams/scamshield-helpline/)

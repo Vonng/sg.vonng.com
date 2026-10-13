@@ -4,10 +4,10 @@ description: 从街头小贩到共同用餐空间，理解饮食传承、摊贩�
 page_id: sg-hawker-social-life
 content_kind: explainer
 scope: 新加坡小贩文化与日常社交的历史和具体场景；供居民与访客理解社会生活，不列餐厅排行或完整活动报名流程
-status: written
-draft: true
-verified: ""
-reviewed_by: ""
+status: integrated
+draft: false
+verified: "2026-10-13"
+reviewed_by: "identity（独立事实）；root（第三人编辑）"
 weight: 20
 ---
 

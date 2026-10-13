@@ -4,11 +4,12 @@ description: "按证件和使用需要选通信服务，保住常用号码，安
 page_id: sg-digital-telecom
 content_kind: guide
 scope: "新加坡居民、学生、准证持有人与访客；运营商例子只适用于所列服务"
-status: written
-draft: true
-verified: ""
-reviewed_by: ""
+status: integrated
+draft: false
+verified: "2026-10-13"
+reviewed_by: "daily_history（独立事实）；identity（第三人编辑）"
 weight: 20
+search_keywords: ["SIM", "eSIM", "GIRO", "ADR", "宽带", "订阅", "转号"]
 ---
 
 办理手机或宽带前，先确定需要用多久、谁签约付款、用什么证件登记，以及何时必须开通。把申请回执、服务协议和第一张账单保存下来；搬家、换运营商或离境时，再逐项确认号码、设备、合约和扣款怎样结束。

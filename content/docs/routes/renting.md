@@ -16,6 +16,6 @@ weight: 15
 1. 看[身份与资格](/book/life/documents/status-and-eligibility/)，确认每人的居留和工作准证。
 2. 按[租房流程](/book/life/housing/renting/)判断可租的房屋类型，核对业主、代理及出租批准，谈妥付款和提前退租条款。
 3. 按[生活圈比较](/book/foundations/geography/island-neighbourhoods/)核对门到门通勤，再用[公共交通](/book/life/transport/public-transport/)安排每日路线。
-4. 保存签妥租约、盖印证书、登记和交接记录，再按[家中设备与维修](/book/life/household/home-maintenance/)处理账户和日常维护。入住后的即时危险，转到[紧急求助](/book/rights/safety/emergencies/)。
+4. 保存签妥租约、盖印证书、登记和交接记录，再按[家中设备与维修](/book/life/household/home-maintenance/)处理账户和日常维护；号码、宽带与搬迁安排见[通信合约](/book/life/digital/telecom/)。入住后的即时危险，转到[紧急求助](/book/rights/safety/emergencies/)。
 
 涉及孩子或家属的家庭，将他们的身份和生活安排一起核对；计划换工作者，同时读[离职安排](/book/work/employment/leaving-job/)。

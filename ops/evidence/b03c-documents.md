@@ -1,6 +1,6 @@
 # B03C 身份行政、PR与文书证据
 
-作者 identity；查阅日期 2026-10-13（Asia/Singapore）。所有写入正文的具体规则均实际打开主管详细原文；搜索只作定位。以下是作者证据，不冒充独立事实审核。当前 `permanent-residence.md` 已写首稿，另外两篇继续实读。
+作者 identity；查阅日期 2026-10-13（Asia/Singapore）。所有写入正文的具体规则均实际打开主管详细原文；搜索只作定位。以下是作者证据，不冒充独立事实审核。PR与跨境文书两篇已完成作者自审并冻结交事实审，抵达续期仍在研究。
 
 ## PR、公民与REP：已实读
 
@@ -47,4 +47,45 @@
 
 PR主入口一次web403，一次正常8888成功200后即止；原HTML保存在/tmp，未入Git。初猜REP和未成年宣誓URL失败，随后从真实目录或搜索得到上表现行链接；没有重复猜测旧路径。PR/SC材料PDF文本完整可读，截图仅返回引用而无可见图像，未冒充图像审核。
 
-未进入个人账户、上传真实材料、办理退籍或申请移民服务；没有给任何申请人作结果保证。作者自审、最终SHA与其余已读源将在三篇完整稿落盘后继续记录。
+未进入个人账户、上传真实材料、办理退籍或申请移民服务；没有给任何申请人作结果保证。恢复时从 `.cache/b03c-identity-source-state.json` 与 `.cache/b03c-pr-apply.html` 通读既有实读原文，未把恢复读缓存冒充重新联网取得，也未重复已止损的失败页。恢复前SAL只有定位搜索；恢复后实际读完D03—D06详细原件。
+
+## 2026-10-13 PR作者交审
+
+作者恢复时核对 Asia/Singapore 实际日期为2026-10-13，PR现场原稿与交接完整SHA一致；缓存JSON完整SHA为 `68a3d75e8fc244a4cc38e9c85d33b58eb73c8ea25eef43c401c8a7e2a57fa669`。通读正文和已取得主管详细来源后，补齐P01/P02已实读费用类别，明确P22新旧REP时间边界，并将成年退籍按批准信落实，未自行从FAQ的above21措辞制造21岁生日例外。
+
+- `content/book/life/documents/permanent-residence.md`，17,021 bytes。
+- 完整SHA：`592bb7c402bafdc91d856342c7e1d7abff12886631a5d59fb9de3f86cc1e10fd`。
+- 统一正文SHA（`text.split("---", 2)[2]`，保留原空白）：`d4aae3d940406cdf565c5ec4a0192615674180fd3386213e8f113be80cba4c3b`。
+- 作者已全文通读，检查PR/SC类别、担保人与未申请配偶材料、14天草稿、完成手续、ORAL对象与21—22岁窗口、REP境内外/新旧制/拒绝和PRSEP、普通上诉及线上失败范围。
+- 轻量静态检查通过：九项元数据齐、written/draft:true/核验字段空、无正文H1、三条内部正文链接实际存在、中文加粗外空格正确。没有构建或浏览器渲染。
+- 交care_finance回源独立事实审；作者已冻结本版，尚未独立核验、第三编辑或主控集成。其余两篇成熟即单独交审。
+
+## 翻译、公证与文书认证：恢复后实际读源
+
+下列D01—D10均于2026-10-13实际阅读主管详细文本。SAL PDF的19页文本全部读取，并正常下载原件到已忽略缓存；实际目视范围为物理第13页费用矩阵，不声称目视其余18页。原件PDF SHA `a1b9876a5122c8e1a0ad9a9159a56eafbb91e10409fb5c8756a86d337fb2fc1a`；新抓工具返回存 `.cache/b03c-sal-source-state.json`，这是原文提取和方法现场，不是原始HTML。
+
+| 编号、实际原件 | 支持正文的规则、适用对象和时间 | 限制与分流 |
+| --- | --- | --- |
+| D01 [ICA公民申请详细页](https://www.ica.gov.sg/reside/citizenship/apply)及P01/P03原件，ICA页2026-06-30更新 | 复读本日已有完整原文：非英文正式译文；出具地使馆、新加坡/出具地公证人翻译，或私人翻译再由上述证明；原件及材料角色栏 | 仅明确PR/SC已读服务，不套所有ICA或MOM服务；自行翻译不直接入该合格范围 |
+| D02 [MOM EP Documents required](https://www.mom.gov.sg/passes-and-permits/employment-pass/documents-required)，页内2026-05-18更新 | 实际打开全部主要内容L43—140：原件英文译文合一文件、翻译服务商；姓名差异解释信支持；学历verification proof与普通证书/公证不互代 | 不采用搜索露出的2019上传FAQ/旧系统操作；仅EP具体例子，不把条件套S/WP |
+| D03 [SAL Our Services](https://legalisation.sal.sg/OurServices)，全部实质段 | 接收方决定是否公证；SAL认证新加坡公证人，认证费87.20含GST、2021-09-16起Apostille；出境公文、非缔约方继续认证；宣誓官/公证人功能边界 | 公证与翻译由相应服务提供者办理；不把认证当文件内容或准证资格证明 |
+| D04 [SAL现行FAQ](https://legalisation.sal.sg/Faq)，L19—381全部实质FAQ | 纸本/电子公证、87.20、不得重复柜台缴费、电子公证只数字有效及另提纸本请求；Visa/Mastercard、非现金、亲友支付帮助；ACRA OA 2023-03-04起指定BP/BC、每份10.70、无需柜台；代理登录限制与SAL不翻译 | 电子公证只先确认境外接收，ACRA特殊服务不扩大所有政府数字文件；未执行线上表件、支付或真实公证 |
+| D05 [SAL LegalisationInfo](https://legalisation.sal.sg/Legalisation/LegalisationInfo)，全实质正文 | 原件、私人文件先公证、商会、柜台、10.70/1.07费用表 | 简略页“电脑文件须签发机构认证”结合D06具体QR/门户/邮件路径；不据简略句取消数字原件路线。旧“副本不接受”按D06区分SAL所制CTC及extract |
+| D06 [SAL LEG_FAQ_v1.4_15Oct2025.pdf](https://legalisation.sal.sg/App/Templates/LEG_FAQ_v1.4_15Oct2025.pdf)，19页全文 | 原件/完整数字打印、QR一致且可读、不得多加CTC戳；Singpass/原邮件/每页背书、机构确认一个月窗口；过胶副本/extract；手写姓名；CTC/CTD/CTS；13页费用10.70/11.77/每份1.07、纸本付款；16—17页代理/不得邮寄/本人登录；18—19柜台地址、时间、电话、实体最终决定 | 第13页实际目视核对费用列、复印按每文件不限页数、自印数字多份免复印费；本FAQ标题限定Singapore Government Issued Documents，不把该柜台路线扩大电子公证。一般收费表与新PDF一致，没有用搜索摘要代替新FAQ |
+| D07 [HCCH公约完整正文](https://www.hcch.net/en/instruments/conventions/full-text/?cid=41)及[现行状态表](https://www.hcch.net/en/instruments/conventions/status-table/?cid=41)，全文和完整状态表；表更新2026-06-30 | 第1条文件范围和排除、第2/3/5条认证签名真伪/职务资格/适用章、第6指定主管、第12异议、第13领土；出具国办Apostille、两国关系条件；表中Singapore EIF2021-09-16、China2023-11-07 | “不证明内容或资格”是按第2/3/5条所列认证范围的明确限定。未将名单加入日作生效日；Thailand列EIF2027-02-28，在本日尚未生效，正文采用查EIF通则，没有宣称已生效 |
+| D08 [新加坡驻上海总领馆Notarial Services](https://shanghai.mfa.gov.sg/consular-services/notarial-services/)，正文2026-04-10更新 | 全部实质原文：中国文书2023-11-07起授权公证/相应机构→中国外交部/获授权外事机关Apostille→来新免新驻华认证；先问接收方；新加坡文书出境另走SAL | 中国内地作为有明示地域的实例，非所有读者预设国籍；不套香港/澳门及其他国家的主管程序；没有真实联络 |
+| D09 [法院民事家庭记录](https://www.judiciary.gov.sg/services/civil-family-court-records)，采用L229—298；[ACO详细页](https://www.judiciary.gov.sg/services/e-platforms/authentic-court-orders-(aco))，全部实质段L53—119，页2026-04-01更新 | eLitigation/未有律师ServiceBureau、iFAMS/Youth与旧案、用途Registrar批准；ACO二维码/访问码加案号、免费核验、有时仍可要求CTC | 不描述所有旧案检索或刑案；没把ACO验证当当然完成境外SAL认证。未进入法院私人案件 |
+| D10 [SAL Directory](https://legalisation.sal.sg/Directory)及[BookNowTerm](https://legalisation.sal.sg/BookNowTerm)，实际公开页 | 公证人/宣誓官按Type选、语言字段；线上申请付款、发票或QR、柜台前材料与不退费用 | 只读公开入口，不进入真实付款流程，不声称测试提交或所有支付设备 |
+
+访问限制：SSO现行Apostille Act入口正常web返回Internal Error，未重复探测；已实际读HCCH现行公约与主管服务详细原文，正文没有声称完成SSO法条核验。新德里使团一般认证页已打开，但缺少Apostille的适用分流，未将其“全部先公证再使团”概括句套作所有外国文书来新规则。旧SAL搜索仍只作定位。
+
+## 2026-10-13文书作者交审
+
+- `content/book/life/documents/documents.md`，14,257 bytes。
+- 完整SHA：`1f00bdafc394b9e47ef11828ae462462f95d9b89227ee9de6e56c0be86e3e562`。
+- 统一正文SHA：`bbf92e4a9f4824112679bfe84c09c985e7ff5df1a495c36c795a7158e4c334d9`。
+- 已全文通读首稿，按humanizer及项目中文规范自审；完整保留ICA/MOM收件差别、外国来新/新加坡出境、政府/私人/法院/ACRA、纸本/电子、代理/本人登录、无卡/无打印/无法核验等会改变行动的条件。
+- 轻量静态检查：九项元数据齐、written/draft:true/核验字段空、无H1与内部来源标记、31个近邻HTTPS引用。没有构建、浏览器、真实支付、私人账户或提交测试。
+- 冻结本版交care_finance独立回源事实审；尚未第三编辑或主控集成。作者不自签事实通过。
+
+2026-10-13事实审修订：care_finance独立读D06物理第3页后要求显写政府文件必须英文或含英文双语、清楚可读；作者在政府纸本和数字文件段补该句并复读本段，其他正文未变，上表为修订后的最新冻结SHA。此前首交完整SHA `fdd6d2ca2933d7a8facb83c8602499b077e258f9ee8f3b63bc56062b322193df` 已被本版替代，不用于签发最终通过。
