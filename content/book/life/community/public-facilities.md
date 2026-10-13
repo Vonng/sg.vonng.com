@@ -27,7 +27,7 @@ NLB 公共图书馆基本会员的费用如下，金额为 **2026 年 10 月查�
 
 持有效 PAssion 卡的外国人按年付费，可按 NLB 的 Partner Membership 安排办理升级及登记费豁免；按月付费的外国会员不适用升级。基本会员可借16件实体馆藏和16件电子书，通常借期21天；归还或续借时查看自己的实际到期日。[会员权益与 PAssion 分支](https://www.nlb.gov.sg/main/services/library-membership/types-of-membership)
 
-有 Singpass，可从 [NLB 会员登记入口](https://www.nlb.gov.sg/main/services/library-membership/Sign-up-for-Membership)办理。新登记或外国会员续期，相关文件须至少还有三个月有效期。文件清单列有学生、工作、家属及 Special／Visitor’s Pass 等类别；短访者先核对本人文件和居住情况，不能只凭一本护照推定能开借阅会员。
+有 Singpass，可从 [NLB 会员登记入口](https://www.nlb.gov.sg/main/services/library-membership/Sign-up-for-Membership)办理。新登记或外国会员续期，相关文件须至少还有三个月有效期。文件清单列有学生、工作、家属及 Special／Visitor’s Pass 等类别；短访者先核对本人文件和居住情况。
 
 没有 Singpass、网上不支持自己的类别，或办理出现困难，可带相应文件到公共图书馆请工作人员协助；NLB 列出的协助时间为上午11时至下午6时，Chinatown Library 除外。公民和 PR 的孩子按年龄带出生证明、家长 NRIC 或 MOE smartcard；15岁起的文件要求另列在同页。[登记材料与柜台办法](https://www.nlb.gov.sg/main/services/library-membership/Sign-up-for-Membership)
 
@@ -55,7 +55,7 @@ onePA 网上账号通过 Singpass 建立。选好课程或场地后，须在预�
 
 和孩子、长者或行动不便者同行，先选容易到达的入口、厕所、可休息的地点和回程路线，留意步道或设施临时关闭。天气准备见[地址与天气](/book/foundations/geography/addresses-weather/)，公交可达性见[公共交通](/book/life/transport/public-transport/)。
 
-组织公园活动时，NParks 的活动场地页要求：售票入场、搭设帐篷或音响，或参加者超过15人的活动，至少在开始前一个日历月提交场地预订，并按要求付款。自然保护区导览、露营及拍摄另查对应许可，不能只拿一个普通场地预订包办全部活动。[NParks 活动场地规则](https://www.nparks.gov.sg/services/book-event-venue)
+组织公园活动时，NParks 的活动场地页要求：售票入场、搭设帐篷或音响，或参加者超过15人的活动，至少在开始前一个日历月提交场地预订，并按要求付款。自然保护区导览、露营及拍摄另查对应许可。[NParks 活动场地规则](https://www.nparks.gov.sg/services/book-event-venue)
 
 ## 看展与演出：看清门票覆盖范围
 
@@ -63,4 +63,4 @@ onePA 网上账号通过 Singpass 建立。选好课程或场地后，须在预�
 
 滨海艺术中心的部分 Esplanade Presents 项目有残障者及一名同行者票价优惠；轮椅座位与其他特殊安排会受制作要求影响。可到票房或在每天中午12时至下午6时致电 **6828 8377** ，提前说明座位及辅助需要；也有馆内免费轮椅借用和无障碍设施。[Esplanade 无障碍服务](https://www.esplanade.com/visit/visitor-guide/accessibility)
 
-SG Culture Pass 的 S$100 抵用额，针对 **2025 年已满18岁的新加坡公民** ，可使用至2028年底，并非年度发放。PR、外国居民或2026年才满18岁的读者不能仅凭年龄套用这次安排。[MCCY 2026年10月7日资格说明](https://www.mccy.gov.sg/about-us/news-and-resources/age-based-eligibility-criteria-for-sg-culture-pass-and-curiosity-credits/) 合资格者从 [SG Culture Pass](https://sgculturepass.gov.sg/)找认可票务伙伴的本地艺术与文化项目，结账前核对抵用额、差额和门票条件。[MCCY 使用说明](https://www.mccy.gov.sg/sectors/arts-and-heritage/sg-culture-pass/)
+SG Culture Pass 的 S$100 抵用额，针对 **2025 年已满18岁的新加坡公民** ，可使用至2028年底，并非年度发放。[MCCY 2026年10月7日资格说明](https://www.mccy.gov.sg/about-us/news-and-resources/age-based-eligibility-criteria-for-sg-culture-pass-and-curiosity-credits/) 合资格者从 [SG Culture Pass](https://sgculturepass.gov.sg/)找认可票务伙伴的本地艺术与文化项目，结账前核对抵用额、差额和门票条件。[MCCY 使用说明](https://www.mccy.gov.sg/sectors/arts-and-heritage/sg-culture-pass/)

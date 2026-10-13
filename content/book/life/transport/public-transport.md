@@ -15,7 +15,7 @@ weight: 10
 
 ## 出门前，查到具体出口和车站
 
-MRT 是地铁，LRT 是连接部分住宅区的轻轨；巴士承担许多住宅区到地铁站及跨区的行程。用 [LTA 行程规划入口及 MyTransport](https://www.lta.gov.sg/content/ltagov/en/getting_around/public_transport/plan_your_journey.html) 查路线、首末班、地铁出口和巴士到站信息。价格也应按自己的起终点查询，不能把一段市中心短程的票价当作全岛通勤费用。
+MRT 是地铁，LRT 是连接部分住宅区的轻轨；巴士承担许多住宅区到地铁站及跨区的行程。用 [LTA 行程规划入口及 MyTransport](https://www.lta.gov.sg/content/ltagov/en/getting_around/public_transport/plan_your_journey.html) 查路线、首末班、地铁出口和巴士到站信息。价格也应按自己的起终点查询。
 
 实际选路时，把步行至车站、过马路、转线和等车算进去。带孩子、推轮椅或搬行李，可以优先考虑少换乘、有电梯且步行较短的路线。晚归前查清最后一段车程的末班时间；末班车从不同车站开出的时间并不一致。
 
@@ -58,7 +58,7 @@ SimplyGo 接受符合条件的 American Express、Mastercard、Visa 和 NETS 感
 
 Bukit Panjang、Newton、Tampines 的指定跨线换乘需要出入闸，是同站规则的例外，须在 15 分钟内完成。Sentosa Bus、Premium Bus 等并不全套适用普通换乘规则；现金、月票也有自己的计费处理。[SimplyGo 换乘规则](https://www.simplygo.com.sg/transfer-fare-rules/)
 
-中途办事、吃饭再继续坐车，可能超过换乘时间，后半段就重新计费。判断费用时，先核对刷卡时间和线路，不要只看两站相距多近。
+中途办事、吃饭再继续坐车，可能超过换乘时间，后半段就重新计费。判断费用时，先核对刷卡时间和线路。
 
 ## 哪些人可以用优惠卡
 

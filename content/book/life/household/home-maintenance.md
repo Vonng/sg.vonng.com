@@ -72,7 +72,7 @@ weight: 20
 
 电池不要放进普通垃圾桶或蓝桶。可充电电池回收前用胶带封住接点或导线；漏液电池放入防漏袋／容器，并按回收方要求交付。电子设备交走前做好资料备份及清除。[NEA：电子废物及电池处理](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste)
 
-ALBA 对清单内的大型家电提供免费预约收集，也有收费及加急服务；免费选项按档期安排，不能把所有小电器都当成免费单独上门。先查类型、可预约日期及是否有电梯，拆接设备另找合适人员，冰箱要清空、除霜。其他大件的入口见 [NEA 大件处理](https://www.nea.gov.sg/our-services/waste-management/waste-disposal/bulk-item-disposal-disposal-of-garden-wastes-and-dead-pets) 和 [ALBA 上门收集条件](https://alba-ewaste.sg/doorstep-collection/)。
+ALBA 对清单内的大型家电提供免费预约收集，也有收费及加急服务；免费选项按档期安排。先查类型、可预约日期及是否有电梯，拆接设备另找合适人员，冰箱要清空、除霜。其他大件的入口见 [NEA 大件处理](https://www.nea.gov.sg/our-services/waste-management/waste-disposal/bulk-item-disposal-disposal-of-garden-wastes-and-dead-pets) 和 [ALBA 上门收集条件](https://alba-ewaste.sg/doorstep-collection/)。
 
 ## 报修没有下文，带着编号继续跟进
 

@@ -77,4 +77,4 @@ CEA 的新版模板附有 **Inventory List（家具清单）** 和 **Property Co
 
 若问题是同住时的声音、沟通或人际冲突，可看 **Community Mediation Centre（CMC）** 的免费调解，适用性由中心评估。CMC 明确接受房东、租客及合租者的非合同纠纷，合同和商业争议另选上述渠道；自愿调解须双方愿意参加。[CMC 受理范围与流程](https://cmc.mlaw.gov.sg/our-service/faqs/)
 
-与地产代理的服务发生争议，先找其所属公司；房东和租客之间没有代理参与的争议，CEA 不能处理。需要采取其他法律行动时，带着合同、期限、对方地址和争议金额确认适用程序，避免把不符 SCT 条件的案件反复提交到同一入口。[CEA 代理服务争议](https://www.cea.gov.sg/about-cea/newsroom-publications/ceanergy-blog/improving-tenancy-agreements-facilitating-direct-communication-between-landlords-and-tenants/)、[CEA 的职责与租赁争议选路](https://www.cea.gov.sg/consumers/transacting-on-your-own/renting-out-an-hdb-flat-or-bedroom/)
+与地产代理的服务发生争议，先找其所属公司；房东和租客之间没有代理参与的争议，CEA 不能处理。需要采取其他法律行动时，带着合同、期限、对方地址和争议金额确认适用程序。[CEA 代理服务争议](https://www.cea.gov.sg/about-cea/newsroom-publications/ceanergy-blog/improving-tenancy-agreements-facilitating-direct-communication-between-landlords-and-tenants/)、[CEA 的职责与租赁争议选路](https://www.cea.gov.sg/consumers/transacting-on-your-own/renting-out-an-hdb-flat-or-bedroom/)

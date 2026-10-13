@@ -33,7 +33,7 @@ ICA 的 PR 和公民申请说明要求非英文文件附正式英文翻译。它
 - 新加坡或文件出具国家或地区的 Notary Public（公证人）提供翻译。
 - 私人翻译后，由上述出具地使馆证明，或由新加坡、出具地的公证人公证。
 
-ICA 不为私人翻译公司背书。委托前把实际服务的清单交给译者，确认原件、译文及证明会一起交付；不能只看公司自称“ICA 认可”。PR、公民的完整清单还区分申请人、未申请配偶和担保人，按本人适用栏准备。[ICA：公民文件及翻译要求](https://www.ica.gov.sg/reside/citizenship/apply)、[PR 文件清单](https://www.ica.gov.sg/docs/default-source/ica/ipses/pr-document-checklist.pdf)
+ICA 不为私人翻译公司背书。委托前把实际服务的清单交给译者，确认原件、译文及证明会一起交付。PR、公民的完整清单还区分申请人、未申请配偶和担保人，按本人适用栏准备。[ICA：公民文件及翻译要求](https://www.ica.gov.sg/reside/citizenship/apply)、[PR 文件清单](https://www.ica.gov.sg/docs/default-source/ica/ipses/pr-document-checklist.pdf)
 
 其他机构按自己的规则收件。例如 MOM 的 EP 申请页要求非英文原件与英文译文合成一个上传文件，译文可由翻译服务商完成。MOM 要求的学历 verification proof 是另一项材料，公证过的学历证书不能充当该核验证明。办理 EP 时，应由负责申请的雇主或就业中介按 MOM 列明渠道准备。[MOM：EP 文件与学历核验证明](https://www.mom.gov.sg/passes-and-permits/employment-pass/documents-required)
 
@@ -43,7 +43,7 @@ ICA 不为私人翻译公司背书。委托前把实际服务的清单交给译�
 
 以中国内地文件为例，新加坡驻上海总领馆的现行说明规定：自 2023 年 11 月 7 日起，先按要求在授权公证处或有关机关取得公证文书，再交中国外交部或获授权地方外事机关办理 Apostille。带有附加证明书的中国文件在新加坡使用，无须再经新加坡驻华使领馆认证。是否需要办理，仍先问新加坡的接收机关；这一步也没有免除它另列的英文翻译或材料要求。[新加坡驻上海总领馆：中国文件来新加坡](https://shanghai.mfa.gov.sg/consular-services/notarial-services/)
 
-其他出具地，应从当地主管及新加坡驻当地使领馆的现行文书说明查起。公约不适用时，核对具体文件的公证、当地认证和使领馆认证顺序。不要把新加坡文件送 SAL 的出境路线直接套到外国原件上。
+其他出具地，应从当地主管及新加坡驻当地使领馆的现行文书说明查起。公约不适用时，核对具体文件的公证、当地认证和使领馆认证顺序。
 
 ## 新加坡文件送境外，先按文件种类分流
 
@@ -92,7 +92,7 @@ SAL 也区分 CTC、Certified True Document（CTD）和 Certified True Signature
 
 纸本柜台路线可以找可信代办人，不要求授权信；代办人必须带齐文件，并能当面说明文件种类、认证原件或副本以及目的地。若核验要登录你自己的 Singpass 或邮箱，则须本人到场；SAL 不收邮寄或快递送件，也不接受你通过电话、邮件或便条代替现场说明。安排代办前，把这些条件逐项确认。[SAL：代办，第 16—17 页](https://legalisation.sal.sg/App/Templates/LEG_FAQ_v1.4_15Oct2025.pdf)
 
-没有 Visa 或 Mastercard，可按 SAL 官方建议请可信亲友协助线上付款；柜台不收现金，工作人员不能用私人卡替客户支付。ACRA 的线上 e-Apostille 服务则只适用于指定的 Business Profile、Business Certificate，以 2023 年 3 月 4 日起签发的 Open Attestation 格式上传；当前费用为每份 S$10.70，不需到柜台。不要把这项特殊服务套到所有数字政府文件。[SAL：付款和 ACRA e-Apostille](https://legalisation.sal.sg/Faq)
+没有 Visa 或 Mastercard，可按 SAL 官方建议请可信亲友协助线上付款；柜台不收现金，工作人员不能用私人卡替客户支付。ACRA 的线上 e-Apostille 服务则只适用于指定的 Business Profile、Business Certificate，以 2023 年 3 月 4 日起签发的 Open Attestation 格式上传；当前费用为每份 S$10.70，不需到柜台。[SAL：付款和 ACRA e-Apostille](https://legalisation.sal.sg/Faq)
 
 ## 文件有错、遗失或核验失败
 

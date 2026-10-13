@@ -170,7 +170,7 @@ HDB 贷款利率比当季 CPF OA 利率高 0.1 个百分点，按季度检视。
 
 ## 换屋与以后出售：别把旧房售价全算作现金
 
-卖房时先偿还未偿住房贷款，再处理应退 CPF。通常须退还用于住房的本金及累计利息；曾以房产补足退休储蓄者还可能须退质押金额。可登录 CPF 的 Home ownership dashboard，在 “What Happens If” 查看本人的退款数。部分 2013 年前已达到相关年龄及退休储蓄条件者有不同规定，按账户及详页核，不套统一估算。[CPF：本人出售／转让退款数](https://www.cpf.gov.sg/service/article/how-much-do-i-need-to-refund-to-my-cpf-account-when-selling-transferring-my-property)
+卖房时先偿还未偿住房贷款，再处理应退 CPF。通常须退还用于住房的本金及累计利息；曾以房产补足退休储蓄者还可能须退质押金额。可登录 CPF 的 Home ownership dashboard，在 “What Happens If” 查看本人的退款数。部分 2013 年前已达到相关年龄及退休储蓄条件者有不同规定，按账户及详页核。[CPF：本人出售／转让退款数](https://www.cpf.gov.sg/service/article/how-much-do-i-need-to-refund-to-my-cpf-account-when-selling-transferring-my-property)
 
 以市价出售、还贷后的售价不足全额退 CPF，一般不须用现金补差额；从买家先收到的 option fee 和 exercise fee 仍是售价的一部分，不能因为已经收进银行就全部留用。重新用 CPF 买下一套前，确认退款到账、退休储蓄及新房住房限额。[CPF：出售退款及现金不足的处理](https://www.cpf.gov.sg/member/tnc/t-c-for-use-of-cpf-under-cpf-housing-scheme)
 

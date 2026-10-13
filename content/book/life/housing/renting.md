@@ -23,7 +23,7 @@ HDB 是组屋，私人住宅包括公寓和有地住宅。出租整套与出租�
 | HDB 房间 | 同样至少六个月。三房式最多出租一间卧室，四房式及以上最多两间；一、二房式不得出租卧室 | 业主及获准居住者是否继续同住，整户人数是否合规 |
 | 私人住宅 | 至少连续三个月；通常最多六名互无亲属关系的人居住。面积至少 90 平方米、业主完成临时授权的住宅可放宽至八名 | 房屋是否获准作住宅、面积、业主授权证明及公寓管理处入住要求 |
 
-HDB 的人数计算包含出租房间时同住的业主与获准居住者。HDB 较大户型和合资格私宅的八人放宽措施目前延至 **2028 年 12 月 31 日** ；不要把“八人”套用到所有房源。私宅的同一家庭另有人数规则，家政工可计入家庭成员；家庭再与外人同住时，仍要核对总人数。[MOM 住宅类型与人数表](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-worker/housing/various-types-of-housing)、[URA 私宅出租规则](https://www.ura.gov.sg/guidelines/property-and-business-owners/property/renting-property/)、[gov.sg 组屋出租说明](https://www.gov.sg/explainers/renting-out-your-hdb-flat/)
+HDB 的人数计算包含出租房间时同住的业主与获准居住者。HDB 较大户型和合资格私宅的八人放宽措施目前延至 **2028 年 12 月 31 日** 。私宅的同一家庭另有人数规则，家政工可计入家庭成员；家庭再与外人同住时，仍要核对总人数。[MOM 住宅类型与人数表](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-worker/housing/various-types-of-housing)、[URA 私宅出租规则](https://www.ura.gov.sg/guidelines/property-and-business-owners/property/renting-property/)、[gov.sg 组屋出租说明](https://www.gov.sg/explainers/renting-out-your-hdb-flat/)
 
 住几周或一两个月的访客，应找酒店或符合其经营条件的服务公寓。普通私人住宅不能按日、按周出租，组屋也不能拿来短租。私人住宅租约达到三个月，仍须另行满足自己的合法停留条件。[URA 短期住宿说明](https://www.ura.gov.sg/guidelines/property-and-business-owners/property/short-term-accommodation/)
 
@@ -38,9 +38,9 @@ Work Permit 要再看国籍和行业：
 - 非马来西亚籍制造业员工只能租 HDB 房间，不能租整套。
 - 非马来西亚籍建筑、海事船厂及加工行业员工不在可住 HDB 的类别内，应由雇主按 MOM 要求安排合规住所。
 
-这一分支依据 [MOM 外籍员工可住的住宅类型](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-worker/housing/various-types-of-housing)，不能用“有工作准证”概括。雇主提供住房时，也要核对地址登记，不能只凭公司已经付租金就搬入。
+这一分支依据 [MOM 外籍员工可住的住宅类型](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-worker/housing/various-types-of-housing)。雇主提供住房时，也要核对地址登记，不能只凭公司已经付租金就搬入。
 
-若自己或拟入住成员已经是 HDB 业主、获准居住者、公共租赁组屋租户，或涉及尚未满足最低居住年限的执行共管公寓（EC），先让 HDB 核对该家庭情况。一般身份条件通过，并不等于这些已有住房关系已获准。gov.sg 对 HDB 业主租用另一套组屋列有离婚、合法分居等特定情形及原房出租要求；不要把这些例外套给所有家庭。[已有住房者的限制](https://www.gov.sg/explainers/renting-out-your-hdb-flat/)
+若自己或拟入住成员已经是 HDB 业主、获准居住者、公共租赁组屋租户，或涉及尚未满足最低居住年限的执行共管公寓（EC），先让 HDB 核对该家庭情况。一般身份条件通过，并不等于这些已有住房关系已获准。gov.sg 对 HDB 业主租用另一套组屋列有离婚、合法分居等特定情形及原房出租要求。[已有住房者的限制](https://www.gov.sg/explainers/renting-out-your-hdb-flat/)
 
 整套 HDB 若租给非马来西亚籍的非公民，包括 PR，会受非公民配额约束；出租房间不适用这一配额。业主必须先查这套房当时是否有名额，并取得 HDB 的出租批准。PR 业主不能出租整套 HDB；Plus、Prime 组屋也不能整套出租。出租房间时，业主及所有获准居住者须继续住在该单位。[gov.sg 业主条件与配额](https://www.gov.sg/explainers/renting-out-your-hdb-flat/)
 

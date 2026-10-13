@@ -18,7 +18,7 @@ search_keywords: ["SIM", "eSIM", "GIRO", "ADR", "宽带", "订阅", "转号"]
 
 访客可按运营商接受的证件购买适合短期停留的服务。准备长期使用同一号码的人，要特别留意外国护照登记的期限。以 M1 预付费卡为例，护照登记后 30 天到期；若要保留号码，须在到期前更新为获接受的新加坡身份证件或准证。没有及时更新，号码会在第 31 天终止，不能靠事后充值取回。该公司列明的更新证件包括 NRIC、EP、S Pass、Work Permit、学生和相关家属准证。[M1：预付费登记及证件更新](https://www.m1.com.sg/support/faq/all-topics/mobile-phones-plans/prepaid)
 
-后付费或按月续费产品也有自己的年龄、证件和付款要求。不要把一家公司的套餐资格套到另一家；例如 Singtel hi! 的当前申请条件列明至少 16 岁及其接受的身份证件。未成年学生、刚获准证但记录尚未同步的人，应先让运营商确认申请人及账户持有人的安排。[Singtel hi!：申请条件](https://www.singtel.com/personal/products-services/mobile/hi/faq)
+后付费或按月续费产品也有自己的年龄、证件和付款要求，例如 Singtel hi! 的当前申请条件列明至少 16 岁及其接受的身份证件。未成年学生、刚获准证但记录尚未同步的人，应先让运营商确认申请人及账户持有人的安排。[Singtel hi!：申请条件](https://www.singtel.com/personal/products-services/mobile/hi/faq)
 
 预付费 SIM 的一般登记上限为跨运营商合计三张。自 **2026 年 2 月 28 日** 起，后付费 SIM 上限改为跨运营商合计十张；不是每换一家便再有十张额度。[MDDI：SIM 登记措施](https://www.mddi.gov.sg/other-pages/anti-scam-efforts/) 后付费计数有排除项目，例如 CIS 企业个人订购计划及仅供数据使用的 SIM。可从官方 [SIMCardHowMany](https://go.gov.sg/simcardhowmany) 入口以 Singpass 查询计入上限的登记数量；发现不认识的登记，向有关运营商及 ScamShield 报告。[SPF：2025 年度报告，第 38 页](https://www.police.gov.sg/-/media/SPF/Media-Room/Statistics/Annual-Scams-and-Cybercrime-Brief-2025/Annual-Scam-and-Cybercrime-Brief-2025.pdf)
 

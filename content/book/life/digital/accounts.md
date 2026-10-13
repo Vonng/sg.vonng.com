@@ -62,7 +62,7 @@ Singpass 用来证明你是谁、登录政府及部分私人服务；Myinfo 可�
 
 Myinfo 可从政府来源取得相关资料，减少重复填表。使用私人机构服务时，先看清索取哪些字段、用于哪项申请，再决定是否同意。商家须在提取资料前取得同意，所取范围限于表格及交易需要的字段。[Myinfo 是什么](https://ask.gov.sg/singpass/questions/clul3eam0003yufi20xwi9z6i)、[商业服务资料范围](https://ask.gov.sg/singpass/questions/clul3s1ix003uyisxdkp6e7mw)
 
-政府服务登录后，部分与交易有关的基本资料可自动填入；取得年度收入、CPF 记录等相关保密资料时另须征求同意。因此，应具体读该次页面，不能把每种政府资料都理解为同一种授权流程。[政府交易与资料字段](https://ask.gov.sg/singpass/questions/clul3qi7v003oyisxxjn9vl1t)
+政府服务登录后，部分与交易有关的基本资料可自动填入；取得年度收入、CPF 记录等相关保密资料时另须征求同意。因此，应具体读该次页面。[政府交易与资料字段](https://ask.gov.sg/singpass/questions/clul3qi7v003oyisxxjn9vl1t)
 
 填入之后仍要检查姓名、地址和其他信息。源自政府记录的资料有误，向负责该字段的机构更正；例如住址要按公民／PR、ICA 准证或 MOM 准证分别找原机关。经主管核验更新后，Myinfo 一般需要一至三个工作日反映变化，再回到原申请检查。[资料更正与主管入口](https://ask.gov.sg/singpass/questions/clul3nxlb003jyisxth4vce2d)
 
