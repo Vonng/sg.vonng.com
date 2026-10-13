@@ -16,7 +16,7 @@ search_keywords: ["PAB", "PMD", "PMA", "UL2272", "自行车", "骑行", "电滑�
 
 ## 步行时先找过街和连续路径
 
-看清出口、路口和过街设施，把楼栋入口至车站的一段也算进路线。行人优先用人行过街处和专用步行道；走在共享路径上，留意前后骑行者，尽量靠左。需要临时绕过障碍进入相邻骑行路径，先看安全情况，再回到步行道。这些是 LTA 给行人的路径使用指引。[LTA：行人及骑行者指引](https://www.lta.gov.sg/content/ltagov/en/getting_around/active_mobility/rules_and_public_education/rules_and_code_of_conduct.html)
+看清出口、路口和过街设施，把楼栋入口至车站的一段也算进路线。行人优先用人行过街处和专用步行道；走在共享路径上，留意前后骑行者，尽量靠左。需要临时绕过障碍进入相邻骑行路径，先看安全情况，再回到步行道。[LTA：行人及骑行者指引](https://www.lta.gov.sg/content/ltagov/en/getting_around/active_mobility/rules_and_public_education/rules_and_code_of_conduct.html)
 
 带孩子、推婴儿车或使用轮椅，优先查有连续坡道、电梯和安全过街的路线；中途接地铁或巴士，可看[公共交通的无障碍安排](/book/life/transport/public-transport/)。雷雨或路面湿滑时，留出步行时间，设备刹车和轮胎也要先检查。
 

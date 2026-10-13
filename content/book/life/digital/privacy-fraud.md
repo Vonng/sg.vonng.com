@@ -76,7 +76,7 @@ ScamShield App 可检查可疑来电、网站，以及短信、Telegram 或 What
 
 机构保留的资料也值得询问。PDPA 的保留限制要求：资料不再为收集目的、其他正当业务或法律目的所需时，机构应停止保留或妥善处置。提出删除要求时，可以写清资料、接收时间及原用途，请机构解释继续保留的理由；这与取消服务或订阅是不同事项。[MDDI：关于删除个人资料的国会答复](https://www.mddi.gov.sg/newsroom/pq-on-provision-for-deletion-of-personal-data-upon-request/)
 
-先辨认持有资料的是私人机构还是公共机构。公共部门的数据管理受《公共部门治理法》及政府相关规则管理；PDPA 的私人机构资料保护框架不能直接当成政府服务的统一申请流程。政府表格资料不对时，先找负责该记录的机构；Myinfo 源资料更正见[Singpass 与 Myinfo]({{< relref "/book/life/digital/accounts.md" >}})。[MDDI：政府资料保护法律与政策](https://www.mddi.gov.sg/other-pages/personal-data-protection-laws-and-policies/)
+先辨认持有资料的是私人机构还是公共机构。公共部门的数据管理受《公共部门治理法》及政府相关规则管理；政府表格资料不对时，先找负责该记录的机构；Myinfo 源资料更正见[Singpass 与 Myinfo]({{< relref "/book/life/digital/accounts.md" >}})。[MDDI：政府资料保护法律与政策](https://www.mddi.gov.sg/other-pages/personal-data-protection-laws-and-policies/)
 
 ## 转发之前，查来源、日期与完整上下文
 
@@ -90,4 +90,4 @@ NLB 的 S.U.R.E. 方法强调查来源、理解内容、继续研究和评估。
 
 NLB 的展览以 2016 年榜鹅组屋“屋顶坍塌”假消息说明，拍摄角度也能制造错觉；深度伪造则能改动人的影像和声音。核实一段视频时，应同时找原发布渠道和完整内容，而不要只凭画面逼真或熟悉的声音判断。[NLB：Fact or Fake?](https://exhibitions.nlb.gov.sg/newsgallery/virtual-gallery/fact-or-fake/)
 
-发现自己转错了，可以在原来的群聊补发更正和来源，说明哪一处有误。谈论别人的受骗经历时，先隐去证件、联系方式和账户资料，让提醒本身也保护当事人。
+发现自己转错了，可以在原来的群聊补发更正和来源，说明哪一处有误。

@@ -11,7 +11,7 @@ reviewed_by: daily_history（独立事实审）；root（编辑静态审）
 weight: 40
 ---
 
-把宠物带回家前，先确认 **住处允许、动物种类和数量合规、每天有人照顾、长期费用负担得起** 。猫狗须植入芯片并办理 AVS 执照；搬家、旅行、生病或离开新加坡时，照顾责任仍要有人接手。租客应先取得房东同意，并核对公寓管理规定，避免付了领养或购买费用后才发现住处不能养。
+把宠物带回家前，先确认 **住处允许、动物种类和数量合规、每天有人照顾、长期费用负担得起** 。猫狗须植入芯片并办理 AVS 执照；搬家、旅行、生病或离开新加坡时，照顾责任仍要有人接手。租客应先取得房东同意，并核对公寓管理规定。
 
 ## 先核对动物和住宅限制
 
@@ -76,7 +76,7 @@ weight: 40
 
 每天安排适合动物的活动、互动和清洁，留意进食、排便、精神及行动的变化。先在 [AVS 持牌兽医中心名册](https://avs.nparks.gov.sg/outreach/resources/public-registry-of-avs-licensed-veterinary-centres/) 找附近诊所，保存日常和夜间求助电话；预约时说明动物种类、症状及既往病史，确认诊所接诊时间和预计费用。
 
-出差或回国前，确定照顾人或寄养服务，交代食物、药物、兽医联系方式及紧急治疗授权；先确认是否接收该种动物、需要什么疫苗或健康证明。长期离境需及早安排同行手续或可靠新家庭，不应等到机票出发前才开始找人。
+出差或回国前，确定照顾人或寄养服务，交代食物、药物、兽医联系方式及紧急治疗授权；先确认是否接收该种动物、需要什么疫苗或健康证明。长期离境需及早安排同行手续或可靠新家庭。
 
 搬家后在 **28 天内** 更新 PALS 地址。送养时办理所有权转移，确认新主人接受；执照到期前续期，死亡、出口或走失等情况按 PALS 指引通知和更新，保存所需证明。[AVS：地址、转移、续期及取消操作](https://avs.nparks.gov.sg/pets/licensing-a-pet/applying-for-and-managing-dog-and-cat-licences/applying-and-managing/)
 
@@ -84,7 +84,7 @@ weight: 40
 
 宠物走失后，立即填写 [AVS 走失报告](https://go.gov.sg/lostpet)，致电 Animal Response Centre **1800 476 1600** ，也可联系 SPCA **6287 5355** 。准备最后出现的地点、邮区、日期时间、芯片号、特征及照片；在邻里寻找，并取得许可后张贴寻宠启事。芯片资料须在 AVS 登记，才有助于找回后联系你。[AVS：走失搜寻步骤](https://avs.nparks.gov.sg/pets/lost-pets/missing-pet/)
 
-如动物由 AVS 收留，先致电预约领取，再带合适提笼前往 **57 Sungei Tengah Road** 的 Animal Management Centre，并确认收留、住宿及其他应付费用。这里按预约服务，不能假定随时可到场领取。[AVS：领取被收留的动物](https://avs.nparks.gov.sg/pets/lost-pets/missing-pet/)
+如动物由 AVS 收留，先致电预约领取，再带合适提笼前往 **57 Sungei Tengah Road** 的 Animal Management Centre，并确认收留、住宿及其他应付费用。这里按预约服务。[AVS：领取被收留的动物](https://avs.nparks.gov.sg/pets/lost-pets/missing-pet/)
 
 遇到医疗或行为难题，先请兽医、训练人员或领养组织协助。确实无法继续照顾时，尽早找亲友或动物组织协助送养，如实说明疾病及行为问题，并筛选接收家庭。AVS 不接收主人主动交出的宠物；遗弃属于违法行为，送养可能需要数周甚至数月。[AVS：无法继续饲养时的安排](https://avs.nparks.gov.sg/pets/rehoming-a-pet/)
 

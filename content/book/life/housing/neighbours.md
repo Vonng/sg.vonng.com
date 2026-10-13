@@ -78,7 +78,7 @@ CDRT 处理邻居行为或不作为对自己居住处的使用、享受造成不
 
 ## 公寓管理与楼层漏水纠纷，另查 STB
 
-Strata Titles Boards（STB）处理分层住宅中列明的事项，包括楼层之间漏水、管理职责或附例、部分决议、共用产业改动与资料提供。先请业主、管理处和相关当事人查问题及商议；需要申请时，将请求与 STB 的具体受理事项对照。居住在公寓，不意味着一切人际或合同纠纷都属于 STB。[STB：可申请的事项](https://www.stratatb.gov.sg/general-proceedings/application/applicant/types-of-orders-under-bsma/)
+Strata Titles Boards（STB）处理分层住宅中列明的事项，包括楼层之间漏水、管理职责或附例、部分决议、共用产业改动与资料提供。先请业主、管理处和相关当事人查问题及商议；需要申请时，将请求与 STB 的具体受理事项对照。[STB：可申请的事项](https://www.stratatb.gov.sg/general-proceedings/application/applicant/types-of-orders-under-bsma/)
 
 个人以适用业主身份申请时用 **Form 8** ，由全部业主签署，附事件顺序和证据；漏水案件还应准备清楚的彩色照片及相关平面图。先把电子副本寄至官方列出的 **stbapplication@mnd.gov.sg** 供核查，接到受理说明后再按指示缴费及交纸本。申请费 **S$500** ，包含首两次调解；不合受理范围的申请可能终止，费用不退。[STB：申请材料和程序](https://www.stratatb.gov.sg/general-proceedings/application/applicant/matters-under-bsma/)、[先核查后付款的说明](https://www.stratatb.gov.sg/general-proceedings/)
 

@@ -163,14 +163,14 @@ Autopass绑定车辆，不能借别车的卡；换车但保留旧车牌，也要
 
 外国访客的车辆VEP一般允许最多14天；要延长车辆停留，须至少在到期前5天按LTA给出的反馈入口提交申请，并核对实际批准。 **车辆许可和旅客的停留许可分别计算** 。人获准继续停留时，也要处理车的VEP、保险和路税到期；车辆或资料未获批，先改用公共交通或持牌跨境出租车。
 
-普通马来西亚注册汽车目前进入新加坡的主要费用包括：应收费日的VEP S$35，现有年度首10个收费日及指定日期／时段的免费安排；每次入境Reciprocal Road Charge S$6.40；关卡通行费；没有IU时适用的ERP固定日费S$5。实际记录和豁免条件按LTA费表核算，不把卡上余额当作已经足够的总预算。[当前VEP及车辆费表](https://onemotoring.lta.gov.sg/content/onemotoring/home/driving/entering_and_exiting_singapore/cars-and-motorcycles-registered-in-malaysia.html)
+普通马来西亚注册汽车目前进入新加坡的主要费用包括：应收费日的VEP S$35，现有年度首10个收费日及指定日期／时段的免费安排；每次入境Reciprocal Road Charge S$6.40；关卡通行费；没有IU时适用的ERP固定日费S$5。实际记录和豁免条件按LTA费表核算。[当前VEP及车辆费表](https://onemotoring.lta.gov.sg/content/onemotoring/home/driving/entering_and_exiting_singapore/cars-and-motorcycles-registered-in-malaysia.html)
 
 已经宣布的变化须按日期安排：
 
 - **2026年11月2日起** ，有未结罚款的外国车辆，其VEP申请将不获批准；出发前查清并处理。
 - **2027年1月1日起** ，外国汽车VEP改为工作日、非新加坡公共假日每天S$50，年度10个免费日及免费小时安排取消；没有OBU的外国汽车，在ERP收费运行日固定ERP日费为S$10。外国车辆的OBU安排按LTA要求核对。
 
-2027新费见 [LTA公告](https://www.lta.gov.sg/content/ltagov/en/newsroom/2026/2/news-releases/updates-foreign-registered-vehicles-entering-singapore.html)，不能提前当作2026年10月收费。摩托、巴士、出租车等车种另有费率和条件，使用对应费表。
+2027新费见 [LTA公告](https://www.lta.gov.sg/content/ltagov/en/newsroom/2026/2/news-releases/updates-foreign-registered-vehicles-entering-singapore.html)。摩托、巴士、出租车等车种另有费率和条件，使用对应费表。
 
 ## 返新携物：新购物、旧物、酒烟分别算
 

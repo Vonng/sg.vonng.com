@@ -32,7 +32,7 @@ PHC 的前后有“Private Hire”贴标。预订后核对订单里的车牌和�
 
 计表总额通常由起步价、距离或等候费、附加费和预约费组成。各公司自行定价，车型也会影响价格。2026 年 10 月查阅的 LTA 说明列出：高峰附加费为计表车资的 **25%** ，每天午夜至早上 5:59 为 **50%** ；从樟宜机场出发的机场附加费，17:00—23:59 为 **S$8** ，其他时间 **S$6** 。市区、邮轮码头和部分景点另有起程地点附加费。[LTA 车费与付款说明](https://www.lta.gov.sg/content/ltagov/en/getting_around/point_to_point_transport_and_cross_border_services/taxi_fares_payment_methods.html)
 
-公司可能临时调整距离费率或增加指定订单的费用。CDG 的 2026 年现行价目，仍列有持续至 11 月 30 日的临时调整。固定价订单也可能另加 ERP 道路收费；付款方式可能有行政费。以同一公司的实际车型、订单和[现行价目](https://www.cdgtaxi.com.sg/fares_oct/)核对，不要只用一个起步价估算总额。
+公司可能临时调整距离费率或增加指定订单的费用。CDG 的 2026 年现行价目，仍列有持续至 11 月 30 日的临时调整。固定价订单也可能另加 ERP 道路收费；付款方式可能有行政费。以同一公司的实际车型、订单和[现行价目](https://www.cdgtaxi.com.sg/fares_oct/)核对。
 
 只带现金时，预备较小面额；打算刷卡或手机钱包，预订或上车时先确认车内设备可用及手续费。下车前看总额、附加项和订单支付状态，领取纸本收据或保存电子收据，方便报销、寻物和申诉。[LTA 付款说明](https://www.lta.gov.sg/content/ltagov/en/getting_around/point_to_point_transport_and_cross_border_services/taxi_fares_payment_methods.html)、[CDG 乘客指引](https://www.cdgtaxi.com.sg/ride-with-us/customer-charter/)
 
@@ -44,9 +44,9 @@ PHC 乘客只要身高低于 **1.35 米** ，不论年龄，都须使用合规�
 
 带低于 1.35 米的乘客坐出租车，安排在后排，并尽量自带适合其身高、体重的合规格装置。MOT 对出租车的儿童座椅豁免说明，源于可路招的服务性质；预订前也可询问有座椅的车。选购或携带自己的儿童座椅，检查标准标签和厂家适用范围。[MOT：出租车儿童座椅答复](https://www.mot.gov.sg/news-resources/newsroom/written-reply-to-parliamentary-question-on-plans-to-require-taxis-to-provide-child-car-seats/)、[SPF：合格约束标准](https://www.police.gov.sg/media-hub/news/2025/06/20250613_review_of_standards_for_child_restraints)、[CDG：后排安排](https://www.cdgtaxi.com.sg/ride-with-us/customer-charter/)
 
-使用轮椅时，预订前说明能否转移到汽车座位、轮椅能否折叠，以及轮椅尺寸、连人的重量和同行人数。需要全程留在轮椅上，联系营运者确认轮椅专车及其承载、固定方式和报价。CDG 的 [MaxiCab Wheelchair Service](https://www.cdgtaxi.com.sg/fares_oct/)有独立费目，可从电话预订入口询问；普通大车的座位数不能说明它一定适合载轮椅。
+使用轮椅时，预订前说明能否转移到汽车座位、轮椅能否折叠，以及轮椅尺寸、连人的重量和同行人数。需要全程留在轮椅上，联系营运者确认轮椅专车及其承载、固定方式和报价。CDG 的 [MaxiCab Wheelchair Service](https://www.cdgtaxi.com.sg/fares_oct/)有独立费目，可从电话预订入口询问。
 
-带大箱子、婴儿车或助行器，告知数量和尺寸，同时计算乘客人数。六座或七座车在载满乘客时，行李空间也可能不足。确认能装载后再下单，避免车到后因容量或儿童装置不符而取消。[CDG 车型容量](https://www.cdgtaxi.com.sg/ride-with-us/seating-capacity/)、[取消条款](https://www.cdgtaxi.com.sg/cancellation-policy-2025/)
+带大箱子、婴儿车或助行器，告知数量和尺寸，同时计算乘客人数。六座或七座车在载满乘客时，行李空间也可能不足，确认能装载后再下单。[CDG 车型容量](https://www.cdgtaxi.com.sg/ride-with-us/seating-capacity/)、[取消条款](https://www.cdgtaxi.com.sg/cancellation-policy-2025/)
 
 ## 司机到了却找不到，或需要取消
 

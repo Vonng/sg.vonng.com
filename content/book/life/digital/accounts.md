@@ -87,7 +87,7 @@ Myinfo 可从政府来源取得相关资料，减少重复填表。使用私人�
 
 SFA 不支持上述自助暂停，须联系 Helpdesk。已暂停账户要恢复，也由 Helpdesk 人员协助。[SFA 暂停办法](https://ask.gov.sg/singpass/questions/clul2ofse004a9ink92uq1wj4)、[恢复已暂停账户](https://ask.gov.sg/singpass/questions/clul6an90006pufi218ecutg7)
 
-**人工 Helpdesk 为周一至周五 9:00—18:00，周末及公共假日休息** 。旧资料中的“24 小时人工诈骗支援”已于 2026 年 6 月 30 日停止，全天自助暂停仍保留；两者不要混淆。[现行支援时间与变化](https://ask.gov.sg/singpass/questions/cmr0098yc00bn4a01ccbdwo9t)
+**人工 Helpdesk 为周一至周五 9:00—18:00，周末及公共假日休息** 。旧资料中的“24 小时人工诈骗支援”已于 2026 年 6 月 30 日停止，全天自助暂停仍保留。[现行支援时间与变化](https://ask.gov.sg/singpass/questions/cmr0098yc00bn4a01ccbdwo9t)
 
 ## 带什么去柜台，问题交给谁
 
