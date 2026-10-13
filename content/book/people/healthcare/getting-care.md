@@ -11,7 +11,7 @@ reviewed_by: daily_history（独立事实审）；root（编辑静态审）
 weight: 10
 ---
 
-普通初诊、慢性病复诊和健康问题，通常从家庭医生诊所（GP clinic）或综合诊疗所（polyclinic）开始；需要专科时由医生评估转介。出现呼吸困难、失去意识、严重出血或疑似中风等紧急情况，拨 **995** 。准备看诊时，同时查清自己的身份、保险指定诊所和付款安排，避免到了医院才发现登记类别与预期不同。[MOH：基层医疗](https://www.moh.gov.sg/seeking-healthcare/find-a-facility-or-service/types-of-medical-facilities-and-services/primary-care-services/)、[SCDF：紧急医疗服务](https://www.scdf.gov.sg/home/about-scdf/emergency-medical-services)
+普通初诊、慢性病复诊和健康问题，通常从家庭医生诊所（GP clinic）或综合诊疗所（polyclinic）开始；需要专科时由医生评估转介。出现呼吸困难、失去意识、严重出血或疑似中风等紧急情况，拨 **995** 。准备看诊时，同时查清自己的身份、保险指定诊所和付款安排。[MOH：基层医疗](https://www.moh.gov.sg/seeking-healthcare/find-a-facility-or-service/types-of-medical-facilities-and-services/primary-care-services/)、[SCDF：紧急医疗服务](https://www.scdf.gov.sg/home/about-scdf/emergency-medical-services)
 
 ## 先选入口
 

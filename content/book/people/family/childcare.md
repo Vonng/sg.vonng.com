@@ -39,7 +39,7 @@ LifeSG 网页搜索可在没有 Singpass 时使用；按地点或园名找，也
 - 接送授权、紧急联系人、意外和突发疾病的处理；家长能在什么时间获知情况。
 - 饭食、过敏和宗教饮食需要、奶和辅食储存，以及孩子的如厕、睡眠或行动支持。
 
-这些是选择园方和沟通照护需要的问题；具体安排应写进园方记录或双方确认的文件。[ECDA：教师、安全、饭食及课程](https://www.ecda.gov.sg/parents/choosing-a-preschool/choosing-a-preschool-for-your-child)、[多语家庭与孩子的语言]({{< relref "/book/people/language/multilingual-family" >}})
+具体安排应写进园方记录或双方确认的文件。[ECDA：教师、安全、饭食及课程](https://www.ecda.gov.sg/parents/choosing-a-preschool/choosing-a-preschool-for-your-child)、[多语家庭与孩子的语言]({{< relref "/book/people/language/multilingual-family" >}})
 
 报名之前，取得入园表、家长手册和收费条款，核注册费、押金、取消报名、退园通知及退款条件。让园方列出本次所需身份、出生、监护和健康材料，以及正式提交渠道。留好报价、条款、入园确认和付款收据；学校的报名表与之后的 ECDA 登记表各有用途。[ECDA：报名、退园与收费政策](https://www.ecda.gov.sg/parents/choosing-a-preschool/choosing-a-preschool-for-your-child)、[园方表与 LifeSG 表的用途](https://ask.gov.sg/ecda/questions/cmcih2sv701enrvtobt3ofni0)
 
@@ -171,7 +171,7 @@ ECDA在入新园、托婴转托幼、N2升K1三个固定点重新评估收入及
 
 ## 2027后的调整与办理求助
 
- **2027年1月1日起** ，ECDA托婴、托幼额外补贴及KiFAS的收入上限提高至 HHI S$15,000／PCI S$3,400；不论工作状态可取全额托幼补贴的低收入分支，提高至 HHI S$7,500／PCI S$1,700。各收入档也随当期表调整；计划2027入园或重评时，向园方确认对应表和本人评估点。KCare的2027费用与计算器调整另按MOE公布，不自行套同一组数字。[ECDA：2027托育条件](https://www.ecda.gov.sg/parents/preschool-subsidies/infant-and-childcare-subsidy-scheme/overview)、[新旧托育费表](https://file.go.gov.sg/ecda-subsidy-table-cc-ifc.pdf)、[KiFAS新旧表](https://go.gov.sg/ecda-kifas-table)、[MOE：KCare后续调整](https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care)
+ **2027年1月1日起** ，ECDA托婴、托幼额外补贴及KiFAS的收入上限提高至 HHI S$15,000／PCI S$3,400；不论工作状态可取全额托幼补贴的低收入分支，提高至 HHI S$7,500／PCI S$1,700。各收入档也随当期表调整；计划2027入园或重评时，向园方确认对应表和本人评估点。KCare的2027费用与计算器调整另按MOE公布。[ECDA：2027托育条件](https://www.ecda.gov.sg/parents/preschool-subsidies/infant-and-childcare-subsidy-scheme/overview)、[新旧托育费表](https://file.go.gov.sg/ecda-subsidy-table-cc-ifc.pdf)、[KiFAS新旧表](https://go.gov.sg/ecda-kifas-table)、[MOE：KCare后续调整](https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care)
 
 NDR2026另宣布从2028年逐步降低政府支持机构费用，到2030年全日托幼 S$150、托婴 S$300的目标水平，在进一步按收入资助之前；向所有公民儿童家庭、不论主申请人工作状态扩展全额补贴的具体安排，待2027年初进一步公布。当前预算先用本页的当期规则与实际批准结果。[Made For Families：未来学前照护措施](https://www.madeforfamilies.gov.sg/ndr-2026-supporting-families)
 
