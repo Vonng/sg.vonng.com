@@ -18,3 +18,5 @@ weight: 30
 生病请假时，在[病假证明与有薪条件](/book/people/healthcare/medical-records/)核对适用雇佣规则、通知和提交办法；本人查看HealthHub、无Singpass取报告也由该篇分流。
 
 家政工作者及雇主可直接使用[家政雇用、工资休息与求助](/book/people/family/domestic-workers/)，查看入职、转雇、结束雇用和双方责任。有应税收入并考虑长期储蓄时，先读[SRS缴款与提款](/book/work/finance/srs/)，分别判断银行材料、税务居民和以后用钱的条件。
+
+需要借款或已经付不出账单时，查[信用卡、持牌放贷与债务困难](/book/work/finance/debt-disputes/)中的外籍身份、银行材料、担保限制与移工支持分支。

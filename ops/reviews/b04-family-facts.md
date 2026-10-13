@@ -1,6 +1,6 @@
 # B04 家庭稿独立事实审
 
-审阅者 care_finance；作者 identity；实际复核日期2026-10-13（Asia/Singapore）。本报告逐篇签发；下列relationships、sexual-health、childcare和domestic-workers各自最终版本通过，不表示其余家庭计划稿通过。审阅者未修改作者正文、地图或证据，未构建。
+审阅者 care_finance；作者 identity；实际复核日期2026-10-13（Asia/Singapore）。本报告逐篇签发；下列relationships、sexual-health、childcare、domestic-workers和separation-safety各自最终版本通过，不表示其余家庭计划稿通过。审阅者未修改作者正文、地图或证据，未构建。
 
 ## Relationships：通过
 
@@ -192,3 +192,53 @@ PDF均独立核字节和 SHA，以本机 `pdftotext` 重新提取，并用 `pdft
 文章完整覆盖从需要／住宿、谁申请、身份和收入、预算／优惠、机构与合同、手续和开工、日常工资／休息／隐私，到安全／医疗、假期／转雇／结束及双方实际求助。对ONE／Entre／DP／STP／其他WP／访客未取得直接许可的边界、特别计划网页与新版表亲属列举差异、来源国逐国要求未穷尽，均在正文写明对应核查行动，不用未经核实数值填空。照护轮班与交接清单为行动建议，不伪作法定护理资格。
 
 最终机器检查九元数据完整，written／draft:true／核验字段空、正文无H1、10个H2、79处HTTPS、五个实际存在relref、中文加粗外侧空格及单EOF通过。此次独审无构建、无网页渲染、无提交，由root继续第三编辑和工程接收。
+
+## Separation-safety：通过
+
+审阅者care_finance，作者identity；实际复核日期2026-10-13（Asia/Singapore）。完整首稿、全部采用事实节点及作者补引后的最终全文均已实际阅读，未发现剩余事实阻断。可交root第三人编辑；正文仍written/draft:true，核验字段为空，审阅者没有修改作者正文或证据、没有构建。
+
+| 版本 | 字节 | 完整SHA256 | 正文SHA256 |
+| --- | --- | --- | --- |
+| 首次冻结，历史 | 36,603 | a0f7b785cf22e78abda0055332deb3b7b8b08d762374eca1024fe5cfb7b080cc | a5823e937afeb28a704cdf9b9ca3aa4ea23ab328413c7ae6a9fabe78ff800a64 |
+| 本次通过的最终冻结版 | 36,859 | fc21f2c710cd1aa1bf35a210dc7b14e8e162fa884db0fb245795f3ba8923d353 | 3437f001435f518f48eb727f2981cf5c1e02a9ef435fef5a9c09c1a2fc9214af |
+
+文件content/book/people/family/separation-safety.md；正文SHA按UTF-8 `text.split('---',2)[2]`计算。修订仅增加首段NAVH全天来源及mutual agreement段Form2C原表两条近邻引用；独立删除这两条完整字符串后严格恢复首次全文SHA，无其他正文变化。最终全文按1—70、71—130、131—末分段回读，实际版与作者新冻结SHA一致。
+
+### 实际回源、原件与图片范围
+
+复用作者2026-10-13真实取得的主管工具原文和普通HTML缓存，逐段独立阅读，并新联网打开现行LAB经济审查及FJC PPO申请资格。没有用作者证据摘要替代原文，也没有把缓存再读写成全部重新抓取。原始输入为.cache/research/b04-separation/author-tool-1-11.json、author-tool-12-31.json、author-tool-32.json、author-tool-33-36.json及两份MSF普通HTML；F55追加实体PDF。搜索结果、导航、metadata和失败对象不算详细原文。
+
+独立工作在.cache/research/b04-family-facts/separation/：source-index-v2.json对应src-sep*.txt，read-log.json记录每次实际返回的行号；早期分隔器未拆净的v1文件已保留为历史，未按候选数量宣称全读。两份MSF可见主体全文、独立新联网及F55实体范围另记independent-actual-read-completion.json。first-frozen.md、citation-diff.txt、final-frozen.md及final-check.json记录版本、两条引文差分与静态结果。
+
+MSF家庭暴力普通HTML为159,773B/SHA `8ea96957af2eaac8ab3e81d66b4bfbddd069a5541c8bc9053e23448f15399900`；中央机关HTML为148,848B/SHA `f6070c5aa5b8c7d3495fc0d6108f314b6389cd8d56a3200c7804c781543e63b1`。这两份实际提取的可见正文已全文阅读；没有登录或提交真实报告。
+
+F55 [法院Practice Directions附录](https://www.judiciary.gov.sg/docs/default-source/news-and-resources-docs/fjr-2024/fjcpd-2024-appendix-a-volume-1.pdf#page=66)实体为3,223,527B/SHA `79fa32d9547a26d558a219ee855ce0ed7551489ab93dd089868dafa14fdaa987`。审阅者校验PDF文件、重新提取物理66—68页，完整读Form2C三页文字，并重新渲染及实际查看全部三页图片；表内页码1—3、两侧签署栏、Q3—7及说明均可辨认。只核这三页，未读或目视整册516页。原PPO13页导读不是必要依据，本人未新增其阅读或目视声明。
+
+### 逐组核验
+
+F编号与完整URL见作者ops/evidence/b04-family.md；下表列本人实际采用原文及判断，行号属于保存的工具原件，不是证据摘要行号。
+
+| 事实节点、来源 | 独立实读范围与判断 |
+| --- | --- |
+| 安全、NAVH与证据：[MSF举报](https://www.msf.gov.sg/what-we-do/break-the-silence/get-help/i-want-to-report-domestic-violence)、[SPF70999](https://www.police.gov.sg/sms-70999)、[法院家庭暴力](https://www.judiciary.gov.sg/family/protection-against-family-violence) | F01—05；MSF普通可见全文，sep9-04 L902—919、sep2-01 L53—95、sep8-00 L341—377、sep27-05 L184—206。即时999、不能安全说话的短信、情绪/心理及性暴力、安全包和可行记录均相符。全天NAVH真实直接支持在F10 L59，不冒称F01普通HTML有24小时文字，作者已补F10近邻。安全安排为行动建议，不保证床位。 |
+| PPO资格、申请及命令：[资格](https://www.judiciary.gov.sg/family/apply-personal-protection-order)、[递交](https://www.judiciary.gov.sg/family/how-to-file-personal-protection-order-application)、[结果](https://www.judiciary.gov.sg/family/understand-outcomes-personal-protection-order-application) | F06/F07/F12；sep5-00 L53—174、新联网资格L53—162、sep4-01 L53—145。2025-01-02后18岁申请、未成年/能力不足代理、家庭成员与前姻亲排除、iFAMS后实体核实、现有医疗警方材料、CFS及传票相符。DEO/SAO/NCO、EO送达及命令发出后28日或聆讯较早终止/延长边界明确，没有把EMO写为人人自助令。 |
+| POHA、儿童及弱势成人：[POHA路径](https://www.judiciary.gov.sg/civil/before-making-an-application-protection-from-harassment)、[成人保护](https://www.judiciary.gov.sg/family/protection-for-vulnerable-adults)、[申请条件](https://www.judiciary.gov.sg/family/apply-to-protect-vulnerable-adult) | F08—11；src-sep28-00 L53—158、src-sep26-02 L351—363、src-sep23-04 L53—118、sep24-01 L53—143。未婚伴侣不凭关系取得PPO；家事法院POHA须已有相关案及许可等，金钱救济不据此推定。VA受保护18岁与申请人21岁/同意/能力条件分开；儿童不等离婚后保护。未抄PHC网页冲突脚注年份。 |
+| 民事管辖、婚龄和共同同意：[条件](https://www.judiciary.gov.sg/family/understand-requirements-getting-divorce)、[2019SGCA54](https://www.elitigation.sg/gd/s/2019_SGCA_54)、[2025SGFC110](https://www.elitigation.sg/gd/s/2025_SGFC_110)、[Form2C](https://www.judiciary.gov.sg/docs/default-source/news-and-resources-docs/fjr-2024/fjcpd-2024-appendix-a-volume-1.pdf#page=66) | F15—17/F55；src-sep3-02 L53—154、src-sep23-00 L244—277的para40、src-sep27-04 L337—425，以及Form2C实体三页。s93 domicile或起诉前3年habitual residence，不以国籍/某准证直接定管辖；公民可反驳推定、PR非决定因素正确，不将s121C另案条件套入。三年婚龄与分居期限分开，共同同意原文确要求破裂理由、和解努力及财务/未21孩子考虑，首稿引用范围缺口现已补原表。 |
+| CPP、简化和直接线上：[CPP](https://familyassist.msf.gov.sg/content/resources/family-assist-resources/frequently-asked-questions-faq/faqs-on-the-mandatory-co-parenting-programme-cpp/)、[简化递交](https://www.judiciary.gov.sg/family/how-to-file-matrimonial-application-divorce-simplified-track)、[eService](https://www.judiciary.gov.sg/services/e-platforms/divorce-eservice) | F18—21；src-sep13-01 L355—412、src-sep14-02 L413—433及排除页src-sep13-00 L351—361；src-sep4-00 L53—170、src-sep2-00 L53—83、src-sep5-01 L54—83。未21/双方CPP、个人学习与辅导免费、无Singpass资格/技术/视力/海外协助及能力排除相符。2024-10-15后简化只需离婚协议，而直接eService要全部附属事项协议及双方Singpass。14日送达和宣誓书起算自递交OA，平台费与法院费分开。 |
+| 普通回应、最终判决：[普通递交](https://www.judiciary.gov.sg/family/how-to-file-matrimonial-application-divorce-normal-track)、[回应](https://www.judiciary.gov.sg/family/how-to-respond-divorce-application-normal-track)、[附属命令](https://www.judiciary.gov.sg/family/at-ancillary-matters-hearing) | F14/F22—24；src-sep32-01 L53—160（曾截断121—160已另补读）、src-sep17-00 L53—170、src-sep11-01 L54—132、src-sep28-01 L53—108。受理后尽快送达、替代路径、14日Notice/28日Reply与cross提交送达、只争附属事项仍回应；旧MOA8日排除。临时后一般3个月且满足附属事项、最终前不能再婚、14日上诉提交送达和实质变化申请相符。 |
+| 穆斯林完整流程：[管辖](https://cm.syariahcourt.gov.sg/Who-We-Are/Jurisdiction/Divorce-and-Related-Matters)、[MCP](https://cm.syariahcourt.gov.sg/Divorce/Process-Pre-Divorce/Marriage-Counselling-Programme)、[送达](https://cm.syariahcourt.gov.sg/Divorce/Process-Divorce-Proceedings/Service-of-the-Originating-Summons) | F25—30；src-sep3-01 L18—49、src-sep3-00 L21—37、src-sep7-02 L21—47、src-sep9-00 L21—39、src-sep12-01 L21—60、src-sep12-02 L23—66及src-sep14-01 L21—33。AMLA35/双方穆斯林或穆斯林法结婚、domicile/3年、MCP/未21育儿、疾病豁免与1月内医生证明示例有据。Pre-OS六个月、受理12个月送达、21日回应、挂号须确认、Hakam及Decree/Certificate区别准确，不套民事时限或统一证书等待期。 |
+| 孩子及跨境：[监护](https://www.judiciary.gov.sg/family/guardianship)、[返还申请](https://www.judiciary.gov.sg/family/file-international-child-abduction-application)、[ICA协助](https://www.judiciary.gov.sg/family/international-child-abduction/requesting-assistance-from-the-immigration-and-checkpoints-authority-%28ica%29)、[中央机关](https://www.msf.gov.sg/what-we-do/singapore-central-authority/about) | F32—35另F15；src-sep21-01 L53—109、src-sep20-00 L53—203、src-sep17-02 L53—61、src-sep21-00 L53—61及MSF正常HTML可见全文。custody/日常照顾/access分开，未婚父母可依GIA申请；Hague未16、惯常居住/监护权/缔约关系、先法院命令再ICA至少1工作日/Form117A有据。中央机关邮箱准确，不承诺境外结果或冒称逐国公约关系已核。 |
+| 生活费、新申请/变更/执行：[路径](https://www.judiciary.gov.sg/family/file-maintenance-application)、[材料及办理](https://www.judiciary.gov.sg/family/apply-enforce-vary-maintenance-order) | F31/F36；src-sep14-00 L53—153、src-sep17-01 L53—97、src-sep21-02 L94—176。妻子/失能丈夫/孩子及21以上条件、Muslim婚内和SYC命令执行、iFAMS/ETS加实体步骤正确。离婚程序生活费变更不能直接按普通iFAMS；海外另核selected countries、月表/银行证据及重复执行MEO相符，没有对所有案件保证同一渠道。 |
+| 住房、CPF及后续：[CPF详细指南](https://www.cpf.gov.sg/member/account-services/cpf-asset-management/on-divorce)、[HDB保留](https://www.hdb.gov.sg/managing-my-home/home-ownership/change-of-flat-owners-or-occupiers/retain-flat-following-life-events)、[MSF/HDB详释](https://familyassist.msf.gov.sg/content/impact-of-divorce/impact-of-divorce-on-housing/public-housing-options/retaining-your-current-flat/) | F37—39/F50—53；src-sep31-01 L272—507、src-sep31-00 L177—195、src-sep27-00 L350—381、src-sep36-00 L36—38、src-sep34-02 L354—377、src-sep33-00 L353—385、src-sep35-00 L340—363。transfer接收SC/PR、charging年龄提款及身份差异、SA55+关闭、提交命令分类/不抵生活费债务、提名不自动撤销均正确。无婚内孩子SC35+SSC、有孩子身份另核、MOP、HOE已取钥匙、公共租赁另办完整；未从概述推所有外籍custody当然可拥组屋。 |
+| PR、LTVP及MOM DP：[PR](https://ask.gov.sg/ica/questions/clxwhkiyt00iydsotpvw2gww8)、[LTVP取消](https://ask.gov.sg/ica/questions/clxwhkiy600akdsot90f6zzcd)、[MHA答复](https://www.mha.gov.sg/media-room/newsroom/written-reply-to-pq-on-granting-permanent-residency-or-singapore-citizenship-to-foreign-wives-on-long-term-visit-passes-after-their-divorce-or-the-demise-of-their-singaporean-spouse/) | F40—44/F54；src-sep18-02 L22—26、src-sep18-01 L30—56、src-sep18-00 L22—32、src-sep23-02 L49—91、src-sep23-01 L48—90、src-sep34-01 L19—26。PR不自动撤及更新/REP本人评估、ICA取消同意与裁量、2021条件及2024公民孩子custody政策有据；ICA附录读者来信未作政策。普通DP公司/主准证与ONE家属DP本人不同，未推续期或工作保证；诉讼不代停留延期。 |
+| 法律援助及服务：[LAB资格](https://lab.mlaw.gov.sg/legal-services/do-i-qualify/)、[经济审查](https://lab.mlaw.gov.sg/legal-services/taking-the-means-test/)、[申请](https://lab.mlaw.gov.sg/legal-services/how-do-i-apply-for-legal-aid/)、[AWARE法律诊所](https://www.aware.org.sg/womens-care-centre/legal-services/) | F13/F45—49；src-sep15-00 L21—37、src-sep15-01 L21—110、独立新联网LAB L17—59、src-sep30-03 L21—46、src-sep24-00 L182—244、src-sep32-00 L53—63。2026-10-01人均1650/12个月、AV21000、储蓄及非CPF投资12k/42k/60岁、无其他房产准确，居新SC/PR/Hague特例及means/merits分开。三工作日预约/无Singpass材料/申请不等于获批/费用准确；AWARE女性18+无律师收入4000/SG电话30分钟，SACC不同条件，未保证出庭代理。 |
+
+### 问题闭合与保留边界
+
+首稿事实节点没有发现须重写制度结论的错误，但两处近邻引文未直接覆盖全部叙述：F01没有全天文字，F15只指Form2C而未列协议细项。本人指出后，由作者补F10和F55；F55实体原表取得后独立核实，两个证据缺口已关闭。末次仅补引文，全文及逆差分均核，不改核验日期冒充额外研究。
+
+SSO WC1961此前web/普通/唯一正常8888均失败，本轮未重复探测；实际法律依据范围是法院引述s93的原判决及主管详细程序，没有宣称整部法律实读。HDB当前仅L36—38可读，隐藏详情未取得；采用MSF与HDB/CPF共同编制详页支持保留及工具条件。CPF旧问答壳未重试，以现行on-divorce完整采用段核实。没有将旧LAB的MOA八日/walk-in或PHC错误脚注年份当现行规则，也未将SYC、PPO、VA、CPP、Hague和LAB年龄横向推定。
+
+全稿涵盖即时安全、不同保护路径、民事和穆斯林完整程序、孩子及跨境、生活费、住房/CPF、PR/ICA/MOM和有条件法律援助。个案外国婚姻承认、同时两地案件、无本地担保或无公民孩子的具体居留结果、HDB本人产权资格均明示需要核实际条件，没有用一般免责代替已能确认的步骤。
+
+机器检查九必需字段、written/draft:true/核验空、无正文H1、10个H2/2个H3、78处HTTPS、六个真实integrated内链、中文加粗外侧空格及单EOF通过。此为事实审和静态核对；网页、手机、打印、生产门禁和同步由root后续负责。

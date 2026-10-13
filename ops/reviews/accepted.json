@@ -674,5 +674,83 @@
     "date": "2026-10-13",
     "editorial_report": "ops/reviews/b05-srs-editorial.md",
     "engineering": "B04C accepted; production, actual desktop/mobile and sampled print passed; ops/checks/b04c-acceptance.json"
+  },
+  "content/book/work/finance/saving-investing.md": {
+    "author": "root",
+    "facts": "care_finance",
+    "editor": "daily_history",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b05-saving-investing-facts.md",
+    "editorial_report": "ops/reviews/b05-saving-investing-editorial.md",
+    "reviewed_file_sha256": "8485664857c2c7d15d7bdac32ee1faabb8e4803c69753e8ae2b1e20737d0f17f",
+    "body_sha256": "4e77083b14a248c638cfdf7e398d523d2a58115fafa2dcf16e9f2004d39f6495",
+    "engineering": "B04D accepted; production, actual desktop/mobile and sampled print passed; ops/checks/b04d-acceptance.json"
+  },
+  "content/book/work/finance/insurance.md": {
+    "author": "root",
+    "facts": "daily_history",
+    "editor": "identity",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b05-insurance-facts.md",
+    "editorial_report": "ops/reviews/b05-insurance-editorial.md",
+    "reviewed_file_sha256": "529db8751f08a2231fdd1f36b2ed8dd41bbb829a4c24dd4b29f90bd9c9b50812",
+    "body_sha256": "6a265268616755a8e32b10ba4dea99d7556c6a727e1e1c6a178731301ffa8133",
+    "engineering": "B04D accepted; production, actual desktop/mobile and sampled print passed; ops/checks/b04d-acceptance.json"
+  },
+  "content/book/people/family/separation-safety.md": {
+    "author": "identity",
+    "facts": "care_finance",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b04-family-facts.md",
+    "editorial_report": "ops/reviews/b04d-editorial.md",
+    "reviewed_file_sha256": "fc21f2c710cd1aa1bf35a210dc7b14e8e162fa884db0fb245795f3ba8923d353",
+    "body_sha256": "3437f001435f518f48eb727f2981cf5c1e02a9ef435fef5a9c09c1a2fc9214af",
+    "engineering": "B04D accepted; production, actual desktop/mobile and sampled print passed; ops/checks/b04d-acceptance.json"
+  },
+  "content/book/people/learning/tuition-grant.md": {
+    "author": "daily_history",
+    "facts": "identity",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b04-tuition-grant-facts.md",
+    "editorial_report": "ops/reviews/b04d-editorial.md",
+    "reviewed_file_sha256": "59375dab1db724dcc56e445d6bca8b4a173b447f3e16b4816ba1454dcdd805bc",
+    "body_sha256": "a62d60bb44721b7ddf1c8f7a3070d791bbdc1acf875d2146049305f75e6156ee",
+    "engineering": "B04D accepted; production, actual desktop/mobile and sampled print passed; ops/checks/b04d-acceptance.json"
+  },
+  "content/book/people/healthcare/preventive-care.md": {
+    "author": "care_finance",
+    "facts": "daily_history",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b04-preventive-care-facts.md",
+    "editorial_report": "ops/reviews/b04e-editorial.md",
+    "reviewed_file_sha256": "219b60c93f5c4184972a852912a4b7f3a2513bc471a90af80f7089c3edc6b5fb",
+    "body_sha256": "c8199fc2ad6e28ac93da174e4904a5589b864c31a719192cbcba06cf1ac3b03e",
+    "engineering": "B04E accepted; production, actual desktop/mobile and sampled print passed; ops/checks/b04e-acceptance.json",
+    "previous_review": {
+      "author": "care_finance",
+      "facts": "daily_history",
+      "editor": "root",
+      "date": "2026-10-13",
+      "report": "ops/reviews/b04-preventive-care-facts.md",
+      "editorial_report": "ops/reviews/b04d-editorial.md",
+      "reviewed_file_sha256": "28c5d9720ce51ed7dc1724ea3fc5664a0374d08ce90b34d9b3103c2a7e21b149",
+      "body_sha256": "ac9f995374a5869c36e8a1ec78f610f35b346c284642e1400bcea5c54273dd19",
+      "engineering": "B04D accepted; production, actual desktop/mobile and sampled print passed; ops/checks/b04d-acceptance.json"
+    },
+    "maintenance_scope": "2026/2027 MediSave age and annual limits only; PC35–38 plus exact inverse diff; original body remainder inherits B04D"
+  },
+  "content/book/work/finance/debt-disputes.md": {
+    "author": "root",
+    "facts": "care_finance",
+    "editor": "daily_history",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b05-debt-disputes-facts.md",
+    "editorial_report": "ops/reviews/b05-debt-disputes-editorial.md",
+    "body_sha256": "56c13a38c8b52aad3f552d51501861151a21a606db62b6999d3d0bf9c5a167d7",
+    "reviewed_file_sha256": "c59dafc6958316e2f879a2d6061ee37c4832b09b5136093d3617fce83c9588b2",
+    "engineering": "B04E accepted; production, actual desktop/mobile and sampled print passed; ops/checks/b04e-acceptance.json"
   }
 }

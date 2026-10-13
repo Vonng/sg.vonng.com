@@ -128,3 +128,136 @@ MSF旧样式OPG CodeOfPractice September2023 URL（sfvrsn=6f870f08_35）web返�
 daily_history已正式签 `ops/reviews/b04-medicines-facts.md`，root已通知完整第三编辑通过，正文冻结等B04C工程。此前8646f318…／179bca09…是首次交审版，不再用于最终接收；未由作者自签事实或运行构建。
 
 2026-10-13 18时段接收续记：root已明确B04C实际验收和public同步完成，药品正文SHA `42367a166bcef5f283486bd6fd68858e7589a49893f10c782b8092a9f38463e3` 不变，接收元数据由root改，地图据此标integrated。作者不代称亲自运行工程；上述原件、事实及实际目视范围保持原记录，未重做未变事实。
+
+## Preventive-care 作者证据：筛查、疫苗、牙眼与防病
+
+作者care_finance；实际查阅2026-10-13（Asia/Singapore），17—18时段。完整正文 `content/book/people/healthcare/preventive-care.md` 为written/draft:true/核验字段空；作者没有自签独立事实。现冻结21,352B，完整SHA256 `de8e8e03c8f93c0e90f136e265262d63a41f77d4ae15ae2d3a77d6de926fcccf`，正文SHA256 `7b28d47b119c88c1fcc26a990d48d8d1c6fbfed94f18dcd95f180e598c2b3af8`（UTF-8 `split('---',2)[2]`）。
+
+原工具返回、普通HTTP原件与取回时间、PDF、正文快照和检查保存在 `.cache/research/b04-care-ageing/preventive-care/`，已在忽略目录；`cache-manifest.json`逐文件记录大小及SHA。文件名pc-*.txt为主管网页实际工具原文，其中也保存了搜索定位和元数据；下表明确区分真正采用段，不能按文件中所有对象数声称全读。搜索只定位，未采用论坛、商业诊所推销或过时新闻摘要作为制度依据。
+
+| 编号及主管原件 | 实际查阅、采用事实与适用边界 | 原文位置／时期与未采用范围 |
+| --- | --- | --- |
+| PC01 [HPB筛查入口](https://www.hpb.gov.sg/healthy-living/health-screening/) | L25—37；现Healthier SG Screening入口、选合适检测而非单凭套餐名；链接实际进入PC02 | pc-hpb-cda-entry；2026-04-29页面，入口不替代详细收费或临床条件 |
+| PC02 [HealthHub国家筛查](https://www.healthhub.sg/programmes/healthiersg-screening) | L155—263完整采用主体；SC PG0/MG蓝橙2/其他5，HSG合资格SC本人登记GP或poly0，同次三类及首次跟进；乳房X光HSG0/PG25/MG37.50/SC50/PR75，PR GP检查询价及另诊费；正常按间隔、慢病继续随访、电话及邮箱 | pc-screen-vaccine-main。当前页面有资格查询问题提示，未操作登录或断言任何人一定显示。乳房X光独立费表，不写成任何体检都0/2/5 |
+| PC03 [HPB筛查资格及涵盖](https://help.hpb.gov.sg/ssp/en/healthier-sg-screening-subsidies?id=kb_article_view_ssp&sysparm_article=KB0014387) | L0—86全页；40+心血管三年、50+FIT一年/乳房两年、宫颈25—29 Pap三年/30+HPV五年，18—39 DRA较高风险；NEHR等可用记录、既有慢病/癌症可能不符；PA同PG、同次及首次复诊、异日另收费 | pc-screen-subsidies-booking。此页只给补贴年龄30+，正文临床30—69采用PC05，不互相推翻；未沿其未列HSG及PR的简表遮盖PC02当前详细例外 |
+| PC04 [HPB预约及准备](https://help.hpb.gov.sg/ssp/en/booking-your-healthier-sg-screening?id=kb_article&sysparm_article=KB0014388) | L0—30全页；HAS选择诊所/日期、预约先问、NRIC/卡、若要求空腹8—10小时仅白水、可有非空腹糖脂检查而须医生决定 | pc-screen-subsidies-booking。没有登录选位、没有把空腹写成所有检查必需，也没有建议自行停糖尿病药 |
+| PC05 [CDA HPV专业说明](https://www.cda.gov.sg/professionals/diseases/hpv/) | L21—175正文实际读，采用L124—141：曾有性行为女性25起，25—29 Pap三年，30—69 HPV五年；疫苗后仍按适用筛查建议；临床与补贴条件分开 | pc-hpv-results-dentalcpf；内容2025-11-07，当前官方仍托管。未打开其AMS2019指南，不冒称读过；没有采用具体病灶自诊和治疗方法 |
+| PC06 [HealthHub显示筛查结果](https://support.healthhub.sg/hc/en-us/articles/15766619888281-What-types-of-health-screening-results-will-be-shown-on-HealthHub) | L0—12全页；心血管血压/体测/糖脂、FIT、Pap/HPV与mammogram结果；缺记录向机构索取与既有medical-records衔接 | pc-hpv-results-dentalcpf。未查看真实患者账户、未承诺所有外院或每种检验自动同步 |
+| PC07 [CPF门诊MediSave](https://www.cpf.gov.sg/member/healthcare-financing/using-your-medisave-savings/using-medisave-for-outpatient-treatments) | L257—421及559—565实读，采用500/700每患者年共享慢病/疫苗/筛查、50+乳房X光、NCIS/NAIS现列含shingles；Flexi400/60+及self/spouse均须60+、指定修复牙科、付款向机构确认 | pc-school-cpf；没有声称完整597行全部精审；未将慢病15%自付推疫苗，不把亲属账户不限关系/身份。CPF旧疫苗FAQ工具0行，普通200是JS壳，见失败记录 |
+| PC08 [CDA当前疫苗入口](https://www.cda.gov.sg/public/vaccinations/) | L21—96全部主体；NCIS/NAIS、儿童麻疹白喉法定义务；COVID6月+合资格自愿、公民PR长期及部分短期准证全资助untilreview、GP/poly预约、MVT/HVT链接；NIR记录及外籍儿童链接存在 | pc-cda-vaccine-dental-entry；2026-10-12。没有把国家推荐年龄/风险等于所有人临床必需；没有把“部分短期”变成所有访客免费 |
+| PC09 [NCIS October 2026原PDF](https://isomer-user-content.by.gov.sg/18/34009f97-7100-4624-8eba-89fd5a2b4e3d/NCIS_October%202026.pdf) | 工具L0—241全文5页文字已读；普通下载后物理第1页渲染并实际view_image，核色块与表头年龄/风险。采用儿童各阶段、flu6—59月及5—17高风险、HPV女生指定年级；正文不逐针复制全部间隔 | ncis-oct2026.pdf，18:00普通HTTPS200、405233B/SHA `36fc4173b8d9e872c00f458bf97e7032761af0c797e6deae4031122aa0a6f270`。2026-10-12版。物理2—5页只文字，未称全页目视；fetch/.txt/-p1.png存档 |
+| PC10 [NAIS October 2026原PDF](https://isomer-user-content.by.gov.sg/18/52053e64-bed1-410a-9a29-11179a3b3989/NAIS_October%202026.pdf) | 工具L0—223后，本地pdftotext八页全文已实际cat读；物理第1页实际目视。采用flu65+/18+高风险、PCV既往针型判断、RHZV60+/18+免疫受损两剂、每孕Tdap16—32周、女性18—26 HPV2、缺免疫者HepB/MMR/VAR | nais-oct2026.pdf，18:00普通HTTPS200、416822B/SHA `7b6074c50a51bd8ef0c0bc0d4645c4ac1101f8399dff3343f4d21fcef4c49581`。工具曾Internal Error，正常原件已成功即止；物理2—8页文字非目视。没有给读者个人接种处方或复制临床危险群完整清单 |
+| PC11 [MOH成人疫苗补贴](https://www.moh.gov.sg/managing-expenses/schemes-and-subsidies/healthier-sg-vaccinations/) | L21—109完整主体；SC CHASGP/poly、PR poly、临床NAIS条件及SVL、HSG合资格SC本人登记院所一般0而RHZV例外；RHZV每剂38/75/150、无需另申请 | pc-vaccine-money；内容2026-08-28、费表从2025-09-01。没有把“HSG免费”推广所有年龄、品牌、院所；未使用2025公告的mid2026未来MediSave说法作为现行证据 |
+| PC12 [MOH儿童疫苗与发育筛查](https://www.moh.gov.sg/managing-expenses/schemes-and-subsidies/childhood-developmental-screening-and-childhood-vaccinations/) | L21—76完整采用主体；SC CHASGP名单NCIS全补、七CDS在GP/poly全补，PR poly补贴、public疫苗upfull；0—6 CDS按国家时间、无另申请 | pc-nais-child-dental，2026-04-09；正文未称PR所有疫苗一律免费，不把正常生长监测等同确诊治疗 |
+| PC13 [HealthHub免疫记录来源](https://support.healthhub.sg/hc/en-us/articles/49899579801113-Where-does-HealthHub-get-my-Immunisation-Records-from) | L0—9全页；NIR/机构通知、NCISNAIS范围、可能缺漏及重复、急需直接问机构 | pc-nir-update-consent。未登入HealthHub或代更新个案 |
+| PC14 [NIR记录更新](https://www.nir.cda.gov.sg/nirp/eservices/submitNewVaccWithoutSingPass)、[主页](https://www.nir.cda.gov.sg/) | 更新页L11—21完整说明、主页L0—54；正式NRIC/FIN，本人和儿童材料分支、双方父母/出生证/孩子境外准证、原记录和英文译本双份、PDFJPEGJPG、只国家表内记录；主页确有查状态入口 | pc-nir-update-consent、pc-nir-pss-consent-nea-detail。只读公开说明、未填表。foreignchildFAQ点击回登录主页，无该页详细资格实读声明；正文外国儿童移民核验复用childcare已integrated版本，未从一般更新推longpass批准 |
+| PC15 [HPB何时给同意](https://help.hpb.gov.sg/ssp/en/when-to-give-consent-for-your-child?id=kb_article_view_ssp&sysparm_article=KB0013818)、[进入系统](https://help.hpb.gov.sg/ssp/en/accessing-the-child-consent-portal?id=kb_article_view_ssp&sysparm_article=KB0013775) | 前页L0—44全页、后页0—47全页；小学/中学疫苗牙科、特定CVD需同意；普通screening自动加入但opt-back-in需同意；HealthHub孩子School路径、PR新旧号变更联系 | pc-nir-pss-consent-nea-detail、pc-nir-update-consent。未把一切schoolhealth均需签同意；未登录也未称无Singpass一定可完成表单 |
+| PC16 [MOH牙科服务](https://www.moh.gov.sg/seeking-healthcare/find-a-facility-or-service/dental-services/) | L21—53完整主体；基层poly/CHAS普通服务，poly预约，复杂治疗转NDCS/NUCOHS、适用专科补贴 | pc-cda-vaccine-dental-entry，2025-02-18；正文列当前官方机构而不比较诊所质量或保证等待时长 |
+| PC17 [NDCS就诊FAQ](https://www.ndcs.com.sg/clinic-visit/frequently-asked-questions--faqs--on-your-visit-to-ndcs) | L169—205采用主体实读；初诊通常检查方案而非全治疗、急性另处理、NRIC/workpass与补贴转介、普通基础牙科回基层 | pc-dental-eye-detail-1及pc-dental-eye-detail-0等实际返回；不把一次专科预约等于当天完成牙冠；12月失访规则读到但正文没采用 |
+| PC18 [NDCS收费](https://www.ndcs.com.sg/clinic-visit/consultation-charges) | L185—209诊费表及注完整读；诊费与sterileconsumables/treatment/xray/lab分别、补贴信日期先于就诊；正文以列总报价行动表达 | pc-dental-charges-emergency-pss。没有复制只有SC的表为所有准证统一价，没有采用未核各临床项目报价 |
+| PC19 [NDCS预约](https://www.ndcs.com.sg/appointments) | L175—191及212—246实际读；63248802/M-Th8—17:30/Fri8—17无PH、非紧急网上申请及等确认 | pc-dental-eye-detail-0等；未真实预约或宣称即时成功 |
+| PC20 [CHAS卡及使用](https://www.chas.sg/Using-CHAS/Cards-and-Subsidies)、[绿卡](https://www.chas.sg/Using-CHAS/Cards-and-Subsidies/CHAS-Green) | Cards L5—38/Green L20—53采用主体；有效卡+NRIC/儿童证明、PA公民涵盖项目全额补贴但种类/次数仍限，Green没有蓝橙同样牙科资助表 | pc-nais-child-dental、pc-dental-eye-0。没有从Green无该表推出完全不能获得其他独立项目 |
+| PC21 [CHAS橙卡](https://www.chas.sg/Using-CHAS/Cards-and-Subsidies/CHAS-Orange)、[蓝卡](https://www.chas.sg/Using-CHAS/Cards-and-Subsidies/CHAS-Blue) | Orange L60—89/Blue L61—89全部牙科项目/限额实际读；scaling20/30每年两次、不同恢复治疗限额，补贴额非最终收费 | pc-dental-eye-detail-0。没有大抄全表、没把consult两次六个月间隔套到scaling，也没从一项余额推另一项 |
+| PC22 [CHAS PG](https://www.chas.sg/Using-CHAS/Cards-and-Subsidies/Pioneer-Generation)、[MG](https://www.chas.sg/Using-CHAS/Cards-and-Subsidies/Merdeka-Generation) | PG L63—90及MG L62—89牙科全文实际读；scaling40/35每公历年各两次、PGMG各有表 | pc-chas-pg-mg。上部medical表工具虽返回，PC正文不采用其完整慢病规则或声称重审medicines |
+| PC23 [CPF牙科MediSave](https://www.cpf.gov.sg/service/article/can-i-use-my-medisave-to-pay-for-dental-treatments) | L177—186全部问答；医疗必要复杂手术按daysurgery限额、60+Flexi指定非手术如永久冠/rootcanal、问牙医可申报 | pc-hpv-results-dentalcpf；2026-05-31。原网页实际问答成功，与另一个疫苗FAQ JS壳是不同URL；没有重复失败试探 |
+| PC24 [HPB学生牙科](https://help.hpb.gov.sg/ssp/en/where-to-get-dental-care?id=kb_article_view_ssp&sysparm_article=KB0013762)、[外籍学生](https://help.hpb.gov.sg/ssp/en/can-foreign-students-get-dental-care-at-the-sdc?id=kb_article_view_ssp&sysparm_article=KB0013761) | 通用L0—23、外籍L0—9全页；school/buddy/SDC，外籍MOE学生须schooldentalreferral且nonresidentfee；64353895工作日8—18不PH | pc-school-cpf。通用页不用转介的说法未覆盖外籍专门条件；邮件字段可疑，正文只用已核电话 |
+| PC25 [NDCS成人/儿童牙科急症](https://www.ndcs.com.sg/clinic-visit/emergency-dental-services) | 首次L185—246，18时段续取并实际读到277闭合剩余儿童路径；成人NDCS daytime/SGH afterhours、severe痛/出血/感染/trauma、先稳定后牙科随访、2026-01-18起新SGH1HospitalBoulevardL3；below12夜间KKH | pc-dental-charges-emergency-pss和pc-abroad-emergency-rest。没有采用仍写2023-01-01的ED140元旧价；网页旧Block1地址已被新地址脚注明确取代，正文只用新地址 |
+| PC26 [SNEC验光](https://www.snec.com.sg/our-specialties/allied-health-services/optometry-service) | L259—280主体；眼镜/contact/lowvision及与眼科团队协作，正文只分服务需要 | pc-eye-publichealth-detail。未把验光检查称国家免费、也未选择具体商业验光师 |
+| PC27 [SNEC飞蚊](https://www.snec.com.sg/patient-services/eye-resources/common-eye-symptoms/floaters) | L269—272采用完整临床提示；新飞蚊伴flashes或blurred须尽早眼科，可能严重眼病 | pc-eye-publichealth-detail。正文没有自诊或让患者等待固定小时数 |
+| PC28 [SNEC病人类别](https://www.snec.com.sg/clinic-visit/your-clinic-visit/patient-classification) | L266—295采用主体；适用公共/poly/CHAS转介与nonnamed、self/namedprivate，正文限定SNEC而未推全部医院 | pc-eye-publichealth-detail。24个月discharge列表有并列难解处，未写成普遍规则 |
+| PC29 [SNEC预约](https://www.snec.com.sg/appointments)、[联系](https://www.snec.com.sg/patient-services/contact-us) | 预约L252—277、联系L255—292；线上request须ack、紧急症状不等网单；62277266及weekday/Sat时段 | pc-dental-eye-detail-1、pc-eye-publichealth-detail；页面一/两工作日确认不同口径未采用为承诺，未预约 |
+| PC30 [HealthHub PSS](https://www.healthhub.sg/well-being-and-lifestyle/active-ageing/project-silver-screen) | L158—209完整采用；SC/PR60+过去一年未筛；**2026-09-01起基础oral/vision/hearing全部补贴**，进一步评估辅具可能另费；按居地医疗集群报名、带NRIC/卡/眼镜助听器义齿 | pc-dental-charges-emergency-pss。旧AIC/旧FAQ0/2/5收费和公民only没有采用，未下载旧FAQ或声称现行；三集群表只用真实当前联系 |
+| PC31 [SingHealth PSS详页](https://www.singhealth.com.sg/community-care/level-up-with-healthup/functional-screening) | L137—218完整主体；SC/PR60+12mo、社区场次、现场有位可walkin预约优先、Level1当场结果/团队联络Level2、急性病自己立即就医、pss.level1@singhealth.com.sg | pc-nir-pss-consent-nea-detail。只把walkin作为SingHealth实例，不外推NHG/NUHS；三月联系可能延长未作完成保证 |
+| PC32 [NEA清除伊蚊孳生](https://www.nea.gov.sg/dengue-zika/prevent-aedes-mosquito-breeding) | L26—52主体实读；清洁静止水可繁殖，定期检查清积水、家居防蚊指南入口 | pc-nir-pss-consent-nea-detail；2026-08-13。未读banner色块/全部PDF，不复制五步骤图片作为已目视 |
+| PC33 [CDA登革热](https://www.cda.gov.sg/public/diseases/dengue-fever-and-dengue-haemorrhagic-fever/) | L21—86完整疾病主体；Aedes、症状及退热1—2天可能重症警讯、持续呕吐腹痛出血嗜睡立即就医、ibuprofen/aspirin增出血风险、防蚊衣物驱蚊 | pc-abroad-emergency-rest；2026-09-04。先前pc-prevention-final-detail只head21—34不算主体已读，本轮已闭。没开个人退热药剂量或推广已停产疫苗 |
+| PC34 [CDA旅行健康](https://www.cda.gov.sg/public/health-and-safety-abroad/) | L21—104完整主体实际读；4—6周前咨询、按目的地/中转核黄热等入境证明、卫生防蚊动物接触、咬抓伤立即肥皂水洗伤15分钟并就医、归国报告旅行/接触 | pc-abroad-emergency-rest；页面内容日2026-05-19，正文不采用随时变的Ebola行36时点推断。未复制抗生素/疟疾剂量或临床自我治疗；黄热具体入境规则保持机场已integrated主题与CDA链接单源 |
+
+### 作者完整性、自审与未验证范围
+
+行动链覆盖常规筛查资格/间隔→公民/PR/外国报价及保险→HAS/电话预约/证件/空腹→结果解释与后续→国家年龄/病史疫苗→CHAS/HSG/PR机构与RHZV例外/COVID另规则→NIR境外与亲子材料/英文翻译/查状态→学校同意与外籍牙科转介→基础牙科/专科/总报价/CHAS/MediSave/成人儿童急诊→眼科转介和飞蚊警讯→PSS新资助/报名/后续→家居防蚊和旅行准备。公民、PR、EP/S/WP含MDW、STP、家属/LTVP、访客、儿童、孕妇及长者在本人条件下处理，不用配偶身份或雇主一次体检推全国补贴。没有用不同种补贴彼此推定，临床推荐与支付资格分开。
+
+作者完整读首稿后修自然用语，并补实读PG/MG牙科原表使长者卡分支闭合；把SNEC病人类别限定本机构、NIR提交改保存凭据查状态、登革热严重警讯明确立即就医。随后最终全文再读与版本静态检查：九必填字段、written/draft:true/核验空、无H1、9个H2、55处HTTPS、8个实际存在的relref目标、加粗外侧普通空格及单EOF通过。检查存author-check.json，最终正文快照author-final-read.md；作者没有运行共享构建、浏览器/打印验收，亦未自签事实。
+
+内部复用已集成childcare正文SHA `59d75d5547f2d6a7709f4bd5809781f366038ba5a2284a3f3be1c3999eb31c31`（外国儿童长期准证/入学接种）、medical-records `c38c9b0f8132571bc5506c992c718553e16b6ee45351bc986481b8a18f6d71c7`（机构报告与数字/代理）、healthcare-payments `3e86edad298db597fb2f5fe7f6bef120fa0fd48e5702f38c58ef005a227e38a8`（一般费用与雇主义务）；本轮实际核SHA，不把旧审核说成本轮重新回源。其他birth、sexual-health、medicines/getting-care/emergencies仅近题链接。
+
+两份疫苗PDF均真实普通HTTPS实体，文字全读，只有各物理第1页实际目视；没有将后页正文抽取叫目视。CPF `what-vaccinations-can-medisave-be-used-for` 工具0行，普通抓取于17:57:08返回200/html66495B/SHA `544beaac20ef435dac91bac7c0ee0f4bfc864c86d39ca622276c01c7529c2ec9`，实际只有JS壳，未得问答、没有代理或重复抓取；改用独立当前outpatient主文的实际段。NIR foreignchildFAQ回主页只读入口，实质资格已有独立通过childcare，未重探。没有逐家GP库存、特定保单、任何患者记录或表单办理结果；不能从公开入口存在保证特定人预约、补贴或资料更新已成功。
+
+21,352B最终稿及PC01—34交daily_history独立回源事实；作者继续承担被指出问题的修订，现正文冻结，root后续第三编辑及工程。
+
+### preventive-care 独立事实反馈后的限定作者修订
+
+2026-10-13，daily_history完成采用节点独审后指出两项行动完整性：CDA动物咬抓伤清洗15分钟，CHAS牙科应保留PA卡公民分支。作者实际回读PC34旅行原文L74—90（L86明确15分钟及立即就医）和PC20卡种原文L5—38（L23—25明确PA全补贴及治疗种类/次数限制），仅在原两段补这两项。原引用已直接覆盖，未新增源或改变其他规则。两段完整复读，逆向两字符串严格回首冻full de8e8e03c8f93c0e90f136e265262d63a41f77d4ae15ae2d3a77d6de926fcccf；标题/链接/元数据/加粗均未漂移，原作者静态检查范围继承。
+
+重新冻结21,462B/full `28c5d9720ce51ed7dc1724ea3fc5664a0374d08ce90b34d9b3103c2a7e21b149`/body `ac9f995374a5869c36e8a1ec78f610f35b346c284642e1400bcea5c54273dd19`，交daily限定复核；仍written/draft:true，未自签事实或构建。差分与校验保存.cache/research/b04-care-ageing/preventive-care/author-facts-feedback-diff.txt及author-facts-feedback-check.json，author-final-read.md已更新为当前完整正文。首稿21,352B只保留版本历史，不作当前接收版本。
+
+2026-10-13 18时段，daily已完成上述两处限定逆差分和最终段复读，正式签发 `ops/reviews/b04-preventive-care-facts.md`，绑定full28c5d972…／bodyac9f9953…；本作者已完整读该报告并核正式SHA。正文保持冻结，root正在接第三编辑与本地工程，未提前改作者状态。
+
+### 2026-10-13 18:50后新增维护：乳房X光MediSave现行与2027时点
+
+本段为原独立事实通过后，在mental-health研究中新发现的主管页面冲突，不能倒写成原PC01—34已经核到。root已暂停预防稿最终接收，要求仅修支付段；前文Healthier SG筛查补贴年龄、间隔及临床建议未改。实际新开原文如下，查阅日均2026-10-13（Asia/Singapore）：
+
+| 新增原件 | 实际阅读与支持 | 时点、缓存与边界 |
+| --- | --- | --- |
+| PC35 [MOH门诊MediSave](https://www.moh.gov.sg/managing-expenses/schemes-and-subsidies/medisave/outpatient-care/) | mental-health/open11.txt中L21—121已读；L31—48仍列500/700，L113—117乳房X光却列女性40岁起 | 页面2026-10-12更新。该一般页未解释40+生效日期；只支持确有页面冲突，不能单独据此给予2026年40—49岁扣款资格 |
+| PC36 [MOH HPP CDMP专业入口](https://hpp.moh.gov.sg/guidelines/medisave-for-chronic-disease-management-programme/) | L23—111正文已读并再次核L88—108；L92从2027-01-01更名及700/1,000、复杂条件；L97明确最新2027手册关键变更2027-01-01生效，L101列筛查乳房X光最低年龄，L108下载名称亦注明生效日期 | 2026-10-08版；mammogram-new-conflict-open.txt及mammogram-confirm-current.txt。入口所称ChapterFive/page104不作为精确物理页码；真正采用FAQ在实体物理107—108／印刷105—106。25项列表最后两项亦是2027新增，没有把全部25项提前写成现行 |
+| PC37 [CDMP Handbook 2027实体PDF](https://isomer-user-content.by.gov.sg/95/4e0cf1b4-11db-426b-ad09-68c770326776/CDMP%20Handbook%20for%20Healthcare%20Professionals%202027%20%28Official%29.pdf) | 实体物理107—108（印刷105—106）两页全文文字及渲染图片实际读／目视：FAQ A Q5跨页，2027-01-01起同一患者每年700/1,000共享，女性40+乳房X光筛查；非临床筛查补贴年龄的统一替代 | 普通HTTPS200/application-pdf，2,036,269B，SHA256 `067db114808d1072aa1a0976373f7fa74058dee4c4fb975350bde29164ea5a5d`，130物理页。cdmp2027.pdf／-download.json／-p107-108.txt／-page-107.png／-page-108.png。此前工具文字另实际读L0—423、4177—4264、4285—4366；未声称130页全文或图像全读，不采用其他未核临床章 |
+| PC38 [MOH 2026-03-05资助公告](https://www.moh.gov.sg/newsroom/keeping-healthcare-affordable/) | L23—85主体实际读，其中L30、34—38再次确认2027-01-01更名及700/1,000；仅作PC36时点交叉支持 | mammogram-new-conflict-open.txt；未把公告中以后阶段的其他遗传筛查项目写成已实施，正文未额外扩展这些项目 |
+
+PC07同一当前CPF门诊细页本次重新联网成功，mammogram-confirm-current.txt实际回读L257—421（含L406女性50+）及559—565；页面仍标2026-09-17。将它与明确2027生效的PC36／37合读：正文写清2026年现行50+、2027-01-01起40+及500/700变700/1,000；MOH一般页提前呈现的年龄差异明示，40—49岁生效前检查须核当次自付与其他适用安排，不把咨询变成提前资格。临床与Healthier SG项目仍各自核条件。
+
+本轮另定位CPF专门FAQ `https://www.cpf.gov.sg/service/article/can-i-use-medisave-to-pay-for-my-mammogram-screening`：工具0行，唯一普通HTTPS200返回66,495B／SHA256 `05945928c944e41d7ee574cbdee82b65102a81d633adc6a1329315cb4fd984e2` 的JS壳，没有实际问答内容；搜索摘要不作采用依据。原件mammogram-cpf-faq.html及.json保留，不重复或代理探测，PC07完整原文已足够。
+
+本次仅将旧支付一段改为三个相邻段。改变前root已设置接收元数据，作者保持该元数据完全不动；改变前21,526B/full `2c05128b3826532fac38633cf9fc91521c76ae019ea43bc6a49db8e362ffeb96`，正文仍原事实放行SHA `ac9f995374a5869c36e8a1ec78f610f35b346c284642e1400bcea5c54273dd19`。限定逆替严格回这份正文及全文，没有其他正文漂移。新支付三段作者完整复读；9H2、59HTTPS、8内链、加粗外侧空格和单EOF均核。
+
+重新冻结22,974B／全文SHA256 `219b60c93f5c4184972a852912a4b7f3a2513bc471a90af80f7089c3edc6b5fb`／正文SHA256 `c8199fc2ad6e28ac93da174e4904a5589b864c31a719192cbcba06cf1ac3b03e`，交daily_history限定独立回源复核后由root重新绑定第三编辑及相关工程。mammogram-maintenance-diff.txt／-check.json／-final.md留ignored目录；元数据虽已由root预置integrated，不代表这次新版本已经接收，地图仍明确待本次限定事实／第三编辑／工程。作者未自签事实、未运行构建。
+
+2026-10-13，daily_history已实际新开HPP／CPF并读MOH采用段，复核实体SHA及两页文字／图像、限定逆差分，正式更新事实报告放行bodyc8199fc2…。作者收到确认，正文保持冻结，由root第三编辑及相关工程接收；作者没有把这一维护算入最初PC01—34审阅历史。
+
+## Mental-health：完整作者稿与真实来源范围
+
+查阅日2026-10-13（Asia/Singapore）。作者care_finance，稿件 `content/book/people/accessibility/mental-health.md`；完整稿21,953B／全文SHA256 `bb855c589051a3ef9980efcedb74e8153c80fd7f932b137166c4239c074cc66f`／正文SHA256 `190b3a1f4cd6f7ab941b95a3d0c47c4e6d6d39cb3f9b3f8ce253600d5317db15`。written／draft:true／verified和reviewed_by空；交daily_history独立事实，不自签。
+
+原工具search1／search2／open1—15存 `.cache/research/b04-care-ageing/mental-health/`。只有下表明确列出的实际详细文字才算采用；搜索结果、metadata与导航不替代正文。心理稿无新PDF采用；未来MediSave只引用现行HPP详页，不冒称复读130页专业手册。PC维护实体PDF的两页范围在前节单独保留。
+
+| 节点与真实来源 | 本人实际阅读／采用 | 资格、时点及未采用边界 |
+| --- | --- | --- |
+| MH01 [MOH心理健康入口](https://www.moh.gov.sg/seeking-healthcare/find-a-facility-or-service/mental-health-services/) | open1 L21—64主体；1771三渠道与SOS全天、CREST18+／Youth12—25、CHAT16—30 | 当前官方入口；没有把热线等同急诊或正式诊断，没有实际拨打／发消息 |
+| MH02 [SOS服务](https://www.sos.org.sg/our-services/) | open4 L42—154；即时危险995／最近急诊、远离伤害物、有人陪伴、避酒及物质、两服务全天 | L155以后未全面读，不声称整个356行精审；未提供自伤方法或临床自行用药建议 |
+| MH03 [IMH联络](https://www.nhghealth.com.sg/imh/about-us/contact-us) | open9 L6—44主体；1771非toll-free／一般通话费、63892200、imh.appt邮箱、10BuangkokView539747 | 预约电话当前M—F8—16与病人信息表旧8—18不同，正文不列冲突小时；旧IMH心理热线不采用 |
+| MH04 [SOS FAQ](https://www.sos.org.sg/faq/) | open4 L42—148主体；1767、CareText91511767英语文字、不收媒体不接语音；语言按志愿者、保密安全例外 | 不保证即时接通或任何时段都有华语；没有用第三方列表的旧1800号码 |
+| MH05 [Care Corner华语热线](https://www.carecorner.org.sg/services/toll-free-counselling-hotline/) | open8 L69—152／180—184；18003535800免费、每天10—22不含公假、压力家庭等支持 | 只用机构自己的当前服务；同页旧IMH／SOS号码列表不采用，不把服务免费承诺推电信商所有计费 |
+| MH06 [IMH急诊](https://www.nhghealth.com.sg/find-care/Service/imh-emergency-services) | open3 L4—29完整服务说明；24h、优先临床紧急度、最多23h观察及后续 | 不将观察当自动入院、不保证固定等候时间；其他医疗危险仍最近急诊 |
+| MH07 [HealthHub成人压力](https://www.healthhub.sg/programmes/mindsg/caring-for-ourselves/coping-with-stress-adults) | open15 L155—422实际读；搬迁、关系、财务与工作压力、睡眠饮食／社交／功能变化 | 整页1079行未全读，不采用未实读自评分数或诊断阈值；正文文化适应与记问题为作者办理建议，不把普通迁居等同疾病 |
+| MH08 [HealthHub压力应对](https://www.healthhub.sg/well-being-and-lifestyle/mental-wellness/beatstressguide) | open15 L155—242实际读；睡眠活动、与可信人联系、分散重大变化、计划时间及留休息 | 不采用nuts／serotonin等食物疗效、不列运动／睡眠个体处方；社区活动实际目标链接已集成connections |
+| MH09 [CHAT Get Help](https://www.nhghealth.com.sg/imh/chat/get-help) | open6 L8—134全部采用主体；多次会面／换合适专业者、16—30居新、Mon开放、webCHAT暂停、NGEMR2025-07-01记录／转介后衔接、非医院病人、书面同意与摘要／正式memo边界 | 当前详细公告优先旧概述及FAQ的Tue—Sat；不把CHAT记录政策推全系统永久规则；NEHR只按该机构当前说明，不冒称完整立法审核 |
+| MH10 [MOH公众详页](https://www.moh.gov.sg/seeking-healthcare/find-a-facility-or-service/mental-health-services/for-the-public/) | open4 L21—226全部主体；COMIT18+、YIT12—25、MHGPP／PCN／poly／医院分层、CHAS公民四精神CDMP | 2026-07-03页面；poly列表不等于每家提供所有精神服务；旧community-mental-health-and-dementia-services路径404已止损 |
+| MH11 [NAMS现行服务](https://www.nhghealth.com.sg/imh/nams/our-services) | open14 L5—307主体已实际读；直接／walk-in非补贴、合资格转介、家属FamilyMatters不必本人已入NAMS、13+与未21须父母同意 | 门诊报价比IMH总价表旧，不采用NAMS表金额或未注明年份的9月1日期；2026-08-11住院新流程实际读但本稿只给临床转介，不声称所有成瘾一律住院 |
+| MH12 [AIC社区心理服务](https://www.aic.sg/Care-Services/Community-Mental-Health-Services) | open6 L11—89完整主体；邮区／街道查询、直接团队、18006506060、政府全额资助无自付 | 页面未逐项明确外籍／访客条件，正文保留具体团队确认，不能将一般免费句推所有身份；未实际向团队提交个案 |
+| MH13 [SGH AHPedia专业角色](https://ask.gov.sg/sgh-ahpedia/questions/cmiimth87000f4bwc02z9lfzi) | open13 L13—21完整问答；psychiatrist医生诊疗与psychologist心理治疗／辅导 | 不从角色解释推现行注册立法、特定提供者资质或排他治疗权 |
+| MH14 [IMH预约及转介](https://www.nhghealth.com.sg/imh/patients-visitors/appointments-referrals) | open1 L6—91全部主体并再次回读；GP／poly、补贴CHAS持卡分支、NRIC／护照／准证／未12出生证、福利材料、短信需开通、口译提前、REACH、未21参与及可信任人士above21、指定医生非补贴 | 不把任意GP转介等同补贴，不把外国学生有学校转介推成公民费；医院未21安排不套NAMS明确父母同意规则 |
+| MH15 [CHAT预约](https://www.nhghealth.com.sg/imh/CHAT/get-help/book-an-appointment) | open13 L5—20主体；16—30居新、本人／他人表、五工作日电话联系、急症另道 | 没填表；说明联系标准但不保证患者已收到确认，费用免费未见此正文故没有擅称 |
+| MH16 [CHAT评估边界](https://www.nhghealth.com.sg/imh/CHAT/get-help/mental-health-assessment) | open8 L5—7完整短正文；非危机、不旨正式诊断或治疗 | 与医院精神诊断、正式医疗memo分开 |
+| MH17 [CHAT当前联络](https://www.nhghealth.com.sg/imh/chat/about-chat/contact-us) | open6 L8—47主体；*SCAPE2OrchardLink04-07、64936500／01、CHAT@mentalhealth.sg、Mon9—17／TueSat12—21／SunPH闭 | 与当前GetHelp同证，旧概述TueSat不採；只读地址未实地到访 |
+| MH18 [CHAT评估FAQ](https://www.nhghealth.com.sg/imh/chat/get-help/mental-health-assessment-faq) | open8 L8—80完整主体及再次回读；保密安全／虐待／暴力／违法例外、约1h留1.5h、笔记及线上／电话 | 旧TueSat时段以MH09／17替代；没将培训录音问同意推默认录音；保密不是绝对保证 |
+| MH19 [IMH病人说明](https://www.nhghealth.com.sg/imh/patients-visitors/patient-information-sheet) | open11 L0—338正文已读，重点201—216／237—299／306以后患者职责；指定医生按MHCTA判非自愿住院、同意与法律拘留、准确病史、语言及患者参与 | 医院解释原文，不冒称完整MentalHealthAct或法院救济程序均已读；未采用旧预约小时与社交住院金额；隐私／代理详细办理复用已集成medical-records |
+| MH20 [IMH收费及帮助](https://www.nhghealth.com.sg/imh/patients-visitors/charges-payments) | open3／5合读L6—290采用主体；2026-09-01SC成人首诊33.44—78.02／103.50—219.70，延长另费及PR／foreign不同；社工63892059／邮箱／柜台、家庭材料、非SC可评其他支持 | 全表只是公民费；急诊166.80已读但正文不复制；住院收费表与旧socialoverstayer例有冲突不採。没把诊费当总疗程价，没有承诺MediFund给外国人 |
+| MH21 [CPF门诊MediSave](https://www.cpf.gov.sg/member/healthcare-financing/using-your-medisave-savings/using-medisave-for-outpatient-treatments) | preventive-care/mammogram-confirm-current.txt L257—421／559—565本轮原文实读；亲属身份、四精神CDMP、500/700／患者年共享、15%与HSG | 2026-09-17现行页，和2027未来分开；项目、身份、授权仍逐项，未把一切辅导费推成可扣 |
+| MH22 [MOH门诊MediSave](https://www.moh.gov.sg/managing-expenses/schemes-and-subsidies/medisave/outpatient-care/) | open11 L21—121完整读，采用L31—48：500/700、23病、SC／PR本人HSG PCP CDMP15%豁免 | 2026-10-12页；其乳房X光40+时点冲突已另闭PC35—38，不把那个错误带入本稿；未用未来25病冒充当前 |
+| MH23 [HPP CDMP时点](https://hpp.moh.gov.sg/guidelines/medisave-for-chronic-disease-management-programme/) | preventive-care/mammogram-confirm-current.txt L23—111；L92／97—108，2027-01-01更名、700/1,000及同公历年多病／并发症条件 | 心理稿只用这份HTML支持未来限额，无需把130页手册全称心理来源；前节PDF实际目视边界不变 |
+| MH24 [HealthServe心理服务](https://healthserve.org.sg/mental-health-counselling-services/) | open9 L76—196完整服务主体；移工文化／工作适应、危机和母语辅导、31295000全天 | 没有由此推所有外籍白领／家属／游客必免费；与门户MDW分支合读 |
+| MH25 [HealthServe移工门户](https://help.healthserve.org.sg/) | open13 L4—36全主体；English／বাংলা／தமிழ்／中文，31295000；明确MDW仅特定预约筛查／慢病门诊等服务 | 语言是门户选项，不承诺每次电话四语言即时齐备；MDW不套整套非家政移工心理方案，正文优先CDE |
+| MH26 [MOM家政工心理支持答复](https://www.mom.gov.sg/newsroom/parliament-questions-and-replies/2026/0204-written-answer-to-pq-on-migrant-domestic-workers-mental-health-support-services) | open9 L32—47全部答复；2026-02-04 CDE24/7、辅导及临床升级 | 程序SIP／6ME／EA／独立面谈亦读，但本稿不重复雇用流程；号码由下项既有通过范围补 |
+| MH27 [CDE联系](https://www.cde.org.sg/contact-us)及已集成MDW主文 | 本轮实际回读domestic-workers完整“双方怎样求助”节，CDE18002255233／24h；复用其独立事实及root已接受版本 | 本项未重新联网CDE，不假称新开原件；原独立事实在b04-family-facts。正文SHA4ec7dae3…已实算一致；号码实际书写为1800 225 5233，表中的连写仅作索引 |
+| MH28 [TAFEP招聘表](https://www.tal.sg/tafep/employment-practices/recruitment/preparing-job-application-forms) | open13 L14—51详细规则实读；工作相关例外、解释收集理由、可报告歧视表格 | 这是当前TripartiteGuidelines，不将准备WFA广告当WFA已生效；不据此建议保险或专业适任申请隐瞒资料 |
+| MH29 [AIC社区方案详页](https://www.aic.sg/partners/community-mental-health-programmes) | open13 L12—85及125—143实际主体；CREST-CSN照顾者压力、COMIT、Aftercare、ASCAT、认知支持与联系 | 未读图片下载资源、不宣称所有资金资格；只用照顾者及社区转介入口 |
+| MH30 [mindline网页文字入口](https://mindline.sg/fsmh) | 服务网址与全天时段由MH01／09实际主管原文支持；直接web返回403 | 链接入口不是已读页面内容。没有重复web、没有普通／代理下载或实际开启会谈；未从失败页推具体表单、语言或隐私条款 |
+
+### 作者完整性与静态边界
+
+全稿121行、9H2，覆盖即时危机／电话与文字／通话费→文化适应及孤独压力→基层、社区、医院、成瘾路径→儿童REACH／CHAT／未21不同同意规则→无数字及语言预约／材料→各身份收费、家庭MediSave与当前／2027→非SC困难社工→移工与家政工不同服务→学校／雇主条件性查询→保密、记录、招聘及资料授权→持续用药、非自愿住院说明和家属自己的支持。未假定公民补贴自动给PR／外国人，没有把保密等同无记录或不会采取安全行动。学校EAP、保险与个别机构费用以实际询问动作表达，不捏造统一保障次数。
+
+作者全文已分段实际读，修正不存在的community/participation为真实connections、两处粗体外侧空格、*SCAPE字面星号，并删空泛个案免责声明。最终改动段复读；九字段、written/draft:true/核验空、无H1、56HTTPS近邻链接（30唯一，含官方确认但直接受限的mindline入口）、7处relref／6个真实目标、中文加粗外侧空格和单EOF通过，检查及冻结全文在author-check.json／author-final-read.md。未运行共享构建或浏览器／打印检查。
+
+本次复用的已集成正文SHA实际核为：connections `c1c4fd69e4bedbbf4d11b96b09d8ed8c584fceec0ab02089e2a2250621e5b455`（本轮读兴趣／志愿／社群及互助节）；domestic-workers `4ec7dae302a1811f3c44ef0cf7dc1d1244f5bb58373223d6df94e928323aa550`（本轮读完整求助节）；healthcare-payments `3e86edad298db597fb2f5fe7f6bef120fa0fd48e5702f38c58ef005a227e38a8`、medical-records `c38c9b0f8132571bc5506c992c718553e16b6ee45351bc986481b8a18f6d71c7`、medicines `42367a166bcef5f283486bd6fd68858e7589a49893f10c782b8092a9f38463e3` 为当前未变的已有审核范围与近题链接，不重新冒称各全文本轮回源。
+
+真实未知包括特定非公民是否获社区团队资助、某学校／公司的EAP条件、个人保险给付及各语言服务当时可用性，正文已转为针对本人联系核实的具体问题。未登录个人健康账户、未向机构联络、未提交任何心理评估或患者资料。下一环为daily_history异人事实→root第三编辑／接收工程；作者承担问题修订。

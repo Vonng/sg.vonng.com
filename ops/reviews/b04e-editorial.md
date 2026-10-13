@@ -1,0 +1,13 @@
+# B04E 预防医疗限定维护：第三人编辑静态审
+
+2026-10-13 Asia/Singapore，作者care_finance、独立事实daily_history、第三编辑root。完整原稿及PC01—34已由root在B04D全文编辑，本次只继承未改部分；新修订不是沿用原工程结论。
+
+root实际完整读新支付三段、前后结果/疫苗段及原Healthier SG筛查年龄；完整读daily新增事实报告、PC35—38证据和作者统一差分。新文22,974B/full `219b60c93f5c4184972a852912a4b7f3a2513bc471a90af80f7089c3edc6b5fb`/body `c8199fc2ad6e28ac93da174e4904a5589b864c31a719192cbcba06cf1ac3b03e`，是作者保持root先前接收元数据的版本。
+
+2026年50岁/500与700，2027-01-01起40岁/700与1,000分别表达；较高额度的复杂慢病条件、患者年度共享、40—49岁生效前核当次支付、临床建议与补贴资格分开。一般MOH页面提前呈现40岁与主管专业入口的生效日差异有明确近邻引用，读者能判断当次行动，不把咨询赋予提前资格。三段长度合理、缩写全称及手册印刷/物理页码清楚，没有新增个案医疗建议。
+
+root独立以统一差分精确逆替：回到原全文 `2c05128b3826532fac38633cf9fc91521c76ae019ea43bc6a49db8e362ffeb96`、原正文 `ac9f995374a5869c36e8a1ec78f610f35b346c284642e1400bcea5c54273dd19`，无其他漂移。原全稿9H2/八内部目标继承，HTTPS变为59；无新增H1、中文加粗普通空格和单EOF通过。第三编辑通过，交工程。
+
+root本审没有再独立联网全部事实源，也没有目视130页手册；daily已实际新联网HPP/CPF及独立目视手册物理107—108页，具体范围见b04-preventive-care-facts。root后续检查的是网站与打印渲染，不替代未做的源图像审。接收元数据暂退verified再实际工程；最终版本见accepted.json的previous_review与checks/b04e-acceptance.json。
+
+债务稿root是作者，其独立事实care及第三编辑daily正式通过报告分别为b05-debt-disputes-facts与b05-debt-disputes-editorial；本文件不为root自签第三编辑。

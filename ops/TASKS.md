@@ -13,15 +13,18 @@
 | B03A 政府/地理/家庭日常/预算 | identity政府3；daily_history地理3；care_finance日常4；root预算1 | integrated | 11篇事实/第三编辑/生产构建与渲染通过；预算由care事实、identity第三编辑 |
 | B03B 社群/历史文化/世界与不平等 | identity社群3；daily_history历史文化4；care_finance世界与不平等4 | integrated | 11篇两轮审核、生产/25路径双视口/搜索/打印通过；版本见accepted和b03bc-acceptance |
 | B03C 身份住房交通数字社区余项 | root数字与社区；identity证件；daily住房；care交通 | writing / reviewing | 数字3、PR/文书2、社区3、出租车/主动出行2、租约、居留/准证管理、邻里与驾驶均已集成；机场、私宅与购房成本已集成；HDB/EC核心原文仍有明确来源缺口。root接第三编辑及工程；7—12领域缺口不按篇数认定完成 |
-| B04 家庭教育照护 | identity家庭；care医疗/心理残障/照护/老年；daily教育高教成人学习；root多语 | writing / researching | communication/multilingual-family及relationships/sexual-health已集成；childcare、medical-records已完成B04B，MDW/药物/高教已完成B04C两轮审核及实际工程；分居安全作者自审，TG及预防医疗写作。13—19全部种子、身份与生命周期分支逐条闭合；所分路径独占，必要拆页先登记 |
-| B05 财务经营法律安全 | root银行/个人金融；其余待分派 | writing / researching / planned | banking已完成独立两轮与生产实际验收；32详源及冲突边界已登记。root续储蓄投资保险及债务争议源矩阵；BOOKMAP领域20—28余项逐条闭合 |
+| B04 家庭教育照护 | identity家庭；care医疗/心理残障/照护/老年；daily教育高教成人学习；root多语 | writing / researching | communication/multilingual-family及relationships/sexual-health已集成；childcare、medical-records已完成B04B，MDW/药物/高教已完成B04C两轮审核及实际工程；分居安全与TG已通过B04D独立审和实际工程；预防医疗MOH/CPF年龄冲突已由2027生效专业入口和手册解释，B04E限定两审及实际工程闭合；心理健康完整稿独立事实中，学校生活继续写作。13—19全部种子、身份与生命周期分支逐条闭合；所分路径独占，必要拆页先登记 |
+| B05 财务经营法律安全 | root个人金融/税务经营；identity劳动 | writing / researching / planned | banking已完成独立两轮与生产实际验收；32详源及冲突边界已登记。SRS/投资/保险已完成独立审核和工程；债务两审及B04E实际工程通过；劳动权利已交care事实，跨境税务已交identity事实，root续经营；BOOKMAP领域20—28余项逐条闭合 |
 | B06 全书覆盖与情境走查 | root+独立审阅者 | planned | 全28领域种子/身份/生命周期/弱势处境逐条证明 |
-| HUM 全书说人话校对 | root；identity限定事实；care第三编辑 | in progress | 按 ops/HUMANIZE.md 初始94队列并追增实际源（当前117）；礼节/小贩两份九处表达已限定事实及第三编辑通过，主控已应用并完成B04A生产、双视口及打印验收。删说教/免责/无信息量否定，事实层零变动；在途draft待集成后补；独立版本与accepted SHA绑定，闭环后主控工程验收 |
+| HUM 全书说人话校对 | root；identity限定事实；care第三编辑 | in progress | 按 ops/HUMANIZE.md 初始94队列并追增实际源（当前127）；礼节/小贩两份九处表达已限定事实及第三编辑通过，主控已应用并完成B04A生产、双视口及打印验收。删说教/免责/无信息量否定，事实层零变动；在途draft待集成后补；独立版本与accepted SHA绑定，闭环后主控工程验收 |
 
 ## 日期触发与来源缺口
 
 | 触发日 | 重核对象 | 来源与受影响正文 |
 |---|---|---|
+| 2026-10-16、10-28至11-16、11-17至24 | TP本批FIN地址、TG申请和签署窗口 | tuition-grant 当前TP原文；NTU另一批签署至2026-10-18，各院校不得互推 |
+| 2028-04-01 | 2025-11-27至2026-03-31购入旧IP rider的续保过渡 | insurance MOH新附加险规则；依具体购买及续保日期判断 |
+| 2027-01-01 | MediSave Chronic and Preventive Care名称、S$700/1,000共用限额及乳房X光40岁支付门槛 | preventive-care；MOH专业入口及2027手册已明确生效，CPF现行页仍50岁，届时重核 |
 | 2027-01-01 | ECDA托育／KiFAS收入上限及非工作低收入分支；KCare另外核 | childcare ECDA现行详页和2026／2027费表 |
 | 2027年初 | 普遍全额学前补贴扩展的详细安排 | childcare，MFF NDR2026原文，尚未替未来规则补条件 |
 | 2027-12-31 | Childminding试点期限及是否延续 | childcare ECDA试点详页 |
@@ -46,7 +49,7 @@
 | 2027-10 | NS医学分级与入伍批次 | CMPB FAQ；NS未来体检细页，现主文未用PES等级 |
 | 2028-01-01 | EP/S准证当日起到期续签门槛 | MOM eligibility；work-passes及未来续签页 |
 
-待研究：MediShield具体限额表的旧时期标注、MediSave门诊制度更名细节；没有把尚未取得完整新规的内容写成现行规则。HDB租客资格三短路径挑战，root一次代理也403；B02只尝试新官方URL/原件，不重复失败路径。SSO153A与MOE语言旧页也已止损，当前语言概述由其他可读主管原文支持。
+待研究：MediShield具体限额表的旧时期标注。MediSave门诊更名及乳房X光支付年龄已经由MOH2027专业手册、独立PDF文字和实际页图闭合；明确区分2026现行与2027生效。HDB租客资格三短路径挑战，root一次代理也403；B02只尝试新官方URL/原件，不重复失败路径。SSO153A与MOE语言旧页也已止损，当前语言概述由其他可读主管原文支持。
 来源失败无新条件不重复请求。实际源访问受限不阻塞其他章节。
 
 ## 本地与外部状态
@@ -61,6 +64,8 @@ RTS维护：care_finance实际读到LTA2026-10-02公告，载客目标改为2027
 
 数字隐私权利待研究：PDPC当前概述/投诉/2022指南PDF及SSO PDPA原文挑战，普通8888已各止损，详细URL在b03c-digital证据。已有防骗稿仅采用实际MDDI原文的NRIC验证/保留限制/公私框架；查阅更正撤回同意及投诉另列privacy-data候选，不把部分覆盖记全。
 
-B05 SRS已随B04C完成本地验收，最终正文SHA见accepted。储蓄投资28组原文及care独立事实通过，daily第三编辑提出三处「营运行」统一为「营运银行」，作者已修、两审限定差分重绑中。保险继续主管详源；债务争议和其余B05领域仍未完成。
+B05 SRS已随B04C完成本地验收。储蓄投资和保险已通过两轮独立审核、B04D生产与实际渲染。债务争议26组来源、care事实/daily第三编辑及B04E实际工程全部通过，已integrated。劳动权益完整稿55组来源由care独立事实，跨境税务17详源由identity事实并补AR报酬及年度期限后重绑，均尚未公开；root继续经营。其余领域仍按BOOKMAP逐条推进。
 
-B04C已本地验收：higher-education、medicines、domestic-workers、SRS，累计66接收主题。117源/68主题/2草稿、117HTML，18018内部引用、4753外链跳过HTTP；15路径双视口46+25检查，92打印节点/66来源表/345页，286产物路径/大小/SHA同步一致（详checks/b04c-acceptance.json）。root续insurance，28源saving-investing已交care事实/daily第三编辑；此前SRS初冻记录为历史，最终SHA见accepted。TG、分居保护、预防健康仍由原作者推进。全28领域/B06/HUM未闭。
+B04D工程记录：五篇原版本共累计71接收主题，124源/73主题/2草稿、124HTML，20012内部引用、5552外链跳过HTTP；20路径双视口56+34检查，97打印节点/71来源表/385页，300产物同步一致（checks/b04d-acceptance.json）。
+
+B04E工程记录：新增债务并维护预防支付日期，累计72主题；127源/76主题/4草稿、125HTML，20325内部引用、5677外链跳过HTTP，零错误警告；8路径双视口32+12检查，98打印节点/72来源表/393页，3网页截图与PDF236/374/375页由root目视；302产物逐路径/大小/SHA同步一致。预防新正文c8199fc2与债务56c13a38完整SHA绑定accepted，旧预防记录保留previous_review。两批稳定快照待本地提交；此前HEAD418e113。全28领域/B06/HUM未闭。

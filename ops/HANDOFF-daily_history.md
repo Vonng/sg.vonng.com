@@ -1,6 +1,6 @@
 # daily_history 当前交接
 
-保存于2026-10-13，Asia/Singapore。本轮最近实查日期18:02 +08，root确认整书goal为active；旧暂停已经解除，旧代理不存在。**全书任务继续，不是等待新用户指令。** 本文件替代旧暂停断点；旧各批审稿历史仍在ops/reviews和相应evidence。
+保存于2026-10-13，Asia/Singapore。本轮最近实查日期18:37 +08，root确认整书goal为active；旧暂停已经解除，旧代理不存在。**全书任务继续，不是等待新用户指令。** 本文件替代旧暂停断点；旧各批审稿历史仍在ops/reviews和相应evidence。
 
 ## 权限与已读要求
 
@@ -93,3 +93,49 @@ root已确认B04C高教／药品／MDW／SRS完成构建和实际浏览器／打
 **当前先接saving-investing第三编辑**：care最终事实正式通过并root安排，作者最终23192B/full `1bf7ff46edb391422c6e487f82f6f66688bba7d0db4a25aa536b5d6dab581a21`／body `cdf88da7b21302108c2e5d102fb2c495f49d3abf51549aa5dd967c6b6e8b1049`；`ops/reviews/b05-saving-investing-facts.md`已落盘。下一全文读稿及报告，编辑静态检查，不重做已独审事实；问题交root作者修，不代改正文。通过后写独占 `ops/reviews/b05-saving-investing-editorial.md` 交root。随后完成TG作者稿＋自审＋静态＋SHA交identity事实（root协调）。
 
 所有下载会话已完成，无待poll后台进程。本人未构建／提交／登录账户或外部联系。旧TG五详情、旧FAQ根、旧HDB/EC/admission仍无条件不重探；新success原件复读可用但必须说明同日缓存。
+
+## 18:18 最新可执行断点：TG成熟交审，继续school/learning
+
+投资第三编辑已通过并交root，`ops/reviews/b05-saving-investing-editorial.md`：23201B/full8485664857c2c7d15d7bdac32ee1faabb8e4803c69753e8ae2b1e20737d0f17f/body4e77083b14a248c638cfdf7e398d523d2a58115fafa2dcf16e9f2004d39f6495。root只三处“营运行”→“营运银行”，本人限定逆替严格恢复care放行版；care已更新事实报告同SHA并告root。本人全文141行、报告和静态已审，不重做28组事实／不构建。
+
+**TG完整作者稿29,400B已全文自读+改段复读+静态并冻结**：`content/book/people/learning/tuition-grant.md`，full59375dab1db724dcc56e445d6bca8b4a173b447f3e16b4816ba1454dcdd805bc/bodya62d60bb44721b7ddf1c8f7a3070d791bbdc1acf875d2146049305f75e6156ee。written/draft:true核验空、10H2/80HTTPS/3真relrefs。evidence/map均已追加作者版本和完整范围，root协调identity异人事实，作者不得自改已冻正文除反馈。所有旧“尚未创建TG”段是历史。
+
+TG要点：三身份／准证独立→既用学期和后补TG仍3年→两surety年龄严格above21/below65／本人与他人TG/SO欠履约排除／材料地址公证邮箱→本校窗口→三人签／Award→转课换surety／身份变化→全职毕业后36月／海外必须先批／自雇证明→首次和持续更新差异→升学／海外／NS延期／BG→退出含GST10%每学年末复利／LOD→完成discharge。C5/C6已明确未获TG者转PR或SC仍先联系校方核资格；MOM E32完整关键分支已写，不以TG授权工作。NS、时限等矛盾明示而非任意选方便来源；临时LOC/LTVP服务只列真实菜单和核准步骤，不装成完整资格已闭。
+
+**下一独立工作**：school/learning。新MOE FAQ原件 `.cache/research/b04-education/moe-tg-new-faq-employment-direct-all-original-categories.json` 有250公开类别，需逐项选SEN/MTL/PSLE/FullSBB/Admission等实际读，原件SHA83b4f60d…；目前只有TG47问和account同5问实读，不准声称全FAQ已核。可从现有FullSBB普通200原件继续读，先完整课程/PSLE/2027SEC/2028PSEI过渡/身份费用/MTL及特教行动链，成熟逐篇交审。admission仍旧核心缺口，仅真正新原件或已成功同日公开数据才能补，不重探旧失败链。adult-learning及school-life仍必须完整推进。
+
+care预防医疗preventive-care完整初稿刚写，尚未事实冻结；作者说成熟后交本人，不提前审草稿。继续按成熟完整节点接护理/心理事实，不堵住教育。无需等root批次提交，研究工作继续。
+
+## 18:23 后断点：保险事实优先，教育新来源已保存
+
+实际 Asia/Singapore 日期仍 2026-10-13。root 新分派先审完整 insurance，再继续教育；care 的 preventive-care 此时已正式冻结（旧上一段“尚未冻结”已过时），排在保险之后接完整独立事实。TG 保持 59375dab…／a62d60bb…冻结，identity 明确在分居安全交 care 后接 TG。
+
+基础教育新 MOE 详细页首次 web 挑战、首次普通 HTTPS 均200，下载会话29323已完成，无待poll后台任务。三份 `.cache/research/b04-education/moe-school-{psle-main,s1-posting-main,fullsbb-main}-direct.{html,json}` 已落盘：PSLE 70192B/SHAfd63adf24b5c25414d79e1891924e660ac897470153d68dbaac157ab526e9f4c；S1 posting 71214B/SHAda2490bf92898268e80d44c2073f451a34578391bd728eab56843f9f7c137442；FullSBB 69272B/SHAefa07a5a93dbce01cdca08d9d532140a497411f0d121d4dfdf3ebfe76f43018f。真实URL分别为 https://www.moe.gov.sg/psle-fsbb/psle/main、/psle-fsbb/posting-to-secondary-school/main、/psle-fsbb/full-subject-based-banding/main。**这三详情正文尚未实读，不作证据结论，不需再取或用代理。** 旧成功 FullSBB /index 根页1903字母文已读，仅时间线／真链接，不足代替详情。来源41工具失败原件也保存。
+
+insurance 当前独立事实已完整读稿并实际逐采用段回读 N01—26，三实体PDF重算SHA均一致；本人实际目视 GIA8/16、Income22/28、LIA6/15六物理页。新联网重开 MOH rider 与 MoneySense health terms 全返回，关键27—108／100—128实读，保存 daily-insurance-fresh-web.json；其余明确同日缓存，不冒称另联网。已给 root 两个精确作者修订：PPF个人／自愿团体寿险50万／10万须明确“年金除外”；Form4纸本须亲笔签名原件。其他主要事实无阻断，等待新SHA限定逆差分，再正式签 b05-insurance-facts.md 交identity第三编辑。
+
+preventive-care 作者冻结 21352B/full de8e8e03c8f93c0e90f136e265262d63a41f77d4ae15ae2d3a77d6de926fcccf/body7b28d47b119c88c1fcc26a990d48d8d1c6fbfed94f18dcd95f180e598c2b3af8；PC01—34在b04-care-ageing证据，原件在同名cache/preventive-care。独占报告 b04-preventive-care-facts.md，问题交care修。仍不重探其CPF旧疫苗FAQ JS壳。
+
+## 18:37 最新断点：保险／预防独立事实正式通过，恢复教育
+
+insurance 最终23318B/full `0def5aca7ce7b8199e2f61767a19ad259824f2feffa71affcc4e181e811012de`／body `a52bca30133b682b1f643ac4039ad7943c291702117924e6a3b61171fe5ef96f`；root只补年金排除与纸本亲笔原件，本人最终两段复读及限定逆差分严格回首冻。`ops/reviews/b05-insurance-facts.md`已正式通过，直接交identity第三编辑并抄root。旧“等待作者”已过时。
+
+preventive-care 最终21462B/full `28c5d9720ce51ed7dc1724ea3fc5664a0374d08ce90b34d9b3103c2a7e21b149`／body `ac9f995374a5869c36e8a1ec78f610f35b346c284642e1400bcea5c54273dd19`；care只添动物咬抓傷清洗15分钟与PA公民CHAS全额补贴仍有限制。本人最终两段实际复读并限定逆差分严格回首冻de8e8e03…／7b28d47b…。`ops/reviews/b04-preventive-care-facts.md`已正式通过交root第三编辑。PC01—34逐采用段同日缓存均实际读；NCIS5页／NAIS8页文字完整读，实体SHA复核，两者各物理1页实际目视；本轮另新web CDA疫苗及MOH疫苗详页，未重探CPF旧FAQ。事实不等于主控工程验收。
+
+root债务完整稿debt-disputes已冻结交care独立事实，care正式通过后本人接第三编辑，目前不提前审。root计划投资／保险／分居／预防／TG组合B04D，各正文继续冻结。
+
+教育三landing页现已全部实际读，但仅目录／时间线，不冒充制度详情。由它们真实href首次正常取得六个详页，下载会话11087已完成：`moe-school-{psle-scoring,s1-rules,s1-choice,fullsbb-about,fullsbb-experience,fullsbb-faq}-direct.{html,json}`，全部200；正文尚待解析实读。普通成功不重取、不用8888。前两下载会话29323／11087均无待poll。此前TG FAQ大HTML中SEN／MTL／2028PSE／CE只浏览部分问标题与零碎原对象，不能称已读全问，须按返回RSC record解引用完整答案后分组实际读。下一先完成这些详细课程／过渡／特教行动链和E63起证据，再写school/learning；旧admission核心失败链不重试。
+
+## 18:45更新：B04D已接收，教育E63—72补源持续
+
+root确认B04D五篇投资／保险／分居／预防／TG全部integrated，124源／73主题／两draft、300产物一致。TG当前29459B/full `cd02f5395cf090c70fff286d9fe02c9814589b35d8d57f47577f9bd52542cf76`／body `a62d60bb44721b7ddf1c8f7a3070d791bbdc1acf875d2146049305f75e6156ee`；只接收元数据，已核body不变，地图已记integrated。保险第三编辑只改两处见证人，事实报告已限定逆替重绑作者最终529db875…／6a265268…；后续主控接收元数据不改变正文事实结论。预防最终28c5d972…／ac9f9953…事实通过，root第三编辑工程已接收。债务仍待care事实放行后本人第三编辑。
+
+教育E63—72已记录全部真实阅读／失败：六PSLE/S1/FullSBB详细页；同日原HTML SEN46、MTL19、2028PSE16、CE5、MKSEN4问已全读。新ETS详页已取且7月新门槛4800／无收入AV21000核定。初步2026SPED FAS原PDF及旧application guide正常＋唯一8888均202空停止；主流financial-assistance／SPEDapply/support／PSE jc/pfp同样止损。新primary/curriculum/overview首次普通202空，未代理。后续原工具42—50保存完整；搜索只定位。当前实际读到Eden 2027电子申请四段材料／SCPRIS优先、ACS Academy学费和窗口、Greendale2026FAS，但尚待E73起证据归档；FormSG新2026只JS壳，未填写或执行。另一同日FAQ大原件现FAS13／school-related25／Edusave11／P1matters3问实际读，fees49已解析尚未读；保存moe-school-faq-*。下一先核学校资助现行落实与基础课程／类型，写完整school/learning；旧admission核心仍保留，不把新SEN流程冒充全admission闭合。所有下载会话已完，无待poll进程。
+
+## 18:58更新：债务第三编辑通过，预防新主管时点维护事实通过
+
+债务care独立事实放行后，本人完整读149行及正式事实报告，仅提一处合同解释主谓语病。root已精确修，当前23,059B/full `c59dafc6958316e2f879a2d6061ee37c4832b09b5136093d3617fce83c9588b2`／body `56c13a38c8b52aad3f552d51501861151a21a606db62b6999d3d0bf9c5a167d7`；限定逆替严格恢复care原放行cbcc0ff9…／1ad4d716…，完整第三编辑报告 `ops/reviews/b05-debt-disputes-editorial.md` 已正式通过交root，care已确认事实继承落盘。无剩余作者修改，后续工程归root。
+
+预防保健因care新发现MOH一般门诊页40岁与CPF50岁冲突，已在原接受版上仅替换支付一段为三段，当前22,974B/full `219b60c93f5c4184972a852912a4b7f3a2513bc471a90af80f7089c3edc6b5fb`／body `c8199fc2ad6e28ac93da174e4904a5589b864c31a719192cbcba06cf1ac3b03e`。本人新联网HPP／CPF实际读采用段；同日MOH一般页、3月公告采用段实际读；CDMP2027实体SHA复核，物理107—108／印刷105—106文字及两PNG实际目视。HPP明确2027-01-01最低年龄及年度700／1,000新规生效，现行2026仍按CPF50岁；临床筛查及HSG资格分开。限定逆差分严格恢复原已通过正文ac9f9953…，元数据未改，`b04-preventive-care-facts.md`正式维护通过交root补第三编辑／工程，root此前B04D验收不能代替此次维护。未重复PC01—34，旧CPF FAQ不重探。
+
+教育fees49FAQ现已全部实读；Pathlight／Maitri当前资助与费表也已实读，moe-mtl root／exemption／overseas同日原件采用段重读。E73起证据尚待归档，source51—53已保存。primary curriculum overview及EDB living guide已各唯一8888仍202空停止；types-of-schools、primary/subject-based-banding和transition-to-secondary-school资源页首次普通202空，前两web挑战；这三项尚未代理。新Junyuan2026FAS公告副本真URL首次普通及web404，停止不采用。没有后台待poll；下一写完整school/learning，按已核支撑关闭课程／费用／SEN行动链，未闭admission保留原范围。

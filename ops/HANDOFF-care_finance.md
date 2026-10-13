@@ -1,8 +1,48 @@
 # care_finance 当前交接（2026-10-13）
 
-工作目录 /Users/vonng/www/sg.vonng.com；Singapore日期本轮实际核为2026-10-13（17时段）。用户已明确续跑，旧交接的暂停/等待授权约束已经上级解除；持续执行同一完整目标。主控工具目标状态由root处理，本人不改变它。
+工作目录 /Users/vonng/www/sg.vonng.com；Singapore日期本轮实际核为2026-10-13（18时段）。用户已明确续跑，旧交接的暂停/等待授权约束已经上级解除；持续执行同一完整目标。主控工具目标状态由root处理，本人不改变它。
 
-## 最新真实断点：2026-10-13 18时段
+## 最新：mental-health完整冻结交daily；转employment-rights独立事实
+
+mental-health完整稿已作者全文自审及静态完成，21,953B/fullbb855c589051a3ef9980efcedb74e8153c80fd7f932b137166c4239c074cc66f/body190b3a1f4cd6f7ab941b95a3d0c47c4e6d6d39cb3f9b3f8ce253600d5317db15；121行9H2/56HTTPS/7实际内链，written/draft:true/核验空。证据b04-care-ageing新增MH01—30，open1—15实际原文范围、失败与冲突、28本轮详源+CDE已接受范围复用+mindline直接403入口分别记。CHAT当前周一开放/webCHAT暂停、IMH与NAMS未21不同同意、1771计普通通话费、2026/2027限额、非SC社工、HealthServe门户对MDW限制均核。正文冻结交daily事实，不自签；root后续需创建accessibility导读，由root独占。
+
+预防新维护已由daily正式限定事实通过，bodyc8199fc2…／full219b60c9…保持冻结；root接第三编辑／相关工程，原元数据是root预置，作者不把待接收说成完成。本节取代下节“待daily”。债务最终限定继承c59dafc6…／56c13a38…正式报告已告root/daily，未变事实不重做。
+
+identity现交employment-rights完整冻结稿35,852B/full75f9e596538c69796f8bb820640baf8d1f8a519b3bf50a5d300095a459486fd4/body423698ed90edcae38f535d9ac952395e0f41a70de5ecd465a1f07dc3bd8516d1。本人已明确接独立事实，报告独占ops/reviews/b05-employment-facts.md；作者仍identity，具体问题由其修。下一动作先读完整215行与R01—55证据及实际author-tool-1..24.json原件，重点EA/PartIV/PWM-LQS/兼职/平台、2026新LQS、父母假批次/单亲及配偶未就业、stillbirth2周、NDR2026未来无日期、TADM期限。旧三个猜错URL止损保留，不重探。然后继续disability/caregiver-support与ageing四篇必要完整稿，不因审核而退出整书目标。
+
+## 当前优先：预防支付段新维护待daily限定事实；随后mental-health
+
+2026-10-13 18:50后，在心理健康费用原件中新发现MOH一般门诊页已列乳房X光MediSave女性40+，CPF当前细页仍50+。现已核HPP2026-10-08入口明确2027-01-01关键变更生效，CDMP2027实体手册物理107—108（印刷105—106）Q5明确40+及患者共用700/1,000；两页文字和PNG真实目视，130页其余范围不冒称全读。PC35—38与JS壳失败边界已追加证据。
+
+root明确暂停预防最终接收，作者仅修支付一段为三段：2026现行50+与500/700；2027-01-01起40+与700/1,000；说明一般页提前呈现及40—49生效前须核当次自付／其他方案，临床及筛查补贴条件另核。冻结22,974B/full219b60c93f5c4184972a852912a4b7f3a2513bc471a90af80f7089c3edc6b5fb/bodyc8199fc2ad6e28ac93da174e4904a5589b864c31a719192cbcba06cf1ac3b03e，限定逆替严格回原bodyac9f9953…。root已预置的integrated元数据完全未动，不表示新版本已接受；地图明确等待本次daily事实、root第三编辑／工程。当前下一动作发daily原件与SHA后继续mental-health，不重做PC01—34。
+
+债务第三编辑最后中文主谓由root唯一精修，作者本人限定逆替严格回已事实放行版，复读最终完整段后已追加事实报告最终继承：23,059B/fullc59dafc6958316e2f879a2d6061ee37c4832b09b5136093d3617fce83c9588b2/body56c13a38c8b52aad3f552d51501861151a21a606db62b6999d3d0bf9c5a167d7。未重审26组；root/daily后续接收。
+
+## 当前下一步：返回mental-health完整写作；债务事实已闭合
+
+债务成熟稿已完整独立事实通过，正式报告ops/reviews/b05-debt-disputes-facts.md，交daily第三编辑。当前23,038B/fullcbcc0ff9434370c34b89470549e698bf08ddd1955b2d25c913996b1c14db7912/body1ad4d71684e56e52312d42b04ed29e7e563a8d1bcdea7568b9c40c1d54226c76。本人初冻与最终全文均已实际读，D01—25采用原文（D16背景／D22目录范围另记）及D26银行复用实际独立读；两项作者修改DMP不晚于70岁／DCP决定办理后停用原额度并继续还款，限定反向严格回初冻。缓存.cache/research/b05-debt-facts/read-log.json、source-index、final-check及完整快照。MAS635仍仅文字L0—398和421—808，无图像／未称31页全读；CBS/MLCB/go受限没有重复。无需重审未变稿。
+
+预防保健两修最终full28c5d972…／bodyac9f9953…已由daily正式事实通过，报告ops/reviews/b04-preventive-care-facts.md已完整读；root第三编辑及B04D工程进行中，作者继续冻结。下方“交daily最终复核”均为历史阶段。
+
+心理健康已经进入实际研究，原工具search1/open1..8全存.cache/research/b04-care-ageing/mental-health，read-checkpoint.md逐段列本人真实已读及未读。关键发现：CHAT现webCHAT暂停，get-help/contact已含周一开放、旧FAQ仍TueSat；CareCorner第三方热线列表旧，正文只采用机构本人号码与当前1771/SOS；AIC社区免费概述未列外籍资格，不能泛推；IMH2026-09收费表仅SC、非SC社工支持另核。尚无公开新稿，无事实自签。下一步先完成1771费用／HealthServe与MDW／IMH住院及保密／CHAS及MediSave心理费用／TAFEP资料边界，然后完整稿自审冻结交daily，不囤待审。
+
+## 2026-10-13 18时段最新：分居事实已通过，预防两修交回
+
+分居安全独立事实已完整通过，正式报告ops/reviews/b04-family-facts.md追加并绑定36,859B/full fc21f2c710cd1aa1bf35a210dc7b14e8e162fa884db0fb245795f3ba8923d353/body3437f001435f518f48eb727f2981cf5c1e02a9ef435fef5a9c09c1a2fc9214af。F01—55全部采用主体已实际独立回读，Form2C516页附录中仅物理66—68三页文字及重渲染图片全部读/看；两条近邻引文逆差分严格回原稿，最终全文已读，已交root第三编辑。缓存source-index-v2/src-sep与read-log、final-check真实范围见报告；SSO/HDB/CPF受阻源未重探。不要重做未变审核。
+
+preventive-care作者按daily反馈精确补清洗伤口15分钟和PA卡公民牙科全补贴/种类次数限制，已实际复读PC20 L5—38、PC34 L74—90及两完整改变段。当前21,462B/full28c5d9720ce51ed7dc1724ea3fc5664a0374d08ce90b34d9b3103c2a7e21b149/bodyac9f995374a5869c36e8a1ec78f610f35b346c284642e1400bcea5c54273dd19；精确逆替回初冻，证据地图和ignored差分检查已更新，交daily最终限定复核，正文继续冻结。下方21,352B为初冻历史。
+
+当前下一作者工作：mental-health实际主管原件→完整自审稿，随后disability、caregiver-support、ageing四篇。root独占工程/共享账；自身证据地图继续可写。
+
+## 最新真实断点：2026-10-13 18时段后续，预防保健已冻结
+
+本段优先于以下旧研究断点。preventive-care必要原件已闭合、完整稿全文作者自审及静态完成，已冻结交daily_history独立事实：content/book/people/healthcare/preventive-care.md，21,352B/full `de8e8e03c8f93c0e90f136e265262d63a41f77d4ae15ae2d3a77d6de926fcccf`/body `7b28d47b119c88c1fcc26a990d48d8d1c6fbfed94f18dcd95f180e598c2b3af8`。9H2、55HTTPS、8个实际内链、九字段/加粗/EOF通过；written/draft:true/核验空，未自签事实、无构建。PC01—34完整实际来源范围在b04-care-ageing证据，原工具、实体PDF、manifest及author-check在.cache/research/b04-care-ageing/preventive-care。NCIS5页和NAIS8页文字全读，各仅第1页目视；剩余CDA dengue/travel/HPV、NIR本人儿童材料、学校同意、NDCS儿童夜间KKH、CPF修复牙科均已详读闭合，不再照旧清单重复探测。
+
+saving-investing事实及daily第三编辑均已完成。第三编辑最后三处「营运行」统一为「营运银行」，root本人修改；本人按原已通过冻结稿三处旧词定向比较，严格等于最终全文，无其他改动；三个改变段已复读。事实报告ops/reviews/b05-saving-investing-facts.md现绑定23,201B/full `8485664857c2c7d15d7bdac32ee1faabb8e4803c69753e8ae2b1e20737d0f17f`/body `4e77083b14a248c638cfdf7e398d523d2a58115fafa2dcf16e9f2004d39f6495`，已告root接收。没有重做未变28来源，PDF文字/无图边界仍保留。
+
+root已取B04C四份稳定记录入index并允许继续追加；medicines/MDW工程完成integrated，正文SHA仍42367a16…/4ec7dae3…。作者当前下一项mental-health原件研究与完整稿，随后disability、caregiver-support及ageing四篇。收到daily预防稿问题时由本人修；identity的separation-safety成熟稿如交来则本人独立事实，不改其正文。共享账本/构建/提交仍root独占。
+
+## 18时段前段历史断点（被上段取代）
 
 本节覆盖以下历史段落中的旧“未完成”叙述；恢复先按本节核实际文件和SHA。当前root/care_finance/identity/daily_history为活动代理，旧轮代理不存在。
 

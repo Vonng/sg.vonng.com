@@ -201,3 +201,13 @@ menus:
     name: 跨境往返
     pageRef: /docs/routes/cross-border-trip/
     weight: 75
+  - identifier: routes-family-separation
+    parent: routes
+    name: 分居与家庭保护
+    pageRef: /docs/routes/family-separation/
+    weight: 48
+  - identifier: routes-higher-study
+    parent: routes
+    name: 准备升学与学费资助
+    pageRef: /docs/routes/higher-study/
+    weight: 40

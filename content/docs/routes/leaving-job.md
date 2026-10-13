@@ -18,3 +18,5 @@ weight: 25
 3. 查[IR21税清](/book/work/tax/leaving-singapore/)是否适用豁免、需要哪些收入记录，安排暂扣工资期间的支出。
 4. 将其余收入与[个人所得税](/book/work/tax/personal-tax/)记录核对，保存税单、雇主结算及付款凭证。
 5. 若要搬家或退租，重读[租约责任与提前解约条款](/book/life/housing/renting/)。PR还须按[身份主文](/book/life/documents/status-and-eligibility/)检查离境及REP。
+
+收入中断后，先重排[家庭预算](/book/work/finance/household-budget/)；若无法维持原定还款，再按[债务困难与争议](/book/work/finance/debt-disputes/)准备债务清单、选择对应求助渠道并处理来信期限。

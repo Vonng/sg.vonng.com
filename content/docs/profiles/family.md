@@ -17,4 +17,6 @@ weight: 50
 
 孩子需要学前照护时，读[托育、收费与补贴](/book/people/family/childcare/)，分别核孩子身份、主申请人与家庭情况。替家人看健康记录或取正式报告，使用[医疗资料与授权](/book/people/healthcare/medical-records/)。
 
-需要在家协助照顾孩子或长者，先用[家政雇用与双方责任](/book/people/family/domestic-workers/)评估任务、资格、费用及替补安排。家庭成员准备升学时，按[高等教育](/book/people/learning/higher-education/)核申请与资助，分别处理每个人的居留和学习条件。
+需要在家协助照顾孩子或长者，先用[家政雇用与双方责任](/book/people/family/domestic-workers/)评估任务、资格、费用及替补安排。家庭成员准备升学时，按[升学事项](/docs/routes/higher-study/)核申请、资助和担保，分别处理居留与学习条件。
+
+遇到关系破裂或家庭暴力，从[分居与家庭保护事项](/docs/routes/family-separation/)安排安全、孩子、生活费和文件，再核本人准证及工作许可。家庭保单的续保、受益人和理赔资料，按[保险篇](/book/work/finance/insurance/)逐项检查。

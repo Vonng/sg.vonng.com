@@ -54,7 +54,7 @@ weight: 30
 | SLS / 学校LOA / MTL SOAR | 学生学习空间 / 离校保留安排 / 母语阅读推展计划 | [家庭语言与学校衔接](/book/people/language/multilingual-family/) |
 | CASE / SCT | 消费者协会 / 小额索偿庭 | [消费争议](/book/life/household/consumer-rights/) |
 | AVS / PALS | 动物与兽医事务组 / 宠物执照系统 | [养宠物](/book/life/household/keeping-pets/) |
-| Credit Counselling Singapore | 信贷辅导机构；其缩写CCS须结合语境辨认 | [家庭预算与债务求助](/book/work/finance/household-budget/) |
+| Credit Counselling Singapore | 信贷辅导机构；其缩写CCS须结合语境辨认 | [债务辅导与还款安排](/book/work/finance/debt-disputes/) |
 | CMIO / IRO | 常见族群统计分类 / 跨宗教交流组织 | [族群与身份](/book/foundations/society/communities/)、[宗教与节庆](/book/foundations/society/religion-festivals/) |
 | Singpass / Myinfo / passkey | 数字身份账户 / 资料预填服务 / 通行密钥 | [账户与资料](/book/life/digital/accounts/)、[账户安全](/book/life/digital/privacy-fraud/) |
 | GIRO / telecom ADR | 定期扣款安排 / 电信服务争议解决途径 | [通信合约与订阅](/book/life/digital/telecom/) |
@@ -76,3 +76,10 @@ weight: 30
 | SDL / MAF / POM / P / GSL | 药物补贴名录、援助基金及处方／药房／一般销售分类 | [取药与药物资助](/book/people/healthcare/medicines/) |
 | MDW / EOP / SIP / 6ME / CDE | 家政移工、雇主及员工适应课程、定期体检与家政雇员中心 | [家政雇用与求助](/book/people/family/domestic-workers/) |
 | SRS / statutory retirement age / withholding tax | 退休辅助计划、适用法定退休年龄、预扣税 | [SRS缴款与提款](/book/work/finance/srs/) |
+| SSB / T-bills / CDP / ETF / CAR / CKA | 储蓄债券、短期国库券、中央托管、交易所交易基金及产品知识评估 | [储蓄与投资](/book/work/finance/saving-investing/) |
+| IP / rider / deductible / co-payment / PPF | 综合健保计划、附加险、自付额、共付及保单持有人保障 | [保险条款与理赔](/book/work/finance/insurance/) |
+| TG / TG&S / surety / BG / LD / bond discharge | 学费津贴及门户、担保人、银行保证、违约赔偿与服务解除 | [Tuition Grant完整手续](/book/people/learning/tuition-grant/) |
+| NCIS / NAIS / NIR / PSS | 儿童及成人国家接种表、免疫登记与长者功能筛查 | [筛查、疫苗和牙眼保健](/book/people/healthcare/preventive-care/) |
+| PPO / DEO / SAO / NCO / PHC / NAVH | 家庭保护命令、住所／地点／联络限制、骚扰保护法院与反暴力求助热线；PHC此处是法院语境 | [家庭安全与保护](/book/people/family/separation-safety/) |
+| custody / care and control / access / CPP / MCP | 孩子重大决定、日常照顾、探视、共同育儿及婚姻辅导 | [分居、离婚与孩子安排](/book/people/family/separation-safety/) |
+| EIR / CBS / MLCB / DCP / DMP / MDMP / DRS | 有效利率、信用资料机构、债务整合、银行及持牌放贷债务管理和法院转介偿债计划 | [信用与债务](/book/work/finance/debt-disputes/) |
