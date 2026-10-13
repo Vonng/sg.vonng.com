@@ -1,6 +1,14 @@
 # daily_history 当前交接
 
-保存于2026-10-13，Asia/Singapore。本轮最近实查日期18:37 +08，root确认整书goal为active；旧暂停已经解除，旧代理不存在。**全书任务继续，不是等待新用户指令。** 本文件替代旧暂停断点；旧各批审稿历史仍在ops/reviews和相应evidence。
+保存于2026-10-13，Asia/Singapore。本轮最新续跑20:10前后，root确认整书goal为active，没有用户暂停。**全书任务继续，不因旧轮时限自行停工。** 下方各时点旧记录均为历史，当前以本节及地图为准。
+
+## 当前执行断点（20:10前后）
+
+school-life已由care完整独立事实通过。返校建议、SCFA单亲／求职及OSC未满16岁受虐影像范围和必要保存期限均由作者限定修订，care最终122行全文复读及两轮严格逆差分签发。root第三编辑另要求13处纯表达删除，作者已逐字删除、读全部改段，数字／日期／URL／H2／表格／元数据均严格未变，care再次限定事实继承通过。当前24,205B/full `197b896490d80082702c43fed06350857dcd11fe60d3aa808d49615f82d8ed10`／body `fc044bc26adc3f60d53b8e1207bff3b0bcb1c2682851ebb30d3298277d60fd33`，written/draft:true保持冻结，root正第三编辑与B04I工程，尚未告接收。精确差分`.cache/research/b04-education/school-life-third-editorial-diff.json`；事实报告由care独占，不由本人改。
+
+adult-learning仍是当前作者主任务，尚未建空页。原工具`adult-source-1`至`33`、`35`至`43.txt`已持久保存；34是命令返回，不冒称web原件。已实际读SFC申领／取消／退款详问、2026申请人条款4页、TA当期条款3页与checklist1页、TP端35问、MCES／SCTP、WSS Basic新原HTML可见主体及MOM Level-Up公告／一页附表、雇主资助／MOM加班外培训／CPF SDL、ICA学习与访客／DP工作、NUS兼读学制实例、TPQA、PEI4.1合同完整XML文字／FPS／2026-08私校调解规则11页文字、残障培训与职业咨询、2026WSQ完整资格同校规则及电子证书、具体海外资格用途、e-attendance10页中采用问及物理3／10页目视。完整采用边界及下载SHA补入教育证据下一节；当前不再无条件重探已失败旧SkillsFuture／WSG／SWDA目录。
+
+下一动作：先把E116起正式来源表和失败记录落盘，再写完整adult-learning（身份→选课→补助Credit/TA/WSS→雇主→支持与考勤→合同退款与争议→结业认可）；作者全文和静态后交identity事实、root第三。root新tax/corrections-disputes正在identity事实，**正式通过才接本人第三编辑**，报告`ops/reviews/b05-tax-corrections-editorial.md`本人独占；先清该成熟审核再回adult。所有下载会话13368／59446已完成，无待poll；无构建／同步／stage／commit。本文件后文“仅E111—115、无下载、学校生活未审”已过时。
 
 ## 权限与已读要求
 
@@ -165,3 +173,13 @@ E92—110已完整追加 `ops/evidence/b04-education.md`；新工具66—76全�
 下轮独立事实重点：SCFA以开始年度年龄、PR同住immediate family member SC、双方通常56h／家庭均收入、2027收入表、SSCC分支；详页“at least six months”对同页例子和COS“up to”冲突正文已明确，不静默修源。OSC骚扰当前详页明确先平台至少24h，三类直接报告不套等待；有效外籍长期准证、无Singpass／未18代报、重考虑后上诉分别写。MOE4月附表和家长页仍OSC未来式，不当当前状态；当前主管八月页覆盖。监护转校、LOA和ASP均保留条件，不冒充AEIS。首个建议命令：读 `school-life.md` 与证据E92—110，核本稿SHA后由root分派独立事实；作者保持冻结等具体反馈。
 
 旧家校合作2024PDF首次普通404／web挑战，无实体已停止；新可用两校政策限定校例。所有下载会话已完成，无后台待poll，本人未构建、同步、stage或commit。地图／证据／HANDOFF当前完整落盘可取稳定快照。普通admission的AEIS/S-AEIS完整年龄／CEQ、2027P1与CE法缺口仍有效；adult-learning整篇researching，尚未创建空正文；HDB/EC旧失败仍不重探。下一作者任务在school-life异人事实进行时推进adult-learning，旧admission仅有新主管URL／版本／外部变化才续查，不以缩题代完成。
+
+## B04G提交后最后研究断点：成人学习E111—115已读，整书持续未完成
+
+root已确认本地提交 `d77da7e` 包含课程integrated及学校生活未审草稿快照；学校生活独立事实改由care_finance，报告`ops/reviews/b04-school-life-facts.md`归其独占，root只预读未签第三。本人学校生活840b26a0…／4a5b6f96…继续冻结，不自审；收到具体反馈由作者修。
+
+按root余下时间指示，本人新联网实际读成人学习主管四详文及一个引路页，证据E111—115已追加。原工具 `.cache/research/b04-education/adult-source-{1,2,3,4,5}.txt`全部落盘。关键发现：当前2026-10-01 Funding详表不仅SC／PR，还有**LTVP+**的Tier1／2短课资助及SGEnable限定PwD课程分支；同页明确LTVP+不获ITE／poly／AU的MOE完整学历补助，不与SFC只SC混同。TPGateway简入口漏LTVP+，不能用它排除。SFC500／4000当前不失效，前者SC25+、后者SC40+限指定课；2020MidCareer余额合并与其他旧credit须分别查。津贴2026-10-12新页全／非全日都已开放，收入观察期不同，终身24月、全日300—3000、非全日300及出席要求；条款完整月度动作仍待FAQ。
+
+SFC申领文字步骤已完整读：先报名、别先付款拟申Credit部分、开课前60天到首日、材料≤4MB三格式、选择正确courseID／run、最终二次确认、通常14工作日；截图及申请账户未操作。当前旧enhancedsubsidy-faq只web挑战3行，未直连／代理，不无新条件反复。所有新源无后台进程，不下载PDF，不声称已完成adult-learning。
+
+**下一具体命令／动作**：先读证据末节E111—115及`adult-source-3.txt`中津贴详页L185—236，打开该页真实FAQ链接56和checklist55（web句柄恢复可能失效，重开同一成功详页取href即可）；URL为 `https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/SkillsFuture-Mid-Career-Training-Allowance.html`。继而从 `https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/how-to-guides/claim-sfc.html` 实际href读SFC FAQ／取消退款／失败申领，不再读其大导航。继续WSS Level-Up／雇主培训与准证学习权限、质量合同费用保护、海外学历／受规管职业的完整行动链；不得只用现有三金额表缩成全文。无成人公开空页，本次仅追加evidence及HANDOFF，交root纳入收尾快照；全书与本人剩余主题均未完成。

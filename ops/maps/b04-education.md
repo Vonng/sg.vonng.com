@@ -6,7 +6,7 @@
 | --- | --- | --- |
 | `content/book/people/school/admission.md` | 各身份小一与插班入学、AEIS／S-AEIS年级年龄／CEQ、材料与阶段、学额及新P1框架 | researching；旧稿仍written/draft:true未通过，2026-10-13本轮root转daily独占且care确认无并行编辑；旧失败不重探，核心完整资格缺口保留 |
 | `content/book/people/school/learning.md` | 怎样选择幼儿园／主流政府政府辅助／独立／国际私立课程并预算；PSLE、科目与Full SBB、母语和豁免、特殊教育／SEN支持、当前及未来考试／升学规则 | integrated；identity独立事实、root第三编辑及B04G实际工程已通过；当前36,253B／body2654d1f5…冻结；E01/33/34及E63—91与三组精度修订已记录 |
-| `content/book/people/school/school-life.md` | 怎样与学校沟通、缺课转学／海外返校、数字与同伴生活、霸凌及保护／心理SEN支持；家长／学生求助、保密与受阻、毕业升学就业及NS衔接 | written／draft:true，完整作者稿24,271B／body4a5b6f96…冻结，作者全文及静态通过；**尚未独立事实／第三编辑／工程，不列已接收**；E92—110真实原件与冲突已落盘，由root安排下一轮 |
+| `content/book/people/school/school-life.md` | 怎样与学校沟通、缺课转学／海外返校、数字与同伴生活、霸凌及保护／心理SEN支持；家长／学生求助、保密与受阻、毕业升学就业及NS衔接 | written／draft:true；24,205B／bodyfc044bc2…冻结，care独立事实及第三编辑13处删除后的限定继承均通过；root最终第三编辑／工程进行。E92—110、OSC新详页及精确改段记录已落盘，未自行列integrated |
 | `content/book/people/learning/higher-education.md` | 大学／理工／ITE／艺术及其他校申请、当期课程和学制、SC/PR/IS费用与资金来源、HESL／PSEA／CPF等条件；校园科研学术规范与学习者权益 | integrated；root B04C已完成构建／实际渲染／打印接收；26,391B当前元数据，正文37c662a2…冻结；identity事实、root第三编辑通过 |
 | `content/book/people/learning/tuition-grant.md` | TG哪些课程／身份能申、名额不保证、签约担保及就业债券义务、违约／延期／转学身份变化；STP／DP等学生实习和工作的MOM条件 | integrated；root B04D已完成构建／实际渲染／打印接收；bodya62d60bb…保持，identity正式事实与root第三编辑通过；NS等原件差异明示，不从菜单推工作许可 |
 | `content/book/people/learning/adult-learning.md` | 成人转职怎样选培训，SkillsFuture信用／补贴／学习津贴的身份年龄和阶段、SSG／SWDA质量核验、私人课合同费用保护与争议、海外学历和受规管职业资格 | researching；技能资助、课程质量、学历和执业资格逐机构判断；失败链保留真实入口 |

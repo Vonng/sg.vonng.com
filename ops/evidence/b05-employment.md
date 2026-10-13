@@ -90,3 +90,73 @@ care最终报告ops/reviews/b05-employment-facts.md已正式签发通过，绑�
 ## 2026-10-13 B04F 主控接收
 
 root通知：employment-rights 的 care最终独立事实、root第三人编辑以及生产／桌面手机／打印／public同步均完成，状态已integrated。正文SHA仍为 `45a995d41c5ed6832475a2e5e6881f9b291170b5768c2fc4aa86a71632499a95`，作者继续冻结；实际构建与目视由root承担，本条是接收通知，不冒称本人执行工程。
+
+
+## injury：完整作者稿与来源矩阵（2026-10-13）
+
+作者identity；同日实际Asia/Singapore日期已核。以下I01—33为工伤页的原件记录，其中I21仅工具观察、不作数值证据；其余按正文采用范围核。原始工具返回author-tool-1..9.json、按URL逐行合并source-corpus.json及原文件SHA清单source-manifest.json均在忽略目录 `.cache/research/b05-injury/`。合并清单是定位工具，不代替真实阅读；各下列范围已经实际读，本次写作前又回读核心段。完整作者自审与冻结值在后续交审节记录。
+
+| 编号／主管原文 | 支持事实与适用条件 | 实际范围、时期、未知或排除 |
+| --- | --- | --- |
+| I01 MOM [WICA覆盖](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/who-is-covered) | COS或学徒合同的本外籍雇员，不限工资年龄国籍；排除独立承包/一般自雇、家政、列明制服人员；离职、准证取消、境外派遣/同意居家及死亡受养人仍有分支 | tool1 L34—53；不把EA排除名单套入WICA，不替学生/家属/访客推工作权 |
+| I02 MOM [可索偿事故](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/eligible-claims) | 工作关联、工作出行/无私人绕道、公司非公共通勤车、私人通勤排除、境外、WFH任务vs家务；触发工作事件导致心脑血管及故意/药物酒精排除 | tool2 L34—66全部采用段；平台任务另核I06，未直接采用未读SSO法条 |
+| I03 MOM [赔偿类型和计算](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/types-of-compensation) | 医费/病假/轻工作/PI与死亡；2025-11-01医费45000→53000及一年先到；工作日/SG医师牙医、AME前12月一般含OTbonus排transport/reimbursement；14门诊light共享/60住院full后2/3；nextpayday；赔偿非应税非CPF与light实际工资分别；PI116000—346000×%、death91000—269000、100%额外25%及旧限额 | tool2 L34—161，完整实际读；治疗处方收费机构条件114—130不略；64复工后后续MC不claim强表述原样保留行动，未自行扩大例外；未操作计算器 |
+| I04 MOM [WIC强制保险](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/work-injury-compensation-insurance) | 所有manual及nonmanual基本口径≤2600本外籍必须买；其余WICA雇员无保险仍赔；指定insurer及准确职业/人数/工资；项目保险不替本雇主 | tool2 L34—115实读；2600排OTbonusAWSincentiveallowance；旧2021前投保流程不作现行一般建议 |
+| I05 MOM [员工索偿步骤](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/employees-how-to-claim) | 尽快通知/原MC和账单存副本；2020-09起deemed；claimprocessing/AMEinjurysite、复诊缺席可能停；任意医院及公司认可评估要求；NOA/NOC送达14异议/无异议21支付；PI升级一年；撤回14/28 | tool2/3/5 L34—160；两轮实际读；旧2020前须主动申请不写作所有现行案件规则 |
+| I06 MOM [平台工伤](https://www.mom.gov.sg/employment-practices/platform-workers-act/work-injury-compensation-for-platform-workers) | 2025-01-01起、取送阶段含适用返回车辆/等待排除；平台保险；ADE90日历/FEDA60/35/20、收入同服务跨平台、病假14/住院60、无light、AME=ADE×30；取送责任优先及跨服务取高；留任务证据/10日从通知/一年索偿 | tool3 L34—232全部采用段，153—224本次重新完整读避免长输出截断；未用宣传图片当已目视 |
+| I07 MOM [WICA与普通法](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/wica-versus-common-law) | 工作关联不需过失、律师可选；民事须过失损失律师；不能同伤两路；选择/转回WICA一年，NOA/NOC前撤回及后14/28，本人/代表而非雇主；接受支付后不能民事 | tool3/4 L34—64；不将MOM一年转换提示扩大成所有民事诉讼的一年时效 |
+| I08 MOM [雇主报告与先付](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/employers-what-to-do-during-a-claim) | fatal事故日10天并尽快通知；nonfatal住院/MC/light获知10日、更新；不得等保险才付，nextpayday医假、14日原账单报销；医疗报告费及机构；未结不得违愿送返 | tool4/5 L34—131；食宿结合WP专门FAQ I13，不泛为所有准证同一雇主义务 |
+| I09 MOM [索偿异议](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/disputing-a-claim) | 14日异议；医学PI两senior顾问panel、费用问院/未付可撤/医学final；工作关联和AME证据、PHC/听证、CertificateOfOrder21日；困难可邮1500Bendemeer339946 | tool4 L34—79；2021旧PDF357元费不采用；送达起点以I05/08具体流程合读，不只取概括表date |
+| I10 MOM [deemed claim](https://www.mom.gov.sg/faq/work-injury-compensation/do-employees-or-representatives-still-need-to-file-claim-for-wica-with-mom) | 2020-09-01起雇主获知视为索偿、MOM获报告开始处理，仍须通知；withdrawoptout | tool4 L34—47；不把自动启动写免报告/免交材料 |
+| I11 MOM [外籍离境及Special Pass](https://www.mom.gov.sg/faq/work-injury-compensation/can-my-foreign-employee-leave-singapore-before-their-work-injury-compensation-claim-is-settled) | fit-to-travel可未结前离新、离境前通知MOM继续处理；只有本人须留新解决案件才发SpecialPass | tool6 L33—34；不承诺所有工伤自动延准证或必须等全结案才回国 |
+| I12 MOM [工伤后终止雇佣](https://www.mom.gov.sg/faq/work-injury-compensation/can-i-terminate-my-employees-services-after-a-work-accident) | 按EA可终止但WICA赔偿继续、取消准证亦同；wrongfuldismissal另TADM | tool6 L34—37；不提供无条件解雇权，劳动/离职正文为既有主解释 |
+| I13 MOM [WP到期后的照料](https://www.mom.gov.sg/faq/work-injury-compensation/am-i-still-responsible-formy-injured-foreign-employees-wellbeing-after-their-work-permit-has-expired) | 受伤WP即使到期/终止雇主仍担upkeep/wellbeing至返国并继续其提供住宿 | tool6 L34；严格按FAQ题目WP范围，食物与I05/08合读 |
+| I14 MOM [WSH事故报告服务](https://www.mom.gov.sg/eservices/services/wsh-incident-reporting) | 企业myMOM、个人injured/NOK/trustee/platform入口、事件/就业/工资保险医学材料；eService不能用可feedback；报告/补件/更正 | tool6 L34—164；未登录或试填，Corppass企业解释不推个人无Singpass也能直接登录 |
+| I15 MOM [职业病FAQ](https://www.mom.gov.sg/workplace-safety-and-health/od-under-wsha-and-wica/faqs-wsha-wica) | 38项并非穷尽；医师确诊与工作关联；医师诊断10日/雇主平台获知10日各独立；2025-12-01肌骨/感染扩展；诊断一年申及离职/暴露后1—3年病种期间；removed两病到2026-11-30过渡/慢性角膜一般OD | tool7 L34—160；原文未来will在已生效日期后按明确日期处理；未自己诊断病种或给无条件迟报豁免 |
+| I16 MOM [MDW保险](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/eligibility-and-requirements/insurance-requirements) | MI住院日间至少60000/年、PA至少60000/年突发意外PI/death给本人beneficiaries，不转嫁保费 | tool7 L34—65；MDW不套WICA，MI与PA不同，2023/2025其他细节正文交已接收domestic-workers |
+| I17 MOM [MDW不得共付医疗](https://www.mom.gov.sg/faq/work-permit-for-fdw/can-i-get-my-fdw-to-co-pay-her-medical-expenses-that-exceed-the-insurance-benefit-limit) | 雇主负必要医费，保险内/外及超限均不得转给MDW | tool7 L34—39；不把保险limit写雇主医疗责任绝对上限 |
+| I18 MOM [SnapSAFE](https://www.mom.gov.sg/workplace-safety-and-health/snapsafe---reporting-saves-lives) | 危险操作/设备/环境可报，照片地点时间企业及说明；本人身份对公司保密、可联系补件 | tool8 L34—68；SnapSAFE不是已受伤iReport索偿替代 |
+| I19 MOM [报告WSH及保护](https://www.mom.gov.sg/workplace-safety-and-health/safe-measures/worker-level/empowering-workers-and-members-of-public-to-raise-wsh-issues) | 向主管/管理/工会、应有stopwork能力；SnapSAFE/二维码/64385122/FWMOMCare；WSHA不得因举报解雇或威胁 | tool8 L34—73；不承诺匿名无法追查或即时执法结果 |
+| I20 MOM [查看索偿状态](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/check-a-claim-status) | 当事人Singpass、企业Corppass；claimnumber及原服务入口 | tool8 L34—49；正文主用更新整合服务I24，不操作登录 |
+| I21 MOM [AME计算器入口](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/resources-and-tools/wic-calculators/average-monthly-earnings) | 实际只读取空字段、年龄表壳与使用条款，供研究定位 | tool8实际空输入/免责声明，未填写/点击同意/运行；本文不以此产生数值或年龄乘数，AME事实用I03 |
+| I22 MOM [WSHA各方责任](https://www.mom.gov.sg/workplace-safety-and-health/workplace-safety-and-health-act/responsibilities-of-stakeholders) | 雇主风险评估/培训保护应急，occupier/principal/自雇/雇员具体责任；平台风险/设施/培训应急及工人PPE | tool8 L34—116；不把一般WICA保障范围和WSHA安全责任混同 |
+| I23 MOM [热应激FAQ](https://www.mom.gov.sg/heat-stress-measures-for-outdoor-work/faqs-on-heat-stress-measures-for-outdoor-work) | 不适/995紧急、WBGT非普通温度；32重体力连续10min每小时不可合并、有薪与已茶休例外；仪器要求；未来12月training/water/cooling/clothing细节 | tool8 L34—277全主体实际读；未下载附件/校准机构清单/图片；把建议与Requirement区分 |
+| I24 MOM [管理WIC服务](https://www.mom.gov.sg/eservices/services/work-injury-compensation) | claimant及家属Singpass、企业insurerlegalrepCorppass；查看管理预约补件下载NOA/命令 | tool8 L34—104；只公开功能，未操作私人案件 |
+| I25 MOM [WIC资源工具](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/resources-and-tools) | 现行官方仍链接多语言雇员/雇主guide，供沟通入口；直接链接I26PDF来源 | tool8 L34—57采用目录；只核语言名录及跟到实际英语PDF，不称所有语言PDF读过 |
+| I26 MOM [雇主guide死亡材料](https://www.mom.gov.sg/-/media/mom/documents/safety-health/publications/wica-2019/wic-guide-for-employers.pdf) | 死亡证、事故有效保单、前12月工资、亲属及外籍passport；insurer核受养人身份证明 | 实体4895337B/SHA9470af6f…，2021-01旧册40物理页；本次只采用物理27/印刷25，文字实际读27—29，仅27已渲染实际目视；旧45000/357/限额不采用 |
+| I27 MOM [WIC表单问询入口](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/eservices-and-forms) | EmPOWER管理与Enquire about WIC公开入口，个人和组织可问询 | tool9 L34—45；未填写form，未保证无账户在线完成全部事项 |
+| I28 MOM [平台热风险2026-10-07答复](https://www.mom.gov.sg/newsroom/parliament-questions-and-replies/2026/1007-written-answer-to-pq-on-heat-stress-protections-for-platform-delivery-workers) | 一般户外新规不直接套平台；ACOP停工就医/补水遮阴/宽松浅衣鼓励及经营者责任 | tool9 L32—46；43—46本次重新完整读；不将平台写每小时有薪热休雇员待遇 |
+| I29 MOM [户外热措施](https://www.mom.gov.sg/heat-stress-measures-for-outdoor-work) | 现行WBGT逐小时/建筑≥5m船厂process现场仪器/其余myENV、7日适应、32重体力10min；2026-12-01四建议转强制明确未来 | tool9 L34—178；33+15min为建议，不擅写当前强制；高风险本人适工医生评估 |
+| I30 MOM [MOM电话](https://www.mom.gov.sg/contact-us/phone) | 64385122，工作日8:30—17:30除PH，问询违法/住房工作等与feedback | tool9 L34—50；不是995急救替代，未拨号 |
+| I31 MOM [死亡家属援助答复](https://www.mom.gov.sg/newsroom/parliament-questions-and-replies/2025/1014-written-answer-to-pq-on-assistance-for-families-of-work-related-death-victims) | MOM2025-10-14答复WorkersFund限雇主有正当原因无法赔偿、条件性其他生活法律心理援助 | tool9 L34—43；旧225000非当前限额，当前按I03；没有挪用2019搜索历史旧基金数额 |
+| I32 MOM [平台人员定义](https://www.mom.gov.sg/employment-practices/platform-workers-act/platform-worker) | 载客配送＋平台协议＋管理控制；无控制SEP；COS为雇员非平台worker | tool9 L34—63；不因任意app接单推平台法保障；不推外国就业权限 |
+| I33 MOM [WSHA覆盖](https://www.mom.gov.sg/workplace-safety-and-health/workplace-safety-and-health-act/what-it-covers) | 所有工作场所除豁免、工作地点定义与合理可行安全措施 | tool9 L34—71；不宣称没有任何豁免，不把家政WICA排除扩大成无安全责任 |
+
+### 失败、实体和来源边界
+
+最初猜测的旧路径 /work-injury-compensation/what-is-covered 与 /platform-workers-act/work-injury-compensation 失败后，已从官方导航定位I02和I06；无新URL/版本不再重试。其他采用原文为同日成功MOM详细HTML。未访问受限私人账户、未关闭TLS、未绕挑战、未探测Claude；PDF下载用普通HTTPS一次成功，无代理。Python requests未安装只是本地导入失败、没有发出网络请求，随后标准urllib成功。
+
+I26实际实体 `.cache/research/b05-injury/current-employer-guide.pdf` 为4895337B，SHA256 `9470af6f3ca8e5dc9da7e17ad0500af91c766813c75de626c6946c2215fa3f93`，40物理页，2021年1月版本；现行MOM资源页仍连此册。真正采用仅死亡材料物理27/印刷25；独立pdftotext物理27—29已读，物理27新渲染图实际目视。没有声称全40页或另外两页已看图；27—29中旧Medical Board 357元以及全册旧限额不采用。页图和pdf-manifest保存；字体weight渲染警告未损害采用页可读性。
+
+正文中的教学虚构仅用于14天门诊/轻工作共用额度，数字与MOM算例逻辑核对，不伪装真实个案或给特定人的工资计算。未运行AME/PI计算器，没有抄取空动态表的年龄乘数。未登录eService/代交事故/预约医院/联系机构。
+
+真实未知：个人是否满足工作关联、职业病诊断与法定病种期限、实际PI、年龄乘数、短服务AME、混合交通方式ADE、保险处理与家属分配、无Singpass具体替代程序、是否须SpecialPass等仍由案件材料和主管处理。页面给出取得材料及联系动作，不编造统一结果；普通法诉讼法定时效未由MOM的一年转换说明泛推。近期2026-12-01户外措施及职业病过渡与当前2026-10明确分开。
+
+
+### injury 作者完整自审与首次冻结
+
+2026-10-13（Asia/Singapore 19:58）。content/book/work/employment/injury.md现35369B／218行／16H2／63HTTPS／7真实relref，完整SHA `6668dff786b9a77c35d71fcb32f3147230decae3be8742c16744b52ba8db84d8`，正文SHA `cdddc3531cc523354c496b9bdb3144b9ef86515df998683ee8d279128fe05364`。正文SHA采用UTF-8 text.split('---',2)[2]保留关闭frontmatter后空白。维持written/draft:true/核验字段空；只是作者冻结，尚待care异人回源事实及root第三编辑／工程。
+
+作者在治疗处方条件、普通法行动与已有茶休例外自修后，分1—120及121—240两次实际通读全部218行；最终补I03六个月失能定义近邻链接后，再完整读PI段。机器核9必需字段、作者状态、无正文H1、粗体外普通空格、全部7内链确实存在与单EOF通过。采用原文及未知见I01—33，不把完整稿阅读等同所有链接附件或浏览器实测。未运行共享构建。首次冻稿first-frozen.md、author-final-check.json、author-final-read.md保存在忽略缓存；交审后保持正文冻结，反馈仅作者修改再绑定。
+
+### injury 独立事实通过
+
+2026-10-13，care_finance已正式签发ops/reviews/b05-injury-facts.md，本人实际读取报告并核对绑定为35369B／full6668dff786b9a77c35d71fcb32f3147230decae3be8742c16744b52ba8db84d8／bodycdddc3531cc523354c496b9bdb3144b9ef86515df998683ee8d279128fe05364。审者完整读218行与I01—33采用原文，另新开三主管页，未要求作者修订；最终逐字节等于首次冻结。死亡PDF审者实际图文只物理27，不继承作者其他页范围。已交root第三编辑，作者正文继续冻结，尚不据此自行提升integrated。
+
+### injury 第三编辑限定表达修订
+
+root已完整读稿和事实报告，仅要求精简202行未来措施的元叙述、216行无账号未知的冗余解释；作者按两组精确字符串执行并实际复读两个完整段。现35242B／fullfeca57baaab690b3c51d79fe2b8b5c233674ac41f54013d9e158f9e349053f87／bodyded294aee91cf2d8babaee9a2f4365fb56ccd7262283e6e4b1ff42805a2d2109。逆向严格逐字节恢复首次冻稿，数字、条件、引用、标题和元数据均不变；editorial-refine.json保存两组原新字符串。已交care限定事实继承重绑，root第三编辑报告仍由root负责。
+
+### injury B04I 主控接收
+
+root已通知B04I实际构建／桌面手机／打印及public同步完成，injury现integrated／draft:false，正文bodyded294aee91cf2d8babaee9a2f4365fb56ccd7262283e6e4b1ff42805a2d2109不变。care两处表达删除限定事实继承和root第三编辑闭合；本人只接收通知，未运行共享工程或冒称本人目视。主控元数据变化后的完整SHA由主控工程绑定，原作者35242B/fullfeca57ba…仅为接收前历史值。

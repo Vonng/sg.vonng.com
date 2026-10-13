@@ -19,4 +19,6 @@ weight: 40
 
 小学、中学和JC／MI学生可查[课程、考试与学习支持](/book/people/school/learning/)，按当前年级核2026学费、PSLE与科目级别、母语豁免和考试便利，并区别2027—2028的过渡安排。
 
+在校活动、学习设备、请假沟通与学生保护，见[学校日常安排](/book/people/school/school-life/)；遇到欺凌或网络伤害时按具体渠道求助。
+
 学习中需要辅助设备、沟通或环境调整时，结合[残障与学校支持](/book/people/accessibility/disability/)向学校说明需要；课程与考试便利仍按学校教育专题准备。

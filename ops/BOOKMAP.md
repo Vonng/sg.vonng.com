@@ -1,6 +1,6 @@
 # 全书内容地图
 
-更新：2026-10-13（Asia/Singapore）。用户本次明确续跑，get_goal已实查active；继续完整五部分28领域。此前82源交接快照保留；本次恢复核实109源与实际审核版本，恢复三条独立写审线。恢复后累计接收78主题，残障支持见checks/b04h-acceptance.json；学校课程／创业经营见checks/b04g-acceptance.json；劳动权益／心理健康／跨境个税见checks/b04f-acceptance.json，债务与预防支付日期维护见checks/b04e-acceptance.json；分居安全／TG／储蓄投资／保险及预防原版见checks/b04d-acceptance.json；高教／药品／家政移工／SRS见checks/b04c-acceptance.json；医疗记录／托育及上一六篇分别见b04b与b04a。历史现场见HANDOFF-2026-10-13.md。这是持续目标的覆盖地图；候选路径只登记于此，不生成空正文。覆盖认定须检查每个领域的必要分支，文章数量不作完成门槛。
+更新：2026-10-13（Asia/Singapore）。用户本次明确续跑，get_goal已实查active；继续完整五部分28领域。此前82源交接快照保留；本次恢复核实109源与实际审核版本，恢复三条独立写审线。恢复后累计接收81主题，学校生活／工伤／税务更正见checks/b04i-acceptance.json；残障支持见checks/b04h-acceptance.json；学校课程／创业经营见checks/b04g-acceptance.json；劳动权益／心理健康／跨境个税见checks/b04f-acceptance.json，债务与预防支付日期维护见checks/b04e-acceptance.json；分居安全／TG／储蓄投资／保险及预防原版见checks/b04d-acceptance.json；高教／药品／家政移工／SRS见checks/b04c-acceptance.json；医疗记录／托育及上一六篇分别见b04b与b04a。历史现场见HANDOFF-2026-10-13.md。这是持续目标的覆盖地图；候选路径只登记于此，不生成空正文。覆盖认定须检查每个领域的必要分支，文章数量不作完成门槛。
 
 ## 内容与资格模型
 
@@ -189,7 +189,7 @@
 |---|---|---|
 | `/book/people/school/admission/` | 小一报名AEISS-AEIS国际私立学校如何入学 | written（B02；核心来源待核，保留草稿） |
 | `/book/people/school/learning/` | 课程PSLEFullSBB母语特殊教育与制度过渡 | integrated（identity事实/root第三编辑/B04G实际工程通过；版本见accepted.json） |
-| `/book/people/school/school-life/` | 家校沟通网络霸凌保护与青少年路径 | written（daily完整草稿；独立两审尚未通过） |
+| `/book/people/school/school-life/` | 家校沟通网络霸凌保护与青少年路径 | integrated（daily作者/care事实/root第三编辑及B04I实际工程通过） |
 
 ### 17. 高等教育、职业教育与终身学习（learning）
 
@@ -199,7 +199,7 @@
 |---|---|---|
 | `/book/people/learning/higher-education/` | 大学理工ITE怎样申请和比较费用 | integrated（独立事实、第三编辑、B04C生产及实际渲染通过；accepted SHA绑定） |
 | `/book/people/learning/tuition-grant/` | TuitionGrant义务和学生实习工作条件 | integrated（B04D两轮审稿及实际工程通过，主管冲突如实保留） |
-| `/book/people/learning/adult-learning/` | SkillsFuture培训质量海外学历职业资格怎样核验 | researching（daily已核E111—115并继续完整行动链） |
+| `/book/people/learning/adult-learning/` | SkillsFuture培训质量海外学历职业资格怎样核验 | writing（daily E111—141研究已落证据；在途草稿未完成冻结，不计接收） |
 
 ### 18. 英语、华语与多语生活（language）
 
@@ -241,9 +241,9 @@
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
 | `/book/work/employment/employment-rights/` | 工资工时休假工资单哪些人适用 | integrated（事实/第三编辑/生产与渲染通过；B04F接收版本见accepted.json） |
-| `/book/work/employment/injury/` | 职业安全工伤赔偿保险怎样求助 | researching（identity已核I01—33，完整写作中） |
+| `/book/work/employment/injury/` | 职业安全工伤赔偿保险怎样求助 | integrated（identity作者/care事实/root第三编辑及B04I实际工程通过） |
 | `/book/work/employment/leaving-job/` | 辞职解雇裁员后的准证税务家属怎样处理 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
-| `/book/work/employment/hardship/` | 薪资争议和收入中断怎样找TADM及生活支持 | planned |
+| `/book/work/employment/hardship/` | 薪资争议和收入中断怎样找TADM及生活支持 | researching（identity核TADM/ECT/求职支持及ComCare完整链，尚未冻结正文） |
 
 ### 22. 银行、CPF、储蓄、投资与保险（finance）
 
@@ -268,8 +268,8 @@
 | `/book/work/tax/personal-tax/` | 居民身份YA和所得期间、申报报送缴税怎样衔接 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 | `/book/work/tax/leaving-singapore/` | 离职离境IR21税务清算哪些人适用 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 | `/book/work/tax/cross-border/` | 海外收入与跨境工作、COR/FTC、资产账户CRS/FATCA | integrated（事实/第三编辑/生产与渲染通过；B04F接收版本见accepted.json） |
-| `/book/work/tax/property-tax/` | 自住出租空置的年度房产税与租金所得、买卖税费交叉 | planned（从原过宽候选拆出） |
-| `/book/work/tax/corrections-disputes/` | 申报更正、税单异议、自愿披露与缴款困难 | researching（12组IRAS/MOF详源；VDP起算差异与余附件明确留项） |
+| `/book/work/tax/property-tax/` | 自住出租空置的年度房产税与租金所得、买卖税费交叉 | researching（root P01—07实际阅读范围已记evidence/b05-property-tax；无正文） |
+| `/book/work/tax/corrections-disputes/` | 申报更正、税单异议、自愿披露与缴款困难 | integrated（root作者/identity事实/daily第三编辑及B04I实际工程通过；VDP真实冲突明示） |
 
 ### 24. 创业、企业、经营与公司税务（business）
 

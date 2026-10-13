@@ -101,15 +101,15 @@
 ### life（26）
 
 - [ ] `content/book/life/_index.md`
-- [○] `content/book/life/community/connections.md`
-- [○] `content/book/life/community/neighbourhood.md`
-- [○] `content/book/life/community/public-facilities.md`
+- [ ] `content/book/life/community/connections.md`
+- [ ] `content/book/life/community/neighbourhood.md`
+- [ ] `content/book/life/community/public-facilities.md`
 - [ ] `content/book/life/digital/_index.md`
 - [ ] `content/book/life/digital/accounts.md`
 - [ ] `content/book/life/digital/privacy-fraud.md`
 - [ ] `content/book/life/digital/telecom.md`
 - [ ] `content/book/life/documents/_index.md`
-- [○] `content/book/life/documents/documents.md`
+- [ ] `content/book/life/documents/documents.md`
 - [ ] `content/book/life/documents/national-service.md`
 - [ ] `content/book/life/documents/permanent-residence.md`
 - [ ] `content/book/life/documents/status-and-eligibility.md`
@@ -121,11 +121,11 @@
 - [ ] `content/book/life/household/keeping-pets.md`
 - [ ] `content/book/life/housing/_index.md`
 - [ ] `content/book/life/housing/renting.md`
-- [○] `content/book/life/housing/tenancy.md`
+- [ ] `content/book/life/housing/tenancy.md`
 - [ ] `content/book/life/transport/_index.md`
-- [○] `content/book/life/transport/active-mobility.md`
+- [ ] `content/book/life/transport/active-mobility.md`
 - [ ] `content/book/life/transport/public-transport.md`
-- [○] `content/book/life/transport/taxis-phv.md`
+- [ ] `content/book/life/transport/taxis-phv.md`
 
 ### people（9）
 
@@ -204,3 +204,34 @@
 - [ ] `content/docs/routes/cross-border-trip.md`
 - [ ] `content/docs/routes/getting-married.md`
 - [ ] `content/book/people/family/domestic-workers.md`
+
+## B04I实际源追增
+
+2026-10-13：当前138个源文件。补齐下列未列入历史队列的实际路径；○仍为草稿。学校生活13处、工伤2处与税務更正2处表达在各自第三编辑中已处理并完成限定事实继承及B04I工程，具体SHA和范围见对应审稿报告；全书HUM队列仍未整体闭合。
+
+- [ ] `content/book/people/accessibility/_index.md`
+- [ ] `content/book/people/accessibility/disability.md`
+- [ ] `content/book/people/accessibility/mental-health.md`
+- [ ] `content/book/people/family/separation-safety.md`
+- [ ] `content/book/people/healthcare/medicines.md`
+- [ ] `content/book/people/healthcare/preventive-care.md`
+- [ ] `content/book/people/learning/_index.md`
+- [○] `content/book/people/learning/adult-learning.md`
+- [ ] `content/book/people/learning/higher-education.md`
+- [ ] `content/book/people/learning/tuition-grant.md`
+- [ ] `content/book/people/school/_index.md`
+- [ ] `content/book/people/school/learning.md`
+- [ ] `content/book/people/school/school-life.md`
+- [ ] `content/book/work/business/_index.md`
+- [ ] `content/book/work/business/starting-business.md`
+- [ ] `content/book/work/employment/employment-rights.md`
+- [ ] `content/book/work/employment/injury.md`
+- [ ] `content/book/work/finance/debt-disputes.md`
+- [ ] `content/book/work/finance/insurance.md`
+- [ ] `content/book/work/finance/saving-investing.md`
+- [ ] `content/book/work/finance/srs.md`
+- [ ] `content/book/work/tax/corrections-disputes.md`
+- [ ] `content/book/work/tax/cross-border.md`
+- [ ] `content/docs/routes/family-separation.md`
+- [ ] `content/docs/routes/higher-study.md`
+- [ ] `content/docs/routes/tax-problem.md`

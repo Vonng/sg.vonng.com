@@ -98,3 +98,9 @@ weight: 30
 | EASE | 乐龄易计划；组屋及私宅分支条件各异 | [住宅调整](/book/people/accessibility/disability/) |
 | JPJS / H2W / ODP | 就业安置与支持 / 医院到工作 / 开门计划 | [工作支持](/book/people/accessibility/disability/) |
 | DAC / ESH | 日间活动中心 / 综合社区服务中心 | [日间与社区支持](/book/people/accessibility/disability/) |
+| Parents Gateway / CCA / PLD | 家校沟通平台 / 课外活动 / 个人学习设备；PG在学校升学语境也可能指入学组别 | [学校日常](/book/people/school/school-life/) |
+| SCFA / SSCC | 学生托管费援助 / 特殊学生托管中心 | [课后照顾](/book/people/school/school-life/) |
+| OSC | Online Safety Commission，网络伤害举报渠道 | [网络伤害与学生保护](/book/people/school/school-life/) |
+| WICA / AME / ADE | 工伤赔偿法 / 平均月收入 / 平均日收入；雇员与平台工作者的计算条件分别核 | [工伤赔偿](/book/work/employment/injury/) |
+| NOA / NOC / SnapSAFE | 工伤评估通知 / 赔偿计算通知 / 工作场所安全报告渠道；NOA在税务中另有含义 | [索偿异议与安全报告](/book/work/employment/injury/) |
+| VDP / ITBR / SFA | 税务自愿披露计划 / 所得税复核委员会 / 外国个人Singpass账户；用途与资格分别核 | [税单更正与争议](/book/work/tax/corrections-disputes/) |

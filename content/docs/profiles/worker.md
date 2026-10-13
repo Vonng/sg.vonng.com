@@ -26,3 +26,5 @@ weight: 30
 计划自行接单或设立企业时，先查[逐类准证的经营权限与注册](/book/work/business/starting-business/)，再安排登记与开业。
 
 因疾病、事故或残障需要调整岗位或复工时，查[工作与辅具支持](/book/people/accessibility/disability/)，核就业服务、雇主申请的岗位调整资助及适用条件。
+
+工作受伤、确诊职业病或雇主未报事故时，查[工伤索偿](/book/work/employment/injury/)，核就医费用、休养收入、通知期限及准证取消后的处理；家政工作者使用该篇的专门保障分支。

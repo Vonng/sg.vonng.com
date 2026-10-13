@@ -2,7 +2,29 @@
 
 工作目录 /Users/vonng/www/sg.vonng.com；Singapore日期本轮实际核为2026-10-13（19:08）。用户已明确续跑，旧交接的暂停/等待授权约束已经上级解除；持续执行同一完整目标。主控工具目标状态由root处理，本人不改变它。
 
-## 19:45当前：残障事实反馈已精修；接school-life独立事实
+## 当前补充：injury与学校稿均完成第三编辑限定事实继承
+
+2026-10-13 20:13 Singapore实核。injury作者已应用root两处纯表达删除；本人实际读两个完整改段并独立逆替逐字节回首冻，正式报告顶部重绑当前35,242 B／fullfeca57baaab690b3c51d79fe2b8b5c233674ac41f54013d9e158f9e349053f87／bodyded294aee91cf2d8babaee9a2f4365fb56ccd7262283e6e4b1ff42805a2d2109。元数据／URL／标题／表格／内链不变，法定规则和12月未来日期仍完整；事实结论继承，无新回源声明。机器记录b05-injury-facts/editorial-inheritance-check.json。交root第三编辑工程；以下初版SHA是完整事实审历史。
+
+injury完整35,369 B／218行全文及I01—33采用范围已全部独立读，正式报告ops/reviews/b05-injury-facts.md通过，无作者修订。full6668dff786b9a77c35d71fcb32f3147230decae3be8742c16744b52ba8db84d8／bodycdddc3531cc523354c496b9bdb3144b9ef86515df998683ee8d279128fe05364与首冻逐字节一致。三页新联网、余同日原返回；死亡指南实体40页只采用和本人实际图文读物理27，未继承作者28—29阅读。机器与阅读范围分记cache/final-check及read-log。交root第三编辑，identity正文冻结。
+
+学校生活第三编辑13处表达删除已由daily本人应用；本人逐段读13个完整改段、独立逆替严格回正式事实版，数字/URL/元数据/H2/表格/内链不变。事实报告顶部限定继承当前24,205 B／full197b896490d80082702c43fed06350857dcd11fe60d3aa808d49615f82d8ed10／bodyfc044bc26adc3f60d53b8e1207bff3b0bcb1c2682851ebb30d3298277d60fd33，已交root。现在继续caregiver-support研究，不停止完整目标。以下school状态为已通过原版本记录。
+
+## 当前：school-life最终事实通过；继续caregiver-support作者稿
+
+2026-10-13 19:57已实核Singapore日期、Git HEAD4fc8e85和实际稿件。school-life最终25,088 B／full1fa9a44f01d7f712b8b2dd9a4324249b178c225fc4f40b200a3d21f35dccc74d／bodya6a5a21bcbc1967c377760cae88a9d7db454c624d6e506afb9f7680dfdd33273已正式通过独立事实，报告ops/reviews/b04-school-life-facts.md。最终122行全部重读，两轮五组精确逆替严格回首冻；E92—110全采用原件、欺凌三PDF五页实际目视、六HTML公开RSC与82FAQ原字符串一致。新增OSC详页核未16岁儿童受虐影像含暴力／虐待及生成影像，限定材料保存目的／期限；作者已修。新旧来源失败与实际阅读边界均列报告，交root第三编辑，作者daily正文保持冻结。
+
+本人disability已完成root B04H第三编辑/实际网页、手机、打印及同步，提交4fc8e85。作者实算当前bodybaa6a1622c9b963aedda460137b0f2203ad6d2dbf250df647cdf754527a909f0未变、状态integrated；地图同步。root报告134源/80主题/2草稿、320产物路径大小SHA一致、双视口36+16、446页PDF及253/254页实际目视，累计78接收，不冒称作者亲做这些工程。
+
+下一动作继续caregiver-support实际研究和完整稿：checkpoint已有open1—4范围；open6 HNF主要L97—113、CAREbuddy87—140、CAREconnect87—115已实读，后两页尾部和AIC support总页尚待；open5混合查询的加拿大／英国结果一概不采用。继续HCG现行AV边界／当前表件、喘息新旧计划、出院交接、培训和家庭就业／外国路径。成熟稿自审后交identity事实、root第三编辑。ageing四余篇仍在必要队列。下方均为历史过程，旧“当前／最新／待审”不覆盖本节。
+
+## 本轮最新：disability事实正式通过；school-life事实在途
+
+identity已签ops/reviews/b04-disability-facts.md，作者完整读报告，最终ca1e9ace…／baa6a162…严格一致，无其他修订；已交root第三编辑，工程可留B04H，不自行改integrated。地图／证据已更新正式事实状态，正文冻结。
+
+school-life首冻24,271B SHA实际相符，122行全文及E92—110证据全读。独立原文现已读：MSF SCFA原公开RSC records34/37/38/39/3a全部文本和2026 COS整段（单亲income、当前/2027、六个月原冲突、36月/上诉/SSCC）；新联网PG21—26、SLS15—44、OSC FAQ35—281；同日MOE学校事务25问、小学事务3问、中学转校1问全文。其余原件、欺凌PDF实际目视等尚未完成，不提前通过。实际日志.cache/research/b04-school-life-facts/read-log.json。E110小学转校19问与E98 CCA16问现也已全文实际读；下一命令先返回18问，再E95/E100—105/E107—109与PDF三份。SCFA家庭/非工作例外必要边界可核当前表件，不以作者说“通常”取代具体高影响分支。无正文修订请求已发，作者daily继续持有冻结稿。
+
+## 本轮接续：残障事实反馈已精修；接school-life独立事实
 
 DVF首段仅补“验证对象须符合永久残障条件”，原文L50已实际复读；22781B/fullca1e9ace952dc6db01af0e569042952b92494a3c1025afc9ccb9ced5bb5d390f/bodybaa6a1622c9b963aedda460137b0f2203ad6d2dbf250df647cdf754527a909f0，逆替严格回首冻，改变段复读完，identity限定复核中。其余正文不变；证据／地图／快照均更新。root B04G已本地提交d77da7e，经营和school/learning累计77接收；disability仍草稿不可提前集成。
 

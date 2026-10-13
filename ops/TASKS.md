@@ -13,15 +13,17 @@
 | B03A 政府/地理/家庭日常/预算 | identity政府3；daily_history地理3；care_finance日常4；root预算1 | integrated | 11篇事实/第三编辑/生产构建与渲染通过；预算由care事实、identity第三编辑 |
 | B03B 社群/历史文化/世界与不平等 | identity社群3；daily_history历史文化4；care_finance世界与不平等4 | integrated | 11篇两轮审核、生产/25路径双视口/搜索/打印通过；版本见accepted和b03bc-acceptance |
 | B03C 身份住房交通数字社区余项 | root数字与社区；identity证件；daily住房；care交通 | writing / reviewing | 数字3、PR/文书2、社区3、出租车/主动出行2、租约、居留/准证管理、邻里与驾驶均已集成；机场、私宅与购房成本已集成；HDB/EC核心原文仍有明确来源缺口。root接第三编辑及工程；7—12领域缺口不按篇数认定完成 |
-| B04 家庭教育照护 | identity家庭；care医疗/心理残障/照护/老年；daily教育高教成人学习；root多语 | writing / researching | communication/multilingual-family及relationships/sexual-health已集成；childcare、medical-records已完成B04B，MDW/药物/高教已完成B04C两轮审核及实际工程；分居安全与TG已通过B04D独立审和实际工程；预防医疗MOH/CPF年龄冲突已由2027生效专业入口和手册解释，B04E限定两审及实际工程闭合；心理健康已B04F实际接收，学校learning已B04G两审及实际工程通过，学校生活完整草稿待独立两审。13—19全部种子、身份与生命周期分支逐条闭合；所分路径独占，必要拆页先登记 |
-| B05 财务经营法律安全 | root个人金融/税务经营；identity劳动 | writing / researching / planned | banking已完成独立两轮与生产实际验收；32详源及冲突边界已登记。SRS/投资/保险已完成独立审核和工程；债务两审及B04E实际工程通过；劳动权益与跨境税务已B04F接收，经营已B04G两审与实际工程通过；BOOKMAP领域20—28余项逐条闭合 |
+| B04 家庭教育照护 | identity家庭；care医疗/心理残障/照护/老年；daily教育高教成人学习；root多语 | writing / researching | communication/multilingual-family及relationships/sexual-health已集成；childcare、medical-records已完成B04B，MDW/药物/高教已完成B04C两轮审核及实际工程；分居安全与TG已通过B04D独立审和实际工程；预防医疗MOH/CPF年龄冲突已由2027生效专业入口和手册解释，B04E限定两审及实际工程闭合；心理健康已B04F实际接收，学校learning已B04G两审及实际工程通过，学校生活已B04I两审及实际工程接收，成人学习在途写作；残障支持已B04H接收，照顾者支持研究写作中。13—19全部种子、身份与生命周期分支逐条闭合；所分路径独占，必要拆页先登记 |
+| B05 财务经营法律安全 | root个人金融/税务经营；identity劳动 | writing / researching / planned | banking已完成独立两轮与生产实际验收；32详源及冲突边界已登记。SRS/投资/保险已完成独立审核和工程；债务两审及B04E实际工程通过；劳动权益与跨境税务已B04F接收，经营已B04G两审与实际工程通过；工伤与税务更正已B04I两审及实际工程接收；困难援助与房产税研究中，BOOKMAP领域20—28余项逐条闭合 |
 | B06 全书覆盖与情境走查 | root+独立审阅者 | planned | 全28领域种子/身份/生命周期/弱势处境逐条证明 |
-| HUM 全书说人话校对 | root；identity限定事实；care第三编辑 | in progress | 按 ops/HUMANIZE.md 初始94队列并追增实际源（当前134）；礼节/小贩两份九处表达已限定事实及第三编辑通过，主控已应用并完成B04A生产、双视口及打印验收。删说教/免责/无信息量否定，事实层零变动；在途draft待集成后补；独立版本与accepted SHA绑定，闭环后主控工程验收 |
+| HUM 全书说人话校对 | root；identity限定事实；care第三编辑 | in progress | 按 ops/HUMANIZE.md 初始94队列并追增实际源（当前138）；礼节/小贩两份九处表达已限定事实及第三编辑通过，主控已应用并完成B04A生产、双视口及打印验收。删说教/免责/无信息量否定，事实层零变动；在途draft待集成后补；独立版本与accepted SHA绑定，闭环后主控工程验收 |
 
 ## 日期触发与来源缺口
 
 | 触发日 | 重核对象 | 来源与受影响正文 |
 |---|---|---|
+| 2026-11-30／12-01 | 两职业病项目移出过渡结束及四项户外热应激措施转强制 | injury；MOM职业病FAQ与热措施现行详页，当前与未来已明确区分 |
+| 2027-01-01 | SCFA收入门槛4500／1125变为6500／1625；提前申请窗口真实表述差异届时重核 | school-life；MSF现行SCFA详页及COS2026，SSCC条件另核 |
 | 2027（具体生效日及细则待公布） | HCG、残障MDW levy、CTG、Pioneer disability对ID/ASD特殊照护需要的资格拓宽；照顾者触点与培训框架 | care_finance实际读取MOH2026-09-04讲话；caregiver-support研究证据承接。现行CAF-R不得等同未来扩围，来源路径见本人HANDOFF |
 | 2027-07-01 | 公司异议及修订强制电子服务 | MOF2026-10-06二读讲话第13段；running-business后续核IRAS实施细则，不套个人税务 |
 | 2027首届SEC、2028入学PSE | 学校考试与中学后统一招生过渡、条件及当期日期 | learning MOE当前公布规则；不提前用于2026或替当期具体公告 |
@@ -45,7 +47,7 @@
 | 2028-03-13 | 实际考试费S$50起点 | 同一SPF公告，按预约日期；driving |
 | 2029 | MTL SOAR全小学推展 | MOE COS2025现行公告；multilingual-family目前未写成全面实施 |
 | 2026-11-01 | BCRS小型零售商及非营利组织旧货宽限结束 | NEA2026-09-29公告；food-shopping |
-| 2027-01-01 | NRIC验证滥用加强执法（private organisations须2026-12-31前停用，MDDI2026-02-03）；EP/S新申请门槛；CPF老年雇员/平台/自雇年度表；1777停用；SCFA 2027门槛待后续托管页核 | MOM eligibility；CPF缴款；SCDF EMS；work-passes/cpf-basics/getting-care |
+| 2027-01-01 | NRIC验证滥用加强执法（private organisations须2026-12-31前停用，MDDI2026-02-03）；EP/S新申请门槛；CPF老年雇员/平台/自雇年度表；1777停用；SCFA 2027门槛已由school-life核明，届时重核 | MOM eligibility；CPF缴款；SCDF EMS；work-passes/cpf-basics/getting-care |
 | 2027-02-28 | 泰国Apostille公约EIF及两国适用关系 | HCCH现行状态表；documents通用出具地/目的地查询入口，正文不提前写生效 |
 | 2029-01-01 | 全部mobility scooter注册阶段 | LTA PMA详页；active-mobility已集成，2027中既有设备开放也需回源 |
 | 2027-01-28 | ONE Pass AI/Tech是否开放及细则 | MOM ONE Pass eligibility；work-passes |
@@ -79,3 +81,5 @@ B04F工程记录：新增劳动权益、心理健康与跨境个税，累计75�
 B04G工程记录：学校课程与创业经营新增两篇，累计77主题；134源/80主题/3草稿、133HTML，22761内部引用、6480外链跳过HTTP，零错误警告；10路径双视口36+16检查，106打印节点/77来源表/438页，root实际3网页截图与PDF308/312/426页；318产物逐路径/大小/SHA同步一致。残障支持已B04H两审与实际工程通过，校园生活完整草稿独立事实中，校园稿暂不计接收；更正争议12组IRAS/MOF详源与VDP起算冲突已保存evidence/b05-tax-corrections。
 
 B04H工程记录：残障支持新增一篇，累计78主题；134源/80主题/2草稿、134HTML，23112内部引用、6600外链跳过HTTP，零错误警告；10路径双视口36+16检查，107打印节点/78来源表/446页，root实际2网页截图与PDF253/254页；320产物逐路径/大小/SHA同步一致。2026-10-13 19:45目标实查active且用户自动续跑，前轮时限叙述不作暂停；并行写审继续。
+
+B04I工程记录：新增学校生活、工伤与税务更正三篇，累计81主题；138源/83主题/2草稿、138HTML，24266内部引用、6992外链跳过HTTP，最终零错误警告；16路径双视口48+36检查，110打印节点/81来源表/471物理页。root实际3网页截图及PDF327/378/455/457，328产物逐路径/大小/SHA同步一致。首次school-life带引号written元数据未提升，被门禁拒绝；只修状态后通过，正文未变。成人学习在途草稿不计冻结或接收。

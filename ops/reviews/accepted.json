@@ -818,5 +818,38 @@
     "body_sha256": "baa6a1622c9b963aedda460137b0f2203ad6d2dbf250df647cdf754527a909f0",
     "reviewed_file_sha256": "ca1e9ace952dc6db01af0e569042952b92494a3c1025afc9ccb9ced5bb5d390f",
     "engineering": "B04H production and actual desktop/mobile passed; sampled print and final sync recorded in ops/checks/b04h-acceptance.json"
+  },
+  "content/book/people/school/school-life.md": {
+    "author": "daily_history",
+    "facts": "care_finance",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b04-school-life-facts.md",
+    "editorial_report": "ops/reviews/b04-school-life-editorial.md",
+    "body_sha256": "fc044bc26adc3f60d53b8e1207bff3b0bcb1c2682851ebb30d3298277d60fd33",
+    "reviewed_file_sha256": "197b896490d80082702c43fed06350857dcd11fe60d3aa808d49615f82d8ed10",
+    "engineering": "B04I production and actual desktop/mobile passed; sampled print and final sync recorded in ops/checks/b04i-acceptance.json"
+  },
+  "content/book/work/employment/injury.md": {
+    "author": "identity",
+    "facts": "care_finance",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b05-injury-facts.md",
+    "editorial_report": "ops/reviews/b05-injury-editorial.md",
+    "body_sha256": "ded294aee91cf2d8babaee9a2f4365fb56ccd7262283e6e4b1ff42805a2d2109",
+    "reviewed_file_sha256": "feca57baaab690b3c51d79fe2b8b5c233674ac41f54013d9e158f9e349053f87",
+    "engineering": "B04I production and actual desktop/mobile passed; sampled print and final sync recorded in ops/checks/b04i-acceptance.json"
+  },
+  "content/book/work/tax/corrections-disputes.md": {
+    "author": "root",
+    "facts": "identity",
+    "editor": "daily_history",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b05-tax-corrections-facts.md",
+    "editorial_report": "ops/reviews/b05-tax-corrections-editorial.md",
+    "body_sha256": "9f48d2500059cc35223bc4457f4b6f4b86a5fc2cf2cf58cb0a22aa6e6fe0146c",
+    "reviewed_file_sha256": "20e74eb839ab684d5665199454df6d688b1453a50507759d4beb348b897ef42d",
+    "engineering": "B04I production and actual desktop/mobile passed; sampled print and final sync recorded in ops/checks/b04i-acceptance.json"
   }
 }

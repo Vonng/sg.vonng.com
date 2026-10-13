@@ -24,7 +24,7 @@
 
 VDP起算日冲突为真实未闭项：C03当前网页个人例子4月18日，C04当前2026-01-30版脚注4月15日并明确非延期日期。应继续核现行法定截止/具体e-filing宽免及主管解释，正文先明确边界，不给4月15—18期间资格承诺。原accepted personal-tax关于2026申报窗口4月18与此减罚法定起算是不同问题，不据此回退已核申报日期。
 
-完整行动章拟覆盖：分辨更正/补报/漏减免/VDP/缴款困难/正式上诉，六身份的登录与税居分开，材料→提交确认→补件→付款→结果/退款→失败升级。C11前段已补；SFA详细规则已由C12闭合，尚需核所采用申请附件和主管法条细节；以真实已读范围写稿，不建公开空页。本文件目前是researching证据，不是独立事实通过或正文冻结记录。
+完整行动章拟覆盖：分辨更正/补报/漏减免/VDP/缴款困难/正式上诉，六身份的登录与税居分开，材料→提交确认→补件→付款→结果/退款→失败升级。C11前段已补；SFA详细规则已由C12闭合，尚需核所采用申请附件和主管法条细节；以真实已读范围写稿，不建公开空页。原先researching状态已由下方作者冻结记录更新；尚未独立事实通过。
 
 ## 本轮补核与明确止损（19:50后）
 
@@ -32,3 +32,26 @@ VDP起算日冲突为真实未闭项：C03当前网页个人例子4月18日，C0
 - SSO搜索定位的当前ITA章节 `https://sso.agc.gov.sg/Act/ITA1947?ProvIds=P117-`，web打开内部错误，正常HTTPS403/919B及唯一8888 403/919B均失败，记录ita-p117-attempts.json，不重试。搜索长摘要不作为已读法条；个人30日及上诉流程仍用实际IRAS/MOF主管详文，不能凭公司s93A问答或旧判例拼成本页个人条件。
 - 新检索发现2026修法线索，已实际打开并完整读[MOF2026-10-06二读讲话](https://www.mof.gov.sg/news-resources/newsroom/second-reading-opening-speech-on-the-finance--income-taxes--bill---2m-jeffrey-siow/)主体L32—95。第13段说明从2027-07-01要求**公司**通过电子服务提出异议/修订；不得套给本篇个人。20%固定支出/收入≤50,000选项、公司回扣及AI抵扣只作为running-business待查主管操作细则的研究线索，不据讲话推所有实施日。未把二读讲话当成已核御准或刊宪。
 - 网搜命中旧MOF14 June2024指南50元个人费，当前MOF入口实际链接的2025-04-01新指南才是本篇流程和分档费来源，已查C07/08；旧PDF不采用。
+
+
+## C13：现行税务复核委员会程序指示与附件读取边界
+
+2026-10-13实际从C07现行MOF入口读取[2025年第1号程序指示](https://isomer-user-content.by.gov.sg/153/eec8c151-8c63-475c-a260-650aa03933cf/bor-practice-direction-no-1-of-2025.pdf)，2025-03-20签发、03-21复核。两物理页全部62行web文字及正常实体pdftotext全文实际读；实体200、204400 B、SHA769fe2f38d35fc8c309853e2e796cead551bdf5bdddb523562aa35fda2fa43b6。本人实际目视物理第2页，核对缴费参考格式、视频CMC/PHC、现场听证及联系方式；不称两页全图目视。
+
+采用范围：文件交换和向委员会提交文件／延期原则上邮件；2025-04-01后Notice of Appeal仍FormSG；改期限须理由、拟新日期及对方意见；PayNow Corporate费；会议默认视频、听证默认现场但可申请不同方式。只用于个人ITBR相关段，不把GST／property程序混写。原件及图在.cache/research/b05-tax/bor-direction-*，原工具corr-open15.txt。
+
+C07当前所链请愿书[Annex B](https://go.gov.sg/itbr-only-poa)、[听证材料清单](https://go.gov.sg/it-bor-checklist)、[提交示例](https://go.gov.sg/it-bor-case-submission-outline)均为DOCX。web工具报不支持该类型；每个正常HTTPS403和唯一正常8888代理403均已完成，见itbr-annex-fetch.json/itbr-annex-proxy-fetch.json，停止，无实体、无正文、无表格或图片阅读。没有声称逐栏核验；正文只给当前官方入口及C07/C08已经实际读到的填写／提交要求。未开私人FormSG、未填真实账户、未联系机构。无新URL／版本不重试这三附件。
+
+作者末次自审实际再次读取C01主体、C02全文两个返回、C03条件及个人计算／渠道、C05/06现行段、C09热线及升级、C10迟报/传票、C11退款以及C12全部问答；C08全文已先完整读，本次再读后半。特别补全composition不得GIRO支付、通知期限前补报已入账及过去两年按时、专用豁免即时／3工作日、传票列明期限前补报支付可避免出庭；C08第14节S$200及法律/混合问题仅说明上级边界，未宣称完整法院提交已研究。VDP15/18日起算真实冲突保留，未将未读SSO当证据。
+
+## 完整作者稿冻结（独立两审尚未完成）
+
+root已完整通读首次全文，按C10修正迟报通知和GIRO精度，再复读所有改段；正文覆盖问题分流、AIS/IR21/合伙资料责任、提交确认、既往减免、VDP、补报、分期、迟缴追缴、升级、ITBR费用和材料/无电子入口、退款/离境和SFA。C01—13是实际阅读组，三DOCX失败另列，不充作已读第14组。
+
+最终26071 B／156行，full `9ca2b66472d41d6d02f4978f59de8c0bfd8dbbb6fa2cf51323286d44d4040fef`，body `93e8ce550a6884490e044df7b8f25993b5dbf1c912dc1de3dafddf7f21577242`。11 H2、48 HTTPS、3真实relref、两表，九字段written/draft:true/核验空、粗体空格、无H1与EOF自检通过。冻结副本与机器报告位于忽略缓存corrections-author-final-frozen.md及corrections-author-check.json。作者自审不替代identity事实或daily第三编辑，尚未构建／公开。
+
+## 独立审核及B04I接收
+
+identity实际核C01—13采用原文，唯一事实修订为ITBR个人及代理人Singpass／Corppass入口：作者按C07精确补明无Corppass的律师／会计师代理条件。事实审严格逆替回上方首冻，并完整再读156行。daily第三编辑完整读稿及事实报告，仅要求两处“一月”改“一个月”；作者应用后，两名审核者分别实读两完整改段并严格逆替。最终作者26,142 B／full `20e74eb839ab684d5665199454df6d688b1453a50507759d4beb348b897ef42d`／body `9f48d2500059cc35223bc4457f4b6f4b86a5fc2cf2cf58cb0a22aa6e6fe0146c`，独立事实和第三编辑正式通过，详见对应两份报告。
+
+root完成B04I生产、16路径双视口及真实菜单搜索、打印抽样后只改接收元数据，正文SHA未变，状态integrated/draft:false。tax-problem事项入口已接入。最终public328产物路径／大小／SHA同步一致，工程范围与限定目视见checks/b04i-acceptance.json。未进行税务或银行实办、机构联络、外部部署或推送。

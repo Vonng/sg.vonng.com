@@ -24,3 +24,5 @@ weight: 10
 心理、情绪或适应压力影响生活时，使用[心理健康与求助](/book/people/accessibility/mental-health/)选择危机支持、社区评估或医疗入口。
 
 治疗后仍需要行动、视听或其他持续支持，接[残障评估、辅具与复工安排](/book/people/accessibility/disability/)，向治疗师或社工说明每天难以完成的活动。
+
+伤病与工作有关时，另按[工作受伤和职业病](/book/work/employment/injury/)通知雇主、留存病假与账单，跟进报告、收入补偿和评估。

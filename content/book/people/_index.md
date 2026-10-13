@@ -19,4 +19,6 @@ icon: fa-solid fa-people-roof
 
 为孩子比较课程、计算费用或安排考试与学习支持，见[基础教育与学习支持](/book/people/school/learning/)。
 
+孩子入校后，按[学校生活](/book/people/school/school-life/)安排家校沟通、托管、学生保护与转返校。
+
 日常活动受到持续影响时，可从[残障支持、辅具与无障碍生活](/book/people/accessibility/disability/)安排评估、试用设备，以及住宅、学校和工作调整。
