@@ -12,3 +12,5 @@ weight: 20
 ---
 
 把取得PR的日期和批准文件准备好：[CPF](/book/work/finance/cpf-basics/)用日期判断缴纳阶段，[国民服役](/book/life/documents/national-service/)还会看本人性别、取得途径和旧身份。离境前查看[身份与REP](/book/life/documents/status-and-eligibility/)，医疗费用按[PR付款分支](/book/people/healthcare/healthcare-payments/)核对。
+
+家庭增加成员时查[出生与孩子身份](/book/people/family/birth/)；离职或派驻海外时另核[IR21税清](/book/work/tax/leaving-singapore/)。

@@ -29,3 +29,10 @@ weight: 30
 | CPF / OA / SA / MA / RA | 公积金及普通、特别、保健储蓄、退休账户 | [CPF](/book/work/finance/cpf-basics/) |
 | MRT / LRT | 地铁 / 轻轨 | [乘车](/book/life/transport/public-transport/) |
 | Singlish / MTL | 新加坡口语英语 / 学校母语科目 | [多语生活](/book/people/language/everyday-language/) |
+| HDB / URA / CEA | 组屋、私宅规划及地产代理监管涉及的机构 | [租房](/book/life/housing/renting/) |
+| IRAS / YA / NOA | 税务局 / 课税年度 / 税单 | [个人所得税](/book/work/tax/personal-tax/) |
+| AIS / NFS / D-NOA | 雇主收入报送 / 免申报服务 / 直接发税单 | [报税步骤](/book/work/tax/personal-tax/) |
+| IR21 / Letter of Undertaking | 雇主税清表 / 相关豁免用承诺书 | [税清](/book/work/tax/leaving-singapore/) |
+| TADM / salary in lieu of notice | 劳动争议调解机构 / 代通知金 | [离职与争议](/book/work/employment/leaving-job/) |
+| SCDF / SPF / NPC / NPP | 民防部队 / 警察部队 / 邻里警察中心、警岗 | [紧急求助](/book/rights/safety/emergencies/) |
+| LifeSG / GPML | 生活政务入口 / 政府付薪产假 | [出生与休假](/book/people/family/birth/) |

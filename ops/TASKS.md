@@ -9,7 +9,7 @@
 | B01-C 就医/支付/CPF | care_finance | integrated | 3篇完整稿+关键资格矩阵→异人事实→第三静态 |
 | B01-D 交通/历史/多语 | daily_history | integrated | 3篇完整稿+原文→异人事实→第三静态 |
 | B01-R 轮换独立审阅 | 三作者轮换，root接收 | passed | I由C事实审；C由D事实审；D由I事实审；第三静态root |
-| B02 租房/应急/离职/个人税/出生/入学 | 三作者共7稿 | facts passed 6 / draft 1 | 身份等主概念已稳定，逐篇写审集成 |
+| B02 租房/应急/离职/个人税/出生/入学 | 三作者共7稿 | integrated 6 / draft 1 | 身份等主概念已稳定，逐篇写审集成 |
 | B03A 政府/地理/家庭日常 | identity政府3；daily_history地理3；care_finance日常4 | researching | B02审完接续，10稿写审集成 |
 | B03B 日常与社会余项 | 待分派 | planned | BOOKMAP领域1—12其余候选逐条闭合 |
 | B04 家庭教育照护 | 待分派 | planned | BOOKMAP领域13—19余项逐条闭合 |
@@ -20,7 +20,7 @@
 
 | 触发日 | 重核对象 | 来源与受影响正文 |
 |---|---|---|
-| 2027-01-01 | EP/S新申请门槛；CPF老年雇员/平台/自雇年度表；1777停用 | MOM eligibility；CPF缴款；SCDF EMS；work-passes/cpf-basics/getting-care |
+| 2027-01-01 | EP/S新申请门槛；CPF老年雇员/平台/自雇年度表；1777停用；SCFA 2027门槛待后续托管页核 | MOM eligibility；CPF缴款；SCDF EMS；work-passes/cpf-basics/getting-care |
 | 2027-01-28 | ONE Pass AI/Tech是否开放及细则 | MOM ONE Pass eligibility；work-passes |
 | 2027-04-01 | PCP范围及流程变化 | MOM What is PCP；healthcare-payments |
 | 2027-10 | NS医学分级与入伍批次 | CMPB FAQ；NS未来体检细页，现主文未用PES等级 |
@@ -32,3 +32,5 @@
 ## 本地与外部状态
 
 本地提交已授权；推送、发布、DNS、机构联络和代办未授权。所有现阶段“集成”只指本地站点。
+
+B02入学未闭：AEIS/S-AEIS逐年级年龄与CEQ、当期/下一届关键窗口、2027 P1框架主管原文和适用抽签规则。作者与独立审已明确留稿；root新官方范围定位未找到新增核心原文，见evidence/school-access-followup.md。无新URL或版本不重试。学校费用精确表留后续预算专题；不会把旧学校页更新时间当规则年度。

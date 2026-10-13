@@ -1,15 +1,13 @@
 # 当前检查点
 
-2026-10-13 Asia/Singapore。目标 active，整书尚未完成；不得把首批样章当作全书完成。
+2026-10-13 Asia/Singapore。全书目标active；五部分28领域远未全部完成，不以15篇计数或构建成功替代全书覆盖。
 
-首次检查：仅有 PROMPT.md，无 Git，无上级 AGENTS；已完整读提示词并只读参考加拿大当前工程。现在有 Hugo 0.166.0 Extended + OINK 1.2.0 固定主题、五部分28领域地图及完整候选队列。
+B01已本地提交1cf3ef4：工程、地图、9主题与26编辑入口。B02新增6已审主题及10章节/事项入口，已integrated，正保存本地提交；入学一篇因核心MOE细源缺口仍written/draft:true。公开内容15主题，当前审查产物53HTML，public157文件与审查版路径/大小/SHA一致。普通研究/本地提交持续授权，无远程站点、外部push部署或真实申请。
 
-B01：9篇已完成作者自审、轮换独立回源事实审、root第三编辑静态审，正文SHA锁于 ops/reviews/accepted.json。当前 integrated/draft:false。26个导航编辑页已写。最终机检、桌面手机交互与代表目视完成；打印含去重来源网址、正式站内地址、白底黑字长表。public已同步125文件并逐项比对相同。本地B01提交正在保存，Git实查为准。
+审阅：B01/B02均作者→不同作者独立回源→root第三编辑，accepted.json锁正文SHA。root已读全部16篇（入学不通过）和6份事实报告。B02租房代理禁经手款项已限HDB，出生SpecialPass条件与税务标记已闭合。入学未闭见TASKS和b02-family-school-facts.md，不重试已受阻URL；root补定位无新有效原文。
 
-B02：租房、应急、离职、年度个人税、IR21、出生、入学7篇均 written/draft:true，6篇通过异人回源审，入学整页未通过。租房代理经手钱款边界已修；出生延长停留前提已核；税务粗体已修。入学核心MOE细源受阻，保留草稿与明确未闭范围，继续其他领域。
+工程：Hugo0.166 Extended、OINK1.2.0固定f8f476e；本地scripts/serve_review.py自有127.0.0.1:1328，session34531（恢复须实查PID/端口，不能盲停）。B01/B02浏览器及打印会话均已结束通过。原件、Playwright依赖、截图、PDF都在忽略.cache。B01实际修复了手机首页菜单脚本未加载、暗色卡片、打印页边/表格颜色和普通预览服务并发连接重置。
 
-B03A 已分派，须先收尾B02事实审：identity政府三稿；care_finance家庭日常四稿（消费与养宠拆开）；daily_history地理三稿。各作者只写自己正文、证据与地图。root拥有配置、导读、入口、总账与构建。
+B03A作者正在写：identity政府institutions/public-services/participation三篇；daily_history地理island-neighbourhoods/addresses-weather/resources三篇；care_finance日常food-shopping/home-maintenance/consumer-rights/keeping-pets四篇。有人已落稿仍draft，实时Git/文件为准。各作者只拥有自己正文、证据、地图；root共享导航配置总账和构建。
 
-当前自有预览是 scripts/serve_review.py 在127.0.0.1:1328，工具session34531；原普通http.server（PID14891）已由本人停止。B01浏览器与打印复核已结束且通过。所有进程须恢复后实查，不能按旧句柄盲停。原件、依赖、报告、PDF、截图都在忽略.cache，无外部发布。
-
-下一步：完成B01必要源码本地提交；root已通读B02七稿和三份独立报告，对最终修改版锁hash作第三静态审，合格6篇集成并增加第五部分、租房/离职/生育事项入口。入学有缺口仍留稿。继续B03A与后续BOOKMAP领域。
+下一步：保存B02已选必要源码的本地提交；接B03A最终稿和自审SHA，轮换事实审（care审government、identity审geography、daily审household），root第三静态及导航/渲染后集成。再按BOOKMAP继续B03B社会文化世界/数字社区/住房驾驶等剩余范围，再家庭教育老年、工作财务法律户外，最后逐PROMPT种子与28领域覆盖走查。不得完成少量样章就结束目标。

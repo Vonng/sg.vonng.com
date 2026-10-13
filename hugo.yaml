@@ -160,3 +160,28 @@ menus:
     name: 工作准证持有人
     pageRef: /docs/profiles/worker/
     weight: 30
+  - identifier: book-rights-_index
+    parent: book
+    name: 法律风险
+    pageRef: /book/rights/
+    weight: 50
+  - identifier: routes-urgent-help
+    parent: routes
+    name: 眼前有危险，需要立即求助
+    pageRef: /docs/routes/urgent-help/
+    weight: 5
+  - identifier: routes-renting
+    parent: routes
+    name: 准备租房与搬家
+    pageRef: /docs/routes/renting/
+    weight: 15
+  - identifier: routes-leaving-job
+    parent: routes
+    name: 准备离职、换工作或离境
+    pageRef: /docs/routes/leaving-job/
+    weight: 25
+  - identifier: routes-having-child
+    parent: routes
+    name: 准备迎接孩子
+    pageRef: /docs/routes/having-child/
+    weight: 35

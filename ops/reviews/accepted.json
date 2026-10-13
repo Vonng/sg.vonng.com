@@ -80,5 +80,59 @@
     "body_sha256": "487a9a8320516e2b38bf4697eb9c57b3a419346353b5234599fb867eb168c280",
     "reviewed_file_sha256": "de8bfca1720da4ebec053ff7a40156e43b65f622364f7609c6a006ec9be373f7",
     "editorial_only_change": "root: removed surplus blank line at EOF after fact review; all text unchanged"
+  },
+  "content/book/life/housing/renting.md": {
+    "author": "daily_history",
+    "facts": "identity",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b02-housing-safety-facts.md",
+    "body_sha256": "fd8dab390f1e849d959a0ebee2592d007affe6561c20bcfc03d8b967d9948e12",
+    "reviewed_file_sha256": "d82886a58f0ad486f51e9cfe74b60a3673310e408fa71bc0a3c4b0eb1daec047"
+  },
+  "content/book/rights/safety/emergencies.md": {
+    "author": "daily_history",
+    "facts": "identity",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b02-housing-safety-facts.md",
+    "body_sha256": "5af27696504a82a28defb256a89b81679c575bff4b83e8cdc4f5a905396fdeb3",
+    "reviewed_file_sha256": "a2b458318e20125435ac65b3bb4b079d3ea74c31c99f6a42d53fa7f6462415df"
+  },
+  "content/book/work/employment/leaving-job.md": {
+    "author": "identity",
+    "facts": "care_finance",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b02-employment-tax-facts.md",
+    "body_sha256": "ec71de55198a61e0796c2c393f0013c37b40ce86cf95abee1d87f1f7789c9e03",
+    "reviewed_file_sha256": "996ea262ce3b3a1edb6d4a1005c2187a849ae1c2f095108e72ef293259c4486d"
+  },
+  "content/book/work/tax/personal-tax.md": {
+    "author": "identity",
+    "facts": "care_finance",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b02-employment-tax-facts.md",
+    "body_sha256": "51d4abf45e7317f4a744a0395ac6c809f4a382add5ec49397f60b491162e6ab6",
+    "reviewed_file_sha256": "2f46f8e5be7e5822c6ff8e98b00e77e451b8c19c78ebb2484b5aca0d2f257385"
+  },
+  "content/book/work/tax/leaving-singapore.md": {
+    "author": "identity",
+    "facts": "care_finance",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b02-employment-tax-facts.md",
+    "body_sha256": "8ebb1056ecac5d673852bc1beb65c4449673705f1bbd3f1badd8b91c588ba521",
+    "reviewed_file_sha256": "583b52a5b4aaefea472e48e6fb115c13801fc84aea3c73c25d3bf7720821bb74"
+  },
+  "content/book/people/family/birth.md": {
+    "author": "care_finance",
+    "facts": "daily_history",
+    "editor": "root",
+    "date": "2026-10-13",
+    "report": "ops/reviews/b02-family-school-facts.md",
+    "body_sha256": "aabdd90a1d2dd642d99ee65bcddca0597636a11b43a87af35729e21d2e20a0d1",
+    "reviewed_file_sha256": "f89c865e693d407f75f2341e8784f289457047fc1b286bebfcfd9366f50bed8a"
   }
 }

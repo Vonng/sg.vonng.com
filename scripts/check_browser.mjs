@@ -6,7 +6,8 @@ const dest=process.env.SG_RENDER_DIR || '.cache/render-b01';
 await fs.mkdir(dest,{recursive:true});
 const browser=await chromium.launch({executablePath:process.env.CHROME_PATH || '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',headless:true});
 const report={base,at:new Date().toISOString(),checks:[],errors:[],screenshots:[]};
-const paths=['/','/book/','/book/life/documents/status-and-eligibility/','/book/life/documents/work-passes/','/book/life/documents/national-service/','/book/life/transport/public-transport/','/book/people/healthcare/getting-care/','/book/people/healthcare/healthcare-payments/','/book/work/finance/cpf-basics/','/book/foundations/history/port-city-to-nation/','/book/people/language/everyday-language/','/docs/routes/start-work/','/docs/profiles/student/','/docs/glossary/'];
+const paths=process.env.SG_PATHS_FILE ? JSON.parse(await fs.readFile(process.env.SG_PATHS_FILE,'utf8')) : ['/','/book/','/book/life/documents/status-and-eligibility/','/book/life/documents/work-passes/','/book/life/documents/national-service/','/book/life/transport/public-transport/','/book/people/healthcare/getting-care/','/book/people/healthcare/healthcare-payments/','/book/work/finance/cpf-basics/','/book/foundations/history/port-city-to-nation/','/book/people/language/everyday-language/','/docs/routes/start-work/','/docs/profiles/student/','/docs/glossary/'];
+const tablePath=process.env.SG_TABLE_PATH || '/book/work/finance/cpf-basics/';
 try {
 for (const [label,width,height] of [['desktop',1440,1000],['mobile',390,844]]) {
  const context=await browser.newContext({viewport:{width,height}});const page=await context.newPage();
@@ -20,10 +21,10 @@ for (const [label,width,height] of [['desktop',1440,1000],['mobile',390,844]]) {
   const data=await page.evaluate(()=>({h1:document.querySelectorAll('main h1').length,width:document.documentElement.clientWidth,scroll:document.documentElement.scrollWidth,strong:document.querySelectorAll('main strong').length,tables:document.querySelectorAll('main table').length,brokenImages:[...document.images].filter(x=>x.complete&&!x.naturalWidth).map(x=>x.src)}));
   assert.equal(data.h1,1,`${label} ${path} H1`);assert(data.scroll<=data.width+1,`${label} ${path} overflow`);
   assert.equal(data.brokenImages.length,0,`${label} ${path} broken image ${data.brokenImages.join(', ')}`);report.checks.push({label,path,...data});
-  if (['/','/book/work/finance/cpf-basics/'].includes(path)) {const shot=`${dest}/${label}-${path==='/'?'home':'cpf'}.png`;await page.screenshot({path:shot,fullPage:path==='/'});report.screenshots.push(shot);}
-  if(label==='mobile' && path==='/book/work/finance/cpf-basics/'){
+  if (['/',tablePath].includes(path)) {const shot=`${dest}/${label}-${path==='/'?'home':'topic'}.png`;await page.screenshot({path:shot,fullPage:path==='/'});report.screenshots.push(shot);}
+  if(label==='mobile' && path===tablePath){
    const table=page.locator('main table').first();await table.scrollIntoViewIfNeeded();
-   const shot=`${dest}/mobile-cpf-table.png`;await page.screenshot({path:shot});report.screenshots.push(shot);
+   const shot=`${dest}/mobile-topic-table.png`;await page.screenshot({path:shot});report.screenshots.push(shot);
   }
  }
  await page.goto(base+'/');

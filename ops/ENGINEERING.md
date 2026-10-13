@@ -40,3 +40,11 @@ make preview
 实测发现并修复：首页自定义模板须显式设置hasLanding才能加载手机菜单脚本；主题默认图标需本项目明确区分；主页section默认大padding、暗色卡片文本颜色需局部覆盖。普通Python预览服务出现并发连接重置，独立复现到logo和搜索库，改为loopback/HTTP1.1/128请求队列的serve_review.py后请求失败归零。这是本地检查服务问题，不曾用重试隐藏故障或改主题上游。
 
 复核打印与顶部导航可用：`SG_RENDER_DIR=.cache/render-b01 node scripts/check_print.mjs`。检查脚本与独立事实审的职责分开；无外部部署、远程push、真实申请或交易。
+
+## B02本地验收（2026-10-13）
+
+新增租房、应急、离职、年度税、IR21、出生6主题，五部分都已有可读入口；补6个章节/部分导读、4个事项、身份入口与术语。机检时54源/18主题/3草稿（入学与当时已落盘B03稿），生产15主题、53HTML、4674内部引用、0错误。822外部引用未作自动HTTP探测。157文件同步public路径/大小/SHA一致。
+
+浏览器按.cache/b02-browser-paths.json查13条变动路径的桌面/手机，42组结果与菜单/侧栏/搜索/暗色交互通过；修改后的check_browser支持SG_PATHS_FILE与SG_TABLE_PATH选择本批页面，不要求无关页重复截屏。打印32个聚合节点、15份来源表、0相对站内链接和0断锚；暗色转纸面背景及全部表格色检查通过。人工看手机租房三列表，PDF页57跨页准证表与77应急页，版式正常。PDF80物理页仅是本批输出规模，不作为内容完成证据。详情checks/b02-acceptance.json，图像/PDF留.cache/render-b02。
+
+复现本批：SG_PATHS_FILE=.cache/b02-browser-paths.json SG_RENDER_DIR=.cache/render-b02 SG_TABLE_PATH=/book/life/housing/renting/ node scripts/check_browser.mjs；路径清单也保存在轻量验收JSON中，缓存删除后可重建。

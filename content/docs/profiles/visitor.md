@@ -12,3 +12,5 @@ weight: 60
 ---
 
 先读[身份与入境停留](/book/life/documents/status-and-eligibility/)，使用实际获准停留日期安排行程。出门查[公共交通](/book/life/transport/public-transport/)中的外卡付款；生病查[就医入口](/book/people/healthcare/getting-care/)与[保险付款](/book/people/healthcare/healthcare-payments/)，预约前准备护照和保单资料。
+
+预计停留与住宿安排须分别确认，见[租房与短期住宿边界](/book/life/housing/renting/)；即时危险的入口见[紧急求助](/book/rights/safety/emergencies/)。

@@ -91,7 +91,7 @@
 
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
-| `/book/life/housing/renting/` | 怎样找到可合法入住的住房并签租约 | written（B02；事实审通过，待第三静态/集成） |
+| `/book/life/housing/renting/` | 怎样找到可合法入住的住房并签租约 | integrated（B02；事实/编辑/渲染通过） |
 | `/book/life/housing/tenancy/` | 入住维修押金续租退租怎样处理 | planned |
 | `/book/life/housing/buying-hdb/` | BTO与转售怎样判断家庭资格、HFE和贷款 | planned |
 | `/book/life/housing/buying-private/` | 私人公寓EC有地住宅和交易税费怎样判断 | planned |
@@ -168,7 +168,7 @@
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
 | `/book/people/family/relationships/` | 同居共同财务与民事穆斯林婚姻怎样安排 | planned |
-| `/book/people/family/birth/` | 孕产生育出生登记、国籍证件怎样衔接 | written（B02；事实审通过，待第三静态/集成） |
+| `/book/people/family/birth/` | 孕产生育出生登记、国籍证件怎样衔接 | integrated（B02；事实/编辑/渲染通过） |
 | `/book/people/family/childcare/` | 托育选择费用补贴与资格 | planned |
 | `/book/people/family/domestic-workers/` | 雇用家政移工的手续双方权利与照护责任 | planned |
 | `/book/people/family/separation-safety/` | 分居离婚监护家庭暴力如何求助 | planned |
@@ -234,7 +234,7 @@
 |---|---|---|
 | `/book/work/employment/employment-rights/` | 工资工时休假工资单哪些人适用 | planned |
 | `/book/work/employment/injury/` | 职业安全工伤赔偿保险怎样求助 | planned |
-| `/book/work/employment/leaving-job/` | 辞职解雇裁员后的准证税务家属怎样处理 | written（B02；事实审通过，待第三静态/集成） |
+| `/book/work/employment/leaving-job/` | 辞职解雇裁员后的准证税务家属怎样处理 | integrated（B02；事实/编辑/渲染通过） |
 | `/book/work/employment/hardship/` | 薪资争议和收入中断怎样找TADM及生活支持 | planned |
 
 ### 22. 银行、CPF、储蓄、投资与保险（finance）
@@ -254,8 +254,8 @@
 
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
-| `/book/work/tax/personal-tax/` | 居民身份YA和所得期间、申报报送缴税怎样衔接 | written（B02；事实审通过，待第三静态/集成） |
-| `/book/work/tax/leaving-singapore/` | 离职离境IR21税务清算哪些人适用 | written（B02；事实审通过，待第三静态/集成） |
+| `/book/work/tax/personal-tax/` | 居民身份YA和所得期间、申报报送缴税怎样衔接 | integrated（B02；事实/编辑/渲染通过） |
+| `/book/work/tax/leaving-singapore/` | 离职离境IR21税务清算哪些人适用 | integrated（B02；事实/编辑/渲染通过） |
 | `/book/work/tax/cross-border/` | 海外收入资产跨境信息、房产GST印花税、更正异议 | planned |
 
 ### 24. 创业、企业、经营与公司税务（business）
@@ -296,7 +296,7 @@
 
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
-| `/book/rights/safety/emergencies/` | 警察消防救护报案与家庭应急怎样求助 | written（B02；事实审通过，待第三静态/集成） |
+| `/book/rights/safety/emergencies/` | 警察消防救护报案与家庭应急怎样求助 | integrated（B02；事实/编辑/渲染通过） |
 | `/book/rights/safety/tropical-hazards/` | 火灾停电积水雷电高温登革热烟霾怎样应对 | planned |
 | `/book/rights/safety/controlled-items/` | 烟草电子烟酒精药品受管制物品有哪些规则 | planned |
 

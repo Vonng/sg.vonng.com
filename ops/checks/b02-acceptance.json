@@ -1,0 +1,63 @@
+{
+  "source_pages": 54,
+  "topics": 18,
+  "drafts": 3,
+  "html": 53,
+  "internal_references": 4674,
+  "external_references_skipped": 822,
+  "errors": [],
+  "limitations": [
+    "No external URL check; no factual approval; no browser or visual certification."
+  ],
+  "date": "2026-10-13",
+  "batch": "B02",
+  "production_topics": 15,
+  "new_topics": 6,
+  "public_files": 157,
+  "output_inventory_sha256": "d86d7037a21be038f0f635c2d2fa09af380d6918bf8588a508e81c9ba156c074",
+  "browser": {
+    "pass": true,
+    "viewports": [
+      "1440x1000",
+      "390x844"
+    ],
+    "paths": [
+      "/",
+      "/book/",
+      "/book/life/housing/renting/",
+      "/book/rights/safety/emergencies/",
+      "/book/work/employment/leaving-job/",
+      "/book/work/tax/personal-tax/",
+      "/book/work/tax/leaving-singapore/",
+      "/book/people/family/birth/",
+      "/docs/routes/renting/",
+      "/docs/routes/leaving-job/",
+      "/docs/routes/having-child/",
+      "/docs/routes/urgent-help/",
+      "/book/rights/"
+    ],
+    "checks": 42,
+    "errors": [],
+    "raw_report_sha256": "25b3996194182b6c10dcbc5bf0d5011ea967fb619943c214895d3894410300e3"
+  },
+  "print": {
+    "background": "rgb(255, 255, 255)",
+    "cells": [
+      "rgb(17, 17, 17)"
+    ],
+    "sources": 15,
+    "relative": [],
+    "broken": []
+  },
+  "visual": {
+    "reviewer": "root",
+    "screenshots": [
+      "mobile-topic-table"
+    ],
+    "pdf_pages": [
+      57,
+      77
+    ],
+    "sample_only": true
+  }
+}

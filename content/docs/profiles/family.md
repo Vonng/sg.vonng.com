@@ -12,3 +12,5 @@ weight: 50
 ---
 
 先把每个人的证件放在一起，在[身份与资格](/book/life/documents/status-and-eligibility/)核对DP、MOM LTVP、ICA LTVP或LTVP+。准备工作时按各自授权路径办理；就医时查[医疗支付](/book/people/healthcare/healthcare-payments/)中的LTVP+及亲属MediSave。沟通有语言需要，可使用[多语生活](/book/people/language/everyday-language/)的预约和确认表达。
+
+孩子出生时分别处理[登记、护照及居留](/book/people/family/birth/)；主准证持有人离职时，按[离职事项](/docs/routes/leaving-job/)核对关联准证。
