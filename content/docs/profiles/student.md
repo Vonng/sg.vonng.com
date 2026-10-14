@@ -26,3 +26,5 @@ weight: 40
 兼读培训、私校合同退费、证书或海外资格用途可查[成人学习](/book/people/learning/adult-learning/)，按所持身份和课程条件选路。
 
 基本生活或家庭支出出现困难时，查[生活援助与学生选路](/book/work/employment/hardship/)，同时向学校说明需要；收到正式法律文件或付不起法律费用时，按[法律求助](/book/rights/legal/getting-help/)核本人身份、年龄、案件与签署手续。
+
+家人去世或本人需要哀伤支持时，从[死亡善后事项](/docs/routes/when-someone-dies/)核证明、家属安排、学校联系和适合年龄的帮助；有继承或监护文件问题时，一并说明自己的年龄与身份。

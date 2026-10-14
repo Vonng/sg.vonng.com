@@ -26,3 +26,5 @@ weight: 20
 退休与再就业、CPF和公民专属补助分开核，按[退休事项](/docs/routes/retirement/)准备；长期护理的PR补贴、保险及家庭条件见[长期照护](/book/people/ageing/long-term-care/)。工资争议接[劳动申索](/book/work/employment/employment-claims/)，收到其他法律文件接[法律通知事项](/docs/routes/legal-notice/)。
 
 非自愿失业时核[求职支援](/book/work/employment/jobseeker-support/)；基本生活困难时核[家庭援助与同户条件](/book/work/employment/hardship/)。需要法律帮助，按[法律援助](/book/rights/legal/getting-help/)分别核民事、刑事和公益计划。
+
+准备失能与身后安排时，按[预先安排](/book/people/ageing/planning-ahead/)分别核LPA费用、账户提名、宗教与跨境资产；家人去世后，用[善后事项](/docs/routes/when-someone-dies/)衔接本地／境外证明、遗产与住房。已有企业另用[经营事项](/docs/routes/start-business/)。

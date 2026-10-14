@@ -1,5 +1,33 @@
 # 当前检查点
 
+## 2026-10-14 12:13 B06D四主题已实际验收，持续补全
+
+用户持续目标active，未完成整书。提交前HEAD6cebbd98ff0bcdf5813f6897df23f363017cf5af（B06C）；本检查点随B06D本地提交保存，恢复git log核实际新HEAD。规划bodyb398597d8ae37bf136e9124d8e5c3d66fb2f8aee2c3f03ebb993b666209621f2、死亡92e8f3596f94d6e8ad472e4947d13de6c09fbdadb7a40fbe4a6e5474476db5e4、通知06c218a0457c6ac492d94ab28f229338b8cb9823a6e228ae3e10759fdf576926、经营c2c02b0629846f240461d64257c176569d6bdb7c7d4fba45ec07da9101b818ae均完整两审与root实际工程闭合，累计95 integrated/draft:false。审核原文件full与工程元数据full分开记accepted；全部工程只改元数据，四body未变。
+
+规划59实质组＋OPG定位、五PDF与公开动态92键由A真读；通知24主体＋PDPC入口由root真读，三冻仅增Digest1近邻引用、旧新段/差分/逆替闭合；经营B53主体真读，两处officers及SDL向下取整已根唯一作者回源改段、全稿/差分重核；死亡A71实质＋入口和D26a24h补证真读，五轮11改段闭合。死亡最终证据四条旧摘要/冻结标签由C唯一作者清理、A限定复核，root真正第三全文/完整diff/独立逆替通过，正式facts新SHA764ac67a…及证据c4d62fc9…绑定；不重走未变政策、不以改SHA代阅读。
+
+新增亲人去世与开业持续经营两事项，18导航文件/六身份/术语已完整读及实际衔接；SDL药物与雇主语境明确区分。初门禁164源/98主题/3draft，作者随后新before-signing draft出现；最终165源/99主题/4draft、163HTML、32693内部引用、9281外链跳过HTTP，零错误警告。初/终378产物逐字节全部相同，实际QA适用于最终输出，新增draft不漏页面/菜单/搜索。
+
+24路径1440×1000/390×844共64基础+82额外实点；四主题非当前分支Space/Enter/叶子点击、AMD/Death Extract/InvoiceNow/POFMA搜索、23跨页链接和两个首页菜单真实通过，无本地请求/脚本错误。打印126书节点/5650外链/95来源表/587物理页，暗色导出白底黑字，无相对链接/断锚。root实际目视五网页及PDF399/400/404/411/412/552/577/587，另查401/553表续页与581新通知长URL，共十一物理页，仅样本。make sync378产物逐路径/大小/SHA一致；完整版本/角色/实际范围/最终清单见checks/b06d-acceptance.json。自有1328服务PID33900本批实查监听，恢复重新核，不沿完成session。
+
+12:22实际111候选95接收+5草稿+11未建；100实际主题，新增offer125行25346 B完整工作稿仍未冻结/独审。D最终门禁99主题/4draft是已验收快照，不冒充新稿已通过。admission仍核心逐年龄CEQ/窗口/2027P1原文缺口；本日新P1placement入口首次web重定向只有3行，唯一正常8888仍202/0B，停止无新条件重探，证据school-access-followup已补真实日期。HDB/EC/PDPA、ONE完整续期/PEP具体家属角色及全28领域/五情境走查未闭；这些不被D4篇数覆盖。
+
+下一实际执行：A job-search首冻125行28742B/body4f5159d42807cfbde8dcfcd686b1250d7b31a319788ab306a78008deb5efdf3c/full6f752d2c9708be76e678b1252b277011514e180b6f1c03006511d868681b9590，47源/3PDF/DOCX真读，B full facts→C真正第三；B risk-exit已正式首冻157行31933B/body166867fb35cf57e9df5e1fa4a811ec7ef3a46d48dd183b2920c8e5ad7e8c43b4/fullcb08f7a908fd7ea784cdca6a54028056e4465b1023d07fdbcecb5b20cc4fb4b8，45实质采用＋两入口/两PDF五实际图→root full facts→A真正第三；C before-signing已正式首冻132行25179B/body463cac394b2671cf32c30c5f0ef3a1580d70ec32656129bc9395ef08a43a1ccf/fullbee99d30cc9af366bb488f86af3fdd2ca19a012469e9ff795d15282bf11077b8，34采用组三PDF19必要文字页六实际图→异人facts/第三按实际轮换。A正式作者offer（13主管预读继续），risk第三到时先保存真实offer断点；C正式作者performance，job第三到时先保存真实写作断点。workplace、合同disputes、安全户外三条链继续写，主控每批接收导航工程不停工。此段补收12:18正式风险和签约首冻，D工程统计仍为12:13同一已验收版本。
+
+提交前核仅成熟D4、本批导航/报告/共享账及明确源缺口文本大小类型/staged清单；job/risk/before/offer在途正文与证据地图/交接不混入。用户PROMPT-ORIGIN保留不stage，原件图/PDF/public/缓存继续忽略；未外部推送部署DNS联络私有登录或代办。下一命令：完成本批明确文本stage preflight并本地提交，然后root从risk作者包逐采用原文完整事实审，不在D完成后结束目标。
+
+## 2026-10-14 11:32 B06D写审推进，尚未新工程
+
+用户持续目标实际get_goal仍active，HEAD实查6cebbd98ff0bcdf5813f6897df23f363017cf5af（B06C本地提交），index未新增。B06C91接收和public366一致性仍为最后生产基线；本时点实际98主题／7draft，111候选余13未建正文。旧10:15的三draft／17未建及规划三冻计数只作历史，不用旧摘要签新稿。
+
+规划171行38175 B四冻bodyb398597d8ae37bf136e9124d8e5c3d66fb2f8aee2c3f03ebb993b666209621f2，完整A事实和root真正第三正式报告都已通过。通知119行20934 B三冻body06c218a0457c6ac492d94ab28f229338b8cb9823a6e228ae3e10759fdf576926，root完整24采用组事实已正式通过；最新唯一RN24引用补充段/差分/逆替真实读，C全文第三在途。经营151行32834 B二冻bodyc2c02b0629846f240461d64257c176569d6bdb7c7d4fba45ec07da9101b818ae，B53主体完整facts已正式通过；root回源改company officers及SDL向下取整两段、全文/差分/逆替闭合，C真正第三顺接。死亡185行49505 B六冻body92e8f3596f94d6e8ad472e4947d13de6c09fbdadb7a40fbe4a6e5474476db5e4，A71主体及7PDF必要采用段真实读完，末版全文/五轮完整差分与正式facts签发中；root已完整RAW185预读，只有正式facts到后才签第三，不由预读代签。
+
+正文四稿仍written/draft:true、核验空，来源证据与地图按唯一作者维护，各历史冻保留。root只签自己的reviews记录，尚未accepted或新build/sync。角色调整：死亡由C作者→A事实→root第三，释放B持续risk-exit写作；通知B作者→root事实→C第三；经营root作者→B事实→C第三。
+
+A的job-search已有125行28617 B工作稿，death facts后恢复作者全文HUM及证据/冻结；B的risk-exit已有30401 B完整工作稿，经营facts完成后已恢复作者闭合。C的before-signing真实研究中，保存研究断点先审通知和经营，再立即续写。所有作者只写分派正文与自己的证据/地图/审稿/交接，不动导航共享账或构建。
+
+下一实际动作：接C两份编辑、A死亡正式事实→root死亡完整第三；根统一四稿与导航、版本和生产门禁、桌面/手机/折叠键盘非当前叶子/搜索明暗/中文表长词/白底打印实际验收，最终元数据门禁与sync完整清单核对。随后继续job-search/risk-exit/合同以及offer/workplace/安全户外、HDB/EC/PDPA/admission来源核心，全28种子与五情境仍未闭。用户PROMPT-ORIGIN保留不stage，没有外部推送部署联络私人登录代办；进程端口恢复实查，旧句柄不冒称活着。
+
 ## 2026-10-14 10:15 B06C三主题已验收，持续下一批
 
 用户持续目标active，不在本批后停工。提交前HEADc4db84dd5448136682bdd645050f67aa620c9336（B06B本地提交）；本检查点随B06C保存，恢复以git log核提交号。求职援助bodyfa94423a…、困难8203ba48…、法律求助048320bb…已真正异人全文事实/第三编辑和root实际工程接收，累计91 integrated/draft:false。核验日14日，作者审原完整SHA与工程元数据SHA分开保存在accepted。困难4处immediate family member事实修正和3编辑段均实际回源重绑；JS两事实与末两编辑段已闭；外国未成年CLAS程序由作者补具体核问，经原独审复核后root全文第三编辑通过。

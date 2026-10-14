@@ -24,3 +24,5 @@ icon: fa-solid fa-people-roof
 日常活动受到持续影响时，可从[残障支持、辅具与无障碍生活](/book/people/accessibility/disability/)安排评估、试用设备，以及住宅、学校和工作调整。
 
 准备退休、继续就业或安排乐龄生活，从[退休事项](/docs/routes/retirement/)衔接工作与每月收入；认知、身体功能或家庭人手改变时，接[长期照护](/book/people/ageing/long-term-care/)核医疗评估、服务、报价和支付。
+
+需要提前交代失能后的决定与身后文件，读[预先安排](/book/people/ageing/planning-ahead/)；家人已经去世，从[死亡善后事项](/docs/routes/when-someone-dies/)安排证明、葬礼、遗产与留下家人的照顾。

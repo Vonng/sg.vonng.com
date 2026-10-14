@@ -13,3 +13,5 @@ book_kind: chapter
 ---
 
 准备接单、开店或成立公司，从[开始经营](/book/work/business/starting-business/)核本人权限、业务活动和场所，选择企业形式、安排负责人及注册材料。取得登记结果后，按同篇衔接牌照、Corppass、账户和开业责任。
+
+开始经营后，用[账目、GST、年度申报与雇主责任](/book/work/business/running-business/)安排持续办理；从[开业与经营事项](/docs/routes/start-business/)按步骤整理权限、注册和后续日历。

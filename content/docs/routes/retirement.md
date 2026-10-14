@@ -20,3 +20,5 @@ weight: 60
 5. 约好学习、活动、家人分工和失联后的联系人；需要邻近活动或支持服务，从退休篇的AAC及[社区设施](/book/life/community/public-facilities/)入口查报名。
 
 PR及外籍家庭计划长期出境，另核[居留与REP](/book/life/documents/permanent-residence/)、[离职准证](/book/work/employment/leaving-job/)和[跨境税务](/book/work/tax/cross-border/)。保留居民身份而在海外生活，与正式放弃公民或PR后关闭CPF账户，是不同办理情形，按退休正文分别核收款和保障。
+
+提前整理LPA、ACP、AMD、遗嘱与CPF／保险提名，读[预先安排](/book/people/ageing/planning-ahead/)核本人能力、办理条件及文件位置；亲人去世后，从[善后事项](/docs/routes/when-someone-dies/)接续。

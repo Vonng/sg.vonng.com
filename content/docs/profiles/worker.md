@@ -34,3 +34,5 @@ weight: 30
 欠薪或不当解雇需正式申索时，按[劳动申索](/book/work/employment/employment-claims/)核自己的雇佣关系与TADM、ECT流程；年长雇员按[退休与再就业](/book/people/ageing/retirement/)另核适用保护及专门期限。其他正式法律文件可用[法律通知事项](/docs/routes/legal-notice/)安排材料与求助。
 
 收入中断或基本生活困难时，查[生活援助的外籍与移工分支](/book/work/employment/hardship/)；需要律师或付不起费用时，查[法律求助](/book/rights/legal/getting-help/)中的外国被告、移工、家政和公益指导入口，分别核受理条件。
+
+已获相应经营权限并开业后，按[持续经营](/book/work/business/running-business/)处理账目、税务和雇主责任。亲友或同事去世时，使用[善后事项](/docs/routes/when-someone-dies/)的外籍、工作事故、家政人员及家属准证分支。

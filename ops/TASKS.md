@@ -1,6 +1,6 @@
 # 任务总账
 
-更新：2026-10-14 10:12（Asia/Singapore）。用户active持续目标继续执行；B06C新增求职援助、生活困难及法律求助完整三篇，累计91可读主题。最终158源/94主题/3draft、157HTML、零错误警告；366输出同步public逐路径/大小/SHA一致。三篇全文事实/真正第三编辑与同版工程已闭，预先规划独审、权利通知作者自审冻结、死亡研究与成稿、持续经营详文补齐并行继续；全书五部分28领域范围未缩小。
+更新：2026-10-14 12:13（Asia/Singapore）。B06D已完整接收预先安排、死亡善后、权利通知和持续经营，累计95主题本地integrated/draft:false。四篇同版独立全文事实、真正第三编辑、root实际工程均闭合；新增善后与开业经营两事项、18导航文件与六身份/术语衔接。最终165源/99主题/4draft、163HTML、零错误警告；24路径双视口64基础+82额外实点，打印126节点/95来源表/587页，root五网页与十一物理PDF页真实抽样目视，378产物同步public逐路径/大小/SHA一致。12:22实查111候选目前95接收、5草稿及11未建正文（新offer工作稿已出现，尚未冻结，D验收仍为99主题/4draft快照）；全28领域与五读者情境最终走查仍未通过。
 
 | 任务 | 所有者 | 状态 | 依赖与完成标准 |
 |---|---|---|---|
@@ -14,14 +14,14 @@
 | B03B 社群/历史文化/世界与不平等 | identity社群3；daily_history历史文化4；care_finance世界与不平等4 | integrated | 11篇两轮审核、生产/25路径双视口/搜索/打印通过；版本见accepted和b03bc-acceptance |
 | B03C 身份住房交通数字社区余项 | root数字与社区；identity证件；daily住房；care交通 | writing / reviewing | 数字3、PR/文书2、社区3、出租车/主动出行2、租约、居留/准证管理、邻里与驾驶均已集成；机场、私宅与购房成本已集成；HDB/EC核心原文仍有明确来源缺口。root接第三编辑及工程；7—12领域缺口不按篇数认定完成 |
 | B04 家庭教育照护 | identity家庭；care医疗/心理残障/照护/老年；daily教育高教成人学习；root多语 | writing / researching | communication/multilingual-family及relationships/sexual-health已集成；childcare、medical-records已完成B04B，MDW/药物/高教已完成B04C两轮审核及实际工程；分居安全与TG已通过B04D独立审和实际工程；预防医疗MOH/CPF年龄冲突已由2027生效专业入口和手册解释，B04E限定两审及实际工程闭合；心理健康已B04F实际接收，学校learning已B04G两审及实际工程通过，学校生活已B04I两审及实际工程接收，成人学习已B06A完整两审与工程通过；残障支持已B04H接收，照顾者支持已B06A完整两审与工程通过。13—19全部种子、身份与生命周期分支逐条闭合；所分路径独占，必要拆页先登记 |
-| B05 财务经营法律安全 | root个人金融/税务经营；identity劳动 | writing / researching / planned | banking已完成独立两轮与生产实际验收；32详源及冲突边界已登记。SRS/投资/保险已完成独立审核和工程；债务两审及B04E实际工程通过；劳动权益与跨境税务已B04F接收，经营已B04G两审与实际工程通过；工伤与税务更正已B04I两审及实际工程接收；困难援助有研究无正文；房产税137行/P01—18已独立两审及B06A工程集成，BOOKMAP领域20—28余项逐条闭合 |
+| B05 财务经营法律安全 | root个人金融/税务经营；identity劳动 | writing / researching / planned | banking已完成独立两轮与生产实际验收；32详源及冲突边界已登记。SRS/投资/保险已完成独立审核和工程；债务两审及B04E实际工程通过；劳动权益与跨境税务已B04F接收，经营已B04G两审与实际工程通过；工伤与税务更正已B04I两审及实际工程接收；困难求职/家庭援助已拆三完整主题并全部B06B/C工程接收；房产税137行/P01—18已独立两审及B06A工程集成，BOOKMAP领域20—28余项逐条闭合 |
 | B06 全书覆盖与情境走查 | root+独立审阅者 | planned | 全28领域种子/身份/生命周期/弱势处境逐条证明 |
 | AUDIT 进展与续作提示词 | root；两位只读审计者 | complete（状态审计） | 源码覆盖、审核SHA、Git与实际生产门禁已核；不等于全书事实/内容完成，见PROGRESS-AUDIT及checks/progress-audit-2026-10-13.json |
 | P0 HUM版本与成熟稿接收 | root；A/B交叉独审；care_writer | integrated（B06A/HUM10） | 50篇维护双独审及三事实修正闭合；三成熟稿完整两审、70路径双视口/打印、340产物同步，详见b06a-acceptance |
 | B06B 退休、照护、劳动申索、法律体系 | care_writer老年；review_state_audit法律；root申索；coverage_audit事实轮换 | integrated | 四篇完整两审及同版SHA、21路径双视口58基础+56额外、打印/九个目视样本及356输出一致；checks/b06b-acceptance |
 | B06C 求职援助、生活困难与法律帮助 | root两生活支持；review_state_audit法律；coverage_audit事实；B/root轮换第三编辑 | integrated | 最终bodyfa94423a…/8203ba48…/048320bb…各完整两审；23路径62基础+70额外实际检查、打印545页/八PDF与三网页目视、366输出一致；checks/b06c-acceptance |
-| B06D 预先规划、权利通知、死亡与经营后续 | care_writer规划/死亡作者；review_state_audit通知作者；coverage_audit规划事实；root规划第三/通知事实/经营作者 | writing / reviewing / researching | 规划58采用组/五PDF真实事实在途，CPF未18寡妇例外由作者修订再冻；通知实际draft自审与证据冻结，事实root/第三care_writer；死亡完整稿冻后coverage_audit事实/B第三；经营完整稿后B事实/C第三，依真正可用角色轮换 |
-| B06E 求职与职场、合同安全户外 | coverage_audit先job-search作者，其他所有权由root按在途轮换 | queued / planned | A规划正式事实后接job-search完整作者稿，若death已冻结可先审死亡；offer/workplace、合同三篇、安全两篇及户外三篇各逐必要种子完成，不用入口替正文 |
+| B06D 预先安排、死亡善后、权利通知与持续经营 | C规划/死亡作者；B通知作者/经营事实；A规划/死亡事实；root规划/死亡第三、通知事实及经营作者；C通知/经营第三 | integrated | 四最终bodyb398597d…/92e8f359…/06c218a0…/c2c02b06…完整两审及工程；64+82实际检查、五网页/十一PDF目视、378输出一致，详checks/b06d-acceptance |
+| B06E 求职、风险退出与合同后续 | A job-search/offer作者；B risk-exit作者及job事实；C before-signing/performance作者及job第三；root risk事实/A第三 | writing / reviewing | job正式125行4f5159d4冻结47源，B facts/C第三；risk正式157行31933 B/body166867fb…45实质采用＋两入口/两PDF五真图→root全文回源/A真正第三；before-signing正式132行25179 B/body463cac39…34采用/三PDF19必要文字页六真图，待异人事实/第三。offer正式派A，performance正式派C，受审角色轮换先保存真实断点；workplace/disputes/安全户外随后，具体源缺口不删题 |
 | HUM 全书说人话校对 | root；coverage_audit/review_state_audit交叉限定两审 | in progress（已公开源闭合） | 按 ops/HUMANIZE.md（提示词v2）初始94队列并追增实际源（二核140，已补登caregiver-support/property-tax）；礼节/小贩两份九处表达已限定事实及第三编辑通过，主控已应用并完成B04A生产、双视口及打印验收。删说教/免责/无信息量否定，事实层零变动；在途draft待集成后补；独立版本与accepted SHA绑定，闭环后主控工程验收 |
 
 ## 日期触发与来源缺口
@@ -29,9 +29,10 @@
 | 触发日 | 重核对象 | 来源与受影响正文 |
 |---|---|---|
 | 2026-10-20 | ACRA年度申报新增CEO角色声明的实际表件与登记匹配 | running-business研究中已实读ACRA2026-10-07步骤L129，将来起点明确标注，未提前写当前已经启用 |
+| 2027YA；2028-04-01及2029—2031各批次 | 合伙Form P强制电子申报、GST InvoiceNow新强制及既有业务分批实施 | running-business完整原文已实读与B06D接收，当前只新自愿GST于2026-04-01进入阶段；届时核各实体/供应额分支与IRAS实施指南 |
 | 每年1月1日/12月31日；匹配入账时 | MRSS资格、年度上限与终身上限、截止含当日及入账时公民身份 | retirement；CPF当期条件，未因年度合资格忽略翌年入账身份 |
 | 2027-03-31 | 取消公民/PR后CPF关户过渡利息安排终点 | retirement/CPF；CPF当前关户详页，不套成普通海外居住月款规则 |
-| 2027-01-04前；2027-03-31 | My Legacy个人资料、funeral plan与will records关闭删除，以及SAL新Wills Repository数字存档免费期 | planning-ahead当前作者实际LifeSG详FAQ/SAL原文；须下载个人各section，ACP/CPF提名/LPA不受该删除影响，等待该稿独审后正式接收 |
+| 2027-01-04前；2027-03-31 | My Legacy个人资料、funeral plan与will records关闭删除，以及SAL新Wills Repository数字存档免费期 | planning-ahead已B06D完整两审及工程；实际LifeSG详FAQ/SAL原文，须下载个人各section，ACP/CPF提名/LPA不受该删除影响 |
 | 2026-11-30／12-01 | 两职业病项目移出过渡结束及四项户外热应激措施转强制 | injury；MOM职业病FAQ与热措施现行详页，当前与未来已明确区分 |
 | 2027-01-01 | SCFA收入门槛4500／1125变为6500／1625；提前申请窗口真实表述差异届时重核 | school-life；MSF现行SCFA详页及COS2026，SSCC条件另核 |
 | 2027（具体生效日及细则待公布） | HCG、残障MDW levy、CTG、Pioneer disability对ID/ASD特殊照护需要的资格拓宽；照顾者触点与培训框架 | care_finance实际读取MOH2026-09-04讲话；caregiver-support研究证据承接。现行CAF-R不得等同未来扩围，来源路径见本人HANDOFF |

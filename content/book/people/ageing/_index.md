@@ -15,3 +15,5 @@ book_kind: chapter
 准备结束工作或继续就业，从[退休、再就业与乐龄生活](/book/people/ageing/retirement/)核出生批次、雇佣保障、每月收入和日常支持。生活功能或认知改变时，按[长期照护](/book/people/ageing/long-term-care/)安排医疗评估、居家或机构服务，再核补贴、保险及收款。
 
 家人接替、培训和喘息从[照护者支持](/book/people/accessibility/caregiver-support/)进入；需要连同工作、收入、住房和日常安排一起规划，可按[退休事项](/docs/routes/retirement/)逐步处理。
+
+还具备决定能力时，读[预先安排](/book/people/ageing/planning-ahead/)准备LPA、ACP、AMD、遗嘱和提名；亲人去世后，从[善后事项](/docs/routes/when-someone-dies/)衔接证明、葬礼、遗产和家人的生活。

@@ -16,3 +16,5 @@ weight: 60
 预计停留与住宿安排须分别确认，见[租房与短期住宿边界](/book/life/housing/renting/)；即时危险的入口见[紧急求助](/book/rights/safety/emergencies/)。
 
 停留期间出现基本生活困难，按[访客求助选路](/book/work/employment/hardship/)核保险、社区和本国使领馆可协助的事项；遇到法律问题，按[法律求助](/book/rights/legal/getting-help/)核外国居民咨询或刑事援助的具体条件。
+
+同行亲友在新加坡去世时，用[善后事项](/docs/routes/when-someone-dies/)核本地证明、外籍安置及遗体／骨灰跨境，联系适合自己的保险和使领馆。

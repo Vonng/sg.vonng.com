@@ -73,7 +73,7 @@ weight: 30
 | MC、MRO、HIMS、NEHR、HMS、SMC | 病假证明、机构病历部门、全国健康记录及医疗调解／纪律渠道 | [医疗资料与沟通](/book/people/healthcare/medical-records/) |
 | AOP、POP、KiFAS、KCare、HHI、PCI、CCFA、EIPIC | 学前机构计划、学费／照护资助、家庭收入及早期介入；各自资格分开 | [托育与补贴](/book/people/family/childcare/) |
 | AU / ITE / HESL / Tuition Grant | 自治大学 / 工艺教育学院 / 高等教育贷款 / 学费补助 | [高等教育申请与费用](/book/people/learning/higher-education/) |
-| SDL / MAF / POM / P / GSL | 药物补贴名录、援助基金及处方／药房／一般销售分类 | [取药与药物资助](/book/people/healthcare/medicines/) |
+| SDL（药物） / MAF / POM / P / GSL | 药物补贴名录、援助基金及处方／药房／一般销售分类 | [取药与药物资助](/book/people/healthcare/medicines/) |
 | MDW / EOP / SIP / 6ME / CDE | 家政移工、雇主及员工适应课程、定期体检与家政雇员中心 | [家政雇用与求助](/book/people/family/domestic-workers/) |
 | SRS / statutory retirement age / withholding tax | 退休辅助计划、适用法定退休年龄、预扣税 | [SRS缴款与提款](/book/work/finance/srs/) |
 | SSB / T-bills / CDP / ETF / CAR / CKA | 储蓄债券、短期国库券、中央托管、交易所交易基金及产品知识评估 | [储蓄与投资](/book/work/finance/saving-investing/) |
@@ -116,3 +116,12 @@ weight: 30
 | ComCare / SSO / SMTA / LTA / IA | 家庭生活援助 / 社会服务办事处 / 短中期援助 / 长期援助 / 临时援助；SSO在法律文本语境另指Singapore Statutes Online | [生活困难与援助](/book/work/employment/hardship/) |
 | SupportGoWhere / FSC / Zakat | 支持计划与申请入口 / 家庭服务中心 / 伊斯兰宗教援助；服务及资格按具体计划 | [申请、社区与宗教支持](/book/work/employment/hardship/) |
 | LAB / PDO / CLAS / LASCO / FJSS / IPS | 民事援助局 / 公设辩护署 / 刑事法律援助 / 死刑罪名代理 / 家事公益援助 / 律师服务不足投诉；身份、案件和费用范围分别判断 | [法律援助与律师服务](/book/rights/legal/getting-help/) |
+| LPA / donee / deputy / OPG | 持久授权书 / 受权人 / 法院任命代理人 / 公共监护人办公室；权限来自相应授权或命令 | [失能前的安排](/book/people/ageing/planning-ahead/) |
+| ACP / NHS / AMD | 预先护理计划 / 指定医疗发言人 / 预先医疗指示；效果和办理条件分别核 | [医疗决定与登记](/book/people/ageing/planning-ahead/) |
+| Grant of Probate / Letters of Administration / PTO | 遗嘱执行授权 / 遗产管理授权 / 公共信托人办公室；按遗嘱、资产和资格选路 | [死亡与遗产办理](/book/people/ageing/death/) |
+| Coffin Import Permit / Coffin Export Permit / Death Extract | 棺木进口许可 / 出口许可 / 死亡记录摘录；不同文件各有用途 | [证明与跨境善后](/book/people/ageing/death/) |
+| ECI / Form C-S / Form P / Annual Return / XBRL | 估计应课税收入、公司简化税表、合伙税表、公司年度登记申报及财务报表格式 | [持续经营](/book/work/business/running-business/) |
+| GST / InvoiceNow / Peppol ID / SDL（雇主） | 消费税、电子发票网络、网络标识及技能发展税；SDL在药物语境另指补贴名录 | [登记、发票与雇员缴款](/book/work/business/running-business/) |
+| RORC / ROND / RONS | 控制人、代名董事及代名股东登记；私有与中央登记分别办理 | [企业登记维护](/book/work/business/running-business/) |
+| PDPA / PSGA | 个人资料保护法及公共部门治理法；处理者与程序分别核 | [资料请求与机关依据](/book/rights/legal/rights-notices/) |
+| POFMA / Correction Direction / Speakers’ Corner | 网络虚假信息法律、纠正指令及演讲角；履行、上诉、活动角色分别核 | [公共表达与许可](/book/rights/legal/rights-notices/) |

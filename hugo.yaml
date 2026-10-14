@@ -245,3 +245,13 @@ menus:
     name: 低收入家庭与生活困难
     pageRef: /docs/profiles/low-income/
     weight: 80
+  - identifier: routes-start-business
+    parent: routes
+    name: 准备开业与持续经营
+    pageRef: /docs/routes/start-business/
+    weight: 22
+  - identifier: routes-death
+    parent: routes
+    name: 亲人去世后办理善后
+    pageRef: /docs/routes/when-someone-dies/
+    weight: 62

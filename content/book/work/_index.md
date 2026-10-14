@@ -20,3 +20,5 @@ icon: fa-solid fa-briefcase
 准备自己经营时，先用[创业与注册](/book/work/business/starting-business/)核工作权限、企业形式、场所及开业手续。
 
 发现税单错误或缴款困难时，按[税务问题处理事项](/docs/routes/tax-problem/)整理资料、选择更正或分期入口，并跟进结果。
+
+已有企业或正在开业，可用[开业与持续经营事项](/docs/routes/start-business/)安排注册、账目、GST、年结与雇员责任。

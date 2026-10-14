@@ -1780,5 +1780,57 @@
     "review_source_file_sha256": "48b459843d06626dbd7e415e5fe387a18fb21695f90596fb9552026053f8abf7",
     "engineering": "B06C: production gate, 23 paths desktop/mobile (62 checks), 70 extra actual topic/menu/search/navigation checks, print structure and eight PDF/three web visual samples passed; final metadata gate and public sync recorded in ops/checks/b06c-acceptance.json.",
     "engineering_date": "2026-10-14"
+  },
+  "content/book/people/ageing/planning-ahead.md": {
+    "author": "care_writer",
+    "facts": "coverage_audit",
+    "editor": "root",
+    "date": "2026-10-14",
+    "report": "ops/reviews/b06-planning-ahead-facts.md",
+    "editorial_report": "ops/reviews/b06-planning-ahead-editorial.md",
+    "body_sha256": "b398597d8ae37bf136e9124d8e5c3d66fb2f8aee2c3f03ebb993b666209621f2",
+    "reviewed_file_sha256": "ffb7e3bed13de96345d60e4205a68103390e3a50c559e82ffc9213bb03337e04",
+    "review_source_file_sha256": "94ec537475669ca1dce2842007ed8b12adfaaa6dca7bada0d17d463ec22cadd2",
+    "engineering": "B06D: production gate, 24 paths desktop/mobile (64 checks),82 extra actual topic/menu/search/navigation checks, print126 nodes/95 source lists/587 physical pages, five web and eleven physical PDF page visual samples passed; final metadata gate output identical to actual QA build and378 public products match paths/bytes/SHA, recorded in ops/checks/b06d-acceptance.json.",
+    "engineering_date": "2026-10-14"
+  },
+  "content/book/people/ageing/death.md": {
+    "author": "care_writer",
+    "facts": "coverage_audit",
+    "editor": "root",
+    "date": "2026-10-14",
+    "report": "ops/reviews/b06-death-facts.md",
+    "editorial_report": "ops/reviews/b06-death-editorial.md",
+    "body_sha256": "92e8f3596f94d6e8ad472e4947d13de6c09fbdadb7a40fbe4a6e5474476db5e4",
+    "reviewed_file_sha256": "f2b4e80c188bcf7fbd2acbd42fa7e2243e07f581dac8db4989374b53e1619917",
+    "review_source_file_sha256": "8063b00057bec106b86d25888d66fcc7527efe6eae3a4bd33e3e0ccb66d8d93e",
+    "engineering": "B06D: production gate, 24 paths desktop/mobile (64 checks),82 extra actual topic/menu/search/navigation checks, print126 nodes/95 source lists/587 physical pages, five web and eleven physical PDF page visual samples passed; final metadata gate output identical to actual QA build and378 public products match paths/bytes/SHA, recorded in ops/checks/b06d-acceptance.json.",
+    "engineering_date": "2026-10-14"
+  },
+  "content/book/rights/legal/rights-notices.md": {
+    "author": "review_state_audit",
+    "facts": "root",
+    "editor": "care_writer",
+    "date": "2026-10-14",
+    "report": "ops/reviews/b06-rights-notices-facts.md",
+    "editorial_report": "ops/reviews/b06-rights-notices-editorial.md",
+    "body_sha256": "06c218a0457c6ac492d94ab28f229338b8cb9823a6e228ae3e10759fdf576926",
+    "reviewed_file_sha256": "508238c257c859368c8605f30296391aca9d153448bbf669f31ed2a42ec9fcee",
+    "review_source_file_sha256": "b47d68c44dee8430379fdec63ab0d30a421d0691fcd0ff628081348f89361faf",
+    "engineering": "B06D: production gate, 24 paths desktop/mobile (64 checks),82 extra actual topic/menu/search/navigation checks, print126 nodes/95 source lists/587 physical pages, five web and eleven physical PDF page visual samples passed; final metadata gate output identical to actual QA build and378 public products match paths/bytes/SHA, recorded in ops/checks/b06d-acceptance.json.",
+    "engineering_date": "2026-10-14"
+  },
+  "content/book/work/business/running-business.md": {
+    "author": "root",
+    "facts": "review_state_audit",
+    "editor": "care_writer",
+    "date": "2026-10-14",
+    "report": "ops/reviews/b06-running-business-facts.md",
+    "editorial_report": "ops/reviews/b06-running-business-editorial.md",
+    "body_sha256": "c2c02b0629846f240461d64257c176569d6bdb7c7d4fba45ec07da9101b818ae",
+    "reviewed_file_sha256": "37086bee93bb7fc67174f5cee1025174fc1ac9c14a28bb8ae1d0ad6d0c251b02",
+    "review_source_file_sha256": "9bad75854f789f1b5cc1743fde02d35831c4cbe9918eace916a3930e450c8301",
+    "engineering": "B06D: production gate, 24 paths desktop/mobile (64 checks),82 extra actual topic/menu/search/navigation checks, print126 nodes/95 source lists/587 physical pages, five web and eleven physical PDF page visual samples passed; final metadata gate output identical to actual QA build and378 public products match paths/bytes/SHA, recorded in ops/checks/b06d-acceptance.json.",
+    "engineering_date": "2026-10-14"
   }
 }

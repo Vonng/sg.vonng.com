@@ -20,3 +20,5 @@ weight: 65
 5. 需要法律意见或代理时，带完整通知、预算和已有材料，按[法律求助](/book/rights/legal/getting-help/)核LAB、PDO、CLAS或公益服务的受理范围，也可核自费律师、委托和费用。刑事被控时，先核通知上的提讯与出席安排，再尽早申请相应帮助。
 
 已经协商、投诉或寻求帮助，也要另外安排适用程序的回应和出席。眼前有人身危险，先按[紧急求助](/book/rights/safety/emergencies/)处理医疗或安全，再接续文件与争议。
+
+送达记录、民事OC应诉期限、Litigant Portal与服务处递交，接[通知、期限与权利](/book/rights/legal/rights-notices/)按具体程序办理；个人资料或公共表达问题也在该篇按对象选路。

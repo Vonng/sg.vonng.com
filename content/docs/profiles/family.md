@@ -34,3 +34,5 @@ weight: 50
 长期看顾长者时，按[长期照护](/book/people/ageing/long-term-care/)核受服务人的接纳、保险、补贴及家庭代申请条件；家人结束工作，从[退休事项](/docs/routes/retirement/)规划收入与居留。收到法院或其他正式文件，进入[法律通知事项](/docs/routes/legal-notice/)核程序。
 
 家庭收入或基本生活出现困难，从[生活困难事项](/docs/routes/financial-hardship/)核同户与实际需要；需要法律指导或代理，从[法律求助](/book/rights/legal/getting-help/)区分一般援助、跨国家庭和家事专项条件。
+
+提前安排失能后的决定、遗嘱与提名，读[预先安排](/book/people/ageing/planning-ahead/)；家人去世后，用[善后事项](/docs/routes/when-someone-dies/)衔接葬礼、遗产、孩子照顾与留下家人的居留。已经经营的家庭成员按[开业与经营事项](/docs/routes/start-business/)安排持续责任。

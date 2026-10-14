@@ -1,6 +1,6 @@
 # 全书内容地图
 
-更新：2026-10-14 10:12（Asia/Singapore）。B06C已接收求职援助、生活困难及法律求助三篇，累计91主题本地集成；三篇完整异人事实及第三编辑、最终正文SHA和实际工程闭合。新增生活困难事项与低收入家庭入口，相关身份/离职/法律导航和术语已接入。最终158源/94主题/3draft、157HTML、零错误警告；366产物已同步public逐路径/大小/SHA一致。111候选当前为91接收、3草稿（admission、planning-ahead、rights-notices）及17未建正文，成熟程度按作者冻结与正式报告判断。B06B四主题、B06A/HUM10的50维护版本及三主题不重复研究未变内容。全28领域必要分支与五读者情境最终走查仍未整体通过。
+更新：2026-10-14 12:13（Asia/Singapore）。B06D已完整接收预先安排、死亡善后、权利通知和持续经营，累计95主题本地integrated/draft:false。四篇同版独立全文事实、真正第三编辑、root实际工程均闭合；新增善后与开业经营两事项、18导航文件与六身份/术语衔接。最终165源/99主题/4draft、163HTML、零错误警告；24路径双视口64基础+82额外实点，打印126节点/95来源表/587页，root五网页与十一物理PDF页真实抽样目视，378产物同步public逐路径/大小/SHA一致。12:22实查111候选目前95接收、5草稿及11未建正文（新offer工作稿已出现，尚未冻结，D验收仍为99主题/4draft快照）；全28领域与五读者情境最终走查仍未通过。
 
 ## 内容与资格模型
 
@@ -219,8 +219,8 @@
 |---|---|---|
 | `/book/people/ageing/retirement/` | 退休再就业CPFLIFESRS与收入怎样安排 | integrated（care_writer作者/coverage_audit事实/root第三编辑及B06B实际工程，body66abb2b5…） |
 | `/book/people/ageing/long-term-care/` | 独居认知变化居家机构照护及长期护理保障 | integrated（care_writer作者/coverage_audit事实/root第三编辑及B06B实际工程，代理限制已修并复核，body65c36629…） |
-| `/book/people/ageing/planning-ahead/` | LPA预先医疗照护、遗嘱CPF提名怎样安排 | reviewing（care_writer完整冻结及事实反馈修订，coverage_audit逐58采用组和必要PDF全文事实中；root已全文预读、待正式事实后第三编辑，仍draft） |
-| `/book/people/ageing/death/` | 死亡登记丧葬遗产哀伤与跨境善后怎样衔接 | researching（care_writer独占死亡/跨境/多宗教/遗产完整链；龛位主管冲突保留，不建公开空页） |
+| `/book/people/ageing/planning-ahead/` | LPA预先医疗照护、遗嘱CPF提名怎样安排 | integrated（完整异人事实/真正第三编辑、同bodySHA与实际生产/双视口/打印/public一致性B06D通过，见accepted和checks/b06d-acceptance） |
+| `/book/people/ageing/death/` | 死亡登记丧葬遗产哀伤与跨境善后怎样衔接 | integrated（完整异人事实/真正第三编辑、同bodySHA与实际生产/双视口/打印/public一致性B06D通过，见accepted和checks/b06d-acceptance） |
 
 ## 工作、收入、财务与经营
 
@@ -230,8 +230,8 @@
 
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
-| `/book/work/career/job-search/` | 招聘简历面试背景资格怎样核验 | planned |
-| `/book/work/career/offer/` | 怎样读offer和准备准证入职 | planned |
+| `/book/work/career/job-search/` | 招聘简历面试背景资格怎样核验 | written（A作者正式首冻125行28742B/body4f5159d4…，47详源与PDF/DOCX真实范围；B全文事实排队/C第三，未接收） |
+| `/book/work/career/offer/` | 怎样读offer和准备准证入职 | written（唯一作者A已有125行25346 B完整工作稿，48实质源、证据/全稿HUM冻结继续；risk第三到时先保存断点轮换，不计独审） |
 | `/book/work/career/workplace/` | 汇报反馈会议晋升边界与专业伦理 | planned |
 
 ### 21. 劳动关系、保障与经济困难（employment）
@@ -281,8 +281,8 @@
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
 | `/book/work/business/starting-business/` | 独资合伙公司、外国人权限、UENCorppass牌照 | integrated（care事实/daily第三编辑/B04G实际工程通过；版本见accepted.json） |
-| `/book/work/business/running-business/` | 董事秘书申报银行记账发票GST公司税雇主责任 | researching（root独占作者，ACRA新步骤/当期变更及IRAS2026申报原文实际读；GST/账目/雇主详文待补，不建公开空页） |
-| `/book/work/business/risk-exit/` | 合同知识产权数据融资保险与跨境停业退出 | planned |
+| `/book/work/business/running-business/` | 董事秘书申报银行记账发票GST公司税雇主责任 | integrated（完整异人事实/真正第三编辑、同bodySHA与实际生产/双视口/打印/public一致性B06D通过，见accepted和checks/b06d-acceptance） |
+| `/book/work/business/risk-exit/` | 合同知识产权数据融资保险与跨境停业退出 | written（B正式首冻157行31933 B/body166867fb…，45实质采用＋两入口/两PDF五真图；root完整回源事实→A真正第三，尚未独审接收） |
 
 ## 法律、风险与外部环境
 
@@ -294,7 +294,7 @@
 |---|---|---|
 | `/book/rights/legal/legal-system/` | 法律政策和宗教法制度怎样识别 | integrated（review_state_audit作者/root全文事实/care_writer第三编辑及B06B实际工程，AGC标签限定复核闭合，body0c45b213…） |
 | `/book/rights/legal/getting-help/` | 调解法律援助律师裁判庭怎样选 | integrated（review_state_audit作者/coverage_audit全文事实/root第三编辑/B06C实际工程；body048320bb…） |
-| `/book/rights/legal/rights-notices/` | 通知证据送达期限、隐私平等表达集会规则 | writing（review_state_audit独占，实际draft正文已有，作者自审及证据冻结中；PDPC细部失败止损不推privacy-data候选完成） |
+| `/book/rights/legal/rights-notices/` | 通知证据送达期限、隐私平等表达集会规则 | integrated（完整异人事实/真正第三编辑、同bodySHA与实际生产/双视口/打印/public一致性B06D通过，见accepted和checks/b06d-acceptance） |
 
 ### 26. 合同、签约、责任与纠纷（contracts）
 
@@ -302,8 +302,8 @@
 
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
-| `/book/rights/contracts/before-signing/` | 签字前怎样核对主体报价订金押金附件保证 | planned |
-| `/book/rights/contracts/performance/` | 续约变更取消违约赔偿和责任怎样读 | planned |
+| `/book/rights/contracts/before-signing/` | 签字前怎样核对主体报价订金押金附件保证 | written（C正式首冻132行25179 B/body463cac39…，34采用组三PDF19必要文字页/六真图；待异人事实及真正第三，尚未接收） |
+| `/book/rights/contracts/performance/` | 续约变更取消违约赔偿和责任怎样读 | planned（正式派C作者，job第三到时保存真实写作断点并先独审） |
 | `/book/rights/contracts/disputes/` | 协商调解小额索赔如何留证并启动 | planned |
 
 ### 27. 公共安全、事故与应急（safety）
