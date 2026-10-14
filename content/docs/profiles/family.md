@@ -36,3 +36,5 @@ weight: 50
 家庭收入或基本生活出现困难，从[生活困难事项](/docs/routes/financial-hardship/)核同户与实际需要；需要法律指导或代理，从[法律求助](/book/rights/legal/getting-help/)区分一般援助、跨国家庭和家事专项条件。
 
 提前安排失能后的决定、遗嘱与提名，读[预先安排](/book/people/ageing/planning-ahead/)；家人去世后，用[善后事项](/docs/routes/when-someone-dies/)衔接葬礼、遗产、孩子照顾与留下家人的居留。已经经营的家庭成员按[开业与经营事项](/docs/routes/start-business/)安排持续责任。
+
+家属找工作，接[求职篇](/book/work/career/job-search/)按ICA或MOM签发机构、DP／LTVP／LTVP+及具体授权选路；已获权限经营的成员准备停业时，接[经营风险篇](/book/work/business/risk-exit/)核关联准证和家庭后续。

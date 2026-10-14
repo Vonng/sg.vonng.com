@@ -18,3 +18,5 @@ weight: 60
 停留期间出现基本生活困难，按[访客求助选路](/book/work/employment/hardship/)核保险、社区和本国使领馆可协助的事项；遇到法律问题，按[法律求助](/book/rights/legal/getting-help/)核外国居民咨询或刑事援助的具体条件。
 
 同行亲友在新加坡去世时，用[善后事项](/docs/routes/when-someone-dies/)核本地证明、外籍安置及遗体／骨灰跨境，联系适合自己的保险和使领馆。
+
+停留期间考虑工作机会，先读[求职篇](/book/work/career/job-search/)的访客分支，核招聘、试做和正式开工的权限；同时按实际停留期限安排行程。

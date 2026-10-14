@@ -1,6 +1,6 @@
 ---
 title: 准备开业与持续经营
-description: 先核本人权限和企业形式，再安排注册、记账、GST、年度申报与雇主责任。
+description: 先核本人权限和企业形式，再安排注册、持续申报、商业风险与停业善后。
 page_id: sg-route-start-business
 content_kind: editorial
 scope: 编辑导航；具体制度的适用条件见引用正文
@@ -20,4 +20,6 @@ weight: 22
 5. 年结时分别核AGM、审计、财务报表、Annual Return或LLP声明，并维护适用的控制人、代名登记。
 6. 雇人前结合[劳动权益](/book/work/employment/employment-rights/)安排条款；持续经营正文衔接CPF、SDL、外籍雇员准证与缴款，工伤保险另接[工伤篇](/book/work/employment/injury/)。
 
-申报受阻、欠款、暂停或本人将离境时，按持续经营正文核回执、权限、补件与记录，并用[税务问题事项](/docs/routes/tax-problem/)处理对应的税单或付款问题。
+签商业合同、使用品牌、保存顾客资料或安排融资时，读[经营风险篇](/book/work/business/risk-exit/)核责任、知识产权、资料保护与保证。跨境业务按实际活动选择该篇的税务、通关和品牌分支。
+
+准备暂停、停业或本人离境时，从同篇的退出路径核企业形式、债务和清偿能力，衔接登记、税务、GST、员工及关联准证。申报受阻或税单、付款有问题，再用[持续经营](/book/work/business/running-business/)与[税务问题事项](/docs/routes/tax-problem/)核回执、补件和处理入口。

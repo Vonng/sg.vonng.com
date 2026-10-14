@@ -18,3 +18,5 @@ weight: 80
 医疗账单、孩子费用与照护开支，各按[医疗支付](/book/people/healthcare/healthcare-payments/)、[托育](/book/people/family/childcare/)、[学校学习与费用](/book/people/school/learning/)及[照护者支持](/book/people/accessibility/caregiver-support/)核实际条件。已有贷款或其他欠款时，按[债务困难](/book/work/finance/debt-disputes/)准备完整清单。
 
 需要法律指导或付不起代理费用，按[法律援助与委托](/book/rights/legal/getting-help/)区分LAB、PDO、CLAS和公益服务。没有Singpass、设备，或有语言、行动需要时，将需要连同材料告诉受理机构，按各正文的线下和电话入口请求协助。
+
+寻找岗位和职业辅导，接[求职篇](/book/work/career/job-search/)核招聘入口、到访协助和中介收费，准备可核验的履历；生活援助的申请仍按本人及同户条件办理。

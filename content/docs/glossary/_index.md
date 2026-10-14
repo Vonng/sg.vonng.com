@@ -74,7 +74,7 @@ weight: 30
 | AOP、POP、KiFAS、KCare、HHI、PCI、CCFA、EIPIC | 学前机构计划、学费／照护资助、家庭收入及早期介入；各自资格分开 | [托育与补贴](/book/people/family/childcare/) |
 | AU / ITE / HESL / Tuition Grant | 自治大学 / 工艺教育学院 / 高等教育贷款 / 学费补助 | [高等教育申请与费用](/book/people/learning/higher-education/) |
 | SDL（药物） / MAF / POM / P / GSL | 药物补贴名录、援助基金及处方／药房／一般销售分类 | [取药与药物资助](/book/people/healthcare/medicines/) |
-| MDW / EOP / SIP / 6ME / CDE | 家政移工、雇主及员工适应课程、定期体检与家政雇员中心 | [家政雇用与求助](/book/people/family/domestic-workers/) |
+| MDW / EOP / SIP（家政适应） / 6ME / CDE | 家政移工、雇主及员工适应课程、定期体检与家政雇员中心；SIP此处指Settling-in Programme | [家政雇用与求助](/book/people/family/domestic-workers/) |
 | SRS / statutory retirement age / withholding tax | 退休辅助计划、适用法定退休年龄、预扣税 | [SRS缴款与提款](/book/work/finance/srs/) |
 | SSB / T-bills / CDP / ETF / CAR / CKA | 储蓄债券、短期国库券、中央托管、交易所交易基金及产品知识评估 | [储蓄与投资](/book/work/finance/saving-investing/) |
 | IP / rider / deductible / co-payment / PPF | 综合健保计划、附加险、自付额、共付及保单持有人保障 | [保险条款与理赔](/book/work/finance/insurance/) |
@@ -83,7 +83,7 @@ weight: 30
 | PPO / DEO / SAO / NCO / PHC / NAVH | 家庭保护命令、住所／地点／联络限制、骚扰保护法院与反暴力求助热线；PHC此处是法院语境 | [家庭安全与保护](/book/people/family/separation-safety/) |
 | custody / care and control / access / CPP / MCP | 孩子重大决定、日常照顾、探视、共同育儿及婚姻辅导 | [分居、离婚与孩子安排](/book/people/family/separation-safety/) |
 | EIR / CBS / MLCB / DCP / DMP / MDMP / DRS | 有效利率、信用资料机构、债务整合、银行及持牌放贷债务管理和法院转介偿债计划 | [信用与债务](/book/work/finance/debt-disputes/) |
-| EA / KET / PWM / LQS | 雇佣法、主要雇佣条款、渐进式薪金及本地员工薪金要求；适用条件各自判断 | [劳动权益](/book/work/employment/employment-rights/) |
+| EA（雇佣法） / KET / PWM / LQS | Employment Act、主要雇佣条款、渐进式薪金及本地员工薪金要求；适用条件各自判断 | [劳动权益](/book/work/employment/employment-rights/) |
 | GPPL / SPL / FWA | 政府付薪陪产假、共享育儿假及弹性工作安排 | [假期与工作安排](/book/work/employment/employment-rights/) |
 | COR / FTC / CRS / FATCA | 税务居民证明、外国税抵免及金融账户税务信息制度 | [跨境税务](/book/work/tax/cross-border/) |
 | CREST / COMIT / CHAT / IMH / NAMS | 社区外展、社区介入、青年评估、心理卫生学院及成瘾治疗服务 | [心理支持与治疗](/book/people/accessibility/mental-health/) |
@@ -93,10 +93,10 @@ weight: 30
 | Full SBB / PG / G1、G2、G3 | 全面科目编班 / 入学组别 / 科目级别 | [科目与升学](/book/people/school/learning/) |
 | SEC / PSE | 新加坡—剑桥中学教育证书 / 中学后教育 | [2027—2028过渡](/book/people/school/learning/) |
 | SEN / SPED / AA | 特殊教育需要 / 特殊教育学校 / 考试便利安排 | [学习支持](/book/people/school/learning/) |
-| DVF / ADL | 残障验证表 / 日常生活活动 | [评估与验证](/book/people/accessibility/disability/) |
+| DVF / ADL | 残障验证表 / 日常生活活动 | [评估与验证](/book/people/accessibility/disability/)、[求职转介材料](/book/work/career/job-search/) |
 | ATF / SMF | 辅助科技基金 / 乐龄行动及辅助基金 | [辅具与资助](/book/people/accessibility/disability/) |
 | EASE | 乐龄易计划；组屋及私宅分支条件各异 | [住宅调整](/book/people/accessibility/disability/) |
-| JPJS / H2W / ODP | 就业安置与支持 / 医院到工作 / 开门计划 | [工作支持](/book/people/accessibility/disability/) |
+| JPJS / H2W / ODP | 就业安置与支持 / 医院到工作 / 开门计划 | [工作支持](/book/people/accessibility/disability/)、[求职入口](/book/work/career/job-search/) |
 | DAC / ESH | 日间活动中心 / 综合社区服务中心 | [日间与社区支持](/book/people/accessibility/disability/) |
 | Parents Gateway / CCA / PLD | 家校沟通平台 / 课外活动 / 个人学习设备；PG在学校升学语境也可能指入学组别 | [学校日常](/book/people/school/school-life/) |
 | SCFA / SSCC | 学生托管费援助 / 特殊学生托管中心 | [课后照顾](/book/people/school/school-life/) |
@@ -125,3 +125,10 @@ weight: 30
 | RORC / ROND / RONS | 控制人、代名董事及代名股东登记；私有与中央登记分别办理 | [企业登记维护](/book/work/business/running-business/) |
 | PDPA / PSGA | 个人资料保护法及公共部门治理法；处理者与程序分别核 | [资料请求与机关依据](/book/rights/legal/rights-notices/) |
 | POFMA / Correction Direction / Speakers’ Corner | 网络虚假信息法律、纠正指令及演讲角；履行、上诉、活动角色分别核 | [公共表达与许可](/book/rights/legal/rights-notices/) |
+| MyCareersFuture / MCF / SWDA / e2i | 招聘平台、Skills and Workforce Development Agency及职业辅导机构；服务与资助按各自条件 | [招聘与辅导](/book/work/career/job-search/) |
+| EA（就业中介） / EA Directory | Employment Agency / MOM的中介牌照与人员查询入口 | [中介核验及收费](/book/work/career/job-search/) |
+| One Referral Form / OneMSF consent | 残障服务转介表 / 随附的个人资料同意书；核验证明与代签材料按具体要求准备 | [JPJS申请材料](/book/work/career/job-search/) |
+| DPO | Data Protection Officer，机构的资料保护负责人 | [经营中的资料保护](/book/work/business/risk-exit/) |
+| SIP 2.0 / SDRP / SWUP | 简化破产程序及简化债务重组、清盘分支；企业资格和清偿能力分别核 | [债务与停业选路](/book/work/business/risk-exit/) |
+| strike off / winding up | 除名 / 清盘；按企业形式、债务与程序选择 | [关闭业务与记录保存](/book/work/business/risk-exit/) |
+| GST F8 / OMV | GST最终申报表 / 公开市场价值；停业资产处理按具体GST条件核 | [取消GST与退出税务](/book/work/business/risk-exit/) |

@@ -26,3 +26,5 @@ weight: 10
 非自愿失业或基本生活费不足时，用[生活困难事项](/docs/routes/financial-hardship/)衔接求职支援和家庭援助；付不起法律费用，按[法律援助](/book/rights/legal/getting-help/)核案件、经济条件和材料。
 
 准备LPA、ACP、AMD、遗嘱和提名，读[预先安排](/book/people/ageing/planning-ahead/)；亲人去世后使用[善后事项](/docs/routes/when-someone-dies/)。自己开业或已有企业，用[开业与经营事项](/docs/routes/start-business/)安排注册和持续申报。
+
+找工作或转职，读[求职篇](/book/work/career/job-search/)选择招聘与辅导渠道、核中介及职业资格；已有企业遇到合同、债务或停业问题，接[经营风险与退出](/book/work/business/risk-exit/)。

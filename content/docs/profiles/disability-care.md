@@ -20,3 +20,5 @@ weight: 70
 家属安排日常接替、喘息、培训或申请照护补助，可按[照护事项](/docs/routes/caregiving/)准备。就医与评估费用查[医疗支付](/book/people/healthcare/healthcare-payments/)，持续情绪支持查[心理健康](/book/people/accessibility/mental-health/)；每位家庭成员按自己的国籍、准证和服务条件判断。
 
 需要持续居家、日间或护理院服务时，接[长期照护](/book/people/ageing/long-term-care/)核接纳、功能评估、保险与援助；准备减少或结束工作时，用[退休事项](/docs/routes/retirement/)重排收入与日常支持。
+
+寻找工作、复工或安排面试调整，接[求职篇](/book/work/career/job-search/)的残障就业分支，核JPJS、验证与转介材料，并说明沟通、到访或工作安排需要。

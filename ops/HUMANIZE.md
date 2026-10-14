@@ -2,6 +2,8 @@
 
 ## 2026-10-14 当前接收范围
 
+B06E新增求职125行与风险157行，全文事实及真正第三HUM/结构/引用已同body闭合并完成真实工程，累计97接收。root16导航文件所有实改完整段／整行及全diff、新career全稿实际读；EA与SIP语境区分，OneMSF仅同意书用途，未增加DSA未知解释。五网页／七PDF页为实际抽样；新签前／录用／履行及未完入学仍draft，全书HUM与最终28领域/五情境未记完成。
+
 B06D四篇（预先安排171行、死亡185行、通知119行、经营151行）已由真正第三人完整RAW/HUM/结构/源静态审、同body事实与root实际工程闭合，累计95已接收正文。死亡证据四条旧摘要限定整理独立复读，正文不动；经营两处officers/SDL精确化由原事实再读全稿闭合。root两个新事项全文、其余16导航完整修改段和全部差分已实际读，唯一截断法律通知段另补完整。五网页/十一PDF物理页为实际样本，不当全书目视；job/risk/before/offer及admission继续按实际版本补审，全书HUM未记完成。
 
 B06C三个主题（求职援助100行、生活困难100行、法律求助158行）已各由真正第三人按全文判据审，并闭合同版事实和实际工程，累计91公开正文。困难身份嵌套句拆开、FSC中文释义、临时补助重复否定删除，原事实审逐完整段回源重绑；JS末两表达段亦限定复核。root新增导航全文及全部导航实改完整段与差分实际通读。planning-ahead、rights-notices、admission及后续新稿继续按实际版本补审，全书HUM不提前记完成。
@@ -279,3 +281,12 @@ B04I 追增后新增、此前未入队的源，均为在途 draft：
 - ○ `content/book/work/employment/jobseeker-support.md` — root100行完整作者自审，独立事实在途、第三编辑待签。
 - ○ `content/book/rights/legal/getting-help.md` — review_state_audit158行完整作者冻结，待异人事实与第三编辑。
 - ○ `content/book/people/ageing/planning-ahead.md` — care_writer完整作者稿自审/证据在途，未冻结。
+
+### B06E新增源追登（2026-10-14 13:23）
+
+- [x] `content/book/work/career/job-search.md` — C真正第三全文125行、B完整事实与B06E工程，bodyf20dd633…。
+- [x] `content/book/work/business/risk-exit.md` — A真正第三全文157行、root完整事实及最后限定释义重绑与B06E工程，body89f08e95…。
+- [x] `content/book/work/career/_index.md` — root完整新导航与实际双视口/首页实点。
+- ○ `content/book/rights/contracts/before-signing.md` — C二冻132行自审，B正式完整facts已PASS/A第三在途。
+- ○ `content/book/work/career/offer.md` — A首冻125行完整作者自审，B完整事实/C第三待闭。
+- ○ `content/book/rights/contracts/performance.md` — C首冻152行完整作者自审，root完整事实/A第三待闭。

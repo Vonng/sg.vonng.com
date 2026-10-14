@@ -1,6 +1,6 @@
 ---
 title: 准备开始工作
-description: 先核准证与offer，再理解工资和医疗保障。
+description: 从求职核验进入工作权限、雇佣条款、工资账户与医疗保障。
 page_id: sg-docs-routes-start-work
 content_kind: editorial
 scope: 编辑导航；所列制度的适用条件见对应正文
@@ -11,7 +11,7 @@ reviewed_by: root（编辑导航审阅）
 weight: 20
 ---
 
-适合已经拿到或正在比较工作机会的读者。先查[身份与资格](/book/life/documents/status-and-eligibility/)，确认本人是否需要雇主申请准证、LOC或其他工作权限。
+正在找工作，先用[求职篇](/book/work/career/job-search/)选择渠道、核雇主与中介，准备履历和面试。已经拿到或正在比较机会，再查[身份与资格](/book/life/documents/status-and-eligibility/)，确认本人是否需要雇主申请准证、LOC或其他工作权限。
 
 1. 需要工作准证，按[工作准证](/book/life/documents/work-passes/)对照类别、行业、年龄及固定月薪，向雇主取到申请安排。获IPA后，再按[MOM签发与领卡](/book/life/documents/pass-management/)核开始工作前的手续。
 2. 家属或学生身份想工作，先走身份页对应分支，核对签发机构、学校和授权。

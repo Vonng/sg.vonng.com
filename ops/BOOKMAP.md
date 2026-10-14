@@ -1,6 +1,6 @@
 # 全书内容地图
 
-更新：2026-10-14 12:13（Asia/Singapore）。B06D已完整接收预先安排、死亡善后、权利通知和持续经营，累计95主题本地integrated/draft:false。四篇同版独立全文事实、真正第三编辑、root实际工程均闭合；新增善后与开业经营两事项、18导航文件与六身份/术语衔接。最终165源/99主题/4draft、163HTML、零错误警告；24路径双视口64基础+82额外实点，打印126节点/95来源表/587页，root五网页与十一物理PDF页真实抽样目视，378产物同步public逐路径/大小/SHA一致。12:22实查111候选目前95接收、5草稿及11未建正文（新offer工作稿已出现，尚未冻结，D验收仍为99主题/4draft快照）；全28领域与五读者情境最终走查仍未通过。
+更新：2026-10-14 13:23（Asia/Singapore）。B06E已完整接收求职与经营风险退出，累计97主题本地integrated/draft:false。正文SHA与两审最终稿相符，root只改工程元数据；新增求职章导读、16导航文件和六身份／低收入／残障选路及EA、SIP术语区分。最终168源/101主题/4draft、166HTML，零错误警告；20路径双视口56基础＋66额外实点，打印129节点/97来源表/607物理页，root五网页与七物理PDF页实际抽样目视。384产物同步public逐路径、大小、SHA一致。111候选目前97接收、4草稿、10未建正文；全28领域与五读者情境最终走查仍未通过。
 
 ## 内容与资格模型
 
@@ -230,9 +230,9 @@
 
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
-| `/book/work/career/job-search/` | 招聘简历面试背景资格怎样核验 | written（A作者正式首冻125行28742B/body4f5159d4…，47详源与PDF/DOCX真实范围；B全文事实排队/C第三，未接收） |
-| `/book/work/career/offer/` | 怎样读offer和准备准证入职 | written（唯一作者A已有125行25346 B完整工作稿，48实质源、证据/全稿HUM冻结继续；risk第三到时先保存断点轮换，不计独审） |
-| `/book/work/career/workplace/` | 汇报反馈会议晋升边界与专业伦理 | planned |
+| `/book/work/career/job-search/` | 招聘简历面试背景资格怎样核验 | integrated（A作者／B全文事实／C真正第三／root B06E实际工程，bodyf20dd633…；见accepted及checks/b06e-acceptance） |
+| `/book/work/career/offer/` | 怎样读offer和准备准证入职 | written（A正式首冻125行25692 B/bodya9d72e48…，50详源／两PDF；B接完整facts、C真正第三，未接收） |
+| `/book/work/career/workplace/` | 汇报反馈会议晋升边界与专业伦理 | researching（A正式唯一作者；会议汇报反馈晋升、边界与伦理／多语跨文化完整链，未建正文） |
 
 ### 21. 劳动关系、保障与经济困难（employment）
 
@@ -282,7 +282,7 @@
 |---|---|---|
 | `/book/work/business/starting-business/` | 独资合伙公司、外国人权限、UENCorppass牌照 | integrated（care事实/daily第三编辑/B04G实际工程通过；版本见accepted.json） |
 | `/book/work/business/running-business/` | 董事秘书申报银行记账发票GST公司税雇主责任 | integrated（完整异人事实/真正第三编辑、同bodySHA与实际生产/双视口/打印/public一致性B06D通过，见accepted和checks/b06d-acceptance） |
-| `/book/work/business/risk-exit/` | 合同知识产权数据融资保险与跨境停业退出 | written（B正式首冻157行31933 B/body166867fb…，45实质采用＋两入口/两PDF五真图；root完整回源事实→A真正第三，尚未独审接收） |
+| `/book/work/business/risk-exit/` | 合同知识产权数据融资保险与跨境停业退出 | integrated（B作者／root完整事实及末版限定重绑／A真正第三／root B06E工程，body89f08e95…） |
 
 ## 法律、风险与外部环境
 
@@ -302,9 +302,9 @@
 
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
-| `/book/rights/contracts/before-signing/` | 签字前怎样核对主体报价订金押金附件保证 | written（C正式首冻132行25179 B/body463cac39…，34采用组三PDF19必要文字页/六真图；待异人事实及真正第三，尚未接收） |
-| `/book/rights/contracts/performance/` | 续约变更取消违约赔偿和责任怎样读 | planned（正式派C作者，job第三到时保存真实写作断点并先独审） |
-| `/book/rights/contracts/disputes/` | 协商调解小额索赔如何留证并启动 | planned |
+| `/book/rights/contracts/before-signing/` | 签字前怎样核对主体报价订金押金附件保证 | written（C二冻132行25371 B/bodyb1b6ccb4…，35采用／三PDF19文字六真图；B正式完整facts PASS d73eb08e…→A真正第三在途） |
+| `/book/rights/contracts/performance/` | 续约变更取消违约赔偿和责任怎样读 | written（C正式首冻152行24490 B/bodyd648b904…，25详源／两PDF14必要文字四真图；root完整facts→A第三，未接收） |
+| `/book/rights/contracts/disputes/` | 协商调解小额索赔如何留证并启动 | researching（root作者；SCT/CASE主体实际原段、SCT Guide13文字四图已读；现行送达与旧册差异待按直接原文闭合，未建正文） |
 
 ### 27. 公共安全、事故与应急（safety）
 
@@ -313,7 +313,7 @@
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
 | `/book/rights/safety/emergencies/` | 警察消防救护报案与家庭应急怎样求助 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
-| `/book/rights/safety/tropical-hazards/` | 火灾停电积水雷电高温登革热烟霾怎样应对 | planned |
+| `/book/rights/safety/tropical-hazards/` | 火灾停电积水雷电高温登革热烟霾怎样应对 | researching（C正式唯一作者；雨雷热／积水／烟霾登革热与家庭中断应对，未建正文） |
 | `/book/rights/safety/controlled-items/` | 烟草电子烟酒精药品受管制物品有哪些规则 | planned |
 
 ### 28. 自然、户外、旅行与环境责任（outdoors）

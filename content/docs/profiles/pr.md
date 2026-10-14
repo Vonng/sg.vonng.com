@@ -28,3 +28,5 @@ weight: 20
 非自愿失业时核[求职支援](/book/work/employment/jobseeker-support/)；基本生活困难时核[家庭援助与同户条件](/book/work/employment/hardship/)。需要法律帮助，按[法律援助](/book/rights/legal/getting-help/)分别核民事、刑事和公益计划。
 
 准备失能与身后安排时，按[预先安排](/book/people/ageing/planning-ahead/)分别核LPA费用、账户提名、宗教与跨境资产；家人去世后，用[善后事项](/docs/routes/when-someone-dies/)衔接本地／境外证明、遗产与住房。已有企业另用[经营事项](/docs/routes/start-business/)。
+
+找工作或转职，读[求职篇](/book/work/career/job-search/)核招聘、职业辅导、中介与资格证明；经营中的合同、债务或退出问题，接[经营风险篇](/book/work/business/risk-exit/)，长期离境另保留REP和税务安排。

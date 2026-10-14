@@ -36,3 +36,5 @@ weight: 30
 收入中断或基本生活困难时，查[生活援助的外籍与移工分支](/book/work/employment/hardship/)；需要律师或付不起费用时，查[法律求助](/book/rights/legal/getting-help/)中的外国被告、移工、家政和公益指导入口，分别核受理条件。
 
 已获相应经营权限并开业后，按[持续经营](/book/work/business/running-business/)处理账目、税务和雇主责任。亲友或同事去世时，使用[善后事项](/docs/routes/when-someone-dies/)的外籍、工作事故、家政人员及家属准证分支。
+
+找工作或换雇主，读[求职篇](/book/work/career/job-search/)的逐类准证分支，核实际岗位、中介费用、申请者和开工条件；已获权限经营后遇到债务或停业，接[经营风险篇](/book/work/business/risk-exit/)处理企业与本人准证的后续。

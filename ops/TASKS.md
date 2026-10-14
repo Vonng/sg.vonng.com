@@ -1,6 +1,6 @@
 # 任务总账
 
-更新：2026-10-14 12:13（Asia/Singapore）。B06D已完整接收预先安排、死亡善后、权利通知和持续经营，累计95主题本地integrated/draft:false。四篇同版独立全文事实、真正第三编辑、root实际工程均闭合；新增善后与开业经营两事项、18导航文件与六身份/术语衔接。最终165源/99主题/4draft、163HTML、零错误警告；24路径双视口64基础+82额外实点，打印126节点/95来源表/587页，root五网页与十一物理PDF页真实抽样目视，378产物同步public逐路径/大小/SHA一致。12:22实查111候选目前95接收、5草稿及11未建正文（新offer工作稿已出现，尚未冻结，D验收仍为99主题/4draft快照）；全28领域与五读者情境最终走查仍未通过。
+更新：2026-10-14 13:23（Asia/Singapore）。B06E已完整接收求职与经营风险退出，累计97主题本地integrated/draft:false。正文SHA与两审最终稿相符，root只改工程元数据；新增求职章导读、16导航文件和六身份／低收入／残障选路及EA、SIP术语区分。最终168源/101主题/4draft、166HTML，零错误警告；20路径双视口56基础＋66额外实点，打印129节点/97来源表/607物理页，root五网页与七物理PDF页实际抽样目视。384产物同步public逐路径、大小、SHA一致。111候选目前97接收、4草稿、10未建正文；全28领域与五读者情境最终走查仍未通过。
 
 | 任务 | 所有者 | 状态 | 依赖与完成标准 |
 |---|---|---|---|
@@ -21,7 +21,7 @@
 | B06B 退休、照护、劳动申索、法律体系 | care_writer老年；review_state_audit法律；root申索；coverage_audit事实轮换 | integrated | 四篇完整两审及同版SHA、21路径双视口58基础+56额外、打印/九个目视样本及356输出一致；checks/b06b-acceptance |
 | B06C 求职援助、生活困难与法律帮助 | root两生活支持；review_state_audit法律；coverage_audit事实；B/root轮换第三编辑 | integrated | 最终bodyfa94423a…/8203ba48…/048320bb…各完整两审；23路径62基础+70额外实际检查、打印545页/八PDF与三网页目视、366输出一致；checks/b06c-acceptance |
 | B06D 预先安排、死亡善后、权利通知与持续经营 | C规划/死亡作者；B通知作者/经营事实；A规划/死亡事实；root规划/死亡第三、通知事实及经营作者；C通知/经营第三 | integrated | 四最终bodyb398597d…/92e8f359…/06c218a0…/c2c02b06…完整两审及工程；64+82实际检查、五网页/十一PDF目视、378输出一致，详checks/b06d-acceptance |
-| B06E 求职、风险退出与合同后续 | A job-search/offer作者；B risk-exit作者及job事实；C before-signing/performance作者及job第三；root risk事实/A第三 | writing / reviewing | job正式125行4f5159d4冻结47源，B facts/C第三；risk正式157行31933 B/body166867fb…45实质采用＋两入口/两PDF五真图→root全文回源/A真正第三；before-signing正式132行25179 B/body463cac39…34采用/三PDF19必要文字页六真图，待异人事实/第三。offer正式派A，performance正式派C，受审角色轮换先保存真实断点；workplace/disputes/安全户外随后，具体源缺口不删题 |
+| B06E 求职、风险退出与合同后续 | root接收工程；A/B/C按CHECKPOINT角色 | integrated 2 / reviewing 3 / researching | 求职f20dd633…/风险89f08e95…已两审及B06E真实工程接收；签前C二冻b1b6ccb4…B正式全文事实PASS/A第三在途，录用A首冻a9d72e48…由B全文事实/C第三；履行C首冻d648b904…由root全文事实/A第三；workplace正式派A、安全tropical正式派C、disputes root实际研究，未自签或将draft计接收 |
 | HUM 全书说人话校对 | root；coverage_audit/review_state_audit交叉限定两审 | in progress（已公开源闭合） | 按 ops/HUMANIZE.md（提示词v2）初始94队列并追增实际源（二核140，已补登caregiver-support/property-tax）；礼节/小贩两份九处表达已限定事实及第三编辑通过，主控已应用并完成B04A生产、双视口及打印验收。删说教/免责/无信息量否定，事实层零变动；在途draft待集成后补；独立版本与accepted SHA绑定，闭环后主控工程验收 |
 
 ## 日期触发与来源缺口

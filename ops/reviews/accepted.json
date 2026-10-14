@@ -1832,5 +1832,31 @@
     "review_source_file_sha256": "9bad75854f789f1b5cc1743fde02d35831c4cbe9918eace916a3930e450c8301",
     "engineering": "B06D: production gate, 24 paths desktop/mobile (64 checks),82 extra actual topic/menu/search/navigation checks, print126 nodes/95 source lists/587 physical pages, five web and eleven physical PDF page visual samples passed; final metadata gate output identical to actual QA build and378 public products match paths/bytes/SHA, recorded in ops/checks/b06d-acceptance.json.",
     "engineering_date": "2026-10-14"
+  },
+  "content/book/work/career/job-search.md": {
+    "author": "coverage_audit",
+    "facts": "review_state_audit",
+    "editor": "care_writer",
+    "date": "2026-10-14",
+    "report": "ops/reviews/b06-job-search-facts.md",
+    "editorial_report": "ops/reviews/b06-job-search-editorial.md",
+    "body_sha256": "f20dd633721b97dd9599be81172cc093134e913b62a05d100e94839d7f5fdf2b",
+    "reviewed_file_sha256": "4e00e6c4299446c402ee1ad7171785d2cad7ce23bbb08c944014fb639ed262bf",
+    "review_source_file_sha256": "38a68d55d6da03817ed588ed7149b2d390b4c98cef4c51d89c6174e3938b803f",
+    "engineering": "B06E: production gate,20 paths desktop/mobile (56 checks),66 extra actual topic/menu/search/navigation checks, print129 nodes/97 source lists/607 physical pages, root five web and seven physical PDF page visual samples passed; final metadata gate output identical to actual QA build and384 public products match paths/bytes/SHA, recorded in ops/checks/b06e-acceptance.json.",
+    "engineering_date": "2026-10-14"
+  },
+  "content/book/work/business/risk-exit.md": {
+    "author": "review_state_audit",
+    "facts": "root",
+    "editor": "coverage_audit",
+    "date": "2026-10-14",
+    "report": "ops/reviews/b06-risk-exit-facts.md",
+    "editorial_report": "ops/reviews/b06-risk-exit-editorial.md",
+    "body_sha256": "89f08e95d4bc463de778c45f63ebbce7f83ea2130a1285cd346b441043e53da2",
+    "reviewed_file_sha256": "93f3a8fac71a9c4f013b71ac1f584a862cbfe318c1541c4bcfbabf080a49e168",
+    "review_source_file_sha256": "5ab68913c286b2a7f5a0f51a8801ca2a667aaeba08bac6137e7fd1adf20c6a2f",
+    "engineering": "B06E: production gate,20 paths desktop/mobile (56 checks),66 extra actual topic/menu/search/navigation checks, print129 nodes/97 source lists/607 physical pages, root five web and seven physical PDF page visual samples passed; final metadata gate output identical to actual QA build and384 public products match paths/bytes/SHA, recorded in ops/checks/b06e-acceptance.json.",
+    "engineering_date": "2026-10-14"
   }
 }

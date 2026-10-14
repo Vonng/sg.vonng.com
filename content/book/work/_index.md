@@ -15,6 +15,8 @@ icon: fa-solid fa-briefcase
 
 先看劳动收入怎样进入工资单和账户，再理解保障、缴费与税务。CPF 的主要解释集中在财务章节，住房、医疗和退休按用途引用。
 
+正在找工作或转职，先用[求职篇](/book/work/career/job-search/)核工作权限、招聘渠道、中介、履历及面试；已有机会后，从[开始工作事项](/docs/routes/start-work/)安排准证、条款和入职。
+
 工作中受伤或出现职业病，按[工伤与索偿](/book/work/employment/injury/)安排就医、报告、休养收入和赔偿，保存病假、账单及通知。
 
 准备自己经营时，先用[创业与注册](/book/work/business/starting-business/)核工作权限、企业形式、场所及开业手续。
@@ -22,3 +24,5 @@ icon: fa-solid fa-briefcase
 发现税单错误或缴款困难时，按[税务问题处理事项](/docs/routes/tax-problem/)整理资料、选择更正或分期入口，并跟进结果。
 
 已有企业或正在开业，可用[开业与持续经营事项](/docs/routes/start-business/)安排注册、账目、GST、年结与雇员责任。
+
+签商业约定、借款或准备停业时，读[经营风险与退出](/book/work/business/risk-exit/)，按企业形式衔接合同、个人资料、债务、税务、员工与本人准证。

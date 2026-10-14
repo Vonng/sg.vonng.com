@@ -1,5 +1,13 @@
 # 工程与验收
 
+## 2026-10-14 13:23 B06E本地实际验收
+
+更新：2026-10-14 13:23（Asia/Singapore）。B06E已完整接收求职与经营风险退出，累计97主题本地integrated/draft:false。正文SHA与两审最终稿相符，root只改工程元数据；新增求职章导读、16导航文件和六身份／低收入／残障选路及EA、SIP术语区分。最终168源/101主题/4draft、166HTML，零错误警告；20路径双视口56基础＋66额外实点，打印129节点/97来源表/607物理页，root五网页与七物理PDF页实际抽样目视。384产物同步public逐路径、大小、SHA一致。111候选目前97接收、4草稿、10未建正文；全28领域与五读者情境最终走查仍未通过。
+
+初/终生产384清单逐字节一致；根实际五网页、物理426/427/431/571/575/577/579七页是抽样。20路径1440×1000及390×844，56基础＋66额外真实检查、两新主题键盘非当前分支/叶子实点、JPJS/SIP 2.0搜索实点、23跨链和两事项菜单；无本地HTTP/脚本错误。打印129节点/5886外链/97来源表/607页，暗色白底255/表格黑17，无断锚/相对链接。主题元数据先verified实际QA，再仅integrated最终门禁、make sync路径大小SHA一致。引用9649外链跳过自动HTTP，不以此充当事实核验。
+
+命令：make check DESTINATION=.cache/production-review；SG_RENDER_DIR=.cache/render-b06e SG_PATHS_FILE=.cache/resume-2026-10-14/b06e-browser-paths.json SG_TABLE_PATH=/book/work/career/job-search/ node scripts/check_browser.mjs；node .cache/check-b06e-extra.mjs；SG_RENDER_DIR=.cache/render-b06e node scripts/check_print.mjs；最终同make check及make sync。完整版本/角色和384清单见checks/b06e-acceptance.json，缓存原件/PDF/截图忽略。四draft不漏空contracts章；career仅在job接收时创建。预览PID恢复实查，外部未发布。
+
 ## 2026-10-14 12:13 B06D本地实际验收
 
 更新：2026-10-14 12:13（Asia/Singapore）。B06D已完整接收预先安排、死亡善后、权利通知和持续经营，累计95主题本地integrated/draft:false。四篇同版独立全文事实、真正第三编辑、root实际工程均闭合；新增善后与开业经营两事项、18导航文件与六身份/术语衔接。最终165源/99主题/4draft、163HTML、零错误警告；24路径双视口64基础+82额外实点，打印126节点/95来源表/587页，root五网页与十一物理PDF页真实抽样目视，378产物同步public逐路径/大小/SHA一致。111候选目前95接收、4草稿及12未建正文；全28领域与五读者情境最终走查仍未通过。 四个工程前后body完全未变，审核原full与元数据full另记。初/终产物字节相同；后加合同draft只改变源快照，public没有漏draft。工具句柄均已完成，1328服务恢复重查；实际检查和完整inventory见checks/b06d-acceptance.json。
