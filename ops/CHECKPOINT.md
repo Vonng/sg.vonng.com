@@ -1,5 +1,9 @@
 # 当前检查点
 
+## 2026-10-14 18:39 工作区分批清理提交完成，进入发布准备
+
+按用户指示把H后残余工作区按逻辑分三批本地提交，每批均核staged清单／UTF-8类型／diff --check：cc764b3外部首页品牌（landing partials、landing/home与footer数据、样式重写、favicon套件、hero图、logo.svg移除——17:19门禁及H门禁均随全树构建验证）；51c4f2c六在途草稿（admission、disputes、HDB、EC、privacy-data、travel-support，均written/draft:true不入公开构建）及hdb/ec/privacy-data/travel-support证据地图；6fe576b四作者HANDOFF、disputes证据53行／map22行与本18:35检查点。末批把用户ops/PROMPT-ORIGIN.md加入.gitignore保持本地不入库。未运行新门禁：本机提交不改正文内容，H的411产物仍与当前integrated树一致。清理后git status清空；并行作者会话（A入学、B争议facts、C support冻结、root HDB/EC）继续在途，其新产出按各自批次提交。未外部推送部署。
+
 ## 2026-10-14 18:35 H已保存；合同争议完整作者首冻，三审稿链继续
 
 HEAD当前51c4f2ccbcd994d4d70bdc39d35c6a23ddf6c9e3；root H提交为3a6eafb8ddb0eb8c1becc35cfbf9bdc495904f08，40文本641481B已全部staged路径／blob大小SHA／diffcheck后保存。其后外部cc764b3保存首页品牌，51c4f2c保存14个workingdraft及支持，未将它们登记审核或集成；现index为空。H19个UI输入逐SHA实核均不变，root disputes／B privacy／C support各正文仍与各自首冻／工作版同SHA。105／411仍是实际工程基线。root disputes已正式123行17813B首冻：bodya665f2190236041ceb21457fe8d6e9a28149769ed8e93e986c543faa59d4978f／full4617eccc7a17aee0b2d01dffedc6f540155c8b3f17a73139566900206fd720de，53证据d27cb106…／22map e410af38…真读齐，19采用网页31引／2辅助PDF17必要文字八真图，15＋2HUM全文两diff两逆替闭；B已明确完整异人facts，源码写审不代工程。实际111主题＝105接收＋6draft，111候选无未建正文；H门禁110／5是旧时点，不能把新disputes计入H已检。
