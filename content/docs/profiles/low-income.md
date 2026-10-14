@@ -20,3 +20,5 @@ weight: 80
 需要法律指导或付不起代理费用，按[法律援助与委托](/book/rights/legal/getting-help/)区分LAB、PDO、CLAS和公益服务。没有Singpass、设备，或有语言、行动需要时，将需要连同材料告诉受理机构，按各正文的线下和电话入口请求协助。
 
 寻找岗位和职业辅导，接[求职篇](/book/work/career/job-search/)核招聘入口、到访协助和中介收费，准备可核验的履历；生活援助的申请仍按本人及同户条件办理。
+
+收到聘书时，用[录用与入职](/book/work/career/offer/)把固定报酬、本人扣项与酌情奖励分开；接受分期、预付或保证之前，用[签约前检查](/book/rights/contracts/before-signing/)计算完整责任。已有付款困难，接[合同履行](/book/rights/contracts/performance/)提出可实行的安排并保存答复，债务援助另按上面的对应路径。

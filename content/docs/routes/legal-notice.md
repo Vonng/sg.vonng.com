@@ -22,3 +22,5 @@ weight: 65
 已经协商、投诉或寻求帮助，也要另外安排适用程序的回应和出席。眼前有人身危险，先按[紧急求助](/book/rights/safety/emergencies/)处理医疗或安全，再接续文件与争议。
 
 送达记录、民事OC应诉期限、Litigant Portal与服务处递交，接[通知、期限与权利](/book/rights/legal/rights-notices/)按具体程序办理；个人资料或公共表达问题也在该篇按对象选路。
+
+合同付款、交付或终止有争议时，用[合同履行](/book/rights/contracts/performance/)把版本、已付与未付、未完成项目、通知及请求金额列清；签字身份、保证或附件不明确，回[签约前检查](/book/rights/contracts/before-signing/)整理原始约定，再携材料核适用救济。

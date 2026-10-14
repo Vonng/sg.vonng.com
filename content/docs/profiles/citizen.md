@@ -28,3 +28,5 @@ weight: 10
 准备LPA、ACP、AMD、遗嘱和提名，读[预先安排](/book/people/ageing/planning-ahead/)；亲人去世后使用[善后事项](/docs/routes/when-someone-dies/)。自己开业或已有企业，用[开业与经营事项](/docs/routes/start-business/)安排注册和持续申报。
 
 找工作或转职，读[求职篇](/book/work/career/job-search/)选择招聘与辅导渠道、核中介及职业资格；已有企业遇到合同、债务或停业问题，接[经营风险与退出](/book/work/business/risk-exit/)。
+
+收到聘书，用[录用与入职](/book/work/career/offer/)核工资、CPF、附件和报到；租房、预付服务或替家人担保之前，用[签约前检查](/book/rights/contracts/before-signing/)确认自己承担的责任，之后按[合同履行](/book/rights/contracts/performance/)留付款和结算记录。

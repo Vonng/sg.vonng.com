@@ -38,3 +38,5 @@ weight: 30
 已获相应经营权限并开业后，按[持续经营](/book/work/business/running-business/)处理账目、税务和雇主责任。亲友或同事去世时，使用[善后事项](/docs/routes/when-someone-dies/)的外籍、工作事故、家政人员及家属准证分支。
 
 找工作或换雇主，读[求职篇](/book/work/career/job-search/)的逐类准证分支，核实际岗位、中介费用、申请者和开工条件；已获权限经营后遇到债务或停业，接[经营风险篇](/book/work/business/risk-exit/)处理企业与本人准证的后续。
+
+已有录用机会，按[录用与入职](/book/work/career/offer/)核固定工资、扣项、旧职和家属衔接，完成本人准证路线再安排报到。租约、服务或个人保证用[签约前检查](/book/rights/contracts/before-signing/)核责任，工作或居留变化后按[合同履行](/book/rights/contracts/performance/)处理实际通知与结算。

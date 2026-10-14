@@ -2,6 +2,8 @@
 
 ## 2026-10-14 当前接收范围
 
+B06F新增签前132/履行152/录用125行，作者HUM、完整事实与真正第三已同版闭合及实际工程接收，累计100。root20导航完整新章/改段/全diff已实际读；六网页八PDF为明确样本，不称整书目视。workplace/tropical/controlled完整作者稿已按判据自审但尚待各第三与工程；外来privacy/parks/border/support及admission仍需完整接续处理，全书HUM和五情境未整体完成。
+
 B06E新增求职125行与风险157行，全文事实及真正第三HUM/结构/引用已同body闭合并完成真实工程，累计97接收。root16导航文件所有实改完整段／整行及全diff、新career全稿实际读；EA与SIP语境区分，OneMSF仅同意书用途，未增加DSA未知解释。五网页／七PDF页为实际抽样；新签前／录用／履行及未完入学仍draft，全书HUM与最终28领域/五情境未记完成。
 
 B06D四篇（预先安排171行、死亡185行、通知119行、经营151行）已由真正第三人完整RAW/HUM/结构/源静态审、同body事实与root实际工程闭合，累计95已接收正文。死亡证据四条旧摘要限定整理独立复读，正文不动；经营两处officers/SDL精确化由原事实再读全稿闭合。root两个新事项全文、其余16导航完整修改段和全部差分已实际读，唯一截断法律通知段另补完整。五网页/十一PDF物理页为实际样本，不当全书目视；job/risk/before/offer及admission继续按实际版本补审，全书HUM未记完成。
@@ -287,6 +289,17 @@ B04I 追增后新增、此前未入队的源，均为在途 draft：
 - [x] `content/book/work/career/job-search.md` — C真正第三全文125行、B完整事实与B06E工程，bodyf20dd633…。
 - [x] `content/book/work/business/risk-exit.md` — A真正第三全文157行、root完整事实及最后限定释义重绑与B06E工程，body89f08e95…。
 - [x] `content/book/work/career/_index.md` — root完整新导航与实际双视口/首页实点。
-- ○ `content/book/rights/contracts/before-signing.md` — C二冻132行自审，B正式完整facts已PASS/A第三在途。
-- ○ `content/book/work/career/offer.md` — A首冻125行完整作者自审，B完整事实/C第三待闭。
-- ○ `content/book/rights/contracts/performance.md` — C首冻152行完整作者自审，root完整事实/A第三待闭。
+- [x] `content/book/rights/contracts/before-signing.md` — C最终132行、B完整facts/A真正第三与B06F工程，bodyfbd61158…。
+- [x] `content/book/work/career/offer.md` — A最终125行、B完整facts/C真正第三与B06F工程，body5a2101d1…。
+- [x] `content/book/rights/contracts/performance.md` — C最终152行、root完整facts及释义限定回源/A真正第三与B06F工程，body02385c9b…。
+
+### B06F与接续草稿追登（2026-10-14）
+
+- [x] `content/book/rights/contracts/_index.md` — root真实17行导读/选路完整读与B06F实际工程。
+- ○ `content/book/work/career/workplace.md` — A最终131行全文HUM17处及一FWA事实限定；B完整facts/C真正第三已PASS，root工程待做。
+- ○ `content/book/rights/safety/tropical-hazards.md` — C142行全文HUM12整段实际读，root全facts/A第三待闭。
+- ○ `content/book/rights/safety/controlled-items.md` — B142行全文HUM，C完整facts及两范围限定已PASS/A第三在途。
+- ○ `content/book/rights/outdoors/parks-water.md` — 外来45初稿，C唯一接续全文/HUM，未审。
+- ○ `content/book/rights/outdoors/travel-borders.md` — 外来50初稿，B唯一接续全文/HUM，未审。
+- ○ `content/book/rights/outdoors/travel-support.md` — 外来51初稿，root保管冻结待作者，未HUM/独审。
+- ○ `content/book/life/digital/privacy-data.md` — 外来39初稿，root唯一接续现法/完整任务及HUM，未审。

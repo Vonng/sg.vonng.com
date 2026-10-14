@@ -14,8 +14,10 @@ weight: 15
 先列出实际同住者、预计租期和可承受的全部住房费用，再按下面顺序准备。
 
 1. 看[身份与资格](/book/life/documents/status-and-eligibility/)，确认每人的居留和工作准证。
-2. 按[租房流程](/book/life/housing/renting/)判断可租的房屋类型，核对业主、代理及出租批准，再用[租约、押金与退租](/book/life/housing/tenancy/)检查维修、付款、续租和提前终止条款。
+2. 按[租房流程](/book/life/housing/renting/)判断可租的房屋类型，核对业主、代理及出租批准，再用[签约前检查](/book/rights/contracts/before-signing/)确认收款、总价、附件和共同责任；具体租期、维修、续租和提前终止继续[租约、押金与退租](/book/life/housing/tenancy/)。
 3. 按[生活圈比较](/book/foundations/geography/island-neighbourhoods/)核对门到门通勤，再用[公共交通](/book/life/transport/public-transport/)安排每日路线。
 4. 保存签妥租约、盖印证书、登记和交接记录，再按[家中设备与维修](/book/life/household/home-maintenance/)处理账户和日常维护；号码、宽带与搬迁安排见[通信合约](/book/life/digital/telecom/)。入住后的即时危险，转到[紧急求助](/book/rights/safety/emergencies/)。
 
 涉及孩子或家属的家庭，将他们的身份和生活安排一起核对；计划换工作者，同时读[离职安排](/book/work/employment/leaving-job/)。
+
+已经签妥后，用[合同履行](/book/rights/contracts/performance/)保存付款、维修同意、通知及交房结算记录，住房资格与出租安排仍沿租房主文办理。

@@ -15,7 +15,7 @@ icon: fa-solid fa-briefcase
 
 先看劳动收入怎样进入工资单和账户，再理解保障、缴费与税务。CPF 的主要解释集中在财务章节，住房、医疗和退休按用途引用。
 
-正在找工作或转职，先用[求职篇](/book/work/career/job-search/)核工作权限、招聘渠道、中介、履历及面试；已有机会后，从[开始工作事项](/docs/routes/start-work/)安排准证、条款和入职。
+正在找工作或转职，先用[求职篇](/book/work/career/job-search/)核工作权限、招聘渠道、中介、履历及面试；已有机会后，读[录用与入职](/book/work/career/offer/)核工资、附件、权限及报到，再从[开始工作事项](/docs/routes/start-work/)安排收薪、医疗和通勤。
 
 工作中受伤或出现职业病，按[工伤与索偿](/book/work/employment/injury/)安排就医、报告、休养收入和赔偿，保存病假、账单及通知。
 

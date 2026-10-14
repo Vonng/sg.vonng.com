@@ -23,6 +23,14 @@ def route(p,meta):
     if name not in ('_index','index'): parts.append(str(meta.get('slug',name)))
     return '/'+'/'.join(parts)+('/' if parts else '')
 
+def foreign_residue(text):
+    # Allow only the deliberate sibling-guide link in the site footer. Content,
+    # region routes and the old site's analytics ID remain subject to the gate.
+    footer = r'<footer\b[^>]*\bdata-td-shell-footer(?=[\s=>])[^>]*>.*?</footer>'
+    sibling = r'<a href=(?:"https://ca\.vonng\.com/"|https://ca\.vonng\.com/) target=(?:"_blank"|_blank) rel="noopener noreferrer">加拿大生活指南</a>'
+    checked = re.sub(footer, lambda m: re.sub(sibling, '', m[0]), text, flags=re.S)
+    return bool(re.search(r'ca\.vonng\.com|加拿大生活|/docs/regions/|G-KTPE9LDZ2W', checked))
+
 args=argparse.ArgumentParser(); args.add_argument('--public-dir',default='public'); args.add_argument('--include-drafts',action='store_true'); a=args.parse_args()
 out=Path(a.public_dir); errors=[]; pages=[]; ids=[]; titles=[]
 approvals=json.loads(Path('ops/reviews/accepted.json').read_text()) if Path('ops/reviews/accepted.json').exists() else {}
@@ -68,7 +76,7 @@ for field,vals in [('page_id',ids),('title',titles)]:
 docs={p:Document(p.read_text()) for p in out.rglob('*.html')}; external=0; local=0
 for p,doc in docs.items():
     text=p.read_text()
-    if re.search(r'ca\.vonng\.com|加拿大生活|/docs/regions/|G-KTPE9LDZ2W',text): errors.append(f'{p}: Canada residue')
+    if foreign_residue(text): errors.append(f'{p}: Canada residue')
     if re.search(r'\*\*[^*\n]{1,100}\*\*',re.sub(r'<(?:script|code|pre)\b.*?</(?:script|code|pre)>','',text,flags=re.S)): errors.append(f'{p}: unrendered bold')
     for ref in doc.refs:
         u=urlsplit(ref)

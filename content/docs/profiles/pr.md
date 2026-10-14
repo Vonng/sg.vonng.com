@@ -30,3 +30,5 @@ weight: 20
 准备失能与身后安排时，按[预先安排](/book/people/ageing/planning-ahead/)分别核LPA费用、账户提名、宗教与跨境资产；家人去世后，用[善后事项](/docs/routes/when-someone-dies/)衔接本地／境外证明、遗产与住房。已有企业另用[经营事项](/docs/routes/start-business/)。
 
 找工作或转职，读[求职篇](/book/work/career/job-search/)核招聘、职业辅导、中介与资格证明；经营中的合同、债务或退出问题，接[经营风险篇](/book/work/business/risk-exit/)，长期离境另保留REP和税务安排。
+
+收到聘书，读[录用与入职](/book/work/career/offer/)核职业要求、CPF和报到；签住房、服务或保证文件前，用[合同检查](/book/rights/contracts/before-signing/)明确角色与附件。搬家或长期离境影响合同安排时，按[履行与结束](/book/rights/contracts/performance/)协调通知、交还物品和最后付款。

@@ -22,3 +22,5 @@ weight: 70
 需要持续居家、日间或护理院服务时，接[长期照护](/book/people/ageing/long-term-care/)核接纳、功能评估、保险与援助；准备减少或结束工作时，用[退休事项](/docs/routes/retirement/)重排收入与日常支持。
 
 寻找工作、复工或安排面试调整，接[求职篇](/book/work/career/job-search/)的残障就业分支，核JPJS、验证与转介材料，并说明沟通、到访或工作安排需要。
+
+收到聘书后，用[录用与入职](/book/work/career/offer/)确认职责、报到和已约定的沟通或环境调整。需要协助阅读、翻译或代家人签文件时，接[签约前检查](/book/rights/contracts/before-signing/)核版本和授权；照护变化影响原服务或付款，按[合同履行](/book/rights/contracts/performance/)保存变更、通知与结算安排。

@@ -27,4 +27,4 @@ weight: 25
 
 需要正式提出工资或不当解雇申索，接[劳动申索](/book/work/employment/employment-claims/)核TADM期限、提交付款、调解与ECT后续；涉及退休、再就业或EAP，改按[退休事项](/docs/routes/retirement/)选择专门路径。
 
-准备下一份工作，用[求职篇](/book/work/career/job-search/)整理可核验履历、选择招聘与辅导渠道，并按自己的准证类别核换雇主和新开工条件。
+准备下一份工作，用[求职篇](/book/work/career/job-search/)整理可核验履历、选择招聘与辅导渠道；已有机会，再按[录用与入职](/book/work/career/offer/)比较条件、安排原职、家属、新准证与报到。租约或其他服务因工作变化需结束时，接[合同履行与结算](/book/rights/contracts/performance/)核实际条款及通知。

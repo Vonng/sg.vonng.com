@@ -1858,5 +1858,44 @@
     "review_source_file_sha256": "5ab68913c286b2a7f5a0f51a8801ca2a667aaeba08bac6137e7fd1adf20c6a2f",
     "engineering": "B06E: production gate,20 paths desktop/mobile (56 checks),66 extra actual topic/menu/search/navigation checks, print129 nodes/97 source lists/607 physical pages, root five web and seven physical PDF page visual samples passed; final metadata gate output identical to actual QA build and384 public products match paths/bytes/SHA, recorded in ops/checks/b06e-acceptance.json.",
     "engineering_date": "2026-10-14"
+  },
+  "content/book/rights/contracts/before-signing.md": {
+    "author": "care_writer",
+    "facts": "review_state_audit",
+    "editor": "coverage_audit",
+    "date": "2026-10-14",
+    "report": "ops/reviews/b06-contracts-before-signing-facts.md",
+    "editorial_report": "ops/reviews/b06-contracts-before-signing-editorial.md",
+    "body_sha256": "fbd611580462fca0c74330b6480eb5d2f4db8b002105c3e3af3e229d03502788",
+    "reviewed_file_sha256": "02ae6cd45ba0d87aca71e33ad5d36cc73aca4da077be45d427d4db8cdbec4370",
+    "review_source_file_sha256": "d94ba2b32f549f438fe509d8713c4ad55cad21a1cc064bc7e0f57df84889c398",
+    "engineering": "B06F: initial and final production gates passed;25 paths at1440/390 (66 checks),128 extra actual topic/menu/search/navigation checks; print133 book nodes/100 source lists/632 physical pages. Root six web screenshots and eight physical PDF pages viewed. All396 final products byte-identical to the QA build and public paths/bytes/SHA match. See ops/checks/b06f-acceptance.json.",
+    "engineering_date": "2026-10-14"
+  },
+  "content/book/rights/contracts/performance.md": {
+    "author": "care_writer",
+    "facts": "root",
+    "editor": "coverage_audit",
+    "date": "2026-10-14",
+    "report": "ops/reviews/b06-contracts-performance-facts.md",
+    "editorial_report": "ops/reviews/b06-contracts-performance-editorial.md",
+    "body_sha256": "02385c9bc8bfdd1be4cc65d2b3abd381a58393aa3db7edaf498b06587ca682df",
+    "reviewed_file_sha256": "c7243e80d7c3b4cc5216322f3f2b0d884b68ed78f38df372b524af0efa4dcbed",
+    "review_source_file_sha256": "ff4d5dd0b86d9beb3144e091a158060f56633e91e7ce881798bd2c3c67d98afe",
+    "engineering": "B06F: initial and final production gates passed;25 paths at1440/390 (66 checks),128 extra actual topic/menu/search/navigation checks; print133 book nodes/100 source lists/632 physical pages. Root six web screenshots and eight physical PDF pages viewed. All396 final products byte-identical to the QA build and public paths/bytes/SHA match. See ops/checks/b06f-acceptance.json.",
+    "engineering_date": "2026-10-14"
+  },
+  "content/book/work/career/offer.md": {
+    "author": "coverage_audit",
+    "facts": "review_state_audit",
+    "editor": "care_writer",
+    "date": "2026-10-14",
+    "report": "ops/reviews/b06-offer-facts.md",
+    "editorial_report": "ops/reviews/b06-offer-editorial.md",
+    "body_sha256": "5a2101d1a8df6d99a01517f9ef0ecaf81a43d9803e385a37fd16e4c5c590b21d",
+    "reviewed_file_sha256": "91adfadfcb1b570092f43ea5e8ba95a0b160cad5a718217e69f1192607b0616e",
+    "review_source_file_sha256": "51b597e71cd8a30de910d60d6fbea3208fcd6e0dc735083f134b204b4c3365f9",
+    "engineering": "B06F: initial and final production gates passed;25 paths at1440/390 (66 checks),128 extra actual topic/menu/search/navigation checks; print133 book nodes/100 source lists/632 physical pages. Root six web screenshots and eight physical PDF pages viewed. All396 final products byte-identical to the QA build and public paths/bytes/SHA match. See ops/checks/b06f-acceptance.json.",
+    "engineering_date": "2026-10-14"
   }
 }

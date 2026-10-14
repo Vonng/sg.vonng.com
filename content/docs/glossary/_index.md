@@ -83,7 +83,7 @@ weight: 30
 | PPO / DEO / SAO / NCO / PHC / NAVH | 家庭保护命令、住所／地点／联络限制、骚扰保护法院与反暴力求助热线；PHC此处是法院语境 | [家庭安全与保护](/book/people/family/separation-safety/) |
 | custody / care and control / access / CPP / MCP | 孩子重大决定、日常照顾、探视、共同育儿及婚姻辅导 | [分居、离婚与孩子安排](/book/people/family/separation-safety/) |
 | EIR / CBS / MLCB / DCP / DMP / MDMP / DRS | 有效利率、信用资料机构、债务整合、银行及持牌放贷债务管理和法院转介偿债计划 | [信用与债务](/book/work/finance/debt-disputes/) |
-| EA（雇佣法） / KET / PWM / LQS | Employment Act、主要雇佣条款、渐进式薪金及本地员工薪金要求；适用条件各自判断 | [劳动权益](/book/work/employment/employment-rights/) |
+| EA（雇佣法） / KET / PWM / LQS | Employment Act、关键雇佣条款、渐进式薪金及本地员工薪金要求；适用条件各自判断 | [劳动权益](/book/work/employment/employment-rights/)、[录用条款](/book/work/career/offer/) |
 | GPPL / SPL / FWA | 政府付薪陪产假、共享育儿假及弹性工作安排 | [假期与工作安排](/book/work/employment/employment-rights/) |
 | COR / FTC / CRS / FATCA | 税务居民证明、外国税抵免及金融账户税务信息制度 | [跨境税务](/book/work/tax/cross-border/) |
 | CREST / COMIT / CHAT / IMH / NAMS | 社区外展、社区介入、青年评估、心理卫生学院及成瘾治疗服务 | [心理支持与治疗](/book/people/accessibility/mental-health/) |
@@ -128,6 +128,10 @@ weight: 30
 | MyCareersFuture / MCF / SWDA / e2i | 招聘平台、Skills and Workforce Development Agency及职业辅导机构；服务与资助按各自条件 | [招聘与辅导](/book/work/career/job-search/) |
 | EA（就业中介） / EA Directory | Employment Agency / MOM的中介牌照与人员查询入口 | [中介核验及收费](/book/work/career/job-search/) |
 | One Referral Form / OneMSF consent | 残障服务转介表 / 随附的个人资料同意书；核验证明与代签材料按具体要求准备 | [JPJS申请材料](/book/work/career/job-search/) |
+| offer / AWS / discretionary | 录用通知 / 年度工资补贴 / 酌情；固定报酬和附条件奖励分别看合同 | [工资与录用](/book/work/career/offer/) |
+| CPFTA / SES / joint and several | 消费者公平交易保护法 / 安全电子签名 / 连带责任；文件类型、主体和条款分别核 | [签约前检查](/book/rights/contracts/before-signing/) |
+| credit note / security deposit / liquidated damages / penalty | 发票调整凭据 / 履约保证金 / 约定违约赔偿 / 罚则；税务、扣款和民事效力按具体安排处理 | [履行与结算](/book/rights/contracts/performance/) |
+| force majeure / frustration / Certificate of Posting | 不可抗力条款 / 合同因后来事件发生根本变化的制度 / 寄送证明；按合同及适用制度核作用 | [通知、暂停与结束](/book/rights/contracts/performance/) |
 | DPO | Data Protection Officer，机构的资料保护负责人 | [经营中的资料保护](/book/work/business/risk-exit/) |
 | SIP 2.0 / SDRP / SWUP | 简化破产程序及简化债务重组、清盘分支；企业资格和清偿能力分别核 | [债务与停业选路](/book/work/business/risk-exit/) |
 | strike off / winding up | 除名 / 清盘；按企业形式、债务与程序选择 | [关闭业务与记录保存](/book/work/business/risk-exit/) |

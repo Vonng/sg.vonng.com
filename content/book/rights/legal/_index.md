@@ -19,3 +19,5 @@ book_kind: chapter
 需要法律指导、文件协助或正式代理，按[法律援助与委托律师](/book/rights/legal/getting-help/)核个人身份、经济条件、案件范围、材料及费用；已经有通知或出庭日期时，一并交接案机构说明紧急程度。
 
 通知的送达、起算、正式递交和保存证据，详见[通知、期限与权利](/book/rights/legal/rights-notices/)；个人资料、公共表达及演讲角按该篇的具体对象与角色选择办理。
+
+合同问题先整理[签约前确认的主体、附件与责任](/book/rights/contracts/before-signing/)，再用[履行与结算](/book/rights/contracts/performance/)分列付款、交付、通知及具体请求，带完整材料进入适用的法律帮助。

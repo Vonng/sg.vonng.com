@@ -30,3 +30,5 @@ weight: 40
 家人去世或本人需要哀伤支持时，从[死亡善后事项](/docs/routes/when-someone-dies/)核证明、家属安排、学校联系和适合年龄的帮助；有继承或监护文件问题时，一并说明自己的年龄与身份。
 
 找兼职、实习或毕业后的工作，接[求职篇](/book/work/career/job-search/)核学校、学期、假期与工作权限，准备履历和中介查验。公民、PR学生另按年龄及NS安排选路。
+
+已有兼职、实习或毕业岗位，用[录用与入职](/book/work/career/offer/)核工作关系、报酬和合法开工。课程、住宿、分期或保证文件，用[签约前检查](/book/rights/contracts/before-signing/)确认当事人、家长与担保角色；转学或离境影响付款和服务时，接[合同履行](/book/rights/contracts/performance/)安排变更及结束。

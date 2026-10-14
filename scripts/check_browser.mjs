@@ -38,7 +38,8 @@ for (const [label,width,height] of [['desktop',1440,1000],['mobile',390,844]]) {
   await page.locator('[data-td-landing-menu-toggle]').click();const menu=page.locator('#td-landing-mobile-menu');await menu.waitFor({state:'visible'});
   assert(await menu.locator('a[href="/book/life/"]').isVisible());report.checks.push({label,homeMenu:true});await page.locator('[data-td-landing-menu-toggle]').click();
  }
- const card=page.locator('.sg-card').first();const target=await card.getAttribute('href');await card.focus();await page.keyboard.press('Enter');await page.waitForURL(base+target);report.checks.push({label,keyboardCard:target});
+  const homeCardSelector=await page.locator('.guide-route').count() ? '.guide-route' : '.sg-card';
+  const card=page.locator(homeCardSelector).first();const target=await card.getAttribute('href');await card.focus();await page.keyboard.press('Enter');await page.waitForURL(base+target);report.checks.push({label,keyboardCard:target,selector:homeCardSelector});
  await page.goto(base+'/book/life/documents/status-and-eligibility/');
  if(label==='mobile') await page.locator('[data-td-shell-drawer-open]:visible').first().click();
  // Expand a non-current transport branch, then verify the actual leaf is visible.
@@ -64,9 +65,10 @@ for (const [label,width,height] of [['desktop',1440,1000],['mobile',390,844]]) {
  assert.equal(await page.locator('html').getAttribute('data-bs-theme'),'dark');
  // OINK animates ink for 150 ms. Read the target token and wait for the
  // painted card to reach it before checking the colour or taking a screenshot.
- const targetInk=await page.evaluate(()=>{const probe=document.createElement('span');probe.style.cssText='color:var(--bs-body-color);transition:none';document.body.appendChild(probe);const ink=getComputedStyle(probe).color;probe.remove();return ink;});
- await page.waitForFunction(ink=>getComputedStyle(document.querySelector('.sg-card')).color===ink,targetInk);
- const cardColor=await page.locator('.sg-card').first().evaluate(e=>getComputedStyle(e).color);assert.notEqual(cardColor,'rgb(40, 39, 35)','dark card text uses light theme ink');
+  const darkInkSelector=homeCardSelector==='.guide-route' ? '.guide-route__name' : '.sg-card';
+  const targetInk=await page.evaluate(isGuide=>{const probe=document.createElement('span');probe.style.cssText=`color:var(${isGuide?'--bs-emphasis-color':'--bs-body-color'});transition:none`;document.body.appendChild(probe);const ink=getComputedStyle(probe).color;probe.remove();return ink;},homeCardSelector==='.guide-route');
+  await page.waitForFunction(({selector,ink})=>getComputedStyle(document.querySelector(selector)).color===ink,{selector:darkInkSelector,ink:targetInk});
+  const cardColor=await page.locator(darkInkSelector).first().evaluate(e=>getComputedStyle(e).color);assert.notEqual(cardColor,'rgb(40, 39, 35)','dark card text uses light theme ink');
  const darkshot=`${dest}/${label}-dark.png`;await page.screenshot({path:darkshot});report.screenshots.push(darkshot);report.checks.push({label,darkMode:true});
  if(label==='desktop'){
   await page.goto(base+'/_print/book/');await page.emulateMedia({media:'print'});

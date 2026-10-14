@@ -20,3 +20,5 @@ weight: 60
 同行亲友在新加坡去世时，用[善后事项](/docs/routes/when-someone-dies/)核本地证明、外籍安置及遗体／骨灰跨境，联系适合自己的保险和使领馆。
 
 停留期间考虑工作机会，先读[求职篇](/book/work/career/job-search/)的访客分支，核招聘、试做和正式开工的权限；同时按实际停留期限安排行程。
+
+已有工作机会，读[录用与入职](/book/work/career/offer/)的访客权限与开工安排。预订服务、住宿或接受长期收费之前，用[签约前检查](/book/rights/contracts/before-signing/)核期限、总价和取消办法；离境前按[合同履行](/book/rights/contracts/performance/)留下交还、退款及后续联系记录。
