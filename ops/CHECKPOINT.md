@@ -1,5 +1,13 @@
 # 当前检查点
 
+## 2026-10-14 18:35 H已保存；合同争议完整作者首冻，三审稿链继续
+
+HEAD当前51c4f2ccbcd994d4d70bdc39d35c6a23ddf6c9e3；root H提交为3a6eafb8ddb0eb8c1becc35cfbf9bdc495904f08，40文本641481B已全部staged路径／blob大小SHA／diffcheck后保存。其后外部cc764b3保存首页品牌，51c4f2c保存14个workingdraft及支持，未将它们登记审核或集成；现index为空。H19个UI输入逐SHA实核均不变，root disputes／B privacy／C support各正文仍与各自首冻／工作版同SHA。105／411仍是实际工程基线。root disputes已正式123行17813B首冻：bodya665f2190236041ceb21457fe8d6e9a28149769ed8e93e986c543faa59d4978f／full4617eccc7a17aee0b2d01dffedc6f540155c8b3f17a73139566900206fd720de，53证据d27cb106…／22map e410af38…真读齐，19采用网页31引／2辅助PDF17必要文字八真图，15＋2HUM全文两diff两逆替闭；B已明确完整异人facts，源码写审不代工程。实际111主题＝105接收＋6draft，111候选无未建正文；H门禁110／5是旧时点，不能把新disputes计入H已检。
+
+B的privacy-data128行25645B正式首冻body5dfdb44d…／full14bf3aa6…、82证据be5fe6ea…／41map675562e8…，26真实URL／64引／四真PDF38必要文字15真图及五索引0实体0图分开；C自己support先冻结，再明确交其完整独立facts。六展开投诉具体字段／身份／附件／期限／无Singpass替代及携带施行细目未知不由研究简报签掉。C travel-support133行25672B完整正文b769c261…／1a335c80…已落并实际23HUM三diff，72证据／30map与26URL／47引、22必要PDF文字加一辅助／八真图，正在收正式manifest／HANDOFF，尚不代已正式冻或事实审。A admission166行约28.7KB已成完整工作稿，全首終／12整段自修实际读；全国FAQ117＋国际18原问答、SEAB／ICA／TPG仍不解DOB／CEQ／全国2027等核心，证据与冻结尚待。
+
+下一动作：root开始HDB／EC完整异人事实及新的官方核心详文，不从已有流程猜资格。B先SCT全部采用源／PDF必要页与真图正式facts；C正式support冻后交privacy fullfacts（未明确前不自转），support另配异人／真正第三；A入学完整支持／正式冻后可转异审，核心未核留具体解除条件但不算全书完成。learning新TPcanonical限定维护和全28种子／五走查／首页最后工程继续。没有新构建或sync、不覆盖H公开；ordinary本地持续已授权，未外部推送部署DNS联络私人登录代办。
+
 ## 2026-10-14 18:23 B06H已本地验收，继续核心正文
 
 现场更新：2026-10-14 18:23（Asia/Singapore）。B06H公园水域与跨境旅行已完整异人事实、真正第三和本地工程通过，累计105 integrated／411产物与public路径、大小、SHA一致；提交前HEAD为B06G d402661，恢复核实际Git。现场110主题＝105已接收＋5草稿；111候选余disputes一个未建正式正文。root已真读其123行自修终稿、15＋2完整改块与两全diff，独立逆替已闭，证据／地图／正式冻／异审尚待。A的HDB133／EC124已正式作者冻但核心资格未知，A现唯一接续admission；B唯一privacy-data作者正在现法与完整请求，C唯一travel-support作者。户外两稿已分别按body1b4b4267…／5322f08a…接收，不再交审或按旧planned抢稿。首页18原输入字节未变，新增未跟踪458364B图保留不stage；全28种子、五情境和住房／入学等核心条件仍未整体完成。
