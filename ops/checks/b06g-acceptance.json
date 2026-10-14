@@ -1,0 +1,2453 @@
+{
+  "batch": "B06G",
+  "at": "2026-10-14T17:15:44.645344+08:00",
+  "head_before": "60f0853f89d3951b94ca6230d52b2c356dc9811b",
+  "status": "integrated",
+  "accepted_topics": 103,
+  "topics": [
+    {
+      "path": "content/book/work/career/workplace.md",
+      "author": "coverage_audit",
+      "facts": "review_state_audit",
+      "editor": "care_writer",
+      "author_full_sha256": "a958d3d0a685019db0163c05e32ffb3a8b47d7ed66acad2adb37235d984d14a5",
+      "body_sha256": "e028dcf6f10acd6e73060f5befeb6ac565c91beb361e8acc52d10736d8922518",
+      "reports": [
+        {
+          "path": "ops/reviews/b06-workplace-facts.md",
+          "sha256": "22b5730a620b6b4a5ca0d332a6d48f45e291cba7e742c82e1a9dd5b775015932"
+        },
+        {
+          "path": "ops/reviews/b06-workplace-editorial.md",
+          "sha256": "ba78f7b97eee078af47a362f225cd5ecb9822fc41a3f103b87e876059e3d2a48"
+        }
+      ],
+      "support": [
+        {
+          "path": "ops/evidence/b06-workplace.md",
+          "sha256": "3eaa23a73832c968786a3ecd895bd1d3213b7c547f312ccb31c62adc8d98f1ac"
+        },
+        {
+          "path": "ops/maps/b06-workplace.md",
+          "sha256": "096b7852e97a326040f0235b403840e65c8689657d630fd851127a7eee150098"
+        }
+      ],
+      "root_actual_read": "complete final body/evidence/map/two formal reports, full author factual and editorial changes+diffs; root adopts independent facts/third without claiming repeat37/30 source or PDF audit",
+      "engineering_full_sha256": "1f3825d2c80a620a2c023e40d885e11b3b7b26f683bd32cd3fa3da5e00a1e61b",
+      "final_full_sha256": "31eacebde2b3bf8197b54a3c13dec3a1a1533e9c6fdf3de16a24d112d27d5058",
+      "map_engineering_sha256": "77eb54952136ffd2f12568a623c2d2738528194f4c9caec5fc877b1d97bb016a",
+      "map_engineering_note": "\n## B06G 主控接收与本地验收\n\nroot于2026-10-14T17:07:19.655937+08:00实际接收同版正文、完整证据／原地图与两份正式审稿；正文SHA `e028dcf6f10acd6e73060f5befeb6ac565c91beb361e8acc52d10736d8922518`，作者full与工程full分别登记。事实与第三审的实际原文／源码范围见正式报告，不以本次工程替代阅读。\n\n三主题及20导航共同通过25路径1440／390、66基础＋118增补实际检查；菜单折叠、键盘、搜索点击、45组跨链和两事项菜单已实测。打印136书内节点／103来源表／655物理页，root六网页及物理443／446／447／449／638／639／643／645／646／649十页实际目视；不称全655页视觉审。初终门禁零错误警告，403输出初终和public逐路径、大小、SHA完全一致，接收记录见 `ops/checks/b06g-acceptance.json`。\n\n本节仅主控增加工程接收记录；上方作者研究和冻结审阅地图保持原文，原地图SHA `096b7852e97a326040f0235b403840e65c8689657d630fd851127a7eee150098` 单独保留。正文现为integrated／draft:false，body零变化；本地接收不含外部部署。\n"
+    },
+    {
+      "path": "content/book/rights/safety/controlled-items.md",
+      "author": "review_state_audit",
+      "facts": "care_writer",
+      "editor": "coverage_audit",
+      "author_full_sha256": "4a4b721f01647d2d956381d2021753cc8194a01dc8130d39ac21cb8f25bc1278",
+      "body_sha256": "2f2bcba0c4eae7d728506c852b02eb6e21b7f6e946f941647b8b6fce8c4cb14b",
+      "reports": [
+        {
+          "path": "ops/reviews/b06-controlled-items-facts.md",
+          "sha256": "dfa11c42f0a6e825d560ccbbedcc3607ec3d9c6ba9d82fb62ba0feb78fd83745"
+        },
+        {
+          "path": "ops/reviews/b06-controlled-items-editorial.md",
+          "sha256": "99f329da7c3413d02163fc5fe278023c73cadce42f9c52e9c1bcc1cc9e50ac2b"
+        }
+      ],
+      "support": [
+        {
+          "path": "ops/evidence/b06-controlled-items.md",
+          "sha256": "c6bf943af82940bacb1e4b1916ca17b5d0f8f612f8ff06c5ac21ff9906c0325e"
+        },
+        {
+          "path": "ops/maps/b06-controlled-items.md",
+          "sha256": "1f24e235364fae924ab6f2f8cd42f68720e7d017b93320a18baa46f13b952855"
+        }
+      ],
+      "root_actual_read": "complete final body/evidence/map/two formal reports, full author factual and editorial changes+diffs; root adopts independent facts/third without claiming repeat37/30 source or PDF audit",
+      "engineering_full_sha256": "2539a4c674b7a78d2edfdb1fee5b1d2f4e02955ecad13e3d3a381789708b7c11",
+      "final_full_sha256": "9520b9deeaeeca59da8a19da6e1267d0da4cb7e0d57639aef5b84e8031fa94a7",
+      "map_engineering_sha256": "83550ffa4e0ad738673176922553947a45c8b8c4348310c0dbf66901ed0c1ba9",
+      "map_engineering_note": "\n## B06G 主控接收与本地验收\n\nroot于2026-10-14T17:07:19.655937+08:00实际接收同版正文、完整证据／原地图与两份正式审稿；正文SHA `2f2bcba0c4eae7d728506c852b02eb6e21b7f6e946f941647b8b6fce8c4cb14b`，作者full与工程full分别登记。事实与第三审的实际原文／源码范围见正式报告，不以本次工程替代阅读。\n\n三主题及20导航共同通过25路径1440／390、66基础＋118增补实际检查；菜单折叠、键盘、搜索点击、45组跨链和两事项菜单已实测。打印136书内节点／103来源表／655物理页，root六网页及物理443／446／447／449／638／639／643／645／646／649十页实际目视；不称全655页视觉审。初终门禁零错误警告，403输出初终和public逐路径、大小、SHA完全一致，接收记录见 `ops/checks/b06g-acceptance.json`。\n\n本节仅主控增加工程接收记录；上方作者研究和冻结审阅地图保持原文，原地图SHA `1f24e235364fae924ab6f2f8cd42f68720e7d017b93320a18baa46f13b952855` 单独保留。正文现为integrated／draft:false，body零变化；本地接收不含外部部署。\n"
+    },
+    {
+      "path": "content/book/rights/safety/tropical-hazards.md",
+      "author": "care_writer",
+      "facts": "root",
+      "editor": "coverage_audit",
+      "author_full_sha256": "44543edd6f2ff91e6522c37ccccde212f9659331b3d41b2b932d9201725f9fa5",
+      "body_sha256": "d40bb71d3edd775e531b719e605cb8838f9fc8439d101cfa64564d932be4fe9b",
+      "reports": [
+        {
+          "path": "ops/reviews/b06-tropical-hazards-facts.md",
+          "sha256": "13470c6ee4aa83499fe1e88bb8ae7ee3c24c0b86c25f0bd3d74a3ad8492ec4a0"
+        },
+        {
+          "path": "ops/reviews/b06-tropical-hazards-editorial.md",
+          "sha256": "ce77b9f81a47d0d822706e6cb56ae8168493f386b3fcc37711d495008f13d1f5"
+        }
+      ],
+      "support": [
+        {
+          "path": "ops/evidence/b06-tropical-hazards.md",
+          "sha256": "d4475a29711d189c523de8c9a76c55beea3293501ef2abf15f4f7084e5279ed4"
+        },
+        {
+          "path": "ops/maps/b06-tropical-hazards.md",
+          "sha256": "c7d5d6a4ae1bc902a4aa8241555d36676649dfd09bdc40c996908f4beb547afe"
+        }
+      ],
+      "root_actual_read": "complete second142/evidence/map/72fullfacts/42third, all10completeold-new and full diff, independent inverse to first freeze, independent full23source facts18necessaryPDFtext+11trueimages and secondlimitednames as formalreport; not new complete23audit in second freeze",
+      "engineering_full_sha256": "bdcb11ce4d117c5edabf70020b69e0d79f15c59674a9016455e2aca1ec63b4b1",
+      "final_full_sha256": "bb83b0477326ee4601b5f952185f28b865975faa444d79242484ec3be8bef469",
+      "map_engineering_sha256": "92d1a50736ae1756b1e46f323f9a9a35d8cfef6dfaf065b61714b0920f0a4760",
+      "map_engineering_note": "\n## B06G 主控接收与本地验收\n\nroot于2026-10-14T17:07:19.655937+08:00实际接收同版正文、完整证据／原地图与两份正式审稿；正文SHA `d40bb71d3edd775e531b719e605cb8838f9fc8439d101cfa64564d932be4fe9b`，作者full与工程full分别登记。事实与第三审的实际原文／源码范围见正式报告，不以本次工程替代阅读。\n\n三主题及20导航共同通过25路径1440／390、66基础＋118增补实际检查；菜单折叠、键盘、搜索点击、45组跨链和两事项菜单已实测。打印136书内节点／103来源表／655物理页，root六网页及物理443／446／447／449／638／639／643／645／646／649十页实际目视；不称全655页视觉审。初终门禁零错误警告，403输出初终和public逐路径、大小、SHA完全一致，接收记录见 `ops/checks/b06g-acceptance.json`。\n\n本节仅主控增加工程接收记录；上方作者研究和冻结审阅地图保持原文，原地图SHA `c7d5d6a4ae1bc902a4aa8241555d36676649dfd09bdc40c996908f4beb547afe` 单独保留。正文现为integrated／draft:false，body零变化；本地接收不含外部部署。\n"
+    }
+  ],
+  "navigation": [
+    {
+      "path": "content/book/work/_index.md",
+      "size": 1915,
+      "sha256": "8446b258b0b59ab1e57fd0239cb0f8b6991d75994814ab544716043573253cfa",
+      "root_original_and_complete_changed_paragraphs_actual_read": true
+    },
+    {
+      "path": "content/book/work/career/_index.md",
+      "size": 1483,
+      "sha256": "d01a8682f0b0f87593b175e6713f83d04eafa29d4d64ff78b5cce220a4adb1d6",
+      "root_original_and_complete_changed_paragraphs_actual_read": true
+    },
+    {
+      "path": "content/book/rights/_index.md",
+      "size": 1505,
+      "sha256": "847fcc79ce1da5960d0f6c926b60dfc393f9b879f53573ff10adf936289436f0",
+      "root_original_and_complete_changed_paragraphs_actual_read": true
+    },
+    {
+      "path": "content/book/rights/safety/_index.md",
+      "size": 1103,
+      "sha256": "48b1f011fca89ed4b4efdb8f73c9cdedf3033e13081c3332ee2fc600329885a9",
+      "root_original_and_complete_changed_paragraphs_actual_read": true
+    },
+    {
+      "path": "content/book/life/household/_index.md",
+      "size": 850,
+      "sha256": "26865852fbb0092b093e5b55fc803dcec2f050dd478f426d4ea8c63fe3834dd0",
+      "root_original_and_complete_changed_paragraphs_actual_read": true
+    },
+    {
+      "path": "content/book/people/healthcare/_index.md",
+      "size": 1096,
+      "sha256": "132872fdaec3314fc2f249d03cbe94ada9325c6b944059531c820e7e9fa8d85f",
+      "root_original_and_complete_changed_paragraphs_actual_read": true
+    },
+    {
+      "path": "content/docs/routes/start-work.md",
+      "size": 2484,
+      "sha256": "e4a8a337aaf6515fe771559d19e5c76b7ab1455f07c330de64b7e3aa54c96228",
+      "root_original_and_complete_changed_paragraphs_actual_read": true
+    },
+    {
+      "path": "content/docs/routes/urgent-help.md",
+      "size": 1556,
+      "sha256": "a6c61a633d156a84aaca37d288e175cf6ed25e3a21be1285c0ea9e3fa42a64b9",
+      "root_original_and_complete_changed_paragraphs_actual_read": true
+    },
+    {
+      "path": "content/docs/routes/settling-in.md",
+      "size": 2170,
+      "sha256": "e927217b0101f3a3a8c456e511ec3c429e1ac81447b557f25e556ab9b912fb8e",
+      "root_original_and_complete_changed_paragraphs_actual_read": true
+    },
+    {
+      "path": "content/docs/routes/illness.md",
+      "size": 2538,
+      "sha256": "5f0fb8ea868e2944f40bd05417687cd96774bd647dc920f3ef4f023d16f98c4a",
+      "root_original_and_complete_changed_paragraphs_actual_read": true
+    },
+    {
+      "path": "content/docs/routes/legal-notice.md",
+      "size": 2780,
+      "sha256": "6bf9cb9d346f7eb6a8f547117f54c185dbff79ba60ec7be000de32b5499e54f8",
+      "root_original_and_complete_changed_paragraphs_actual_read": true
+    },
+    {
+      "path": "content/docs/glossary/_index.md",
+      "size": 21835,
+      "sha256": "719f4bb5781dbf91d17319f3a29b586f638d5f30dec2834b4d98b54d6dddc360",
+      "root_original_and_complete_changed_paragraphs_actual_read": true
+    },
+    {
+      "path": "content/docs/profiles/citizen.md",
+      "size": 3334,
+      "sha256": "88b4885ae3710956544ebcc98c64a4e327de38482e7802d99ff1dfc459a25fc4",
+      "root_original_and_complete_changed_paragraphs_actual_read": true
+    },
+    {
+      "path": "content/docs/profiles/pr.md",
+      "size": 3824,
+      "sha256": "8bf160664b57595cde3485aa1f58a77b1f1fff3f86095779032a8d370eb358a5",
+      "root_original_and_complete_changed_paragraphs_actual_read": true
+    },
+    {
+      "path": "content/docs/profiles/worker.md",
+      "size": 4956,
+      "sha256": "952824ba49c8b453b2621cdbcce808b612fc1b2b46e48456c1f42c9a0ece7cc2",
+      "root_original_and_complete_changed_paragraphs_actual_read": true
+    },
+    {
+      "path": "content/docs/profiles/student.md",
+      "size": 3904,
+      "sha256": "9f711c99db7ee9a421634076f3e2cd101aa883842c2b409f648dafd3402f0a11",
+      "root_original_and_complete_changed_paragraphs_actual_read": true
+    },
+    {
+      "path": "content/docs/profiles/family.md",
+      "size": 4911,
+      "sha256": "45717765bf43851078537666292430e91f4033cef1b40ec7370789b9e150cdca",
+      "root_original_and_complete_changed_paragraphs_actual_read": true
+    },
+    {
+      "path": "content/docs/profiles/visitor.md",
+      "size": 2301,
+      "sha256": "0ea20edf1b13873cf636b60b384e310f6412e2318fdf2357e075bf03d36bc40d",
+      "root_original_and_complete_changed_paragraphs_actual_read": true
+    },
+    {
+      "path": "content/docs/profiles/low-income.md",
+      "size": 2655,
+      "sha256": "c5bdfd49abfac4395529aead3d50bc76872866966f614d287d9170ccacf7e080",
+      "root_original_and_complete_changed_paragraphs_actual_read": true
+    },
+    {
+      "path": "content/docs/profiles/disability-care.md",
+      "size": 2810,
+      "sha256": "ae7cf3a113db513d33e6d05a9399ece2f04db10b2cc9a7ac7428dab7bf1b54aa",
+      "root_original_and_complete_changed_paragraphs_actual_read": true
+    }
+  ],
+  "production_initial": {
+    "source_pages": 176,
+    "topics": 108,
+    "drafts": 5,
+    "html": 173,
+    "internal_references": 37871,
+    "external_references_skipped": 10599,
+    "errors": []
+  },
+  "production_final": {
+    "source_pages": 177,
+    "topics": 109,
+    "drafts": 6,
+    "html": 173,
+    "internal_references": 37871,
+    "external_references_skipped": 10599,
+    "errors": []
+  },
+  "production_current_ui_consistency": {
+    "source_pages": 177,
+    "topics": 109,
+    "drafts": 6,
+    "html": 173,
+    "internal_references": 37871,
+    "external_references_skipped": 10599,
+    "errors": []
+  },
+  "browser": {
+    "base_checks": 66,
+    "extra_checks": 118,
+    "paths": 25,
+    "viewports": [
+      [
+        1440,
+        1000
+      ],
+      [
+        390,
+        844
+      ]
+    ],
+    "pass": true,
+    "checks_include": "3noncurrent branches Space/Enter/leaf;FWA,HSS,SPS searchclicks;45crosslinks and2home menus atboth widths;Chinese tables and light/dark",
+    "print_structure": {
+      "pages": 136,
+      "refs": 6374,
+      "sourceLists": 103,
+      "relative": [],
+      "broken": []
+    },
+    "print_colors": {
+      "background": "rgb(255, 255, 255)",
+      "cells": [
+        "rgb(17, 17, 17)"
+      ],
+      "sources": 103,
+      "relative": [],
+      "broken": []
+    },
+    "machine_reports_in_ignored_cache": [
+      ".cache/render-b06g/report.json",
+      ".cache/render-b06g/extra-report.json",
+      ".cache/render-b06g/print-report.json"
+    ],
+    "search_regression": {
+      "queries": 10,
+      "production_index_documents": 170
+    }
+  },
+  "visual_scope": {
+    "reader": "root",
+    "actual_web_samples": [
+      "desktop-workplace-detail",
+      "mobile-workplace-table",
+      "desktop-tropical-table",
+      "mobile-tropical-table",
+      "desktop-controlled-detail",
+      "mobile-controlled-table"
+    ],
+    "actual_pdf_physical_samples": [
+      443,
+      446,
+      447,
+      449,
+      638,
+      639,
+      643,
+      645,
+      646,
+      649
+    ],
+    "not_claimed": "not all655physical pages,not alltopicviewports,not 4homepagepresets/wholetoolcard,not root repeat37/30original audit"
+  },
+  "print_pdf": {
+    "path": ".cache/render-b06g/book.pdf",
+    "physical_pages": 655,
+    "size": 12122947,
+    "sha256": "5224a7226a592eea8a5d1da325726c561fd5be75c97a476a344dabfbd113273e"
+  },
+  "qa_and_final_outputs_identical": true,
+  "public_sync": {
+    "pass": true,
+    "files": 403,
+    "bytes": 30071276,
+    "relative_paths_sizes_sha256_equal": true
+  },
+  "inventory": [
+    {
+      "path": "404.html",
+      "size": 40756,
+      "sha256": "6f243d255d42a984e294ddefd1ecb39ed37031bd4179385e825606bfc7a1721d"
+    },
+    {
+      "path": "_print/book/index.html",
+      "size": 2738625,
+      "sha256": "69dd42412ad723fa30069e75663036774bb1405c7a9eede47d8037a4fe6df0b5"
+    },
+    {
+      "path": "apple-touch-icon.png",
+      "size": 7888,
+      "sha256": "9ffc8d1e5c1e2ed6120cd9f9bdd519446a3a93e9851f5e4da47fabad82549bdc"
+    },
+    {
+      "path": "book/book.json",
+      "size": 81729,
+      "sha256": "1a08158989a3074b299ff3bb81d5afd18bb1e2885a8b997cb11a3e9af9280443"
+    },
+    {
+      "path": "book/foundations/culture/everyday-etiquette/index.html",
+      "size": 126012,
+      "sha256": "acdac6686b570eadb897fb6f5f644c89e9e8d9313fccf4b43b6f0a63a22462f4"
+    },
+    {
+      "path": "book/foundations/culture/everyday-etiquette/index.md",
+      "size": 5437,
+      "sha256": "bf0da6cf5acdaffcfe83a5eb98304632978627f84a06b180d9f16f559d7117c3"
+    },
+    {
+      "path": "book/foundations/culture/hawker-social-life/index.html",
+      "size": 125600,
+      "sha256": "ccfacb6d7841c92a2814c9a060ed53466a2181df0bcb7d749c8b2a9a8f58114a"
+    },
+    {
+      "path": "book/foundations/culture/hawker-social-life/index.md",
+      "size": 6136,
+      "sha256": "b5918daad7ad4e9498baee3aec4593f2c8eaaa98c1e97f33614896cf3109cb2f"
+    },
+    {
+      "path": "book/foundations/culture/index.html",
+      "size": 116321,
+      "sha256": "cf86c8d14ea1d1af9b908ecc63316ff79e57692083b7c28d2e6a2a0992e841f9"
+    },
+    {
+      "path": "book/foundations/culture/index.md",
+      "size": 1038,
+      "sha256": "3c961241ebb47f4bee3d8adc06878891a6138a2065ca0d867e5dccf5aaf9aa00"
+    },
+    {
+      "path": "book/foundations/culture/inequality/index.html",
+      "size": 129562,
+      "sha256": "12d3d429f925bf8a716ac69bc2e0077587ca822ab79aed8a1f517280fc5c5539"
+    },
+    {
+      "path": "book/foundations/culture/inequality/index.md",
+      "size": 8576,
+      "sha256": "79c92be63ffa87be539572fc304eaa9753dcb42ad3e31189b881360d0760d78d"
+    },
+    {
+      "path": "book/foundations/geography/addresses-weather/index.html",
+      "size": 128867,
+      "sha256": "ec6d28b5f1d94fd2575674dff3945f6d2eab9fe35c9e9f4d064b2ea61cd82904"
+    },
+    {
+      "path": "book/foundations/geography/addresses-weather/index.md",
+      "size": 6885,
+      "sha256": "049142fe98e263de3e1261658fdbe0bbc59ea6ad3958c6f384d9ed3ed7550022"
+    },
+    {
+      "path": "book/foundations/geography/index.html",
+      "size": 116270,
+      "sha256": "8ec4fa1dfa28f0feecea93b5ad17de09eddd4e06fd47c936804f235ae8c6b94c"
+    },
+    {
+      "path": "book/foundations/geography/index.md",
+      "size": 1030,
+      "sha256": "16f13083de9e85b87ec3718a8bce00bb9262930bc6eec842854f4ce0e4a7d2a8"
+    },
+    {
+      "path": "book/foundations/geography/island-neighbourhoods/index.html",
+      "size": 127072,
+      "sha256": "95bbf7d810f1f5629888b84877f57f86d530ca7b4ee549d152f617e2b22b4377"
+    },
+    {
+      "path": "book/foundations/geography/island-neighbourhoods/index.md",
+      "size": 6611,
+      "sha256": "a41436f50619912aaf9a696123257ace89ad3cce4b74b21ea48a15ffa9ba11c4"
+    },
+    {
+      "path": "book/foundations/geography/resources/index.html",
+      "size": 127526,
+      "sha256": "6a6d8c83d4833f59d89baa26bc3947d2924d52b64f2db5f11c351081831419f1"
+    },
+    {
+      "path": "book/foundations/geography/resources/index.md",
+      "size": 7197,
+      "sha256": "18777a17790377ed19ecf00bc0f33603f614dc2c89039739b1183b6e9a4181fc"
+    },
+    {
+      "path": "book/foundations/government/index.html",
+      "size": 116510,
+      "sha256": "8479f0f98eab5a0a35d7c2f0e945881edad6282563a57e73f11bdb0a3613c3d8"
+    },
+    {
+      "path": "book/foundations/government/index.md",
+      "size": 1122,
+      "sha256": "61540c8ebb8df3bf8a5b1a69fa9f9be0462c97b532ebc3aa31da0ef0e6132eed"
+    },
+    {
+      "path": "book/foundations/government/institutions/index.html",
+      "size": 129382,
+      "sha256": "fb291721864e6cb74f8ccae4a2404e63e56dbe0c88cc6751a46b03d136d2c635"
+    },
+    {
+      "path": "book/foundations/government/institutions/index.md",
+      "size": 8448,
+      "sha256": "1fabb1a2d46728299c2b4e598459dc2713b76ba8e6ddae7e78494616b2629622"
+    },
+    {
+      "path": "book/foundations/government/participation/index.html",
+      "size": 135359,
+      "sha256": "28c65af96c0c15f3f3453480748a236ba7391cbcab0d249fe9e36aadd71cdb14"
+    },
+    {
+      "path": "book/foundations/government/participation/index.md",
+      "size": 12471,
+      "sha256": "2b3b9ccbd237c12ac39ca6a0192920b9a3a9585d07950e3c9fcb4b6aff47e66a"
+    },
+    {
+      "path": "book/foundations/government/public-services/index.html",
+      "size": 133869,
+      "sha256": "f00355e60e08bb538017110bc837eb06058a73b29a1ea1dc49f250c0fbd57d89"
+    },
+    {
+      "path": "book/foundations/government/public-services/index.md",
+      "size": 11027,
+      "sha256": "717a38ded540b057428fe1e6bade2993f5bd11f2d96f354c43624ebea4b04928"
+    },
+    {
+      "path": "book/foundations/history/housing-industrialisation/index.html",
+      "size": 126322,
+      "sha256": "02009283412d87399ae12307ca5eab573697eb3f1f4ed6cdb0162f79474a2863"
+    },
+    {
+      "path": "book/foundations/history/housing-industrialisation/index.md",
+      "size": 5865,
+      "sha256": "11cca00f2ca87adf6ae30a0ec2fb8707cb47fd7ba80920fa6a8ff1a715dcbc65"
+    },
+    {
+      "path": "book/foundations/history/index.html",
+      "size": 116349,
+      "sha256": "83c6b5b8e1edd8bbec0126789bf1c543f0fa67611844aeb6acefa9444e5c1a10"
+    },
+    {
+      "path": "book/foundations/history/index.md",
+      "size": 1039,
+      "sha256": "480d6448586c282e2f07ad94fdb7a251167018da695085f4180407f9aeceaa30"
+    },
+    {
+      "path": "book/foundations/history/memory/index.html",
+      "size": 123691,
+      "sha256": "a3b29cf0279d67008804a6046a006826a7ee734c5eff648e43e705e0e583b17a"
+    },
+    {
+      "path": "book/foundations/history/memory/index.md",
+      "size": 5063,
+      "sha256": "85f70d82f18f6f4d3a2ecbac1811ec10c7c54665ec50cc97bfb104ac7e0bbb51"
+    },
+    {
+      "path": "book/foundations/history/port-city-to-nation/index.html",
+      "size": 128397,
+      "sha256": "ae9b36100a517b846324b1b3d26a08e736efd554b7a5bb0a452cc864c73d4327"
+    },
+    {
+      "path": "book/foundations/history/port-city-to-nation/index.md",
+      "size": 7725,
+      "sha256": "ca64a1b6d728a9e491cb0a601e6eff30a386d0119d9a30882632cbee4d714f38"
+    },
+    {
+      "path": "book/foundations/index.html",
+      "size": 116400,
+      "sha256": "b3a829b79f1a7cdba5f1b9c088b69d4cb0089947078722d6561f3e739e5ff43b"
+    },
+    {
+      "path": "book/foundations/index.md",
+      "size": 1259,
+      "sha256": "d18e63cd0ac21324f73dcbbc9395d9ba9d88d4d997813f4e35c63ba1e2b265ef"
+    },
+    {
+      "path": "book/foundations/society/communities/index.html",
+      "size": 131603,
+      "sha256": "7974a239fdc3bb016d0cc67e427233a659da89d46108815e6156ac60b9d81ed2"
+    },
+    {
+      "path": "book/foundations/society/communities/index.md",
+      "size": 10205,
+      "sha256": "979dc8cac3b59743ceef8c8886bb9596c51fceded9f8e84507777705349331b8"
+    },
+    {
+      "path": "book/foundations/society/index.html",
+      "size": 116460,
+      "sha256": "f96663f5d7cd3d2da56cde569d3c56c24ccd7d456a86fdf1ea46de593ed7c416"
+    },
+    {
+      "path": "book/foundations/society/index.md",
+      "size": 1129,
+      "sha256": "298cf1a77f4f49f2ed9b63e745c888e8c441f7fc64bb6a88d0a2994f8ff0d38d"
+    },
+    {
+      "path": "book/foundations/society/migration/index.html",
+      "size": 132333,
+      "sha256": "1b879c931fd3c96d02cff370d05a39c5beb33fde028b474e78b131e902f0e1bb"
+    },
+    {
+      "path": "book/foundations/society/migration/index.md",
+      "size": 10459,
+      "sha256": "2fff1d5895d29466c12cec73f0ae5b4a49e40d2de100977c1e46ccebe4c1118e"
+    },
+    {
+      "path": "book/foundations/society/religion-festivals/index.html",
+      "size": 134188,
+      "sha256": "2bc2ac3241c819d0ed22624272b1e2de78483d10ba9d39ce1218f7b568196182"
+    },
+    {
+      "path": "book/foundations/society/religion-festivals/index.md",
+      "size": 11507,
+      "sha256": "bb14593d63acc88cc31aeb5abaab42f20c8ce036045ec3f1537a1afd20455f3e"
+    },
+    {
+      "path": "book/foundations/world/index.html",
+      "size": 116529,
+      "sha256": "e838b5a0416da54ef09aca708345002a26ca9171a82853c9f6695ed02ccf49e7"
+    },
+    {
+      "path": "book/foundations/world/index.md",
+      "size": 1130,
+      "sha256": "c93acab88de8ae2c135e333d2434fc9eb510646e0021ff18e0b1233ff8153b17"
+    },
+    {
+      "path": "book/foundations/world/perspectives/index.html",
+      "size": 125867,
+      "sha256": "c3b8eb0b9aad772a8536872ee1a42a20a639556293cc2bed9703edba53964c18"
+    },
+    {
+      "path": "book/foundations/world/perspectives/index.md",
+      "size": 6184,
+      "sha256": "612e7ebf7e5786e142e8dd6bd92e71529dd972ee7e9a331f668cd6f3b3897cb6"
+    },
+    {
+      "path": "book/foundations/world/regional-ties/index.html",
+      "size": 126910,
+      "sha256": "7d21ca62477bebeb0a93f54fb892999916979130be2c855a5842ac32575bfe92"
+    },
+    {
+      "path": "book/foundations/world/regional-ties/index.md",
+      "size": 6635,
+      "sha256": "affec22589afcceba13b143f575d989b2fced52be76f86c34875723b98e8fbec"
+    },
+    {
+      "path": "book/foundations/world/trade-migration/index.html",
+      "size": 127546,
+      "sha256": "cc84bb760cf0ee4bd191e0ad9ec232a888008d152bb1d1bcbefe4c8648aa4b37"
+    },
+    {
+      "path": "book/foundations/world/trade-migration/index.md",
+      "size": 6774,
+      "sha256": "b8e40076a948db28145e2fb7e7adfaf6fa14ee062625ff661b60d9b9c80603b9"
+    },
+    {
+      "path": "book/index.html",
+      "size": 130888,
+      "sha256": "2f16f5cec6d79b52513766dc76727e8a4f6cea6ad8d02aab78078306a1f2b9b3"
+    },
+    {
+      "path": "book/index.md",
+      "size": 16071,
+      "sha256": "598698518707acb0d369abe64dbffc1d254de5aaf4b6f15d2fdf695fa62f8e15"
+    },
+    {
+      "path": "book/life/community/connections/index.html",
+      "size": 125450,
+      "sha256": "99c01b1a7ac711f47705e797f1f596c9603b0625c4608ac7193a6fedc1a72df6"
+    },
+    {
+      "path": "book/life/community/connections/index.md",
+      "size": 5104,
+      "sha256": "333044127243fbac103e05946613eff4a9097004925c48d6a635d454cac15ee4"
+    },
+    {
+      "path": "book/life/community/index.html",
+      "size": 116419,
+      "sha256": "9656e36923e513122960ca8a71b4997fb4d4f7eb940b7ccd26a0047f7c3c2901"
+    },
+    {
+      "path": "book/life/community/index.md",
+      "size": 1039,
+      "sha256": "21d17ef0402e11f4d83e5167051cb35d86897cf004f93bcee221ff637512f5b1"
+    },
+    {
+      "path": "book/life/community/neighbourhood/index.html",
+      "size": 124698,
+      "sha256": "67a756cb225fedd7352cbabb4139303d0bbf2d5e8ad1998a3d14173ae365a5ce"
+    },
+    {
+      "path": "book/life/community/neighbourhood/index.md",
+      "size": 4450,
+      "sha256": "d736ca62e2fdb0e8a7875ab920a6a2b7bc7beb1dadaa58fa0453efab832c112a"
+    },
+    {
+      "path": "book/life/community/public-facilities/index.html",
+      "size": 130582,
+      "sha256": "a9d33f91748ffc438fd5847a322861c70caff53ef602dade9c53909d5a1df617"
+    },
+    {
+      "path": "book/life/community/public-facilities/index.md",
+      "size": 8674,
+      "sha256": "5714e4c717dfa3bcaee01d85b40577c8913fa204749bf39998ee809e8a71c4b7"
+    },
+    {
+      "path": "book/life/digital/accounts/index.html",
+      "size": 136692,
+      "sha256": "7c53552dc4be0d8aa69349b2c939033ac6190ae925acf09c9c0b5770b19b4eb1"
+    },
+    {
+      "path": "book/life/digital/accounts/index.md",
+      "size": 12627,
+      "sha256": "7ac80cae0c569b82a3e6051389937b421878ca5e086059da3bbedd83f7219968"
+    },
+    {
+      "path": "book/life/digital/index.html",
+      "size": 116462,
+      "sha256": "09e983e7ae6d1a5378627084d7964beb5ac738bb8ebe536d3b8518df6fed946e"
+    },
+    {
+      "path": "book/life/digital/index.md",
+      "size": 1177,
+      "sha256": "97ef7689135b0454ab21b34dcae2e432f6e71bea480dd3ff1e76a104f6f8cefe"
+    },
+    {
+      "path": "book/life/digital/privacy-fraud/index.html",
+      "size": 135773,
+      "sha256": "66db5b5704487108c5509ab8dd356f6507140c8a4f7d80f8da2e38ac61fcdc7c"
+    },
+    {
+      "path": "book/life/digital/privacy-fraud/index.md",
+      "size": 12300,
+      "sha256": "0ab8ee6dac9cb61de13d60ba3939334717475e0916c42b63f6958cb45cec0247"
+    },
+    {
+      "path": "book/life/digital/telecom/index.html",
+      "size": 134458,
+      "sha256": "e7290c899f949e2aebaed8909260f601b8e1a2c3520402f19cfd8f459f4b0438"
+    },
+    {
+      "path": "book/life/digital/telecom/index.md",
+      "size": 12349,
+      "sha256": "687452823f3a1c8ca28fd503f386d002f800d24fb296fb04fee10c3d4b6da918"
+    },
+    {
+      "path": "book/life/documents/arrival-renewal/index.html",
+      "size": 144357,
+      "sha256": "2dc520d12fe037f00dfbb98e35bf16e5b66342874c4f7d9b79c7dee6543d209a"
+    },
+    {
+      "path": "book/life/documents/arrival-renewal/index.md",
+      "size": 19122,
+      "sha256": "08c08895a2898618e48c81f664355076d21d0b8a830269f80d336d01442c073b"
+    },
+    {
+      "path": "book/life/documents/documents/index.html",
+      "size": 137806,
+      "sha256": "b40282c119c50fa733f3dcfa1ee069356d92749ae05e155e19c74b0efc29f614"
+    },
+    {
+      "path": "book/life/documents/documents/index.md",
+      "size": 14353,
+      "sha256": "4996c91574794f4563861a7fd4039abf8763d27882c93286467d7d03ba4e4d73"
+    },
+    {
+      "path": "book/life/documents/index.html",
+      "size": 117487,
+      "sha256": "3d966e0ca5f9228ba71f1cc416166b220a18108ff321d456670c56059063d67c"
+    },
+    {
+      "path": "book/life/documents/index.md",
+      "size": 2055,
+      "sha256": "f4f56bef0241f118fa594780cb71f3aefba814f427b1dde1d43c306c5f1bf2a0"
+    },
+    {
+      "path": "book/life/documents/national-service/index.html",
+      "size": 133803,
+      "sha256": "e96b49d65f6d9696f6fad6f78f6d012168810a5f5e226d09d6f3309166bc0aaf"
+    },
+    {
+      "path": "book/life/documents/national-service/index.md",
+      "size": 10149,
+      "sha256": "3d51a4b114bd72478e29a9698bb756cbdf12f85b05b6b29934d5c64b37af36c5"
+    },
+    {
+      "path": "book/life/documents/pass-management/index.html",
+      "size": 157847,
+      "sha256": "8e716aedd1273409cfc93c6d2a2bc69f74d998169212d64f2161b03d152e6073"
+    },
+    {
+      "path": "book/life/documents/pass-management/index.md",
+      "size": 29994,
+      "sha256": "6c1cce9da26a0cfaffd33cf24c1946d4967e91b2db47c7f013e1faa080470c4f"
+    },
+    {
+      "path": "book/life/documents/permanent-residence/index.html",
+      "size": 142134,
+      "sha256": "096868f5b67a57eeee11fb248e1be4b935fe318dbec73be2812802b212c84927"
+    },
+    {
+      "path": "book/life/documents/permanent-residence/index.md",
+      "size": 17116,
+      "sha256": "9a0631667ce4358d2a95e104c60e3888b2dc6006e5b7bf8579d9f68d0239739a"
+    },
+    {
+      "path": "book/life/documents/status-and-eligibility/index.html",
+      "size": 136778,
+      "sha256": "6e79dc14480a3b2ae944e621cd70042e74acf80f93468a4f1abaecc8e1a4dc77"
+    },
+    {
+      "path": "book/life/documents/status-and-eligibility/index.md",
+      "size": 11755,
+      "sha256": "c15216e90b89552d31d95243b8098c4d0d68ee4bd963ad6f7be78bb688878a90"
+    },
+    {
+      "path": "book/life/documents/work-passes/index.html",
+      "size": 142052,
+      "sha256": "0582149c8d1dee65c5f11dca7e6f02e776134e790168c0ec58f9adab0d1e642b"
+    },
+    {
+      "path": "book/life/documents/work-passes/index.md",
+      "size": 14818,
+      "sha256": "00e2e242baa521ceee1fef12177e3a40dcd4623d90f24d63efaeb5a00e6eaec2"
+    },
+    {
+      "path": "book/life/household/consumer-rights/index.html",
+      "size": 134643,
+      "sha256": "51a793126e3afcd8430e0963ec1b69940b638e81d5fab49fbdb462aa05507aea"
+    },
+    {
+      "path": "book/life/household/consumer-rights/index.md",
+      "size": 11030,
+      "sha256": "92e97d7fa37f9c611c72daa42a3de38069b4e9cf79c453042f066e9a3666b597"
+    },
+    {
+      "path": "book/life/household/food-shopping/index.html",
+      "size": 133010,
+      "sha256": "aa449987acef2a2eeddce2fcf66f1aa579c9dc2902c54a08c953bb1f048425f9"
+    },
+    {
+      "path": "book/life/household/food-shopping/index.md",
+      "size": 10664,
+      "sha256": "da648e1fca21cd68c8c165e7d74a955681010da5ae80775e4a458f03bf711055"
+    },
+    {
+      "path": "book/life/household/home-maintenance/index.html",
+      "size": 134939,
+      "sha256": "d73e1254dfcce2a972f597d8a64e7918340ce9a53a6210d42caac979551c22cf"
+    },
+    {
+      "path": "book/life/household/home-maintenance/index.md",
+      "size": 11709,
+      "sha256": "c9d956bb8a2a814cbf216f1ed96c81a2ad3a9f573e469ba0a40a901d7fc53ca2"
+    },
+    {
+      "path": "book/life/household/index.html",
+      "size": 116998,
+      "sha256": "8c17bad684037b9b94ed04b49fef46246b294b1e6633202fa0e99475e30241fb"
+    },
+    {
+      "path": "book/life/household/index.md",
+      "size": 1604,
+      "sha256": "6fe436d5a39d9285825e50ba8d1c4d4730523ea1da5db6b9ef5239c864874391"
+    },
+    {
+      "path": "book/life/household/keeping-pets/index.html",
+      "size": 132432,
+      "sha256": "85b8e0ece5d2e4b5c5605e57ca42edfb629e51dfae2bb72a46c197d4ccda5742"
+    },
+    {
+      "path": "book/life/household/keeping-pets/index.md",
+      "size": 10577,
+      "sha256": "513de9cc3dbf8520a7a07935dcd68e791d3ac9e3cb0c756b31ea27fccf217bab"
+    },
+    {
+      "path": "book/life/housing/buying-private/index.html",
+      "size": 145503,
+      "sha256": "5a9048813a4c793f6d960b54b22de51a917e94c650426b805f5c5aa0496bc138"
+    },
+    {
+      "path": "book/life/housing/buying-private/index.md",
+      "size": 20433,
+      "sha256": "3d71d5a44d80cc80dcfa0e7ef04f38aa3e23b31aedc037de77b50d89d7d0fe93"
+    },
+    {
+      "path": "book/life/housing/index.html",
+      "size": 117500,
+      "sha256": "6c2f3264e6e02c448a2b386c130258076f48cf4d88d948b5a1458615f7aabf16"
+    },
+    {
+      "path": "book/life/housing/index.md",
+      "size": 1976,
+      "sha256": "965f9635be619fda41fcd792e8ff119aaaa6b808e1b992848e4b09eecbf2d3be"
+    },
+    {
+      "path": "book/life/housing/neighbours/index.html",
+      "size": 138368,
+      "sha256": "10b4c1ecdfc3db2e9ced9058dd98fd468c63821735936f622157b7e2a11f15e0"
+    },
+    {
+      "path": "book/life/housing/neighbours/index.md",
+      "size": 14802,
+      "sha256": "b46432b0e29456cb29986d2f81696e8af25437a7ee008f8b0a142359c42f5e47"
+    },
+    {
+      "path": "book/life/housing/purchase-costs/index.html",
+      "size": 155232,
+      "sha256": "0a049db6709c648655fc77251131a8e9e3cab25f31312da22ebf26c3427865c9"
+    },
+    {
+      "path": "book/life/housing/purchase-costs/index.md",
+      "size": 27941,
+      "sha256": "e17178f7fca9b232f52c00b59aab9b997e33c4e861e38a393bfdc058ea60df76"
+    },
+    {
+      "path": "book/life/housing/renting/index.html",
+      "size": 135828,
+      "sha256": "e76cda80741b7b07dcdef88a2369218a141ad210fcd78766e86a92a576047187"
+    },
+    {
+      "path": "book/life/housing/renting/index.md",
+      "size": 13044,
+      "sha256": "f68b630799ff5898dc0f423077e94c0ca4cc90b223370f92cf725274e75a174f"
+    },
+    {
+      "path": "book/life/housing/tenancy/index.html",
+      "size": 136892,
+      "sha256": "a52476d156b476b60398b89f90f3d43ca83fe6f81d956cd675b4f0aad9cbb029"
+    },
+    {
+      "path": "book/life/housing/tenancy/index.md",
+      "size": 13579,
+      "sha256": "dc202e16bcdcbd97838b258f239bbf1b9fc87106a85c0fa95e29d73d61635d88"
+    },
+    {
+      "path": "book/life/index.html",
+      "size": 116457,
+      "sha256": "911d4bcb85cfef0cf765cfbed25d4ce0718510789b8272334bf929ee4fd4bacb"
+    },
+    {
+      "path": "book/life/index.md",
+      "size": 1258,
+      "sha256": "ca59ea2f7dafc50c6988dab85128b49d671ff0613208979802a982220aa1a633"
+    },
+    {
+      "path": "book/life/transport/active-mobility/index.html",
+      "size": 137392,
+      "sha256": "efd0914e672742b3ab04cf89c4a012bf6ff6c5e0a8222acbf7de045e1afcd299"
+    },
+    {
+      "path": "book/life/transport/active-mobility/index.md",
+      "size": 15106,
+      "sha256": "2911e337a85d658aded28762a29c54074e98bc4c22a17afef60fc76d85a92919"
+    },
+    {
+      "path": "book/life/transport/airport-checkpoints/index.html",
+      "size": 156749,
+      "sha256": "e5c544865dc56cedb7437268fc712311eaee45ad25f1d16c788b4e669ec993cb"
+    },
+    {
+      "path": "book/life/transport/airport-checkpoints/index.md",
+      "size": 28799,
+      "sha256": "4d19a04bef7cd3e514fc8ba6edbb637a36f3195773a05ee0cbd1d8afd4e83c6b"
+    },
+    {
+      "path": "book/life/transport/driving/index.html",
+      "size": 150023,
+      "sha256": "95e742f47f5c9deb208956500ae6b8b2f0967bea627db42aed745131420b1b70"
+    },
+    {
+      "path": "book/life/transport/driving/index.md",
+      "size": 24971,
+      "sha256": "fe8c33f408f975fe3c02ef546c3dc211dad9a9e868ecb774fdba1b683f84a1e7"
+    },
+    {
+      "path": "book/life/transport/index.html",
+      "size": 117058,
+      "sha256": "e2e14852ee8032a61e2e38f3b61d98a748d22eb4f2c0ec88f1f69addfb25203a"
+    },
+    {
+      "path": "book/life/transport/index.md",
+      "size": 1597,
+      "sha256": "1f7038ecbf42ddc18cb98862cca198ee8ee65e90e8dfffc538af182df10ba053"
+    },
+    {
+      "path": "book/life/transport/public-transport/index.html",
+      "size": 133266,
+      "sha256": "2712d235c051e970dceba0996621a0ad42df68951d8671bdf808b5bba52e81ec"
+    },
+    {
+      "path": "book/life/transport/public-transport/index.md",
+      "size": 10057,
+      "sha256": "054aa7491b9bdafed1259ede49505e38edd703ea577bc15b2c2e7049315cb9b2"
+    },
+    {
+      "path": "book/life/transport/taxis-phv/index.html",
+      "size": 130978,
+      "sha256": "5fcb002aba6cee65a6101ddea520429a4bfd133ee994fcaf27e7d644cda6bd3b"
+    },
+    {
+      "path": "book/life/transport/taxis-phv/index.md",
+      "size": 9409,
+      "sha256": "3cffa2b638a61db629ef31c723a53181f7d21e9cfb731c72c34328934f54de98"
+    },
+    {
+      "path": "book/people/accessibility/caregiver-support/index.html",
+      "size": 151329,
+      "sha256": "72cf4fa9015121829fbe02782257d18652616f1a589b15f2e146636548bcc8ed"
+    },
+    {
+      "path": "book/people/accessibility/caregiver-support/index.md",
+      "size": 25571,
+      "sha256": "90daf5013047243e721b0cbfea3f5669c05c0c290142f1d8011e17dd0d24a17d"
+    },
+    {
+      "path": "book/people/accessibility/disability/index.html",
+      "size": 148389,
+      "sha256": "84305a0268d53ab45e5cd73994ab87f6e4f1fb09fc895c0a708f19b52c8f8b4f"
+    },
+    {
+      "path": "book/people/accessibility/disability/index.md",
+      "size": 22473,
+      "sha256": "d4cdfa9789d5d7fbf81be80c00a160fb2664fd4a6f7498affa79135a3c1849fc"
+    },
+    {
+      "path": "book/people/accessibility/index.html",
+      "size": 117219,
+      "sha256": "dc13f069629ff6d0e6365e74d4ae3df33879869abd563b8e738091acac8a76ad"
+    },
+    {
+      "path": "book/people/accessibility/index.md",
+      "size": 1721,
+      "sha256": "51eb6cb137b10cdfbd269688fbad20fe63b8d512308f0c9cb75df57cf662cd3b"
+    },
+    {
+      "path": "book/people/accessibility/mental-health/index.html",
+      "size": 148644,
+      "sha256": "13028898840a51bc996fe02c3d5e450d01868e1e8bb628570be81453926fcbd1"
+    },
+    {
+      "path": "book/people/accessibility/mental-health/index.md",
+      "size": 22213,
+      "sha256": "58501e462b301b6314dce9063ee862622f1dba4a4fe0168ee4c7f10332170763"
+    },
+    {
+      "path": "book/people/ageing/death/index.html",
+      "size": 174637,
+      "sha256": "3073175e2b26d4fcf6ed6985e8a39e671e56015cbfca75e0668aa770286a39d2"
+    },
+    {
+      "path": "book/people/ageing/death/index.md",
+      "size": 49341,
+      "sha256": "6f9a41d3e553f841adf6a6be29b9efeeba53ba4a6451a2454692058c87f8af84"
+    },
+    {
+      "path": "book/people/ageing/index.html",
+      "size": 117505,
+      "sha256": "8d136c9eb920eaead62c6fd2d4555f2164e2881830f7cd45a456f248632b641d"
+    },
+    {
+      "path": "book/people/ageing/index.md",
+      "size": 2036,
+      "sha256": "7337f7b6c359402be15aa14477f3363c5741b5ccf533a19afa375c3a27fc3829"
+    },
+    {
+      "path": "book/people/ageing/long-term-care/index.html",
+      "size": 163273,
+      "sha256": "e3e131d0505db69c969258759175bcf85e9977c1b645a8e141d0e307ee5975bf"
+    },
+    {
+      "path": "book/people/ageing/long-term-care/index.md",
+      "size": 35920,
+      "sha256": "e436e38084a96fc010bc0759d21db82d14873d6c8a6c6d0b182955333af63990"
+    },
+    {
+      "path": "book/people/ageing/planning-ahead/index.html",
+      "size": 164397,
+      "sha256": "1cce67a496b7f1096ff377f5ddd4dc586fd492ddb3125c21a37bae548fbb4edf"
+    },
+    {
+      "path": "book/people/ageing/planning-ahead/index.md",
+      "size": 38207,
+      "sha256": "f57daf0d6a5e5c3fc1d6e115f9ce5c5d62ba3eaa783453f0eccfe9a73349a3f9"
+    },
+    {
+      "path": "book/people/ageing/retirement/index.html",
+      "size": 148405,
+      "sha256": "45f4f503eddf570f7028eb4989c3c0317eb53d54d919cbb7700fb2ee73ec2e5a"
+    },
+    {
+      "path": "book/people/ageing/retirement/index.md",
+      "size": 23802,
+      "sha256": "f923d85252afceb76b366b301b2df3868bf83552d17d7665ae68a181491c6cab"
+    },
+    {
+      "path": "book/people/family/birth/index.html",
+      "size": 134140,
+      "sha256": "19a840f553cdcd10fa91f46d84a4e9cfb78681f4044b329add7deaced1f0dd5a"
+    },
+    {
+      "path": "book/people/family/birth/index.md",
+      "size": 11872,
+      "sha256": "7eee94ec763e0835c69e437c16d0bd3ae8b298c58dff096ae6fedce435e37eb6"
+    },
+    {
+      "path": "book/people/family/childcare/index.html",
+      "size": 157681,
+      "sha256": "cb8052dbbc9c8da6a5640931d5274932ede270d529ef5fd27c54189b42472daa"
+    },
+    {
+      "path": "book/people/family/childcare/index.md",
+      "size": 29305,
+      "sha256": "5d8ff52c7190fefdda3befa11d8d96d1ba82247f0f16461bb9c18fb3e7121daf"
+    },
+    {
+      "path": "book/people/family/domestic-workers/index.html",
+      "size": 165654,
+      "sha256": "665563889290b862267d033918dd5fc5333811123ad46876f1fc9f45e4a5327f"
+    },
+    {
+      "path": "book/people/family/domestic-workers/index.md",
+      "size": 36241,
+      "sha256": "36883164e7b114a3821e221fdbeae699f5dac5ff0d14be2dc2ea55925aad6f2d"
+    },
+    {
+      "path": "book/people/family/index.html",
+      "size": 117876,
+      "sha256": "1de823028132cb61f33e719cc15f3a2bea2ca6a8862c4c4cf0c525f9d84d7b98"
+    },
+    {
+      "path": "book/people/family/index.md",
+      "size": 2229,
+      "sha256": "6e4231eca74d1cd431286d2b27cb7c6c4dcf54c447f2634cd56c19c422d880f3"
+    },
+    {
+      "path": "book/people/family/relationships/index.html",
+      "size": 152266,
+      "sha256": "10352ea08433c59d47fd27fb7234b0190cfd58c6042bc846c859ee23a885769e"
+    },
+    {
+      "path": "book/people/family/relationships/index.md",
+      "size": 28522,
+      "sha256": "4dc7778e2b1f42198fa1618236718751426af9885358c8a30e7b1f92a2a01a16"
+    },
+    {
+      "path": "book/people/family/separation-safety/index.html",
+      "size": 164935,
+      "sha256": "2141db5c649ae73559097b31a5e3d223c8edae56db3b838b639153a38853139a"
+    },
+    {
+      "path": "book/people/family/separation-safety/index.md",
+      "size": 37079,
+      "sha256": "335e97c816a9a9385b22004d0c0560a26543015f379c83c5c6109d38ff7111f9"
+    },
+    {
+      "path": "book/people/family/sexual-health/index.html",
+      "size": 155084,
+      "sha256": "2188d80f71938992eef6577c1553c2fc6ecc691c36220b87ae033b8445faaba1"
+    },
+    {
+      "path": "book/people/family/sexual-health/index.md",
+      "size": 29082,
+      "sha256": "3f55db7f1fa0c140126f9e7765eb098581133172f3184dd3f7faf626cf3fb657"
+    },
+    {
+      "path": "book/people/healthcare/getting-care/index.html",
+      "size": 133007,
+      "sha256": "a6fc05973caf4899efbba66db5b837a50b0eca3cb06b30f2f6c926f0541823d7"
+    },
+    {
+      "path": "book/people/healthcare/getting-care/index.md",
+      "size": 9212,
+      "sha256": "90c1048a91db22eec70bdc833ab76be186a3295039e462d5af8aeff0a7c67bfa"
+    },
+    {
+      "path": "book/people/healthcare/healthcare-payments/index.html",
+      "size": 138443,
+      "sha256": "2feb4015ad15b4a777a07f9cc781dfa7f94b26a28fc47e01743b61ca58188271"
+    },
+    {
+      "path": "book/people/healthcare/healthcare-payments/index.md",
+      "size": 11923,
+      "sha256": "685b7ba081c7587bd46d0b08f38c02312fa37630413be3fc8ec20f6278ce85d3"
+    },
+    {
+      "path": "book/people/healthcare/index.html",
+      "size": 117484,
+      "sha256": "f85542ebf2bd45e25bfed7f2e2b09746d1328fea105bc9b5554e3c30fa0ee5ab"
+    },
+    {
+      "path": "book/people/healthcare/index.md",
+      "size": 1988,
+      "sha256": "6cf867f146f0eb570478d863ce3c07e6d413039e4d3dbccc67bde379f286f130"
+    },
+    {
+      "path": "book/people/healthcare/medical-records/index.html",
+      "size": 150648,
+      "sha256": "63909dfae6edbd52b79fef6e5e0af86f56693d6af3287b358625a5a2b06fa3b3"
+    },
+    {
+      "path": "book/people/healthcare/medical-records/index.md",
+      "size": 24861,
+      "sha256": "62b36e6cac7f7f9e82090ccea157c9035fec5d23d0fdcc0e58ea0932f2ed4983"
+    },
+    {
+      "path": "book/people/healthcare/medicines/index.html",
+      "size": 144702,
+      "sha256": "091a86feae0a9674fa339149f33eb05a6d07756b4e0fcd2758a9b3c853ff8c22"
+    },
+    {
+      "path": "book/people/healthcare/medicines/index.md",
+      "size": 20735,
+      "sha256": "6572b3445ea76856311d8eafc28198ee2d8c2da9155e59e791a300ce8de57a54"
+    },
+    {
+      "path": "book/people/healthcare/preventive-care/index.html",
+      "size": 147531,
+      "sha256": "d8b7dbe3b07bb9f8f6cbc79349d5f248a1a7ebbc1bc0d4d018f57815e4993a25"
+    },
+    {
+      "path": "book/people/healthcare/preventive-care/index.md",
+      "size": 22959,
+      "sha256": "d2befaab2ff33b57c71518f1f84f4aa05c62772240d0f679aaeddc208b43697e"
+    },
+    {
+      "path": "book/people/index.html",
+      "size": 117902,
+      "sha256": "e9839f48b02173eeca9e7dc7417e00eded0d7780a1a3ce9f2db8e8b8682b3737"
+    },
+    {
+      "path": "book/people/index.md",
+      "size": 2534,
+      "sha256": "da83b3cf55a507a8a312f99c17e91adfa3670e8a1b903477179bf72e39790c0f"
+    },
+    {
+      "path": "book/people/language/communication/index.html",
+      "size": 133943,
+      "sha256": "c21a8f0347681251a45a725d7aca5454580e5f57288cfdf5664f18c02fc311d9"
+    },
+    {
+      "path": "book/people/language/communication/index.md",
+      "size": 10308,
+      "sha256": "8c47c75733695bdebb64ebf8ff996b66827e34451aa46b05f30633ef327db5c9"
+    },
+    {
+      "path": "book/people/language/everyday-language/index.html",
+      "size": 130826,
+      "sha256": "e1f714bf3d48e3bf0e3585e6164ad672580c09c88dd8b1f93fe560903e1a13ae"
+    },
+    {
+      "path": "book/people/language/everyday-language/index.md",
+      "size": 8387,
+      "sha256": "b60956b15fd592a25b2abe86f5eb519c545d5554ffdc6b4a466b8455d9cddb3f"
+    },
+    {
+      "path": "book/people/language/index.html",
+      "size": 116468,
+      "sha256": "5a3586ff9b1dd55df3d5f04e37d3f10a89f5086fdc6a808d6d2f36a3d861b7c9"
+    },
+    {
+      "path": "book/people/language/index.md",
+      "size": 1128,
+      "sha256": "e01c3d6ffab599312022b8aef5dd5828dfc02e2b7e3ef584d9e8b43b3a7e3ec5"
+    },
+    {
+      "path": "book/people/language/multilingual-family/index.html",
+      "size": 131998,
+      "sha256": "127b0cdca70b47043e5758a9101c03b1ef70758ae0a1514ed58432b6a97e3674"
+    },
+    {
+      "path": "book/people/language/multilingual-family/index.md",
+      "size": 9488,
+      "sha256": "ce09ba2e9657344c1fee637813636bb525d6c8060e8694a82f0e75824764d135"
+    },
+    {
+      "path": "book/people/learning/adult-learning/index.html",
+      "size": 163752,
+      "sha256": "e83edfc6de9048e8b8245268b1b43754579957314c92fbb3ac00fcf9705055d9"
+    },
+    {
+      "path": "book/people/learning/adult-learning/index.md",
+      "size": 37082,
+      "sha256": "6bb245b88adc0609e651bb2cd654ee156bed6e9ec4ef671228f122381c894e5e"
+    },
+    {
+      "path": "book/people/learning/higher-education/index.html",
+      "size": 153397,
+      "sha256": "ea8215f79af9b9a280bf2bb203a0441c2045a65c4377e707656f9eb264e024cb"
+    },
+    {
+      "path": "book/people/learning/higher-education/index.md",
+      "size": 26641,
+      "sha256": "308bbad134ee783608b19a9a9ea50f9ef001e09fdf08b45d25805d7138117814"
+    },
+    {
+      "path": "book/people/learning/index.html",
+      "size": 117277,
+      "sha256": "43772e2f631e51de95f6aefb721dd9f778e57db7ba9a0187b3025a912b08b166"
+    },
+    {
+      "path": "book/people/learning/index.md",
+      "size": 1622,
+      "sha256": "9cb0550fa73146f8b94a0fcd01d245d657660ace4c6b229ba4f9345d2bc75837"
+    },
+    {
+      "path": "book/people/learning/tuition-grant/index.html",
+      "size": 154640,
+      "sha256": "930b1c744eb193ff2f270fe87d8ab248328229c63bc2d08f9dd0d25235e0fa30"
+    },
+    {
+      "path": "book/people/learning/tuition-grant/index.md",
+      "size": 28853,
+      "sha256": "54c2c4684f98d8ed7aa66168b91ea3af5e3c5ef189815902c203f69cc648988c"
+    },
+    {
+      "path": "book/people/school/index.html",
+      "size": 116380,
+      "sha256": "be9e5ec53244c9c4bdd387207dd4f53a2c51774ace2d502e01e709ca290aa044"
+    },
+    {
+      "path": "book/people/school/index.md",
+      "size": 1152,
+      "sha256": "fcaccfcd48a9433498a3e38b0fb8930d18c3b578131195485074aeec7fac8f3b"
+    },
+    {
+      "path": "book/people/school/learning/index.html",
+      "size": 162972,
+      "sha256": "1203889a5cdb52ff4286531c658610c4d7048dce2db7fff252b2e5d6f7a36577"
+    },
+    {
+      "path": "book/people/school/learning/index.md",
+      "size": 35508,
+      "sha256": "1f65915aa43e50ea91a52af5dd5a1079553c34560a50832f07e9358cc8901b54"
+    },
+    {
+      "path": "book/people/school/school-life/index.html",
+      "size": 147935,
+      "sha256": "69d0becb1a836ec83f7c4c46979067a3c48a82a781dce25a9365001eb693903e"
+    },
+    {
+      "path": "book/people/school/school-life/index.md",
+      "size": 24036,
+      "sha256": "bd83fb04f67410aab83389e776152f9581dfee7e42affcc15e1b8825a13548f6"
+    },
+    {
+      "path": "book/rights/contracts/before-signing/index.html",
+      "size": 152011,
+      "sha256": "6ee17bf64d953d7e2b793fe834037c36bd24442954d3da9b798163962f7c2a04"
+    },
+    {
+      "path": "book/rights/contracts/before-signing/index.md",
+      "size": 26326,
+      "sha256": "0e6c01676a22ccd945faeb83b1b450c31537a5cd2dd9662e1db6298d64730bca"
+    },
+    {
+      "path": "book/rights/contracts/index.html",
+      "size": 116859,
+      "sha256": "b3180f2718e67c3e8b59a23324c9d495d2a116b284839af337eb39cf79f3cade"
+    },
+    {
+      "path": "book/rights/contracts/index.md",
+      "size": 1450,
+      "sha256": "eb4f9c5a4baf525b07530f7f35bf0ec4d40ce8cc722654d295d8b38b9de95930"
+    },
+    {
+      "path": "book/rights/contracts/performance/index.html",
+      "size": 151900,
+      "sha256": "3b60579418b16603c5ac01eec08ddf9f7fe1225d95e37edf85ef9cbfbd2b8d7a"
+    },
+    {
+      "path": "book/rights/contracts/performance/index.md",
+      "size": 25505,
+      "sha256": "dd5be5793f9966bd5f29c95f2533bbc852968624eae87cfb57e818bd2407772c"
+    },
+    {
+      "path": "book/rights/index.html",
+      "size": 116870,
+      "sha256": "90ff91d52cd1c89c0a178588ee478ff859d799e28aa15f563d27e84778341e13"
+    },
+    {
+      "path": "book/rights/index.md",
+      "size": 1708,
+      "sha256": "7ddabfc96e754e8ebedc043e7f9346cce55b9343c3ad1bed7e5babb669fa913a"
+    },
+    {
+      "path": "book/rights/legal/getting-help/index.html",
+      "size": 155120,
+      "sha256": "2158b48d46a34fbab1467b7902c89ddd9d40279fd2704db6519e7dc50e1e9b58"
+    },
+    {
+      "path": "book/rights/legal/getting-help/index.md",
+      "size": 27296,
+      "sha256": "a6286a7b679edf29157f9519414094e9ef976db88296f5e5b951a988ee98ae4a"
+    },
+    {
+      "path": "book/rights/legal/index.html",
+      "size": 117567,
+      "sha256": "ba2c4dd58c4e956e9c71d39857e4b0e1db8b1fb223d764b0204328115deabbf3"
+    },
+    {
+      "path": "book/rights/legal/index.md",
+      "size": 2327,
+      "sha256": "6ca6ca65e62641be8b8278cb2e8544a57cf13867ddbbe2e5889a13fe2a86761b"
+    },
+    {
+      "path": "book/rights/legal/legal-system/index.html",
+      "size": 139206,
+      "sha256": "2d6affc0200d320430b2ebc1f2b9375d98632275299df7cf0c86b28f052e821a"
+    },
+    {
+      "path": "book/rights/legal/legal-system/index.md",
+      "size": 15323,
+      "sha256": "91afd9b65f3807d927b2a4d86c3fb024dd5824542d1e2bfdf0a58b32cde81812"
+    },
+    {
+      "path": "book/rights/legal/rights-notices/index.html",
+      "size": 145397,
+      "sha256": "3f42f570df196884f537313d94d2e0e1abb12c260d79c30072642d5f2cbc7c32"
+    },
+    {
+      "path": "book/rights/legal/rights-notices/index.md",
+      "size": 21051,
+      "sha256": "893e5d1b4adbf64fd7edeaa72075bd3323731af0ce016cad481f58968af985ee"
+    },
+    {
+      "path": "book/rights/safety/controlled-items/index.html",
+      "size": 154417,
+      "sha256": "7e3d2d0a1aa0b1a45475e9239ee112b58a49fab322115c557182d9f30b179273"
+    },
+    {
+      "path": "book/rights/safety/controlled-items/index.md",
+      "size": 27228,
+      "sha256": "65f8024e0e7c31e076b71b0f68d8cc832e20eea460104e69ab4db37167e6bae1"
+    },
+    {
+      "path": "book/rights/safety/emergencies/index.html",
+      "size": 141223,
+      "sha256": "f98581c27e75cb4da70680e6aaf25e42610b13098939c0d32791323d3dc7d06d"
+    },
+    {
+      "path": "book/rights/safety/emergencies/index.md",
+      "size": 12870,
+      "sha256": "01a8f7bbe303e9231412e7ce85bee524591c835b5862f2f4450e05a7a0bb36be"
+    },
+    {
+      "path": "book/rights/safety/index.html",
+      "size": 117116,
+      "sha256": "cffc4aeefdfdc60193b46d21d7bac6611236f2757deab216c1ba6b4c311604be"
+    },
+    {
+      "path": "book/rights/safety/index.md",
+      "size": 1653,
+      "sha256": "40f5ce1cb0eca14284e4ce199b032040b638c36b75def54c6c46c7635886ff1f"
+    },
+    {
+      "path": "book/rights/safety/tropical-hazards/index.html",
+      "size": 148886,
+      "sha256": "5a3c898be23b8807d10fc4493792e52e9bac24d30591490f35b3b9963b2a1c3f"
+    },
+    {
+      "path": "book/rights/safety/tropical-hazards/index.md",
+      "size": 21940,
+      "sha256": "cd579c8be003cee0f03283a491b69c8519c1bb0fc43a0b81ff9e9b720e58d0b7"
+    },
+    {
+      "path": "book/work/business/index.html",
+      "size": 117097,
+      "sha256": "66946a1c06afc13a628674ec7a79e6e77e462549abe6528c43e52b1de232ba89"
+    },
+    {
+      "path": "book/work/business/index.md",
+      "size": 1710,
+      "sha256": "c5b290776c823fb42f074460ca51bdd56f363a16b1c56da169b32c151ddf11f1"
+    },
+    {
+      "path": "book/work/business/risk-exit/index.html",
+      "size": 158555,
+      "sha256": "aef70acb4af859e0b11baf53f970cd55fcfea223d1f84ba724454b99252a61c4"
+    },
+    {
+      "path": "book/work/business/risk-exit/index.md",
+      "size": 32295,
+      "sha256": "397726f4d5413480da80a3059d4bfda8cfff714d619f49a7b1de4a8fbd9ef06a"
+    },
+    {
+      "path": "book/work/business/running-business/index.html",
+      "size": 158095,
+      "sha256": "393addae31aa733c2725da33928d0e7acafb45f37d6f51ce6c082ecf46e98902"
+    },
+    {
+      "path": "book/work/business/running-business/index.md",
+      "size": 32730,
+      "sha256": "959140a7ac1f15a940c97aafc280ad2d626307c729dc5dcc5fcda7c62b28fe2c"
+    },
+    {
+      "path": "book/work/business/starting-business/index.html",
+      "size": 147718,
+      "sha256": "8141ed48bccdacaee24dcf92206cfb9d7e4dd89c8db1c28f7dbc6535bfc15f67"
+    },
+    {
+      "path": "book/work/business/starting-business/index.md",
+      "size": 22692,
+      "sha256": "23d14550c02cdeef39a72cd78a19ac4f47c8658a86ab4cf0126bf54858ef51b0"
+    },
+    {
+      "path": "book/work/career/index.html",
+      "size": 117344,
+      "sha256": "645ec12d2b3b7da1bec745f7f86108f75f140308636363bd6a8108b4e127189d"
+    },
+    {
+      "path": "book/work/career/index.md",
+      "size": 2042,
+      "sha256": "90cd8d06a70dafd1c8c56f27385dc8c588663a0b92da6673ec291a692d8066ab"
+    },
+    {
+      "path": "book/work/career/job-search/index.html",
+      "size": 154167,
+      "sha256": "239f67d94b050e04d3fe30cf67278e3bcd5d761247f51d3b5461cac9fae22ebf"
+    },
+    {
+      "path": "book/work/career/job-search/index.md",
+      "size": 29381,
+      "sha256": "2f782c1657f42a79c1d927e2d7dd8f3dc6b5117b948f31ef3ac1c0cd22fa3e64"
+    },
+    {
+      "path": "book/work/career/offer/index.html",
+      "size": 150972,
+      "sha256": "cbb690939968c08d5d009dfd6e966e7f4aa54caec0330f5027a56b3a6f6f78c3"
+    },
+    {
+      "path": "book/work/career/offer/index.md",
+      "size": 25919,
+      "sha256": "5dc06b0f6bc1aebfb6e1b6d0019ada57ffe9b61525216616a852023379b2fc94"
+    },
+    {
+      "path": "book/work/career/workplace/index.html",
+      "size": 151560,
+      "sha256": "cffffc3f5e521cfae344d9b4f76651b65fc684d9ad2f46117b6999c4dda754dd"
+    },
+    {
+      "path": "book/work/career/workplace/index.md",
+      "size": 26112,
+      "sha256": "b3abca97239aa08c6e9ae5ece1904f7266273a2378106a43ef57d0b1c2c1159d"
+    },
+    {
+      "path": "book/work/employment/employment-claims/index.html",
+      "size": 146857,
+      "sha256": "24ab788ee4b6c46bb7a052201658886a676682e6b7f2e687f97370be35ff0d26"
+    },
+    {
+      "path": "book/work/employment/employment-claims/index.md",
+      "size": 20616,
+      "sha256": "dd0037f7d208ed09c959c0449d7e88ae835f50e35f6c241ddc98527af25e8434"
+    },
+    {
+      "path": "book/work/employment/employment-rights/index.html",
+      "size": 168811,
+      "sha256": "e19ae83955d79dd928abe2e724c2102ace14e5962a567c361b8bc8bc79fdc6fe"
+    },
+    {
+      "path": "book/work/employment/employment-rights/index.md",
+      "size": 37583,
+      "sha256": "bf25de84c424dae72600734e710173ebcfe7e3f94bacaa8370d016804f19d984"
+    },
+    {
+      "path": "book/work/employment/hardship/index.html",
+      "size": 139237,
+      "sha256": "1f503a97bacfd8f7e4c22af1f0dc6a2a10ee29d2d18419a5f5e8e7fb95c1ee2c"
+    },
+    {
+      "path": "book/work/employment/hardship/index.md",
+      "size": 15146,
+      "sha256": "4bd70ac508d349bb4c589b324ed133b830f933b3fde8a1702c5f02a5f991c7c0"
+    },
+    {
+      "path": "book/work/employment/index.html",
+      "size": 118588,
+      "sha256": "3235a7808da174a26c2ff3871b80ddbcf91050962ae69a7f51e44213850ef396"
+    },
+    {
+      "path": "book/work/employment/index.md",
+      "size": 2892,
+      "sha256": "5d8aca1d49646bf4f2d6c156c3e29f249474fadc0c65e72a8299f81652c89544"
+    },
+    {
+      "path": "book/work/employment/injury/index.html",
+      "size": 165505,
+      "sha256": "95228faf33a568c5ae0467d1dba5688cfd66dd6d3dbc497dd715614619c07ff4"
+    },
+    {
+      "path": "book/work/employment/injury/index.md",
+      "size": 34673,
+      "sha256": "5bd7eaea33e42ccdc34cf505230ea44d17b04d60549d945827aebe5b5d8381d7"
+    },
+    {
+      "path": "book/work/employment/jobseeker-support/index.html",
+      "size": 136716,
+      "sha256": "77cd7de716a41eb90ba0b344e4cf2062794b1fd6f8d7143ebc12f0316b84fc3b"
+    },
+    {
+      "path": "book/work/employment/jobseeker-support/index.md",
+      "size": 13343,
+      "sha256": "27b2d458fa669ee497bf24af5dc5231be4b8cee632df2d1155e7060c594b6d9b"
+    },
+    {
+      "path": "book/work/employment/leaving-job/index.html",
+      "size": 138482,
+      "sha256": "900ae7cc91f1e367fa0d89c2f871242d43cdaf4aca6ee5c542cecce048724122"
+    },
+    {
+      "path": "book/work/employment/leaving-job/index.md",
+      "size": 13330,
+      "sha256": "0d29c89a893cfcac59b38adbd1119e513f5557facaf9e20155aa37785f5813da"
+    },
+    {
+      "path": "book/work/finance/banking/index.html",
+      "size": 149065,
+      "sha256": "432699207df9dfb4870c9c3eb3df81ddfab5ad217cccccf2bba222a0605d7040"
+    },
+    {
+      "path": "book/work/finance/banking/index.md",
+      "size": 22840,
+      "sha256": "5d6f61bda50d5cd2d45d45e31286cfd94f5b0eaebdd7837a6b436c49249ba20e"
+    },
+    {
+      "path": "book/work/finance/cpf-basics/index.html",
+      "size": 137268,
+      "sha256": "07b05bc2a757672bcead9ff29ebd895ac6b8d82b4917b150c6224229b8496757"
+    },
+    {
+      "path": "book/work/finance/cpf-basics/index.md",
+      "size": 13036,
+      "sha256": "9c9e32744ef8c2958b76fd2bb043465e1f8cd68f60d4459696671e3b1ba3731b"
+    },
+    {
+      "path": "book/work/finance/debt-disputes/index.html",
+      "size": 149681,
+      "sha256": "b8a32d03f5f9f4ec51b9f4c9fc70c2d56cb9c0778f7b099f939149abd75ab2e1"
+    },
+    {
+      "path": "book/work/finance/debt-disputes/index.md",
+      "size": 22857,
+      "sha256": "93438d11ca2f21361f65450ef17466499c882787d4c5761d07e404e468b49cbe"
+    },
+    {
+      "path": "book/work/finance/household-budget/index.html",
+      "size": 134314,
+      "sha256": "080496c141b9df7ea7990aaea0d4e6c11cef462d822c6f618ab79ef2db5ac55c"
+    },
+    {
+      "path": "book/work/finance/household-budget/index.md",
+      "size": 9660,
+      "sha256": "76b720549389458ae58a06ed795da241934916416149d19dff0e509c1299ab7a"
+    },
+    {
+      "path": "book/work/finance/index.html",
+      "size": 118352,
+      "sha256": "5d1669557d29a986159f3483846f644ba9e46b252c944beb2e92c41c06f830f4"
+    },
+    {
+      "path": "book/work/finance/index.md",
+      "size": 2559,
+      "sha256": "445b3d128f11dd4ec75eebb7c3dc85a44cc2bd25ceb7adceb96f5de39e544321"
+    },
+    {
+      "path": "book/work/finance/insurance/index.html",
+      "size": 150124,
+      "sha256": "b109ae2fbcd8fa7f65eb25e6f519dca3a307fb3e64c73311a4f6873961ad6c1c"
+    },
+    {
+      "path": "book/work/finance/insurance/index.md",
+      "size": 23389,
+      "sha256": "6151f30bae781da67c428a2665066a4ac7c4e80f5bdad7985ef4b9f6bfafc701"
+    },
+    {
+      "path": "book/work/finance/saving-investing/index.html",
+      "size": 146920,
+      "sha256": "d271f4a90b629d28305c7468f90b747950244fea2cc8ca5832cdba6da4cb2e23"
+    },
+    {
+      "path": "book/work/finance/saving-investing/index.md",
+      "size": 22763,
+      "sha256": "946ca14a3600fcdd27dc981a9f3629259ffab7446e1f50de542b26632f75dd6f"
+    },
+    {
+      "path": "book/work/finance/srs/index.html",
+      "size": 148945,
+      "sha256": "a4d65b83fe618a0ae5e33bf20714fdac3ce55cb6ed1f377e98e31955b992c026"
+    },
+    {
+      "path": "book/work/finance/srs/index.md",
+      "size": 22938,
+      "sha256": "786cc53d6b41ce9057d50d74f8479a4aece466004570210f2ddccd61603a0cf6"
+    },
+    {
+      "path": "book/work/index.html",
+      "size": 117651,
+      "sha256": "fd178ad8790dbf8c34132af1494465e7038c11cb56eec7d8cf15d1265761e944"
+    },
+    {
+      "path": "book/work/index.md",
+      "size": 2454,
+      "sha256": "426751f5151666ca000e250cb9d3b1fbb6aa717fe2455603d73594a79d9365a0"
+    },
+    {
+      "path": "book/work/tax/corrections-disputes/index.html",
+      "size": 150997,
+      "sha256": "0c03dba0c17a13b2765748733647d8e7447979b5f070fd978c14cc64f51a3a00"
+    },
+    {
+      "path": "book/work/tax/corrections-disputes/index.md",
+      "size": 26109,
+      "sha256": "3890cfe84587594c87d0f29be44f880cfa2dea8038379a929b17969944d9df29"
+    },
+    {
+      "path": "book/work/tax/cross-border/index.html",
+      "size": 142868,
+      "sha256": "987b96f12198d9a37ca84019deb0fb90172c328772f3108ed42781693b552600"
+    },
+    {
+      "path": "book/work/tax/cross-border/index.md",
+      "size": 18153,
+      "sha256": "09525421a87a637965bc15f06477a2c7f4da50ca170cc272e9c8927d2c10944d"
+    },
+    {
+      "path": "book/work/tax/index.html",
+      "size": 117711,
+      "sha256": "d7e356544d888025ee078df74a1417b0d7edff31543142e66a5b45b8452534bb"
+    },
+    {
+      "path": "book/work/tax/index.md",
+      "size": 2191,
+      "sha256": "586ba525ec11c55fbd7ceafa784b5b4b4fcbcbc606091c758d0eafe1dbb04c52"
+    },
+    {
+      "path": "book/work/tax/leaving-singapore/index.html",
+      "size": 137179,
+      "sha256": "72a611bf5199f5a0241f2b4cfc9fe2c17ea19c59be7cb40295868eadd309219c"
+    },
+    {
+      "path": "book/work/tax/leaving-singapore/index.md",
+      "size": 12250,
+      "sha256": "61a930abcc7651ab5d3eac248896252736d0f7607ed7f57536f8b76925666029"
+    },
+    {
+      "path": "book/work/tax/personal-tax/index.html",
+      "size": 135690,
+      "sha256": "e27067c4167b23f5c9249127206fe38b1be6ac46da69d6b0146e462bab99c5ae"
+    },
+    {
+      "path": "book/work/tax/personal-tax/index.md",
+      "size": 11718,
+      "sha256": "9caaf43f6f7ce82eec0c74e668d355ffc64e7ed887d39ff5a363af1182d7596a"
+    },
+    {
+      "path": "book/work/tax/property-tax/index.html",
+      "size": 149699,
+      "sha256": "3b85ff60552f15d22bf539526e789ca9fffdefa3aad69c7cd21f83eee6305390"
+    },
+    {
+      "path": "book/work/tax/property-tax/index.md",
+      "size": 24776,
+      "sha256": "a80e28b48f34c4c92e19dd6102df180859ad708fb63b8996b862b785b100add2"
+    },
+    {
+      "path": "docs/about/index.html",
+      "size": 63471,
+      "sha256": "339cd83f947ff2d66ce864bebcbf938b5940410ee476e50970711f0dec1a489b"
+    },
+    {
+      "path": "docs/about/index.md",
+      "size": 869,
+      "sha256": "a2f233e5da87b7b887e37b2a2407e8e666138693ec1800d8c82e181e8a7d4dac"
+    },
+    {
+      "path": "docs/glossary/index.html",
+      "size": 90211,
+      "sha256": "f8c35305f9ab03e0d0248dfd2249f739e0032796be0ac016a82a4575914ba079"
+    },
+    {
+      "path": "docs/glossary/index.md",
+      "size": 21682,
+      "sha256": "7de2f0f76aea97f8fe5aedc1a1eb50ab581b85b3036e6edb01aef89edee2a0de"
+    },
+    {
+      "path": "docs/index.html",
+      "size": 63258,
+      "sha256": "e0dbb4bda62ae44fa3fa416d0b3dc4ff6acb4c5ba3cee2cb1bfe735f04783739"
+    },
+    {
+      "path": "docs/index.md",
+      "size": 730,
+      "sha256": "42cb133583fed729b541e381fa4023b8f3bad38090c7f5090cbf9f37ebac6cf8"
+    },
+    {
+      "path": "docs/profiles/citizen/index.html",
+      "size": 66602,
+      "sha256": "dfe3542844023b7e8521d05e020c5fef045d7f11e5dc02d07960394a307bf2a2"
+    },
+    {
+      "path": "docs/profiles/citizen/index.md",
+      "size": 3138,
+      "sha256": "6fe5a9982a45d209d5e519bd69406bfb7f4cf1a996712b67119d68bc6d0c71e7"
+    },
+    {
+      "path": "docs/profiles/disability-care/index.html",
+      "size": 66305,
+      "sha256": "9cb24d61d20566569c731e18eb2711882acdf383df04047c0f7dca00fcf0a0a6"
+    },
+    {
+      "path": "docs/profiles/disability-care/index.md",
+      "size": 2612,
+      "sha256": "f9807332da475121fd07a733196497c5ef984c15bb33132d0147c42355ba5ca2"
+    },
+    {
+      "path": "docs/profiles/family/index.html",
+      "size": 68222,
+      "sha256": "6753b33d09d759c1d4324aca0330bb6d990ffcd61e6ed577daae41be3e2c56b2"
+    },
+    {
+      "path": "docs/profiles/family/index.md",
+      "size": 4716,
+      "sha256": "c1d381213d6317c8e7cb5d345abb5158aa31bd4bdeb6828cb7337ae8b13e417f"
+    },
+    {
+      "path": "docs/profiles/index.html",
+      "size": 66073,
+      "sha256": "7e7669569f01cc76a8c2d54b91c8a5aced619e6790456cf74581a997f31a4ed6"
+    },
+    {
+      "path": "docs/profiles/index.md",
+      "size": 1313,
+      "sha256": "2fcb44bee8cb1b7869b55629c4d4a11cde0edbe3a5101167d4651854e696f4cc"
+    },
+    {
+      "path": "docs/profiles/low-income/index.html",
+      "size": 66092,
+      "sha256": "0f514faa5d176a25e55c45b5a0e1cac92a31804c2629603acafb3a9a4462c761"
+    },
+    {
+      "path": "docs/profiles/low-income/index.md",
+      "size": 2441,
+      "sha256": "01c606b86c561aab9ce16dfd116d0d26b37eba946348253469083f6ac0634aa1"
+    },
+    {
+      "path": "docs/profiles/pr/index.html",
+      "size": 67110,
+      "sha256": "e148a6e8ee1c612faf5c7b047953008b28be6039214afaac39dca499d2e3fa79"
+    },
+    {
+      "path": "docs/profiles/pr/index.md",
+      "size": 3633,
+      "sha256": "bc97f324846457f12a3acef6e4cdbdf12b33dbfe12ee011b7bae23386c7fcf4c"
+    },
+    {
+      "path": "docs/profiles/student/index.html",
+      "size": 67164,
+      "sha256": "8280f0bcdd21697efa853c5027d7c4acb9581a9a5bac94b91fcb8928a2137e39"
+    },
+    {
+      "path": "docs/profiles/student/index.md",
+      "size": 3708,
+      "sha256": "99b876d8a2a1ed20e68184f45fef1ee2928fa32d28afe6a18b1e65d3a63ddb34"
+    },
+    {
+      "path": "docs/profiles/visitor/index.html",
+      "size": 65491,
+      "sha256": "dc0a244b4341730b7297d176f31f91d277041d8d7097d265f5f2d08f25287a10"
+    },
+    {
+      "path": "docs/profiles/visitor/index.md",
+      "size": 2105,
+      "sha256": "6a2e55e1d0d3c214d3a6c20ab26f621490b87e2169a6270b7e5ddaf38549804d"
+    },
+    {
+      "path": "docs/profiles/worker/index.html",
+      "size": 68326,
+      "sha256": "69bc2e072767c24984b5c395f7040fc707a89976ba259ec95b35a3c4ab5bcb8f"
+    },
+    {
+      "path": "docs/profiles/worker/index.md",
+      "size": 4761,
+      "sha256": "f7c5db1b16551026eddd688e35dae1707cb044af10938c513d0c3024fb432fa3"
+    },
+    {
+      "path": "docs/routes/adult-learning/index.html",
+      "size": 66759,
+      "sha256": "6fe93e129d8bb18bb859c086c02311f4011df245785a9378d3cf63a4f6f802a2"
+    },
+    {
+      "path": "docs/routes/adult-learning/index.md",
+      "size": 1773,
+      "sha256": "d9148b16be62473670eb60dc83d41fe38f632937e58e96463c91ec66eaeb750c"
+    },
+    {
+      "path": "docs/routes/caregiving/index.html",
+      "size": 68237,
+      "sha256": "6c567a5e15c9231fb12f271a579dbf6cdda87c7062e01afe63d5c54e27ce6f97"
+    },
+    {
+      "path": "docs/routes/caregiving/index.md",
+      "size": 2778,
+      "sha256": "d45747b4be7c9c1b90bb191e30b99308c3a3932d50d4f5eb737bcf5b79c6b02b"
+    },
+    {
+      "path": "docs/routes/cross-border-trip/index.html",
+      "size": 64883,
+      "sha256": "f6534ab52a0a66e7dd6ee53fce2c9eb2f9fbd99eb5f3d3c460569f940e08532e"
+    },
+    {
+      "path": "docs/routes/cross-border-trip/index.md",
+      "size": 1315,
+      "sha256": "bb2e1ab8939a4ab8b35e07429ec192a0a44b28067792b0cdecec722f66ec7725"
+    },
+    {
+      "path": "docs/routes/digital-safety/index.html",
+      "size": 64434,
+      "sha256": "de7794ff12d0f99061cdbc7a10c8b203376e1941563a8522cbf8c9821e31a4da"
+    },
+    {
+      "path": "docs/routes/digital-safety/index.md",
+      "size": 918,
+      "sha256": "ede17e458fa481acaf3a9a62b2e2f6fe648e9927014a5a8d56282e04f1b7e9a9"
+    },
+    {
+      "path": "docs/routes/family-separation/index.html",
+      "size": 66346,
+      "sha256": "d53fd8b2451b693ec9eeb2821f795bb6348dbaf31520cf4a254c765a3f5bc831"
+    },
+    {
+      "path": "docs/routes/family-separation/index.md",
+      "size": 1726,
+      "sha256": "c1ce2c9267cb5ae9ee59c52ae89051f9a131310337b933fca1acf26b26de247c"
+    },
+    {
+      "path": "docs/routes/financial-hardship/index.html",
+      "size": 67480,
+      "sha256": "8eea71fe564d418d01c3662ea09eaa56ee6d5578d25fa8b9d794d9eb77626c6b"
+    },
+    {
+      "path": "docs/routes/financial-hardship/index.md",
+      "size": 2310,
+      "sha256": "2cb0937e42e88801bfe0942ecf7ec7398bc0e80c7afc8d616a3674fa7ada9140"
+    },
+    {
+      "path": "docs/routes/getting-married/index.html",
+      "size": 65037,
+      "sha256": "d99e978aea8354b33cd07311702d2a23a34f506ce122c64eb12fc37bf48f3f90"
+    },
+    {
+      "path": "docs/routes/getting-married/index.md",
+      "size": 1402,
+      "sha256": "1a8a663d1666d60268ced7599425e71c65b3e16956d1d8b53af0bf16aab2dea3"
+    },
+    {
+      "path": "docs/routes/having-child/index.html",
+      "size": 65425,
+      "sha256": "4832a570d399af1517253c86e6b8816b2ef272234ea0702e92f5265b6edf94ec"
+    },
+    {
+      "path": "docs/routes/having-child/index.md",
+      "size": 959,
+      "sha256": "bbe96e5de104f696638f4a3ea3ab778007692dd3573dc78f31b17101f1ee685a"
+    },
+    {
+      "path": "docs/routes/higher-study/index.html",
+      "size": 66375,
+      "sha256": "d589a854092e17c5d0f0e36500d433ec739fc1f9fee73f7593f724e5a9cbeff8"
+    },
+    {
+      "path": "docs/routes/higher-study/index.md",
+      "size": 1724,
+      "sha256": "facad3f7e07073c752c029b8decaf8a4a3d7866a7fd76bd1a1f216ed34ad6cad"
+    },
+    {
+      "path": "docs/routes/illness/index.html",
+      "size": 65864,
+      "sha256": "84d756a99a9e356b88b3c26f4bd7261ce950487461114b506f66486015ea453d"
+    },
+    {
+      "path": "docs/routes/illness/index.md",
+      "size": 2344,
+      "sha256": "c1a3ac2f3d38725afb2eb3299d67717c7bba1e9c38dd89633d8e6cfcdba5d1b5"
+    },
+    {
+      "path": "docs/routes/index.html",
+      "size": 68943,
+      "sha256": "ddccc1df2565c47b27819161a165ef81c789c747aaef63ba1ca8d8fcf3d754e1"
+    },
+    {
+      "path": "docs/routes/index.md",
+      "size": 3359,
+      "sha256": "5470bfd47dbf215f179b8456792fd32ad69880e690ba3ca430889e7b41c2dff8"
+    },
+    {
+      "path": "docs/routes/leaving-job/index.html",
+      "size": 67563,
+      "sha256": "cc6faf07628f0b16b5d0cacd2fbcd8c3decd501eda27f9c3738660cab695c797"
+    },
+    {
+      "path": "docs/routes/leaving-job/index.md",
+      "size": 2630,
+      "sha256": "64b8b8d41ff679194dc73b96c6dc7f59fcb7b521ac02151ba77f0ac2784e9d74"
+    },
+    {
+      "path": "docs/routes/legal-notice/index.html",
+      "size": 68117,
+      "sha256": "6e796a828e2f643d0c2609ef7fbbbb2204970a90d01d99c72eeb91743b356f7b"
+    },
+    {
+      "path": "docs/routes/legal-notice/index.md",
+      "size": 2895,
+      "sha256": "18156015d79bd18484569bd3e8ff65b93e235eb6897c351f60d65fd151a9782c"
+    },
+    {
+      "path": "docs/routes/ns-family/index.html",
+      "size": 64627,
+      "sha256": "6da262408b00014a1aeed895ad81e9740be617d7cb86812b2de4092b115c83a9"
+    },
+    {
+      "path": "docs/routes/ns-family/index.md",
+      "size": 1164,
+      "sha256": "60dcbc7a0126545ce0e7af4bea7e595d4c2c2d659719a79859cdd7dd9d839fd0"
+    },
+    {
+      "path": "docs/routes/renting/index.html",
+      "size": 66039,
+      "sha256": "a4c18db7ec83ff0df71a5db213e6a676644b4ae3f58bedf064ba857db4163974"
+    },
+    {
+      "path": "docs/routes/renting/index.md",
+      "size": 1629,
+      "sha256": "026d3ff2a956e313b14b0ccba6bf558880565ce6863f2f0ddb6c86c3498da81c"
+    },
+    {
+      "path": "docs/routes/retirement/index.html",
+      "size": 67730,
+      "sha256": "929002b02dd2998828f380fc5c5111dc81a29af31b45fe21b48d195171c3d4f9"
+    },
+    {
+      "path": "docs/routes/retirement/index.md",
+      "size": 2355,
+      "sha256": "5196853a015603d060a2c1ebfedbb8c4e987dc4a229939ef127874c0552d7287"
+    },
+    {
+      "path": "docs/routes/settling-in/index.html",
+      "size": 65469,
+      "sha256": "ec2b3d21c9099090aadf5285f9a85a7e291cbbd7655fab50a3ec097e99addf32"
+    },
+    {
+      "path": "docs/routes/settling-in/index.md",
+      "size": 1972,
+      "sha256": "f9d3bc9e412e929ff67e35790f7571769386a8a4485599aef537854ff1d6d99c"
+    },
+    {
+      "path": "docs/routes/start-business/index.html",
+      "size": 67526,
+      "sha256": "b03878cb85460641c6cfd0a95586c2d50eb204e01edbf0d5d1f2e2a5b7fb4eb5"
+    },
+    {
+      "path": "docs/routes/start-business/index.md",
+      "size": 2440,
+      "sha256": "f8a4a1a2a84246ae0d3bf6a172e6364a77db5803c81af0053cbbdf3db322c383"
+    },
+    {
+      "path": "docs/routes/start-work/index.html",
+      "size": 67109,
+      "sha256": "4ccfb90a19e7d71dac15a39ec58b436e3f874f35a0b35970b60500e6472a0203"
+    },
+    {
+      "path": "docs/routes/start-work/index.md",
+      "size": 2401,
+      "sha256": "029188a101fb2ecca6febb61c682fc03a88834b5ccbf647c152e8c1000cb0a47"
+    },
+    {
+      "path": "docs/routes/tax-problem/index.html",
+      "size": 66200,
+      "sha256": "13c8ba29e1790c08b9c21179f0f4ac2fb1c48ef50050990a51bc03e4604cfe10"
+    },
+    {
+      "path": "docs/routes/tax-problem/index.md",
+      "size": 1545,
+      "sha256": "a98635daf73e87ba79d3126af6a60cd2b3e6fc7c33ba8b4b13f2a7d77213c75b"
+    },
+    {
+      "path": "docs/routes/urgent-help/index.html",
+      "size": 64887,
+      "sha256": "1605cdb814892b0e0b81338f0ef74a192693f778632a67dfe18d607d36ff9b29"
+    },
+    {
+      "path": "docs/routes/urgent-help/index.md",
+      "size": 1359,
+      "sha256": "f6ad20b8325de81e6bfc3e56789ad9edd0deb9a7490b82cba7ef5565fa269b75"
+    },
+    {
+      "path": "docs/routes/when-someone-dies/index.html",
+      "size": 68160,
+      "sha256": "765d20f6117ebce1a4822da1fb0f7718b5426e3609a3f1b5a80f84909c7f4ae8"
+    },
+    {
+      "path": "docs/routes/when-someone-dies/index.md",
+      "size": 2289,
+      "sha256": "f689393cd4dd6421a16cf5359b89a2e04876414911b2e54fe70ee39b54ce40a1"
+    },
+    {
+      "path": "favicon-192x192.png",
+      "size": 7650,
+      "sha256": "6bdffa6ca427990ba6ba8cbfe134ec0cda32772dbe27232d9d2b55fbdb76086c"
+    },
+    {
+      "path": "favicon-32x32.png",
+      "size": 1055,
+      "sha256": "eaff14889b96bea93ef5621f3feff86f4fc79c47148ecbde8439a4f3ec002986"
+    },
+    {
+      "path": "favicon.ico",
+      "size": 15086,
+      "sha256": "481025736bf55521a075296a76ef68f5bd46af386b8660ca590b08ffa0d76963"
+    },
+    {
+      "path": "favicon.svg",
+      "size": 814,
+      "sha256": "f37d802e9ce05ec3a3a0e5bff481c5ef7e187aecfc443f7fb4a09873b46ad007"
+    },
+    {
+      "path": "images/neighbourhood.svg",
+      "size": 1792,
+      "sha256": "21150f7f6232aa9ddd33d4aa381515c7b586e40ef3183bc694cff9d3c8384180"
+    },
+    {
+      "path": "images/sg-life-hero.webp",
+      "size": 458364,
+      "sha256": "f361c9c9f99ae81030d8eb0a420630925b7c55aa5c3ff9d5ef01ffc17a4b1410"
+    },
+    {
+      "path": "index.html",
+      "size": 82693,
+      "sha256": "7d2067845c2147c4a66dacc1b934d74a5748314865ebf29f5e91ac13cc45a89a"
+    },
+    {
+      "path": "index.md",
+      "size": 19318,
+      "sha256": "88ba71ce535f5d615e00d3eff698c6e63625fd75fcfed4f26254bc883d7bc67b"
+    },
+    {
+      "path": "js/actions.min.404f6d6de42bf414c7590776bc5620038b9e38d59b413338757188542251d8df.js",
+      "size": 9710,
+      "sha256": "404f6d6de42bf414c7590776bc5620038b9e38d59b413338757188542251d8df"
+    },
+    {
+      "path": "js/chunks/appearance.min.bb55c2f4f09f24fa67d623d0e49136f2ca909663c226f7d514250b0e71b173ab.js",
+      "size": 5221,
+      "sha256": "bb55c2f4f09f24fa67d623d0e49136f2ca909663c226f7d514250b0e71b173ab"
+    },
+    {
+      "path": "js/chunks/code-block.min.e93fca3edcac8b801a5038bcb8ff59f355dbb8865cfd2a32b4250bd3915b3360.js",
+      "size": 5548,
+      "sha256": "e93fca3edcac8b801a5038bcb8ff59f355dbb8865cfd2a32b4250bd3915b3360"
+    },
+    {
+      "path": "js/chunks/dark-mode.min.26a1ea15169b5422bd8de20c9df3013b8429dbc1a66b6e9ad70406bf05a344b6.js",
+      "size": 3354,
+      "sha256": "26a1ea15169b5422bd8de20c9df3013b8429dbc1a66b6e9ad70406bf05a344b6"
+    },
+    {
+      "path": "js/chunks/footer-collapse.min.a5a579fd78c21d241afe7623d70dd05f6de27295ebfd709e3f26f1eeaf38d6de.js",
+      "size": 958,
+      "sha256": "a5a579fd78c21d241afe7623d70dd05f6de27295ebfd709e3f26f1eeaf38d6de"
+    },
+    {
+      "path": "js/chunks/keyboard.min.eece081e96fd92b1610336ebcc7e1ea9a5b1188b63ac9e279809cd6f27bf97f1.js",
+      "size": 11911,
+      "sha256": "eece081e96fd92b1610336ebcc7e1ea9a5b1188b63ac9e279809cd6f27bf97f1"
+    },
+    {
+      "path": "js/chunks/landing.min.9d461a9adad2296b810990b9711c39cb2bbcb1dc44723172051eb0f8480ea6e9.js",
+      "size": 5278,
+      "sha256": "9d461a9adad2296b810990b9711c39cb2bbcb1dc44723172051eb0f8480ea6e9"
+    },
+    {
+      "path": "js/chunks/local-search.min.8836375dad5247c4eb1b4dea0eb2506549100989120a79b9148ff25a7f8aa902.js",
+      "size": 21369,
+      "sha256": "8836375dad5247c4eb1b4dea0eb2506549100989120a79b9148ff25a7f8aa902"
+    },
+    {
+      "path": "js/chunks/shell.min.3fff704cad6701799a1f84dbb9aec8ec713d0879282871e4715d0ab446a2da0a.js",
+      "size": 16487,
+      "sha256": "3fff704cad6701799a1f84dbb9aec8ec713d0879282871e4715d0ab446a2da0a"
+    },
+    {
+      "path": "js/core.min.9d572929bf152f8c3018bd8c276e7338cecd5fdada90aefbf09c56c913fb7668.js",
+      "size": 91702,
+      "sha256": "9d572929bf152f8c3018bd8c276e7338cecd5fdada90aefbf09c56c913fb7668"
+    },
+    {
+      "path": "js/third_party/lunr.min.0c50d9002b85780a842afffb567bb54ede402dae7c6dc5997a018614d8044fc8.js",
+      "size": 29510,
+      "sha256": "0c50d9002b85780a842afffb567bb54ede402dae7c6dc5997a018614d8044fc8"
+    },
+    {
+      "path": "llms.txt",
+      "size": 6102,
+      "sha256": "c6fdb3a0984de3b11138e12779930414668df5e6c8d00a074c8c5319a381d112"
+    },
+    {
+      "path": "navigation.json",
+      "size": 63963,
+      "sha256": "79dd77bd51675ecfc5345cce6a39f3c07debd249e184f96f9d4b1dd4d742a95c"
+    },
+    {
+      "path": "offline-search-index.zh.410be6f89aac63d131e384c222f7b2a1.json",
+      "size": 1647820,
+      "sha256": "7963cc5b8551bd109cd4d3c9a0fb5f85ffeb66e76a5f6f3c30c7996dd0199737"
+    },
+    {
+      "path": "robots.txt",
+      "size": 66,
+      "sha256": "c0444234824ffc0df1722d67436f036c097ff7e24b1750e8a52692c0c7f44d91"
+    },
+    {
+      "path": "scss/fontawesome.min.d1b0898e80994c0e0be2e673debfd8c2e5eb8c0b96d55c483e1be19cb01e5d10.css",
+      "size": 98232,
+      "sha256": "d1b0898e80994c0e0be2e673debfd8c2e5eb8c0b96d55c483e1be19cb01e5d10"
+    },
+    {
+      "path": "scss/main.min.9262e2e5fd846bb7b036ca41b75496b0a09b57b1e87d7801f00eb483a0c9a8c0.css",
+      "size": 518325,
+      "sha256": "9262e2e5fd846bb7b036ca41b75496b0a09b57b1e87d7801f00eb483a0c9a8c0"
+    },
+    {
+      "path": "sitemap.xml",
+      "size": 22056,
+      "sha256": "93c932494c28f7c92e8697a87a6412e7b8e09c38032c9ae685985ee3335537d3"
+    },
+    {
+      "path": "webfonts/brand/chakra-petch-latin-700-normal.woff2",
+      "size": 9900,
+      "sha256": "ce5095dc1cb200aaa939e38067a0677018d10e9f26ec38cdcf1557ac524fc775"
+    },
+    {
+      "path": "webfonts/brand/ibm-plex-mono-latin-400-italic.woff2",
+      "size": 16448,
+      "sha256": "0840095faae86403735a8c04014b72cb29e7923646b222b360b7e8252932e4e3"
+    },
+    {
+      "path": "webfonts/brand/ibm-plex-mono-latin-400-normal.woff2",
+      "size": 14708,
+      "sha256": "08949f728dc52d528e69b1667d15c89a5686a4ee9a296ff90983985f99c380f7"
+    },
+    {
+      "path": "webfonts/brand/ibm-plex-mono-latin-600-normal.woff2",
+      "size": 15620,
+      "sha256": "0d1f0b8d0722224e32e9f28261bdc86c79115be73444ae5eceb73976a1bcdf83"
+    },
+    {
+      "path": "webfonts/fa-brands-400.woff2",
+      "size": 115420,
+      "sha256": "ff66d1cfb67dbe3da432bbe36572cabfa4eef0e591303c2cba111474ba1d15bc"
+    },
+    {
+      "path": "webfonts/fa-regular-400.woff2",
+      "size": 19512,
+      "sha256": "f4722d10b9e1b41eefe3b51a026312ee1970edb7782f94b0080d3d475945734c"
+    },
+    {
+      "path": "webfonts/fa-solid-900.woff2",
+      "size": 119488,
+      "sha256": "24e5fae26b41c08b2df81c91669f5aaae71d81a84a4713fc56b5c621b78dd456"
+    },
+    {
+      "path": "webfonts/ibm-plex-sans/ibm-plex-sans-cyrillic-ext-wght-italic.woff2",
+      "size": 26832,
+      "sha256": "a2d42695992c09c9ea546a48cbcae7b7d140d0e8e163c7cccf0e9bc86c54b5b3"
+    },
+    {
+      "path": "webfonts/ibm-plex-sans/ibm-plex-sans-cyrillic-ext-wght-normal.woff2",
+      "size": 23568,
+      "sha256": "7d0037a170882a49e65a45c38ef195237bb07b1cc791d078379f0ac0d7ae1935"
+    },
+    {
+      "path": "webfonts/ibm-plex-sans/ibm-plex-sans-cyrillic-wght-italic.woff2",
+      "size": 32632,
+      "sha256": "e71db60f3419842ad61305fcb22100fc0ea34f6aaa98d1f028de948751f08d88"
+    },
+    {
+      "path": "webfonts/ibm-plex-sans/ibm-plex-sans-cyrillic-wght-normal.woff2",
+      "size": 29512,
+      "sha256": "9409ee21811f0f5272b7e1d828fe8838005b0573481ef906e7e55b63f6610ab0"
+    },
+    {
+      "path": "webfonts/ibm-plex-sans/ibm-plex-sans-greek-wght-italic.woff2",
+      "size": 21752,
+      "sha256": "f1fae68d3ec66f93b54f951d1b1e3ff91250d0201c74d0904b9b76f842b6dcb1"
+    },
+    {
+      "path": "webfonts/ibm-plex-sans/ibm-plex-sans-greek-wght-normal.woff2",
+      "size": 19500,
+      "sha256": "f598dd0700f155e2facfaa8ecfacace397d4c2c153e9ce37ab7ad310e8505bc2"
+    },
+    {
+      "path": "webfonts/ibm-plex-sans/ibm-plex-sans-latin-ext-wght-italic.woff2",
+      "size": 33900,
+      "sha256": "bf44b77cc751203b2f0ce95c048a9d8f984313f84b58106c7c4410ca50314016"
+    },
+    {
+      "path": "webfonts/ibm-plex-sans/ibm-plex-sans-latin-ext-wght-normal.woff2",
+      "size": 30964,
+      "sha256": "d160e20920ae4d6556518d352d3af27a74e9b0de3d8fe17b1c1044fc75aa2f81"
+    },
+    {
+      "path": "webfonts/ibm-plex-sans/ibm-plex-sans-latin-wght-italic.woff2",
+      "size": 50184,
+      "sha256": "4363757d2695c7633f98472855849f7c30528eba869d7968ee35b58c87cf14c1"
+    },
+    {
+      "path": "webfonts/ibm-plex-sans/ibm-plex-sans-latin-wght-normal.woff2",
+      "size": 45712,
+      "sha256": "e2291e842cf5af167122a22881a740c7f2dda7716f1e8cd76680264f4a859470"
+    },
+    {
+      "path": "webfonts/ibm-plex-sans/ibm-plex-sans-vietnamese-wght-italic.woff2",
+      "size": 14868,
+      "sha256": "7077db90dd878de58b87c5d6762658b04ab940e644104211945b58203856a9ca"
+    },
+    {
+      "path": "webfonts/ibm-plex-sans/ibm-plex-sans-vietnamese-wght-normal.woff2",
+      "size": 13160,
+      "sha256": "73e7f7b1c980416ae0c2461268b14c7cfcce0668e683dc43fbb11a82a227b9f2"
+    },
+    {
+      "path": "webfonts/inter/inter-cyrillic-ext-wght-italic.woff2",
+      "size": 27380,
+      "sha256": "39689184132e9fba8fb1066f429125d14445352a566f47f4edcae7c3c90e486d"
+    },
+    {
+      "path": "webfonts/inter/inter-cyrillic-ext-wght-normal.woff2",
+      "size": 25960,
+      "sha256": "ca157063339ac4ad418f214f3abfed119b0798ab4d377386ce5c9e5a7a435ebd"
+    },
+    {
+      "path": "webfonts/inter/inter-cyrillic-wght-italic.woff2",
+      "size": 19980,
+      "sha256": "47d42151dff6d13f1c2b9a1f278290f625593c1f01c89612ee4ae7f063167f7a"
+    },
+    {
+      "path": "webfonts/inter/inter-cyrillic-wght-normal.woff2",
+      "size": 18748,
+      "sha256": "71d5ee93cc1e9f1d520a3a8b66456de18c7879d8df09d57fcd2eaff75fef0075"
+    },
+    {
+      "path": "webfonts/inter/inter-greek-ext-wght-italic.woff2",
+      "size": 12096,
+      "sha256": "787fc783f35c913334445a7c4502bb272f94a8328426578776eac5e4ebd03ba1"
+    },
+    {
+      "path": "webfonts/inter/inter-greek-ext-wght-normal.woff2",
+      "size": 11232,
+      "sha256": "6e9e020a25f9b56d418f2c085b1d3c09725a4da23fe693a5b463064606732190"
+    },
+    {
+      "path": "webfonts/inter/inter-greek-wght-italic.woff2",
+      "size": 20484,
+      "sha256": "29e273a42cac8240f37fbdd94c684f8a255e61c8076942d9b8f18a0e2c014991"
+    },
+    {
+      "path": "webfonts/inter/inter-greek-wght-normal.woff2",
+      "size": 18996,
+      "sha256": "1be3448e292fbf05ffe176fe1e43f135013d50b1e7d324ad1a558f623d3bb6f6"
+    },
+    {
+      "path": "webfonts/inter/inter-latin-ext-wght-italic.woff2",
+      "size": 91900,
+      "sha256": "71254244ccb1ec21e14db3480fef6f6826d1136dc4aca1c7d3ca7ce31294fcce"
+    },
+    {
+      "path": "webfonts/inter/inter-latin-ext-wght-normal.woff2",
+      "size": 85068,
+      "sha256": "34b9c504cab7a73e37b746343a449132e56cf7b5481af2cb81dc74dcff25c956"
+    },
+    {
+      "path": "webfonts/inter/inter-latin-wght-italic.woff2",
+      "size": 51832,
+      "sha256": "7291b5970da2237441273c03b424a504b70b18f09791473fab99687dcc314720"
+    },
+    {
+      "path": "webfonts/inter/inter-latin-wght-normal.woff2",
+      "size": 48256,
+      "sha256": "3100e775e8616cd2611beecfa23a4263d7037586789b43f035236a2e6fbd4c62"
+    },
+    {
+      "path": "webfonts/inter/inter-vietnamese-wght-italic.woff2",
+      "size": 10596,
+      "sha256": "1991ed5832eb07f7523f22a843ca9a8aa83c51c8e87062ce77794855d2f5dee8"
+    },
+    {
+      "path": "webfonts/inter/inter-vietnamese-wght-normal.woff2",
+      "size": 10252,
+      "sha256": "5c66f9e07e90c6d4ac4922cc68d60de26c17b1858e677fb5e603fce3952b3ff2"
+    }
+  ],
+  "parallel_ui_inputs": {
+    "assets/scss/_styles_project.scss": {
+      "size": 18359,
+      "sha256": "a2b0d3acad496af15c9adf1ac7137da6b7cdf0adb674c8ad5f7e7e75e719fc11",
+      "mtime": "2026-10-14T15:20:44.378379+08:00"
+    },
+    "content/_index.md": {
+      "size": 546,
+      "sha256": "0736054d886cdd1c62557da4c733a292c34b257d5a991161ea3ae17c079bf4cb",
+      "mtime": "2026-10-14T14:45:36.634475+08:00"
+    },
+    "hugo.yaml": {
+      "size": 6472,
+      "sha256": "89cbe0c64b1883bd80a9c908b629ba4dc3c4eb6104f20bc82f9293d69db355d5",
+      "mtime": "2026-10-14T14:44:01.351923+08:00"
+    },
+    "layouts/landing.html": {
+      "deleted": true
+    },
+    "layouts/landing.md": {
+      "size": 1475,
+      "sha256": "46400fb78046cbee667e764dcec2422675b5e67f30666fe16a09469f852a5614",
+      "mtime": "2026-10-14T14:45:30.378326+08:00"
+    },
+    "static/favicon.svg": {
+      "size": 814,
+      "sha256": "f37d802e9ce05ec3a3a0e5bff481c5ef7e187aecfc443f7fb4a09873b46ad007",
+      "mtime": "2026-10-14T14:43:40.301035+08:00"
+    },
+    "static/images/neighbourhood.svg": {
+      "size": 1792,
+      "sha256": "21150f7f6232aa9ddd33d4aa381515c7b586e40ef3183bc694cff9d3c8384180",
+      "mtime": "2026-10-14T16:52:56.890829+08:00"
+    },
+    "static/logo.svg": {
+      "deleted": true
+    },
+    "data/footer.yaml": {
+      "size": 1116,
+      "sha256": "e2c18edf44f8b207efaf9c0aa57b48e38ae10c1a680beffcc4f758ef240bc1a3",
+      "mtime": "2026-10-14T16:54:03.431271+08:00"
+    },
+    "data/landing/home.yaml": {
+      "size": 8258,
+      "sha256": "ad41a6b6d0f275d789869fdaf90c946c9437919252d56940b96024c3d1c752be",
+      "mtime": "2026-10-14T16:53:29.058716+08:00"
+    },
+    "layouts/_partials/landing/guide-head.html": {
+      "size": 551,
+      "sha256": "db6634ea5717e49b08af63977192fd39a7b03c7f4bcf61625de9d03f9db23f14",
+      "mtime": "2026-10-14T14:45:18.131521+08:00"
+    },
+    "layouts/_partials/landing/sections/guide-routes.html": {
+      "size": 1279,
+      "sha256": "10bcaeaa36c366389d5a8e432593d781589dc5ac731b73d47b57f3228da1788d",
+      "mtime": "2026-10-14T14:45:18.457740+08:00"
+    },
+    "layouts/_partials/landing/sections/guide-parts.html": {
+      "size": 2248,
+      "sha256": "a149e19b85382c19fe97d235fc02ecbbded108c30100b0778528e4188806bd33",
+      "mtime": "2026-10-14T14:45:18.295889+08:00"
+    },
+    "layouts/_partials/landing/sections/guide-tools.html": {
+      "size": 2147,
+      "sha256": "46b7ddad6a75a97130eb35c42bd2bf539d02afaada4f83b5233761ce5d6c8c9e",
+      "mtime": "2026-10-14T14:45:18.623258+08:00"
+    },
+    "static/apple-touch-icon.png": {
+      "size": 7888,
+      "sha256": "9ffc8d1e5c1e2ed6120cd9f9bdd519446a3a93e9851f5e4da47fabad82549bdc",
+      "mtime": "2026-10-14T14:43:47.524144+08:00"
+    },
+    "static/favicon-192x192.png": {
+      "size": 7650,
+      "sha256": "6bdffa6ca427990ba6ba8cbfe134ec0cda32772dbe27232d9d2b55fbdb76086c",
+      "mtime": "2026-10-14T14:43:47.458758+08:00"
+    },
+    "static/favicon-32x32.png": {
+      "size": 1055,
+      "sha256": "eaff14889b96bea93ef5621f3feff86f4fc79c47148ecbde8439a4f3ec002986",
+      "mtime": "2026-10-14T14:43:47.394352+08:00"
+    },
+    "static/favicon.ico": {
+      "size": 15086,
+      "sha256": "481025736bf55521a075296a76ef68f5bd46af386b8660ca590b08ffa0d76963",
+      "mtime": "2026-10-14T14:43:47.727748+08:00"
+    }
+  },
+  "parallel_ui_changes_since_f": [
+    "static/images/neighbourhood.svg",
+    "data/footer.yaml",
+    "data/landing/home.yaml"
+  ],
+  "engineering_changes": "Only three topicmetadata and20navigation. Three maps append root engineeringreceipt after frozen-revieworiginal; authoredbody unchanged. Current3foreignUIsource changes sinceF read completely and preserved; fresh gate reproduces all403 tested outputs exactly.",
+  "limitations": [
+    "ConcurrentHDBdraft appeared after initial176/108/5; final177/109/6 unpublisheddraft excludesoutput, all403 outputs byteequal.",
+    "ParallelUI sources retained and hashed; not staged or claimed freshclone reproduces uncommittedUI.",
+    "Full28necessaryseeds,corehousing/privacy/admission and5readerwalks/finalHUM not complete.",
+    "No externalpush/deploy,DNS,contact,privatelogin or realapplication."
+  ]
+}

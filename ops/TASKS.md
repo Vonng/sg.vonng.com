@@ -1,6 +1,6 @@
 # 任务总账
 
-现场更新：2026-10-14 15:43（Asia/Singapore）。HEAD f0da9fa（B06F待本地保存）；B06F三主题已同版完整两审及实际工程，累计100 integrated／396产物，public逐路径/大小/SHA一致。实际108主题＝100 integrated＋8 written草稿；111候选余3无正文（HDB、EC、disputes），篇数不代全28必要种子。A独占HDB/EC并优先controlled第三，B workplace正式facts已PASS、现恢复border作者，C workplace第三已PASS并续parks-water，root tropical完整事实／disputes及privacy-data接续。travel-support仍root保管冻结；已拥有稿不按旧planned另派。首页并行改版保留，root修了实际手机溢出及短语搜索，未知源改动/小图标不混本批提交；全书与五情境仍未通过。
+现场更新：2026-10-14 17:19（Asia/Singapore）。B06G职场协作、热带风险与受管制物品已同版完整两审及实际本地接收，累计103 integrated／403产物，public逐路径、大小、SHA一致；提交前基线B06F 60f0853，实际HEAD恢复时核Git。当前110主题＝103已接收＋7草稿；111候选余disputes一个未建正式正文，其123行完整工作稿在root ignored cache，尚未HUM最终复读／支持／冻结。A独占HDB／EC并优先border真正第三；HDB133首冻但核心资格仍未知，EC122工作稿未冻。B转privacy-data唯一作者，C转travel-support唯一作者；parks C110已B完整facts PASS交root第三，border B163已C完整facts PASS交A第三。外来初稿和旧旗标不代接续阅读，不按旧planned抢文件。首页源稿保留，三处16:52—54新资料已全文读并另门禁复现已测403产物，不混未知UI／图标提交；全28种子、五情境与核心条件仍未整体完成。
 
 | 任务 | 所有者 | 状态 | 依赖与完成标准 |
 |---|---|---|---|
@@ -23,9 +23,10 @@
 | B06D 预先安排、死亡善后、权利通知与持续经营 | C规划/死亡作者；B通知作者/经营事实；A规划/死亡事实；root规划/死亡第三、通知事实及经营作者；C通知/经营第三 | integrated | 四最终bodyb398597d…/92e8f359…/06c218a0…/c2c02b06…完整两审及工程；64+82实际检查、五网页/十一PDF目视、378输出一致，详checks/b06d-acceptance |
 | B06E 求职、风险退出 | root接收工程；A/B/C按正式审稿角色 | integrated 2 | 求职f20dd633…/风险89f08e95…完整两审和真实工程，已本地提交f0da9fa |
 | B06F 签前、履行、录用 | C合同作者；A录用作者；B签前/录用facts；root履行facts及工程；A合同第三/C录用第三 | integrated 3 | 最终fbd61158…／02385c9b…／5a2101d1…完整两审同版PASS，20导航、25路径双视口66基础＋128额外真实实点；打印100来源表/632页、root六网页八PDF实际样本；396初终/public完整清单一致，checks/b06f-acceptance |
-| 后续职业/合同 | A workplace作者／B facts／C第三；root disputes作者 | reviewing / researching | workplace最终131行bodye028dcf6…，B77完整facts22b5730a…/C33真正第三ba78f7b9…均正式PASS，待root实接/工程；disputes完整程序仍未成稿，详真实断点 |
-| 安全与户外独立交接 | C tropical/parks作者；B controlled/border作者；root tropical facts及保管support | written / reviewing / researching | controlled142二冻0b94dbd3…/C完整30主体facts正式PASS→A真正第三；tropical142首冻556e9b79…→root全facts/A第三；C唯一接续parks-water，B border真断点37组待完整成稿，support原51行冻结未分派；外来摘要不代本人全源或异审 |
-| 住房与资料权利核心 | A HDB/EC唯一作者；root privacy-data唯一接续 | researching / written初稿 | HDB/EC旧失败不重探，新版本详原文与逐批次条件实际核；privacy39行初稿已外部明确交接，2019分章不能替现法/完整费用例外验证投诉；均未通过独审 |
+| B06G 职场与两安全 | A/B/C/root按正式角色 | integrated 3 | e028dcf6…／d40bb71d…／2f2bcba0…完整两审及25路径66＋118实测；六网页十PDF实际样本，655页打印，403产物全一致，checks/b06g-acceptance |
+| 合同争议接续 | root唯一作者 | private complete draft / HUM pending | 123行完整工作稿及15完整块修订在ignored cache；现行送达七天、SMC及一般时效已原文读，最终HUM全读、证据地图与独审待做 |
+| 户外完整接续与独审 | C parks／support作者；B border作者；B parks facts／C border facts；root parks第三／A border第三 | written / reviewing | parks110 1b4b4267…已B全29必要原文facts PASS；border163 eec08eab…已C全44原文facts PASS，三个政策反馈已B修及C重绑；support原51已明确转C作者，未完整接续／独审 |
+| 住房与资料权利核心 | A HDB/EC唯一作者；B privacy-data唯一接续作者 | written / researching | HDB133正式作者首冻17来源，但关键资格分支具体未知未闭；EC122完整工作稿未HUM／冻；privacy39初稿已转B，现法／各请求期限费用例外验证DPO投诉仍须完整回源，不继承2019规则 |
 | 首页并行改版 | 外部源稿保留；root必要工程修复/验收 | partial engineering passed / source handoff pending | 原始完整快照已存；root仅六行手机footer修复和自有短语搜索override；固定页脚链接守卫7案例、实际25路径/暗色/手机通过。四预设与工具卡片整卡/图标同行尚待最终首页走查，未知源/4小图标不混F stage |
 | HUM 全书说人话校对 | root；coverage_audit/review_state_audit交叉限定两审 | in progress（已公开源闭合） | 按 ops/HUMANIZE.md（提示词v2）初始94队列并追增实际源（二核140，已补登caregiver-support/property-tax）；礼节/小贩两份九处表达已限定事实及第三编辑通过，主控已应用并完成B04A生产、双视口及打印验收。删说教/免责/无信息量否定，事实层零变动；在途draft待集成后补；独立版本与accepted SHA绑定，闭环后主控工程验收 |
 

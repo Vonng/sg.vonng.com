@@ -26,7 +26,7 @@ weight: 30
 | REP / Exit Permit | PR再入境许可 / NS离境许可 | [身份](/book/life/documents/status-and-eligibility/)、[NS](/book/life/documents/national-service/) |
 | NS / CMPB | 国民服役 / 中央人力局 | [服役安排](/book/life/documents/national-service/) |
 | GP / polyclinic / SOC | 家庭医生 / 综合诊疗所 / 专科门诊 | [就医](/book/people/healthcare/getting-care/) |
-| CHAS / MediSave | 社保援助计划 / 保健储蓄 | [付款](/book/people/healthcare/healthcare-payments/) |
+| CHAS / MediSave | 社区保健援助计划 / 保健储蓄 | [付款](/book/people/healthcare/healthcare-payments/) |
 | MediShield Life / MediFund | 终身健保 / 保健基金 | [付款](/book/people/healthcare/healthcare-payments/) |
 | CPF / OA / SA / MA / RA | 公积金及普通、特别、保健储蓄、退休账户 | [CPF](/book/work/finance/cpf-basics/) |
 | MRT / LRT | 地铁 / 轻轨 | [乘车](/book/life/transport/public-transport/) |
@@ -84,7 +84,7 @@ weight: 30
 | custody / care and control / access / CPP / MCP | 孩子重大决定、日常照顾、探视、共同育儿及婚姻辅导 | [分居、离婚与孩子安排](/book/people/family/separation-safety/) |
 | EIR / CBS / MLCB / DCP / DMP / MDMP / DRS | 有效利率、信用资料机构、债务整合、银行及持牌放贷债务管理和法院转介偿债计划 | [信用与债务](/book/work/finance/debt-disputes/) |
 | EA（雇佣法） / KET / PWM / LQS | Employment Act、关键雇佣条款、渐进式薪金及本地员工薪金要求；适用条件各自判断 | [劳动权益](/book/work/employment/employment-rights/)、[录用条款](/book/work/career/offer/) |
-| GPPL / SPL / FWA | 政府付薪陪产假、共享育儿假及弹性工作安排 | [假期与工作安排](/book/work/employment/employment-rights/) |
+| GPPL / SPL / FWA | 政府付薪陪产假、共享育儿假及弹性工作安排 | [假期与工作安排](/book/work/employment/employment-rights/)、[正式弹性请求](/book/work/career/workplace/) |
 | COR / FTC / CRS / FATCA | 税务居民证明、外国税抵免及金融账户税务信息制度 | [跨境税务](/book/work/tax/cross-border/) |
 | CREST / COMIT / CHAT / IMH / NAMS | 社区外展、社区介入、青年评估、心理卫生学院及成瘾治疗服务 | [心理支持与治疗](/book/people/accessibility/mental-health/) |
 | ACRA / Bizfile / UEN / CSP / LLP | 企业登记机关、登记平台、统一实体编号、公司服务商及有限责任合伙 | [设立与开业](/book/work/business/starting-business/) |
@@ -136,3 +136,7 @@ weight: 30
 | SIP 2.0 / SDRP / SWUP | 简化破产程序及简化债务重组、清盘分支；企业资格和清偿能力分别核 | [债务与停业选路](/book/work/business/risk-exit/) |
 | strike off / winding up | 除名 / 清盘；按企业形式、债务与程序选择 | [关闭业务与记录保存](/book/work/business/risk-exit/) |
 | GST F8 / OMV | GST最终申报表 / 公开市场价值；停业资产处理按具体GST条件核 | [取消GST与退出税务](/book/work/business/risk-exit/) |
+| PSI / PM2.5 / WBGT / MSS | 污染物标准指数、细颗粒物浓度、湿球黑球温度及气象署；读数口径与活动安排分别核 | [空气、天气与热应激](/book/rights/safety/tropical-hazards/) |
+| HSS / PHPC / MFEC | 烟霾补贴计划、公共卫生防范诊所及医疗费用豁免卡；身份、卡类与就诊地点分别核 | [烟霾就医资格与费用](/book/rights/safety/tropical-hazards/) |
+| TVCA / SPS / MDA / GEWCA | 烟草与电子烟管制法、指定精神活性物质、滥用药物法及枪械爆炸物武器管制法；产品与行为各有适用规则 | [电子烟、药物与物品管制](/book/rights/safety/controlled-items/) |
+| HPB / QuitLine / NAMS / CNB | 保健促进局、戒烟支持电话、成瘾治疗服务及中央肃毒局；治疗、举报和本人自首分别办理 | [治疗与求助选路](/book/rights/safety/controlled-items/) |

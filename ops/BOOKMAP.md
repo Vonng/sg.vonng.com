@@ -1,6 +1,6 @@
 # 全书内容地图
 
-现场更新：2026-10-14 15:43（Asia/Singapore）。HEAD f0da9fa（B06F待本地保存）；B06F三主题已同版完整两审及实际工程，累计100 integrated／396产物，public逐路径/大小/SHA一致。实际108主题＝100 integrated＋8 written草稿；111候选余3无正文（HDB、EC、disputes），篇数不代全28必要种子。A独占HDB/EC并优先controlled第三，B workplace正式facts已PASS、现恢复border作者，C workplace第三已PASS并续parks-water，root tropical完整事实／disputes及privacy-data接续。travel-support仍root保管冻结；已拥有稿不按旧planned另派。首页并行改版保留，root修了实际手机溢出及短语搜索，未知源改动/小图标不混本批提交；全书与五情境仍未通过。
+现场更新：2026-10-14 17:19（Asia/Singapore）。B06G职场协作、热带风险与受管制物品已同版完整两审及实际本地接收，累计103 integrated／403产物，public逐路径、大小、SHA一致；提交前基线B06F 60f0853，实际HEAD恢复时核Git。当前110主题＝103已接收＋7草稿；111候选余disputes一个未建正式正文，其123行完整工作稿在root ignored cache，尚未HUM最终复读／支持／冻结。A独占HDB／EC并优先border真正第三；HDB133首冻但核心资格仍未知，EC122工作稿未冻。B转privacy-data唯一作者，C转travel-support唯一作者；parks C110已B完整facts PASS交root第三，border B163已C完整facts PASS交A第三。外来初稿和旧旗标不代接续阅读，不按旧planned抢文件。首页源稿保留，三处16:52—54新资料已全文读并另门禁复现已测403产物，不混未知UI／图标提交；全28种子、五情境与核心条件仍未整体完成。
 
 ## 内容与资格模型
 
@@ -94,10 +94,10 @@
 |---|---|---|
 | `/book/life/housing/renting/` | 怎样找到可合法入住的住房并签租约 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 | `/book/life/housing/tenancy/` | 入住维修押金续租退租怎样处理 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
-| `/book/life/housing/buying-hdb/` | BTO与转售怎样判断家庭资格、HFE和贷款 | researching（A coverage_audit唯一作者接续；完整现行身份/家庭/HFE/BTO/转售必要详原文待闭，不建空页） |
+| `/book/life/housing/buying-hdb/` | BTO与转售怎样判断家庭资格、HFE和贷款 | written（A133首冻body427cbeb4…，17详来源；核心PR全家／非公民配偶／特殊家庭／PlusPrime产权等仍具体未知，尚无独审） |
 | `/book/life/housing/buying-private/` | 私宅类型、外国人产权批准与买卖交接怎样办理 | integrated（异人事实、第三编辑、生产及实际渲染通过；版本见accepted.json） |
 | `/book/life/housing/neighbours/` | 市镇理事会MCST和邻里纠纷找谁 | integrated（异人事实/第三编辑/生产与实际渲染通过） |
-| `/book/life/housing/buying-ec/` | EC新售、MOP及后续批次的购房国籍资格怎样判断 | researching（A coverage_audit唯一作者；旧finding-an-ec已双路403，不重探，逐批次资格/MOP/私有化详原文待闭） |
+| `/book/life/housing/buying-ec/` | EC新售、MOP及后续批次的购房国籍资格怎样判断 | written（A122完整工作稿已落，未全篇读回／HUM／证据／冻结；逐批次规则及TOP起算未知仍保留） |
 | `/book/life/housing/purchase-costs/` | 购房税、现金CPF、HDB银行贷款和共同购买怎样核对 | integrated（异人事实、第三编辑、生产及实际渲染通过；版本见accepted.json） |
 
 ### 9. 衣食、购物与家庭运转（household）
@@ -232,7 +232,7 @@
 |---|---|---|
 | `/book/work/career/job-search/` | 招聘简历面试背景资格怎样核验 | integrated（A作者／B全文事实／C真正第三／root B06E实际工程，bodyf20dd633…；见accepted及checks/b06e-acceptance） |
 | `/book/work/career/offer/` | 怎样读offer和准备准证入职 | integrated（body5a2101d1…；A作者/B完整51主体facts/C真正第三/root B06F工程，见accepted和checks/b06f-acceptance） |
-| `/book/work/career/workplace/` | 汇报反馈会议晋升边界与专业伦理 | written（A最终131行bodye028dcf6…；B完整37主体facts/C真正第三已正式PASS，待root完整接收/工程） |
+| `/book/work/career/workplace/` | 汇报反馈会议晋升边界与专业伦理 | integrated（bodye028dcf6…；A作者／B完整37源facts／C真正第三／root B06G实际接收，checks/b06g-acceptance） |
 
 ### 21. 劳动关系、保障与经济困难（employment）
 
@@ -304,7 +304,7 @@
 |---|---|---|
 | `/book/rights/contracts/before-signing/` | 签字前怎样核对主体报价订金押金附件保证 | integrated（bodyfbd61158…；C作者/B完整35主体facts/A真正第三/root B06F工程，见accepted和checks/b06f-acceptance） |
 | `/book/rights/contracts/performance/` | 续约变更取消违约赔偿和责任怎样读 | integrated（body02385c9b…；C作者/root完整26主体facts及五术语限定核/A真正第三/root B06F工程，见accepted和checks/b06f-acceptance） |
-| `/book/rights/contracts/disputes/` | 协商调解小额索赔如何留证并启动 | researching（root作者；SCT/CASE主体实际原段、SCT Guide13文字四图已读；现行送达与旧册差异待按直接原文闭合，未建正文） |
+| `/book/rights/contracts/disputes/` | 协商调解小额索赔如何留证并启动 | researching／private complete draft（root123行工作稿；现行SCT程序、SMC商调和一般时效已读，15完整块HUM后最终读／证据／冻结仍待，不建空公开页） |
 
 ### 27. 公共安全、事故与应急（safety）
 
@@ -313,8 +313,8 @@
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
 | `/book/rights/safety/emergencies/` | 警察消防救护报案与家庭应急怎样求助 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
-| `/book/rights/safety/tropical-hazards/` | 火灾停电积水雷电高温登革热烟霾怎样应对 | written（C正式首冻142行body556e9b79…；23实质组、11真图，root完整facts待做→A真正第三，未接收） |
-| `/book/rights/safety/controlled-items/` | 烟草电子烟酒精药品受管制物品有哪些规则 | written（B最终142三冻body2f2bcba0…；C完整30组及两术语限定facts正式PASS，A真正第三收尾，未工程） |
+| `/book/rights/safety/tropical-hazards/` | 火灾停电积水雷电高温登革热烟霾怎样应对 | integrated（bodyd40bb71d…；C作者／root完整23源及十释义限定facts／A真正第三／root B06G工程，checks/b06g-acceptance） |
+| `/book/rights/safety/controlled-items/` | 烟草电子烟酒精药品受管制物品有哪些规则 | integrated（body2f2bcba0…；B作者／C完整30源及两术语限定facts／A真正第三／root B06G工程，checks/b06g-acceptance） |
 
 ### 28. 自然、户外、旅行与环境责任（outdoors）
 
@@ -322,9 +322,9 @@
 
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
-| `/book/rights/outdoors/parks-water/` | 公园保护区海岸岛屿游泳野生动物怎样准备 | written（外来45行初稿已正式转C唯一接续；全文必要原文/HUM/独审仍未闭，root不覆盖） |
-| `/book/rights/outdoors/travel-borders/` | 通关证件药品物品宠物出入境怎样查 | written（B唯一接续作者；外部初稿保留冻结，按新论断完整回源/HUM后交冻，不继承外来摘录为审核） |
-| `/book/rights/outdoors/travel-support/` | 区域旅行保险境外求助与环境实践 | written（独立会话初稿交主控；root保管冻结，未全原文/HUM/独审，待明确单一接续作者） |
+| `/book/rights/outdoors/parks-water/` | 公园保护区海岸岛屿游泳野生动物怎样准备 | written（C110首冻body1b4b4267…；B29必要原文全facts80行4d87ec14…正式PASS，root真正第三待做） |
+| `/book/rights/outdoors/travel-borders/` | 通关证件药品物品宠物出入境怎样查 | written（B163末冻bodyeec08eab…；C44必要原文及三事实反馈全facts110行16f7219c…PASS，A真正第三在途） |
+| `/book/rights/outdoors/travel-support/` | 区域旅行保险境外求助与环境实践 | written（外51原稿明确转C唯一完整接续作者；原件已读存，不继承外来阅读旗标，完整正文及独审待闭） |
 
 ## 事项与身份入口计划
 

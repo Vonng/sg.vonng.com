@@ -1,5 +1,17 @@
 # 当前检查点
 
+## 2026-10-14 17:19 B06G完成本地接收，继续剩余正文
+
+现场更新：2026-10-14 17:19（Asia/Singapore）。B06G职场协作、热带风险与受管制物品已同版完整两审及实际本地接收，累计103 integrated／403产物，public逐路径、大小、SHA一致；提交前基线B06F 60f0853，实际HEAD恢复时核Git。当前110主题＝103已接收＋7草稿；111候选余disputes一个未建正式正文，其123行完整工作稿在root ignored cache，尚未HUM最终复读／支持／冻结。A独占HDB／EC并优先border真正第三；HDB133首冻但核心资格仍未知，EC122工作稿未冻。B转privacy-data唯一作者，C转travel-support唯一作者；parks C110已B完整facts PASS交root第三，border B163已C完整facts PASS交A第三。外来初稿和旧旗标不代接续阅读，不按旧planned抢文件。首页源稿保留，三处16:52—54新资料已全文读并另门禁复现已测403产物，不混未知UI／图标提交；全28种子、五情境与核心条件仍未整体完成。
+
+三最终body e028dcf6f10acd6e73060f5befeb6ac565c91beb361e8acc52d10736d8922518／d40bb71d3edd775e531b719e605cb8838f9fc8439d101cfa64564d932be4fe9b／2f2bcba0c4eae7d728506c852b02eb6e21b7f6e946f941647b8b6fce8c4cb14b，root仅工程metadata、body零改；root实际全读最终正文／证据／地图／六正式审稿及完整自修反馈差分。TH23实质来源／18必要PDF文字页／11真图及十名称限定已真实核，不重复首冻审核或把CDC about195行说全读；workplace／controlled采用B／C全文事实及C／A真正第三，不虚称root又核37／30全部主管。
+
+20导航真实改段全读、25路径66＋118检查、打印136节点／103来源表／655页，root六网页及物理443／446／447／449／638／639／643／645／646／649十页真看。初176源108主题5draft、终177源109主题6draft（HDB并行出现）；两门禁零错误警告，403输出逐字节一致并同步。F后外部SVG／footer／home三源16:52—54变化已全部真读并保留，额外当前输入门禁仍重现403已测输出；随后EC出现为第110主题／第七草稿，不计该次已检新稿。完整receipt 90732B SHA8ecbe25ba85660123b1ee1e958c8e9646dd151be25bb7e771a4c11793b4f9e01；UI／小图标／PROMPT-ORIGIN与在途稿不混stage。
+
+真实下一命令：核G显式44成熟文本大小类型／staged清单及diff --check后本地提交（若已提交直接继续）。随后root真正第三parks：C110正文／83证据／34地图、B80完整facts4d87ec14…、19HUM完整旧新／四diff必须实际读／逆替／静态，不代新29回源；A完成border真正第三再回EC收束；B资料权利和C旅行支援各唯一作者。root继续disputes缓存author-draft1.md123行full2d89d3aa…及author-humanizer-changes-1.json的15块：最终全稿及全部旧新／diff仍待实际读，证据／map／冻／异审未做。CJTS2021当前链接旧册已读physical10—13四文字四真图，仅历史界面，不称当前私有表单；7天按当前直接页，SMC／一般OC六年时效／consult和执行必要原文已读，旧pending已清。HDB首冻core仍未知，不能因具体询问动作当资格完成。
+
+goal active；没有外部推送部署DNS联络私人登录代办。1328自有服务PID33900仍须恢复实查；本批exec1731／12220／37504／25892／16132／24002均已实际完成，不恢复旧句柄。
+
 ## 2026-10-14 15:43 B06F三篇实际接收，持续补全
 
 HEAD f0da9fa为提交前基线，goal active；累计100 integrated/draft:false。签前bodyfbd611580462fca0c74330b6480eb5d2f4db8b002105c3e3af3e229d03502788、履行02385c9bc8bfdd1be4cc65d2b3abd381a58393aa3db7edaf498b06587ca682df、录用5a2101d1a8df6d99a01517f9ef0ecaf81a43d9803e385a37fd16e4c5c590b21d均完整异人事实/真正第三同版PASS及root实际接收，工程只改metadata，body零变。root三最终稿/证据/map/六正式报告实际全读范围继承，履行26原源及五释义限定核已真闭；签前和录用采用正式B/C审，不谎称root另回全35/51源。

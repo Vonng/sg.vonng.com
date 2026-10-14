@@ -32,3 +32,5 @@ weight: 40
 找兼职、实习或毕业后的工作，接[求职篇](/book/work/career/job-search/)核学校、学期、假期与工作权限，准备履历和中介查验。公民、PR学生另按年龄及NS安排选路。
 
 已有兼职、实习或毕业岗位，用[录用与入职](/book/work/career/offer/)核工作关系、报酬和合法开工。课程、住宿、分期或保证文件，用[签约前检查](/book/rights/contracts/before-signing/)确认当事人、家长与担保角色；转学或离境影响付款和服务时，接[合同履行](/book/rights/contracts/performance/)安排变更及结束。
+
+已获准工作的学生可用[职场篇](/book/work/career/workplace/)安排交接、汇报和反馈；烟霾等[环境风险](/book/rights/safety/tropical-hazards/)按本人身份核学校、就医及保险安排。烟酒、个人药物、电子烟及治疗求助，接[产品与行为规则](/book/rights/safety/controlled-items/)核年龄和适用条件。

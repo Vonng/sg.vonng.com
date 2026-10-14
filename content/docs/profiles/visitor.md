@@ -22,3 +22,5 @@ weight: 60
 停留期间考虑工作机会，先读[求职篇](/book/work/career/job-search/)的访客分支，核招聘、试做和正式开工的权限；同时按实际停留期限安排行程。
 
 已有工作机会，读[录用与入职](/book/work/career/offer/)的访客权限与开工安排。预订服务、住宿或接受长期收费之前，用[签约前检查](/book/rights/contracts/before-signing/)核期限、总价和取消办法；离境前按[合同履行](/book/rights/contracts/performance/)留下交还、退款及后续联系记录。
+
+出门前查[环境风险](/book/rights/safety/tropical-hazards/)，记好住处完整地址、天气避护与本人保险联络。携个人药物或购买烟酒、其他产品前，用[受管制物品](/book/rights/safety/controlled-items/)核当地规则、许可及无Singpass咨询入口。

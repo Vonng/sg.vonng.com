@@ -1,6 +1,6 @@
 ---
 title: 公共安全与应急
-description: 区分报警、消防、救护和危险过去后的后续处理。
+description: 选择紧急求助，安排热带环境与家庭应急，核烟酒、药物及受管制物品规则。
 page_id: sg-book-rights-safety-_index
 content_kind: editorial
 scope: 编辑导航；所列制度的适用条件见对应正文
@@ -12,4 +12,8 @@ weight: 30
 book_kind: chapter
 ---
 
-紧急情况下先把人身安全和准确地点说清。不同求助渠道面对的情形不同，听觉、言语或行动不便者也有相应办法；平时可以与家人预先熟悉。
+眼前有危险，先用[紧急求助](/book/rights/safety/emergencies/)选择警方、消防或救护，说明准确地点；无法讲话、听觉或行动不便者按对应分支求助，危险过去后再接续报案与住处处理。
+
+日常出门和家中准备，用[烟霾、雨雷、积水、高温与登革热](/book/rights/safety/tropical-hazards/)查预警、调整活动与照护，处理水电燃气中断，并保存事故及保险材料。
+
+购买、持有或使用烟酒、电子烟、药品、烟花和武器前，用[受管制物品](/book/rights/safety/controlled-items/)核产品、行为、场所和许可；收到查扣或康复通知、需要成瘾治疗时，也由该篇分流。

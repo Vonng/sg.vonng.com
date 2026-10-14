@@ -40,3 +40,5 @@ weight: 50
 家属找工作，接[求职篇](/book/work/career/job-search/)按ICA或MOM签发机构、DP／LTVP／LTVP+及具体授权选路；已获权限经营的成员准备停业时，接[经营风险篇](/book/work/business/risk-exit/)核关联准证和家庭后续。
 
 取得聘书后，用[录用与入职](/book/work/career/offer/)核本人工作许可、主证变化与家属衔接；家庭共同签住房、服务或保证，先在[签约前检查](/book/rights/contracts/before-signing/)明确谁是签约人、付款人及代理人，再按[合同履行](/book/rights/contracts/performance/)安排改约、通知和结算。
+
+已获准工作的成员用[职场篇](/book/work/career/workplace/)准备协作、反馈与照护相关安排请求；家庭用[环境风险](/book/rights/safety/tropical-hazards/)落实接送、设备备用和每位成员的付款路线。携药、烟酒或电子烟相关规则及家属治疗支持，接[受管制物品](/book/rights/safety/controlled-items/)。

@@ -22,3 +22,5 @@ weight: 80
 寻找岗位和职业辅导，接[求职篇](/book/work/career/job-search/)核招聘入口、到访协助和中介收费，准备可核验的履历；生活援助的申请仍按本人及同户条件办理。
 
 收到聘书时，用[录用与入职](/book/work/career/offer/)把固定报酬、本人扣项与酌情奖励分开；接受分期、预付或保证之前，用[签约前检查](/book/rights/contracts/before-signing/)计算完整责任。已有付款困难，接[合同履行](/book/rights/contracts/performance/)提出可实行的安排并保存答复，债务援助另按上面的对应路径。
+
+工作量、反馈或照护与排班冲突，用[职场篇](/book/work/career/workplace/)准备具体请求与求助；家中缺降温或避烟空间，接[环境风险](/book/rights/safety/tropical-hazards/)查社区入口，并按身份核就医费用。成瘾治疗及家属支援，接[治疗与转介](/book/rights/safety/controlled-items/)核收费和材料。

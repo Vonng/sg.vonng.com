@@ -18,6 +18,9 @@ weight: 20
 3. 按[开户与工资账户](/book/work/finance/banking/)准备收薪安排；公民或PR另核[CPF缴纳](/book/work/finance/cpf-basics/)，尤其刚取得PR、兼有自雇收入或从事平台工作的情况。
 4. 向雇主要医疗福利和保单，使用[医疗支付](/book/people/healthcare/healthcare-payments/)核对哪些费用要自行承担。
 5. 用[公共交通](/book/life/transport/public-transport/)试走通勤，在[多语沟通](/book/people/language/everyday-language/)中准备汇报、确认时间和询问的表达。
+6. 用[职场协作](/book/work/career/workplace/)和负责人约好任务、权限、交接、反馈及遇到风险的报告方法；需要弹性工作或沟通调整时，按对应分支准备请求。
+
+需要长时间户外工作，另读[烟霾与高温保护](/book/rights/safety/tropical-hazards/)安排活动、休息和雇主沟通；急症或危险用该篇的紧急衔接。
 
 准证状态或申报资料不符时，从准证页的MOM查询与更正入口处理，再安排开始工作的日期。
 

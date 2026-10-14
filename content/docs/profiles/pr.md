@@ -32,3 +32,5 @@ weight: 20
 找工作或转职，读[求职篇](/book/work/career/job-search/)核招聘、职业辅导、中介与资格证明；经营中的合同、债务或退出问题，接[经营风险篇](/book/work/business/risk-exit/)，长期离境另保留REP和税务安排。
 
 收到聘书，读[录用与入职](/book/work/career/offer/)核职业要求、CPF和报到；签住房、服务或保证文件前，用[合同检查](/book/rights/contracts/before-signing/)明确角色与附件。搬家或长期离境影响合同安排时，按[履行与结束](/book/rights/contracts/performance/)协调通知、交还物品和最后付款。
+
+工作中的协作、反馈与弹性请求用[职场篇](/book/work/career/workplace/)；烟霾等[环境风险](/book/rights/safety/tropical-hazards/)沿PR付款分支核补贴、保险与家庭照护。烟酒、药物和其他产品的当地规则、治疗与通知，接[受管制物品](/book/rights/safety/controlled-items/)。

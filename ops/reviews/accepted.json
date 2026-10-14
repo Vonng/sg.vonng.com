@@ -1897,5 +1897,44 @@
     "review_source_file_sha256": "51b597e71cd8a30de910d60d6fbea3208fcd6e0dc735083f134b204b4c3365f9",
     "engineering": "B06F: initial and final production gates passed;25 paths at1440/390 (66 checks),128 extra actual topic/menu/search/navigation checks; print133 book nodes/100 source lists/632 physical pages. Root six web screenshots and eight physical PDF pages viewed. All396 final products byte-identical to the QA build and public paths/bytes/SHA match. See ops/checks/b06f-acceptance.json.",
     "engineering_date": "2026-10-14"
+  },
+  "content/book/work/career/workplace.md": {
+    "author": "coverage_audit",
+    "facts": "review_state_audit",
+    "editor": "care_writer",
+    "date": "2026-10-14",
+    "report": "ops/reviews/b06-workplace-facts.md",
+    "editorial_report": "ops/reviews/b06-workplace-editorial.md",
+    "body_sha256": "e028dcf6f10acd6e73060f5befeb6ac565c91beb361e8acc52d10736d8922518",
+    "reviewed_file_sha256": "31eacebde2b3bf8197b54a3c13dec3a1a1533e9c6fdf3de16a24d112d27d5058",
+    "review_source_file_sha256": "a958d3d0a685019db0163c05e32ffb3a8b47d7ed66acad2adb37235d984d14a5",
+    "engineering": "B06G: final production gate zero errors/warnings;25paths1440/390,66base+118extra actual checks,fold/keyboard/search/dark/crosslinks;print103sources/655physicalpages and root6web+10PDF actualsamples;403outputs QA/final/public path,size,SHA identical. Full receipt:ops/checks/b06g-acceptance.json.",
+    "engineering_date": "2026-10-14"
+  },
+  "content/book/rights/safety/controlled-items.md": {
+    "author": "review_state_audit",
+    "facts": "care_writer",
+    "editor": "coverage_audit",
+    "date": "2026-10-14",
+    "report": "ops/reviews/b06-controlled-items-facts.md",
+    "editorial_report": "ops/reviews/b06-controlled-items-editorial.md",
+    "body_sha256": "2f2bcba0c4eae7d728506c852b02eb6e21b7f6e946f941647b8b6fce8c4cb14b",
+    "reviewed_file_sha256": "9520b9deeaeeca59da8a19da6e1267d0da4cb7e0d57639aef5b84e8031fa94a7",
+    "review_source_file_sha256": "4a4b721f01647d2d956381d2021753cc8194a01dc8130d39ac21cb8f25bc1278",
+    "engineering": "B06G: final production gate zero errors/warnings;25paths1440/390,66base+118extra actual checks,fold/keyboard/search/dark/crosslinks;print103sources/655physicalpages and root6web+10PDF actualsamples;403outputs QA/final/public path,size,SHA identical. Full receipt:ops/checks/b06g-acceptance.json.",
+    "engineering_date": "2026-10-14"
+  },
+  "content/book/rights/safety/tropical-hazards.md": {
+    "author": "care_writer",
+    "facts": "root",
+    "editor": "coverage_audit",
+    "date": "2026-10-14",
+    "report": "ops/reviews/b06-tropical-hazards-facts.md",
+    "editorial_report": "ops/reviews/b06-tropical-hazards-editorial.md",
+    "body_sha256": "d40bb71d3edd775e531b719e605cb8838f9fc8439d101cfa64564d932be4fe9b",
+    "reviewed_file_sha256": "bb83b0477326ee4601b5f952185f28b865975faa444d79242484ec3be8bef469",
+    "review_source_file_sha256": "44543edd6f2ff91e6522c37ccccde212f9659331b3d41b2b932d9201725f9fa5",
+    "engineering": "B06G: final production gate zero errors/warnings;25paths1440/390,66base+118extra actual checks,fold/keyboard/search/dark/crosslinks;print103sources/655physicalpages and root6web+10PDF actualsamples;403outputs QA/final/public path,size,SHA identical. Full receipt:ops/checks/b06g-acceptance.json.",
+    "engineering_date": "2026-10-14"
   }
 }

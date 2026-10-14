@@ -20,5 +20,6 @@ weight: 18
 5. 用[家庭预算](/book/work/finance/household-budget/)把每月账单、年度费用与应急现金排在一起，再按[开户与支付](/book/work/finance/banking/)准备材料和日常收付款。
 6. 公共环境问题用[街区反馈与居民网络](/book/life/community/neighbourhood/)，持续邻里滋扰用[住宅管理与纠纷程序](/book/life/housing/neighbours/)；商品争议转到[消费维权](/book/life/household/consumer-rights/)。
 7. 要填表、打电话或安排口译，读[办事沟通](/book/people/language/communication/)；想找附近活动，读[公共设施与课程](/book/life/community/public-facilities/)。
+8. 用[热带风险与家庭准备](/book/rights/safety/tropical-hazards/)安排天气提示、应急联络与照护；烟酒、个人药物或其他物品，先核[当地管制与携带许可](/book/rights/safety/controlled-items/)。
 
 有宠物或准备领养时，入住前再读[养宠物](/book/life/household/keeping-pets/)，把数量、住宅条件、执照和照顾安排一并核对。

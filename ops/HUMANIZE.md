@@ -2,7 +2,7 @@
 
 ## 2026-10-14 当前接收范围
 
-B06F新增签前132/履行152/录用125行，作者HUM、完整事实与真正第三已同版闭合及实际工程接收，累计100。root20导航完整新章/改段/全diff已实际读；六网页八PDF为明确样本，不称整书目视。workplace/tropical/controlled完整作者稿已按判据自审但尚待各第三与工程；外来privacy/parks/border/support及admission仍需完整接续处理，全书HUM和五情境未整体完成。
+B06G三篇已完整自修／事实／真正第三与实际工程闭合，累计103；root20导航完整改段与全diff真读。六网页十打印物理页只是明确样本，不称整书目视。parks110／border163作者HUM及完整facts已闭，第三与工程仍待；HDB133首冻／EC122工作稿／资料权利与旅行支援接续／入学、全书最终HUM与五情境未整体完成。
 
 B06E新增求职125行与风险157行，全文事实及真正第三HUM/结构/引用已同body闭合并完成真实工程，累计97接收。root16导航文件所有实改完整段／整行及全diff、新career全稿实际读；EA与SIP语境区分，OneMSF仅同意书用途，未增加DSA未知解释。五网页／七PDF页为实际抽样；新签前／录用／履行及未完入学仍draft，全书HUM与最终28领域/五情境未记完成。
 
@@ -296,10 +296,16 @@ B04I 追增后新增、此前未入队的源，均为在途 draft：
 ### B06F与接续草稿追登（2026-10-14）
 
 - [x] `content/book/rights/contracts/_index.md` — root真实17行导读/选路完整读与B06F实际工程。
-- ○ `content/book/work/career/workplace.md` — A最终131行全文HUM17处及一FWA事实限定；B完整facts/C真正第三已PASS，root工程待做。
-- ○ `content/book/rights/safety/tropical-hazards.md` — C142行全文HUM12整段实际读，root全facts/A第三待闭。
-- ○ `content/book/rights/safety/controlled-items.md` — B142行全文HUM，C完整facts及两范围限定已PASS/A第三在途。
-- ○ `content/book/rights/outdoors/parks-water.md` — 外来45初稿，C唯一接续全文/HUM，未审。
-- ○ `content/book/rights/outdoors/travel-borders.md` — 外来50初稿，B唯一接续全文/HUM，未审。
-- ○ `content/book/rights/outdoors/travel-support.md` — 外来51初稿，root保管冻结待作者，未HUM/独审。
-- ○ `content/book/life/digital/privacy-data.md` — 外来39初稿，root唯一接续现法/完整任务及HUM，未审。
+- [x] `content/book/work/career/workplace.md` — A131全文HUM17处及FWA限定，B完整facts／C第三／root B06G工程，bodye028dcf6…。
+- [x] `content/book/rights/safety/tropical-hazards.md` — C142全文HUM12整段及十释义，root完整事实／限定重绑、A第三及root B06G工程，bodyd40bb71d…。
+- [x] `content/book/rights/safety/controlled-items.md` — B142全文HUM及两术语限定，C完整facts／A第三／root B06G工程，body2f2bcba0…。
+- ○ `content/book/rights/outdoors/parks-water.md` — C110全文19操作／四HUM轮，B完整facts已PASS，root第三及工程待做。
+- ○ `content/book/rights/outdoors/travel-borders.md` — B163全文17HUM与三事实反馈、C完整facts已闭，A真正第三及工程待做。
+- ○ `content/book/rights/outdoors/travel-support.md` — 原51已明确转C唯一完整作者，完整HUM／冻结／独审待闭。
+- ○ `content/book/life/digital/privacy-data.md` — 外来39初稿，B唯一接续现法/完整任务及HUM，未审。
+
+### B06G新增工作稿追登
+
+- ○ `content/book/life/housing/buying-hdb.md` — A133首冻及自修，核心条件缺口不消；独审与工程未做。
+- ○ `content/book/life/housing/buying-ec.md` — A122完整工作稿，未全篇读回／HUM／证据及冻。
+- ○ `content/book/rights/contracts/disputes.md` — root缓存123完整稿／15完整块自修，最终全读与全差分仍待；未建正式路径。

@@ -17,6 +17,8 @@ icon: fa-solid fa-briefcase
 
 正在找工作或转职，先用[求职篇](/book/work/career/job-search/)核工作权限、招聘渠道、中介、履历及面试；已有机会后，读[录用与入职](/book/work/career/offer/)核工资、附件、权限及报到，再从[开始工作事项](/docs/routes/start-work/)安排收薪、医疗和通勤。
 
+已经开始工作，用[职场协作与发展](/book/work/career/workplace/)安排会议、交班、汇报、反馈与弹性工作请求；遇到骚扰、安全或专业职责问题，也由该篇选择报告渠道。
+
 工作中受伤或出现职业病，按[工伤与索偿](/book/work/employment/injury/)安排就医、报告、休养收入和赔偿，保存病假、账单及通知。
 
 准备自己经营时，先用[创业与注册](/book/work/business/starting-business/)核工作权限、企业形式、场所及开业手续。

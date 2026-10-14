@@ -40,3 +40,5 @@ weight: 30
 找工作或换雇主，读[求职篇](/book/work/career/job-search/)的逐类准证分支，核实际岗位、中介费用、申请者和开工条件；已获权限经营后遇到债务或停业，接[经营风险篇](/book/work/business/risk-exit/)处理企业与本人准证的后续。
 
 已有录用机会，按[录用与入职](/book/work/career/offer/)核固定工资、扣项、旧职和家属衔接，完成本人准证路线再安排报到。租约、服务或个人保证用[签约前检查](/book/rights/contracts/before-signing/)核责任，工作或居留变化后按[合同履行](/book/rights/contracts/performance/)处理实际通知与结算。
+
+在职会议、轮班交接、反馈和安全报告用[职场篇](/book/work/career/workplace/)，家政与平台工作按专门分支；户外烟霾和高温接[环境风险](/book/rights/safety/tropical-hazards/)核工作保护及本人医疗保险。烟酒、个人药物和电子烟的规则、通知与治疗，接[受管制物品](/book/rights/safety/controlled-items/)。
