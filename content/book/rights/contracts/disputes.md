@@ -1,15 +1,28 @@
 ---
-title: "合同发生争议：协商、调解、小额索赔与执行"
-description: "整理合同和履行证据，提出可执行的解决要求，按案件范围选择协商、调解或法院；准备小额索赔的材料、费用、送达、出庭与后续执行。"
+title: 合同发生争议：协商、调解、小额索赔与执行
+description: 整理合同和履行证据，提出可执行的解决要求，按案件范围选择协商、调解或法院；准备小额索赔的材料、费用、送达、出庭与后续执行。
 page_id: sg-contracts-disputes
 content_kind: task
-scope: "新加坡个人消费、住宅租约及经营合同争议；公民、PR、工作者、学生、家属与访客按当事人、案件、程序和支援条件分别判断"
-status: written
-draft: true
-verified: ''
-reviewed_by: ''
+scope: 新加坡个人消费、住宅租约及经营合同争议；公民、PR、工作者、学生、家属与访客按当事人、案件、程序和支援条件分别判断
+status: integrated
+draft: false
+verified: '2026-10-14'
+reviewed_by: review_state_audit（事实）；coverage_audit（第三编辑）；root（工程）
 weight: 30
-search_keywords: ["合同争议", "小额索赔", "SCT", "CJTS", "Declaration of Service", "Memorandum of Consent", "SMC", "CMC", "执行令"]
+search_keywords:
+- 合同争议
+- 小额索赔
+- SCT
+- CJTS
+- Declaration of Service
+- Memorandum of Consent
+- SMC
+- CMC
+- 执行令
+- Notice of Consultation
+- eNegotiation
+- eMediation
+- District Court
 ---
 
 发生欠款、未交付、服务缺陷或押金争议时，先保存完整合同和履行记录，列出需要对方做什么，再书面提出解决办法和回复期限。协商期间同时核立案期限；收到法院文件后，立即记下出庭日期和办理要求，按所选程序回应。小额索赔法庭（SCT）有金额、案件种类、时限和送达范围，确认符合后，通过法院的线上系统CJTS申请。

@@ -1,13 +1,20 @@
 ---
-title: "行前准备、旅行保险与境外求助"
-description: "逐人核护照、签证、返新证件和保险，安排孩子与照护，处理境外受伤、失联、拘留、灾害和丢护照，并保存理赔材料。"
+title: 行前准备、旅行保险与境外求助
+description: 逐人核护照、签证、返新证件和保险，安排孩子与照护，处理境外受伤、失联、拘留、灾害和丢护照，并保存理赔材料。
 page_id: sg-travel-support
 content_kind: task
-scope: "从新加坡出发的公民、PR、工作准证持有人、学生、家属及访客；按护照国籍、准证、旅行起终点、年龄和保单分别安排保障及境外求助"
-status: written
-draft: true
-verified: ""
-reviewed_by: ""
+scope: 从新加坡出发的公民、PR、工作准证持有人、学生、家属及访客；按护照国籍、准证、旅行起终点、年龄和保单分别安排保障及境外求助
+status: integrated
+draft: false
+verified: '2026-10-14'
+reviewed_by: review_state_audit（事实）；coverage_audit（第三编辑）；root（工程）
+weight: 30
+search_keywords:
+- 旅行保险
+- 境外求助
+- DOI
+- PIR
+- eRegister
 ---
 
 离新前逐人核护照、目的地和转机签证、返新证件及旅行保险，把行程和求助号码留给可信任的人。在海外遇到人身危险或急病，先联系当地警务、救护或医疗机构，再联系保单救援公司和本人国籍的使领馆。新加坡公民可向外交部（MFA）求助；PR和其他外国旅客还须按自己的国籍安排领事联系，不能仅凭新加坡准证判断。[MFA：行前准备与境外求助](https://www.mfa.gov.sg/travelling-overseas/general-travel-advice-for-singaporeans/)
@@ -73,7 +80,7 @@ Family cover（家庭保障）的成员按保单定义核。所查Income计划�
 
 公民保存[新加坡驻外机构入口](https://www.mfa.gov.sg/i-need-help-overseas/find-an-overseas-mission/)内适合旅程的联系方式；没有当地馆处或遇急难，可联系MFA全天候领事应对中心 **+65 6379 8800** ／ **mfa_duty_officer@mfa.gov.sg** 。提供姓名、所在地、可回拨号码、事情经过及急需的协助；MFA可提供领事信息、联系亲友、律师／翻译员名单或协助灾害和遗体回运，医疗、律师、住宿和旅费须另安排。[MFA：领事协助范围](https://www.mfa.gov.sg/i-need-help-overseas/what-mfa-can-and-cannot-help-you-with/)、[全天候中心](https://www.mfa.gov.sg/travelling-overseas/general-travel-advice-for-singaporeans/)
 
-PR、各类外籍准证持有人、学生、家属及访客，出发前保存本人国籍在目的地的领事联系；家人国籍不同，逐人核负责机关和紧急证件。仍在新加坡而不知本国联系入口的，可从[MFA的外国驻新代表入口](https://www.mfa.gov.sg/visiting-singapore/foreign-representatives-to-singapore/)找到本国机构，再询问驻目的地的渠道。以中国公民为例，中国外交部全天候领保热线为 **+86 10 12308** 或 **+86 10 65612308** ，亦有“中国领事”应用及“领事直通车”的网络电话；该例不套其他国籍。[中国领事服务网：12308领保热线](https://cs.mfa.gov.cn/zggmcgx/lsbhyxz/12308lbrx/202607/t20260713_11981004.html)
+PR、各类外籍准证持有人、学生、家属及访客，出发前保存本人国籍在目的地的领事联系；家人国籍不同，逐人核负责机关和紧急证件。仍在新加坡而不知本国联系入口的，可从[MFA的外国驻新代表入口](https://www.mfa.gov.sg/visiting-singapore/foreign-representatives-to-singapore/)找到本国机构，再询问驻目的地的渠道。以中国公民为例，中国外交部全天候领保热线为 **+86 10 12308** 或 **+86 10 65612308** ，亦有“中国领事”应用及“领事直通车”的网络电话；该例不套其他国籍。[中国外交部领事保护中心：全天候热线](https://np.china-embassy.gov.cn/lsfw/lstx/lsaqtx/202512/t20251224_11785913.htm)、[网络电话渠道](https://kw.china-embassy.gov.cn/chn/lsfw/lsbh/202202/t20220209_10640493.html)
 
 ## 受伤、失联、拘留或灾害时，先做什么
 
@@ -118,7 +125,7 @@ PR、各类外籍准证持有人、学生、家属及访客，出发前保存本
 | 行李未到或损坏 | 在承运人柜台办理行李异常报告Property Irregularity Report（PIR），保存交回时间、标签、损坏照片及维修估价 |
 | 失窃、丢证及额外费用 | 当地警方或适用机关的报告、物品购买证明、替代证件收费、住宿与交通收据，以及承运人或其他保险已付赔款 |
 
-原件拍照备份后妥善保留，按保险公司要求补英文翻译或其他证明；已获航空公司、雇主或其他保险支付的款项如实申报。旅行延误可能按每一时数段给固定现金，也可能报销合理费用，先核自己获赔的方式。[一般保险协会（GIA）：延误证明及PIR，第11个物理页](https://gia.org.sg/images/resources/For-Consumers-PDF-file/GIA_TravelInsurance_Guide.pdf#page=11)、[Income：各类索偿材料](https://www.income.com.sg/claims/travel-claims)
+原件拍照备份后妥善保留，按保险公司要求补英文翻译或其他证明；已获航空公司、雇主或其他保险支付的款项如实申报。旅行延误可能按每一时数段给固定现金，也可能报销合理费用，先核自己获赔的方式。[一般保险协会（GIA）：延误证明、PIR与索偿材料](https://gia.org.sg/travel-insurance/96-about-claims-exclusions.html)、[Income：各类索偿材料](https://www.income.com.sg/claims/travel-claims)
 
 时限从保单规定的事故、发现损失或返程日期起算，各类并不相同。例如Income当前索偿页要求在事故后30天内提出，财物遗失／被盗还要求在24小时内向当地警方或相关当地机关报告。材料未齐也先按时通知，取得参考编号并确认补件要求。其当前旅行索偿转向网上递交；没有设备、登录失败、不会英语或需代理协助，联系保险公司核可用提交与授权办法，留存答复及失败记录。该公司的保单及索偿咨询 **6788 1777** ，周一至五09:00—18:00，公共假日除外，医疗急难用前述全天候救援号。[Income：期限与网上递交](https://www.income.com.sg/claims/travel-claims)、[客服、时段及投诉](https://www.income.com.sg/support)
 

@@ -14,3 +14,5 @@ weight: 10
 选择眼前正在处理的事情，再按步骤打开正文。这里的顺序是阅读和准备建议；具体法定期限在相应主题中说明。
 
 准备出国或返新，从[跨境往返](/docs/routes/cross-border-trip/)核证件、物品和交通；离开较长时间，从[长期离境与返回](/docs/routes/long-leave-return/)衔接身份、工作、家庭和合约。
+
+住房购买按[买房准备](/docs/routes/buying-home/)选择组屋、EC或私宅；孩子还没有学位或需转返校，用[入学与报到](/docs/routes/school-admission/)安排申请、居留和到校。

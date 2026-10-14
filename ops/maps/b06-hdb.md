@@ -1,6 +1,6 @@
 # B06 组屋购买：作者地图
 
-唯一作者 coverage_audit，root于2026-10-14明确接续旧daily失活分派。正文 `content/book/life/housing/buying-hdb.md` 已形成完整133行 / 21,053 B written/draft:true正式作者首冻；body `427cbeb4509d01356ebabcc93fb8d12e099da5e10a0d2bacade939c4b77f0f82` / full `0ecd4521953a2e1c067ad2a9524e59b2991cc76d81b421ced0343360b25fc657`，核验字段空。已正式冻结；异人事实／第三／工程未做，不以写稿替代核心资格闭合。
+唯一作者 coverage_audit，root于2026-10-14明确接续旧daily失活分派。正文 `content/book/life/housing/buying-hdb.md` 已形成完整133行 / 21,053 B written/draft:true正式作者首冻历史版；body `427cbeb4509d01356ebabcc93fb8d12e099da5e10a0d2bacade939c4b77f0f82` / full `0ecd4521953a2e1c067ad2a9524e59b2991cc76d81b421ced0343360b25fc657`，核验字段空。已正式冻结；异人事实／第三／工程未做，不以写稿替代核心资格闭合。
 
 ## 章节与读者链
 
@@ -16,10 +16,18 @@
 
 ## 真实来源与未知
 
-`ops/evidence/b06-hdb.md`列17实际采用组，源取得13／14日与本人读14日分开；三PDF五必要文字页／四真图真实读。详细index在本人cache source-adoptions-prewriting.json，不采用检索摘录。完整家庭SC／SC-PR／全PR计划、PR居留年限、非公民配偶准证类别及期、丧偶孤儿离婚与JSS、PlusPrime完整产权／补贴回收、PHG既往与全部对象仍未知。正文写具体向HDB确认的问题，上述都不计已闭；解除须新成功主管计划详文／书面规则及对应版本复核。
+`ops/evidence/b06-hdb.md`列17实际采用组，源取得13／14日与本人读14日分开；三PDF五必要文字页／四真图真实读。详细index原在已删除的本人cache source-adoptions-prewriting.json，不采用检索摘录。完整家庭SC／SC-PR／全PR计划、PR居留年限、非公民配偶准证类别及期、丧偶孤儿离婚与JSS、PlusPrime完整产权／补贴回收、PHG既往与全部对象仍未知。正文写具体向HDB确认的问题，上述都不计已闭；解除须新成功主管计划详文／书面规则及对应版本复核。
 
 源失败沿旧账止损，当前HDB资格parent双路403、Homes双路503、MND FAQ挑战、SSOweb403不重探。root准许当前真实可读MND公开list首次必要UI，28Jul／23Aug现已实际全DOM读；这不是旧失败源重试或后台API。旧2023 AnnexC只支持补助分配／子女例外，不反推2026购房资格。
 
 ## 分工与下一动作
 
 本人只拥有本正文／本证据／本图／cache／HANDOFF，不写_index、导读、导航、共享账，不build/stage。作者已实际完整读首稿1—76／77—131、末稿1—69／70—133及完整支持，HUM全部完整旧新与差分／逆替精确首稿已闭。下一：root派异人facts核已写范围，再第三；未闭核心仍逐项保留。可审范围不等于住房核心齐全，后续原件未知保留在全书门槛。其后立即编写另一独占EC完整稿，两日期切分与未知MOP起算分开，不建占位。
+
+## 六稿限定收尾的当前版本
+
+2026-10-14，范围明确为HFE确认本家庭资格→选房／融资→新房或转售签约、付款和交屋。标题与开篇已对应这一完整任务，家庭表明确为资料与核问清单；原SC-PR／全PR、非居民配偶、特殊家庭、PlusPrime和PHG未核条件仍保留，不计全住房资格闭合。仅MOP34精确起算／扣除澄清，收入≥3房原样。
+
+当前133行／21526 B，body `4f851445fe320059330fb1490196a47e902ab52f3a0f55de980885db78ef7222`／full `9871f31001e8900b9f1c545c431aa8e0a4c67de72b23a81a60115bdcf3b819e7`，written／draft:true／核验空；上述首冻为历史。原17及PDF审阅由root真实已有PENDING范围承接，本轮同版分类原文L91—113限定再读成功；六完整旧新和diff实际核对后交root限定事实／异人第三，不自升状态。旧cache已删，本轮仅当前副本和有限差分；详细未知仍见原证据表。
+
+2026-10-14 第三编辑限定反馈：首段首次BTO／SBF提前释为预购组屋／剩余组屋销售，沿本篇既有后文定义，不改变规则、数字、URL或HFE前置条件。开头首冻SHA与旧cache位置明确标为历史；旧原件不声称恢复。作者实际完整旧新与全diff及最终全文复读后交root限定核义、B同版第三，原17源／HUM真实范围继承，不重跑。

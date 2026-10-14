@@ -1962,5 +1962,89 @@
     "review_source_file_sha256": "1c9c51044b46a84016b5fa98d4cc10090820dbd7360964f7d424e7a1fdd723cd",
     "engineering": "B06H: final production gate zero errors/warnings;25paths1440/390,66base+104extra actualchecks,fold/keyboard/leaf/search/dark/42crosslinks/2menus;print105sources/672physicalpages,root4web+8PDF actualsamples;411initial/final/public paths,size,SHA identical. Full receipt:ops/checks/b06h-acceptance.json.",
     "engineering_date": "2026-10-14"
+  },
+  "content/book/rights/contracts/disputes.md": {
+    "author": "root",
+    "facts": "review_state_audit",
+    "editor": "coverage_audit",
+    "date": "2026-10-14",
+    "report": "ops/reviews/b06-contracts-disputes-facts.md",
+    "editorial_report": "ops/reviews/b06-contracts-disputes-editorial.md",
+    "body_sha256": "bca873254c950ca2da73c3231992730f095412af1fb6a2fa92aaae50f5349156",
+    "reviewed_file_sha256": "ce10f9acf6e957c655398df7c7bdad485c7229b366cff76db2457a9644391ae3",
+    "review_source_file_sha256": "e0ce734b906ce6861b0ee62e92575d57285811009e402697ecb00fc6ff7c6c2f",
+    "engineering": "B06I six-draft closeout: zero-warning production gate;21 paths1440/390,58 basic+72 extra real checks, six search-result/leaf clicks, keyboard folding, routes and dark/print checks;root9web+7PDF actual samples of714pages. Final inventory/sync recorded in ops/checks/b06i-acceptance.json.",
+    "engineering_date": "2026-10-14"
+  },
+  "content/book/life/digital/privacy-data.md": {
+    "author": "review_state_audit",
+    "facts": "care_writer",
+    "editor": "coverage_audit",
+    "date": "2026-10-14",
+    "report": "ops/reviews/b06-privacy-data-facts.md",
+    "editorial_report": "ops/reviews/b06-privacy-data-editorial.md",
+    "body_sha256": "41b9cfdf997698b67f30111671cb1234e48507777a011c6bcad2a3232125a89a",
+    "reviewed_file_sha256": "8b4c8f335cea4a739b2bdb944fe604afce26bae1ec76a3a2e7d9405cb97e6f10",
+    "review_source_file_sha256": "7ffe9845018220ffca7ad49f430461c9abe44f1f436d3331d6c8c67374993334",
+    "engineering": "B06I six-draft closeout: zero-warning production gate;21 paths1440/390,58 basic+72 extra real checks, six search-result/leaf clicks, keyboard folding, routes and dark/print checks;root9web+7PDF actual samples of714pages. Final inventory/sync recorded in ops/checks/b06i-acceptance.json.",
+    "engineering_date": "2026-10-14"
+  },
+  "content/book/life/housing/buying-hdb.md": {
+    "author": "coverage_audit",
+    "facts": "root",
+    "editor": "review_state_audit",
+    "date": "2026-10-14",
+    "report": "ops/reviews/b06-hdb-closeout-facts.md",
+    "editorial_report": "ops/reviews/b06-hdb-closeout-editorial.md",
+    "body_sha256": "4f851445fe320059330fb1490196a47e902ab52f3a0f55de980885db78ef7222",
+    "reviewed_file_sha256": "165b6b3b3461ce13ee79968343759dfca55976a96c9b2985115b6650d9e3f7a2",
+    "review_source_file_sha256": "9871f31001e8900b9f1c545c431aa8e0a4c67de72b23a81a60115bdcf3b819e7",
+    "engineering": "B06I six-draft closeout: zero-warning production gate;21 paths1440/390,58 basic+72 extra real checks, six search-result/leaf clicks, keyboard folding, routes and dark/print checks;root9web+7PDF actual samples of714pages. Final inventory/sync recorded in ops/checks/b06i-acceptance.json.",
+    "engineering_date": "2026-10-14"
+  },
+  "content/book/rights/outdoors/travel-support.md": {
+    "author": "care_writer",
+    "facts": "review_state_audit",
+    "editor": "coverage_audit",
+    "date": "2026-10-14",
+    "report": "ops/reviews/b06-travel-support-facts.md",
+    "editorial_report": "ops/reviews/b06-travel-support-editorial.md",
+    "body_sha256": "5df46a39dd271a408fcb7a1c6ed968a463995af35100e060a74b17a3de5cc28e",
+    "reviewed_file_sha256": "0c06cae4e717997166b3aaa72bf946fc56f28811fcc660e488f18b2ac1261a8d",
+    "review_source_file_sha256": "f0d8f78a71c91fc36d710af118c75ca5345e20f826593c7bb9fcc83403a67390",
+    "engineering": "B06I six-draft closeout: zero-warning production gate;21 paths1440/390,58 basic+72 extra real checks, six search-result/leaf clicks, keyboard folding, routes and dark/print checks;root9web+7PDF actual samples of714pages. Final inventory/sync recorded in ops/checks/b06i-acceptance.json.",
+    "engineering_date": "2026-10-14"
+  },
+  "content/book/life/housing/buying-ec.md": {
+    "author": "coverage_audit",
+    "facts": "review_state_audit",
+    "editor": "care_writer",
+    "date": "2026-10-14",
+    "report": "ops/reviews/b06-ec-facts.md",
+    "editorial_report": "ops/reviews/b06-ec-editorial.md",
+    "body_sha256": "de169d9070fca5355b513c8f74e59b53887371d04ded8058701ad49d3f7ce282",
+    "reviewed_file_sha256": "35bee4f92cd9160ea98d1900fc7009b3d2c85a082abaca1bca2aa9ebfa152adc",
+    "review_source_file_sha256": "c7c1b5f0117794b90c5bc4e61bc631ffe1b024768717cbcbdb53885bf1aa49bb",
+    "engineering": "B06I six-draft closeout: zero-warning production gate;21 paths1440/390,58 basic+72 extra real checks, six search-result/leaf clicks, keyboard folding, routes and dark/print checks;root9web+7PDF actual samples of714pages. Final inventory/sync recorded in ops/checks/b06i-acceptance.json.",
+    "engineering_date": "2026-10-14"
+  },
+  "content/book/people/school/admission.md": {
+    "author": "care_writer",
+    "facts": "review_state_audit",
+    "editor": "root",
+    "date": "2026-10-14",
+    "report": "ops/reviews/b06-admission-closeout-facts.md",
+    "editorial_report": "ops/reviews/b06-admission-editorial.md",
+    "body_sha256": "748afb6a6afd3efd249a4bbf21ba69cbf817f86f619ccf370f6bd48d357148b4",
+    "reviewed_file_sha256": "eda7f9ac8a9550977d8b8fc4c5695fc3d6f17ad4302968f3f79d05b9106c4e4e",
+    "review_source_file_sha256": "ebad83914dc406eb57e9cc5766c3e1aff80c180910039956fe6f9e302b448aa5",
+    "engineering": "B06I six-draft closeout: zero-warning production gate;21 paths1440/390,58 basic+72 extra real checks, six search-result/leaf clicks, keyboard folding, routes and dark/print checks;root9web+7PDF actual samples of714pages. Final inventory/sync recorded in ops/checks/b06i-acceptance.json.",
+    "additional_facts": [
+      "admission_stp_review"
+    ],
+    "additional_fact_reports": [
+      "ops/reviews/b06-admission-stp-facts.md"
+    ],
+    "engineering_date": "2026-10-14"
   }
 }

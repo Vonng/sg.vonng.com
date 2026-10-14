@@ -1,16 +1,26 @@
 ---
-title: "孩子怎样入学：小一、国际学生考试与学校选择"
-description: "按孩子身份、出生日期和目标学年选择入学路径，处理住址、监护、考试、材料、准证与报名受阻。"
+title: 孩子入学：选路、准备申请与报到
+description: 按孩子身份选择学校申请路径，准备住址、监护和考试材料，处理报名受阻并衔接准证与报到。
 page_id: sg-school-admission
 content_kind: task
-scope: "新加坡；公民、PR和外国儿童首次进入小学、中学及从海外返校；小一现行条件以2026报名、2027入学批次说明"
-status: written
-draft: true
-verified: ""
-reviewed_by: ""
+scope: 新加坡；公民、PR及外国儿童的小学、中学申请选路、材料准备与录取后报到；小一具体条件以2026报名、2027入学说明，AEIS出生分档与完整招生日期另核主管
+status: integrated
+draft: false
+verified: '2026-10-14'
+reviewed_by: review_state_audit＋admission_stp_review（事实）；root（第三编辑）；root（工程）
+weight: 10
+search_keywords:
+- AEIS
+- S-AEIS
+- CEQ
+- CES
+- 小一报名
+- 学生准证
 ---
 
 给孩子安排学位，先查孩子自己的公民、PR或外国人身份、完整出生日期、目标学年和年级。公民与PR的小一报名由教育部（Ministry of Education，MOE）分阶段办理；外国孩子的小一须先表达意向，较高年级主要通过国际学生入学考试；国际及私立学校则向学校申请。拿到学校通知后，还要按孩子持有的有效证件完成居留及报到手续。[MOE：小一报名问答](https://www.moe.gov.sg/faq?categoryid=76037F9F568F46A7AA80EFDCE9AB23CD)、[SEAB：AEIS](https://www.seab.gov.sg/aeis/about-aeis/)、[ICA：学生准证](https://www.ica.gov.sg/reside/STP)
+
+按下表选出适用路径，再准备材料和确认报名期。小一具体条件按 **2026报名、2027入学** 批次说明；下一届阶段资格、名额和日期须核当届全国公告。AEIS／S-AEIS的逐出生日期报考档、CEQ（剑桥英语资格考试）最低分及下一轮日历，请在缴费前按后文清单取得主管确认。
 
 ## 先按孩子的身份选路
 
@@ -54,7 +64,7 @@ Phase 2C对家长有无学校关联均开放；仍有余位的学校才会开放
 
 学校超额时，公民优先于PR；再按适用的住家与学校距离类别处理，同一类别超额会由MOE集中电脑抽签。部分学校在Phase 2C及2C Supplementary有PR名额上限，学校名单及各阶段可供PR的余位须查当届公布资料；这个上限不套到PR兄弟姐妹的Phase 1报名。[MOE：抽签](https://www.moe.gov.sg/faq?categoryid=1139BF5BD5BE498ABBF8082B3467901A)、[PR名额限制](https://www.moe.gov.sg/faq?categoryid=71DE17DF588D46E6A86204485C67CF9B)
 
-准备2027年报名、2028年入学的家庭，应核该届正式阶段、保留名额、适用学校与抽签安排，再安排义工、住房和搬家。这里的2026年日期及条件须与下一届公告逐项对照。[MOE：小一当届入口](https://www.moe.gov.sg/primary/p1-registration)
+准备2027年报名、2028年入学的家庭，把孩子出生日期、家长与学校的关联、拟用住址及预计居住时间交MOE或拟报名学校，按该届全国规则确认可报阶段、证明与截止日、SC／PR距离排序及PR余位；使用照护、未交房或转售地址的，再核批准、迁入和30个月的适用起点。这些下一届条件须逐项确认后，再安排义工、住房和搬家。[MOE：小一当届入口](https://www.moe.gov.sg/primary/p1-registration)
 
 ### 住址、距离及30个月居住要求
 
@@ -107,7 +117,13 @@ Singapore Examinations and Assessment Board（SEAB，考试主管机构）受MOE
 
 来源：[SEAB：AEIS](https://www.seab.gov.sg/aeis/about-aeis/)、[S-AEIS](https://www.seab.gov.sg/s-aeis/about-s-aeis/)。因此，AEIS 2026对应2027入学，S-AEIS 2027对应2027入学；AEIS 2027则对应2028入学。
 
-申请前应在MOE的[AEIS资格页](https://www.moe.gov.sg/international-students/aeis/eligibility-criteria)及[国际学生当届公告](https://www.moe.gov.sg/international-students)核完整出生日期、所准报考级别、入学年，以及小学要求的Cambridge English Qualifications（CEQ，剑桥英语考试）类型和剑桥英语量表（Cambridge English Scale，CES）最低分。孩子在海外读几年级、英语补习班说适合什么课程，均不能代替这项核对。无法查到适用分档时，把出生日期、目标入学年及已有成绩单交SEAB／MOE，请其明确对应条件，再决定付费报名。
+报名或报英语考试前，先备好孩子完整出生日期、目标入学年／年级、护照与现有准证、以往AEIS／S-AEIS申请记录和CEQ成绩单。对照[MOE的AEIS资格页](https://www.moe.gov.sg/international-students/aeis/eligibility-criteria)及[国际学生当届公告](https://www.moe.gov.sg/international-students)，取得以下三项确认：
+
+- 该报名批次准报年级、生日上下限和年龄基准日；海外在读年级不能直接代替这项判断。
+- 小学所需CEQ考试类型、CES（剑桥英语量表）最低分、成绩有效月份，以及已有成绩是否符合该档。
+- 报名起止日期与截止时间、考试日期及满额提前关闭安排。
+
+资格页或表格打不开时，把这些资料交SEAB／MOE，请其明确适用批次与条件；取得能对照孩子资料的答复后，再安排培训、机票和付款。下文办理步骤承接已确定合资格的申请。[SEAB：具体查询及技术协助入口](https://www.seab.gov.sg/contact-us/)
 
 小学须先取得合要求的CEQ成绩，再申请相应数学测试；中学考英语与数学。CEQ成绩须在申请期内交，不能报名后补交；成绩对应的考试须在申请月份之前12个月内。已经提交的一组CEQ成绩按该次申请处理，重新考到更高分不应假定可以替换。2026申请页所列“2025年7月起”或“2025年1月起”的考试日期，是对应2026 AEIS及S-AEIS的说明，不能用于推算2027全部窗口。[SEAB：CEQ提交与12个月](https://ask.gov.sg/seab/questions/cmcvbp7tf002d13wyb0mcqpvn)、[AEIS材料](https://www.seab.gov.sg/aeis/application-procedures/)、[S-AEIS材料](https://www.seab.gov.sg/s-aeis/application-procedures/)、[MOE：CEQ成绩及录取问答](https://www.moe.gov.sg/faq?categoryid=D1FDE07370F74F04B63B4592E161CBA1)
 
@@ -150,7 +166,7 @@ Skills and Workforce Development Agency（SWDA，技能与劳动力发展主管�
 
 ## 拿到学校通知后，核孩子自己的准证与报到
 
-Immigration & Checkpoints Authority（ICA，移民与关卡主管机构）要求外国人参加获准全日制课程时办理STP，但孩子本人持有效DP、LTVP或Immigration Exemption Order（IEO，移民豁免令）时，可在现有证件有效期内读全日制、非宗教课程。现有证件在学习期间到期或被取消，须按当时STP资格申请，才能继续学习。读获准宗教学校时，持DP或LTVP也须办理STP；持有效IEO者仍可豁免。短访课程豁免仅限在准证有效期或30天内完成、独立完整且符合其他要求的短课，不适用于整段小学或中学课程。[ICA：学习准证及例外](https://www.ica.gov.sg/reside/STP)、[宗教学校例外](https://www.ica.gov.sg/reside/STP/apply/gov)
+Immigration & Checkpoints Authority（ICA，移民与关卡主管机构）要求外国人参加获准全日制课程时办理STP，但孩子本人持有效DP、LTVP或Immigration Exemption Order（IEO，移民豁免令）时，可在现有证件有效期内读全日制、非宗教课程。现有证件在学习期间到期或被取消，须按当时STP资格申请，才能继续学习。读获准宗教学校时，持DP或LTVP也须办理STP；持有效IEO者仍可豁免。短访课程豁免仅限在短期探访准证有效期与30天两者中较短的期限内完成、独立完整且符合其他要求的短课，不适用于整段小学或中学课程。[ICA：学习准证及例外](https://www.ica.gov.sg/reside/STP)、[宗教学校例外](https://www.ica.gov.sg/reside/STP/apply/gov)
 
 | 学校类别 | STP申请前需准备 |
 | --- | --- |
@@ -159,7 +175,13 @@ Immigration & Checkpoints Authority（ICA，移民与关卡主管机构）要求
 
 来源：[ICA：政府／政府辅助／独立学校](https://www.ica.gov.sg/reside/STP/apply/gov)、[外国学制及私人资助学校](https://www.ica.gov.sg/reside/STP/apply/fss)。
 
-这两类STP的新申请及续期，应在课程开始前至少两个月、至多三个月提交。准备旅行证件、适用出生与家庭资料、住址、近三个月照片和所需官方英文翻译。外国出生、年龄12岁0天或以下的孩子，还须按ICA要求向Communicable Diseases Agency（CDA，传染病主管机构）提交疫苗资料。向ICA交非英文文件时，须用使领馆、合资格公证人翻译，或经所列使领馆认证／公证的私人译本。[ICA：时间、材料与翻译](https://www.ica.gov.sg/reside/STP/apply/gov)、[外国学制申请](https://www.ica.gov.sg/reside/STP/apply/fss)
+这两类STP的新申请及续期，应在课程开始前至少两个月、至多三个月提交。准备旅行证件、适用出生与家庭资料、住址、近三个月照片和所需官方英文翻译。外国出生、年龄12岁0天或以下的孩子，还须按ICA要求向Communicable Diseases Agency（CDA，传染病主管机构）提交疫苗资料。向ICA交非英文文件时，所用英文译本须符合以下一种安排：
+
+- 由文件出具国／地区的使馆提供翻译。
+- 由新加坡或文件出具国／地区的公证人翻译。
+- 私人制作的译本，由文件出具国／地区的使馆认证，或由新加坡或文件出具国／地区的公证人公证。
+
+[ICA：时间、材料与翻译](https://www.ica.gov.sg/reside/STP/apply/gov)、[外国学制申请](https://www.ica.gov.sg/reside/STP/apply/fss)
 
 STP处理中可留在境外；ICA建议先申请，再按批准安排来新完成签发，申请处理中不能据此延长在新的停留。学校录取不保证STP签发，现有证件的到期日仍须处理。签发、续期、转校及孩子入境手续见[ICA证件管理]({{< relref "/book/life/documents/arrival-renewal.md" >}})，疫苗衔接见[儿童预防保健]({{< relref "/book/people/healthcare/preventive-care.md" >}})。[ICA：申请期间与完成手续](https://www.ica.gov.sg/reside/STP/apply/gov)、[MOE：录取与STP](https://www.moe.gov.sg/faq?categoryid=D1FDE07370F74F04B63B4592E161CBA1)
 

@@ -123,7 +123,7 @@ weight: 30
 | ECI / Form C-S / Form P / Annual Return / XBRL | 估计应课税收入、公司简化税表、合伙税表、公司年度登记申报及财务报表格式 | [持续经营](/book/work/business/running-business/) |
 | GST / InvoiceNow / Peppol ID / SDL（雇主） | 消费税、电子发票网络、网络标识及技能发展税；SDL在药物语境另指补贴名录 | [登记、发票与雇员缴款](/book/work/business/running-business/) |
 | RORC / ROND / RONS | 控制人、代名董事及代名股东登记；私有与中央登记分别办理 | [企业登记维护](/book/work/business/running-business/) |
-| PDPA / PSGA | 个人资料保护法及公共部门治理法；处理者与程序分别核 | [资料请求与机关依据](/book/rights/legal/rights-notices/) |
+| PDPA / PSGA | 个人资料保护法及公共部门治理法；处理者与程序分别核 | [查阅、更正与投诉](/book/life/digital/privacy-data/)、[通知与机关依据](/book/rights/legal/rights-notices/) |
 | POFMA / Correction Direction / Speakers’ Corner | 网络虚假信息法律、纠正指令及演讲角；履行、上诉、活动角色分别核 | [公共表达与许可](/book/rights/legal/rights-notices/) |
 | MyCareersFuture / MCF / SWDA / e2i | 招聘平台、Skills and Workforce Development Agency及职业辅导机构；服务与资助按各自条件 | [招聘与辅导](/book/work/career/job-search/) |
 | EA（就业中介） / EA Directory | Employment Agency / MOM的中介牌照与人员查询入口 | [中介核验及收费](/book/work/career/job-search/) |
@@ -132,7 +132,7 @@ weight: 30
 | CPFTA / SES / joint and several | 消费者公平交易保护法 / 安全电子签名 / 连带责任；文件类型、主体和条款分别核 | [签约前检查](/book/rights/contracts/before-signing/) |
 | credit note / security deposit / liquidated damages / penalty | 发票调整凭据 / 履约保证金 / 约定违约赔偿 / 罚则；税务、扣款和民事效力按具体安排处理 | [履行与结算](/book/rights/contracts/performance/) |
 | force majeure / frustration / Certificate of Posting | 不可抗力条款 / 合同因后来事件发生根本变化的制度 / 寄送证明；按合同及适用制度核作用 | [通知、暂停与结束](/book/rights/contracts/performance/) |
-| DPO | Data Protection Officer，机构的资料保护负责人 | [经营中的资料保护](/book/work/business/risk-exit/) |
+| DPO / PDPC / DNC | 资料保护负责人 / 个人资料保护委员会 / 谢绝来电登记处；请求与电话营销分别核 | [个人资料权利](/book/life/digital/privacy-data/)、[经营中的资料保护](/book/work/business/risk-exit/) |
 | SIP 2.0 / SDRP / SWUP | 简化破产程序及简化债务重组、清盘分支；企业资格和清偿能力分别核 | [债务与停业选路](/book/work/business/risk-exit/) |
 | strike off / winding up | 除名 / 清盘；按企业形式、债务与程序选择 | [关闭业务与记录保存](/book/work/business/risk-exit/) |
 | GST F8 / OMV | GST最终申报表 / 公开市场价值；停业资产处理按具体GST条件核 | [取消GST与退出税务](/book/work/business/risk-exit/) |
@@ -143,3 +143,7 @@ weight: 30
 | NParks / PFD / AVS | 国家公园局 / 个人漂浮装置 / 动物与兽医事务组；活动、装备与野生动物求助分别核 | [公园与水域](/book/rights/outdoors/parks-water/) |
 | NP727 / e727 / BNI | 跨境现金及无记名可转让票据网上申报的表件与工具；金额、时间及申报人按主管条件 | [现金与物品申报](/book/rights/outdoors/travel-borders/) |
 | AVS Schedule I、II、III / PRSEP | 猫狗进口来源及条件分类 / PR单次入境证；宠物居住历史与个人返新身份分别判断 | [宠物与返新准备](/book/rights/outdoors/travel-borders/) |
+| HFE / BTO / SBF / EC / DPS | 组屋购买资格信 / 预购组屋 / 剩余组屋销售 / 执行共管公寓 / 延后付款方案 | [组屋办理](/book/life/housing/buying-hdb/)、[EC项目批次](/book/life/housing/buying-ec/) |
+| AEIS / S-AEIS / CEQ | 国际学生入学考试 / 补充考试 / 剑桥英语资格考试；年龄、成绩和当届安排按申请路径核 | [孩子入学](/book/people/school/admission/) |
+| SCT / CJTS / DOS / Memorandum of Consent | 小额索赔法庭 / 法院线上系统 / 送达声明 / 双方同意书 | [合同争议与索赔](/book/rights/contracts/disputes/) |
+| DOI / PIR / eRegister | 临时旅行证件 / 行李异常报告 / 外交部行程登记；身份与作用分别核 | [旅行保险与境外求助](/book/rights/outdoors/travel-support/) |

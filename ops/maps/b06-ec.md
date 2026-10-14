@@ -1,6 +1,6 @@
 # B06 EC购买：作者地图
 
-唯一作者 coverage_audit；root2026-10-14接续daily历史失活所有权。当前正文 `content/book/life/housing/buying-ec.md` 完整124行 / 16,359 B written/draft:true正式作者首冻，body `8d8166c26f56916f7445b8ec392d97e3451c5ed69a29b285f7bbe447c0c5c1ef` / full `08a65837968df315a507ddc0798c175a0a17805b1e8a85035fabfb047688bff8`，核验字段空。初122全文、末124全文、HUM13完整旧新与全差分、全部支持及实际内目标元数据均已真正读，源码静态全PASS；仅作者首冻，不是事实、第三或工程通过。
+唯一作者 coverage_audit；root2026-10-14接续daily历史失活所有权。当前正文 `content/book/life/housing/buying-ec.md` 完整124行 / 16,359 B written/draft:true正式作者首冻历史版，body `8d8166c26f56916f7445b8ec392d97e3451c5ed69a29b285f7bbe447c0c5c1ef` / full `08a65837968df315a507ddc0798c175a0a17805b1e8a85035fabfb047688bff8`，核验字段空。初122全文、末124全文、HUM13完整旧新与全差分、全部支持及实际内目标元数据均已真正读，源码静态全PASS；仅作者首冻，不是事实、第三或工程通过。
 
 ## 读者链与直接范围
 
@@ -20,3 +20,9 @@
 五真正采用源：MND8May/23Aug/28Jul完整公开DOM、AnnexA两页文字与真图1、AskHDB公开问问题入口仅定位。取得者13/14与本人读14分开，止损范围见 `ops/evidence/b06-ec.md`。完整新售SC/PR国籍／年龄／家庭／JSS及特殊家庭、外籍成员准证期、既往补贴次数／征费、EC补助、旧住房处置及MOP/开放起算仍核心未知，须新成功主管详条件或正式制度文件解除，具体询问动作不计已闭。亲自读来源，不继承旧日志／检索或邻稿政策。
 
 本作者只写这篇／本证据本图cache/HANDOFF，HDB首冻已交root审而不再自主改。border同版正式第三已完成交root，本文作者末稿/完整支持/静态现也收束并正式首冻；下一交root安排已写范围异人facts与真正第三。未新建_index、导航、共有账，不build/stage；能核已写范围不等于EC核心或全住房／全书完成。
+
+## 六稿限定收尾的当前版本
+
+2026-10-14，本页明确为新售家庭资格或转售受让范围获确认后的项目批次、付款与交付核对，保留两个tendercutoff／收入年数／DPS及工程付款、合同交付与受阻处理的完整链。完整国籍年龄家庭核、补贴征费／旧房处置及MOP具体起点仍未知，由读者在付款前按家庭与单位取得正式确认；不计全国全资格已闭。
+
+当前124行／16643 B，body `de169d9070fca5355b513c8f74e59b53887371d04ded8058701ad49d3f7ce282`／full `c7c1b5f0117794b90c5bc4e61bc631ffe1b024768717cbcbdb53885bf1aa49bb`；仅三个元数据行和首段限scope，其余规则日期URL未变，written／draft:true／核验空。四完整旧新／diff／逆替交B独立facts与异人第三；source数或范围改变均不代签。旧cache用户已删，本轮仅当前必要副本与delta，原作者完整HUM／真实阅读为历史不重跑。

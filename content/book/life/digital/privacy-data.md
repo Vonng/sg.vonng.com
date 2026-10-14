@@ -1,13 +1,23 @@
 ---
-title: "个人资料权利：查阅、更正、撤回同意与投诉"
-description: "怎样确认资料持有者，书面请求查阅、更正或撤回同意，核费用、回复期限和例外；向 PDPC 申请复核或投诉、登记 DNC，以及公共部门求助。"
+title: 个人资料权利：查阅、更正、撤回同意与投诉
+description: 怎样确认资料持有者，书面请求查阅、更正或撤回同意，核费用、回复期限和例外；向 PDPC 申请复核或投诉、登记 DNC，以及公共部门求助。
 page_id: sg-privacy-data
 content_kind: task
-scope: "公民、PR、工作准证、学生、家属及访客在新加坡处理个人资料请求、私部门投诉、电话营销与公共部门求助；具体诉讼程序由法律主题承接"
-status: written
-draft: true
-verified: ""
-reviewed_by: ""
+scope: 公民、PR、工作准证、学生、家属及访客在新加坡处理个人资料请求、私部门投诉、电话营销与公共部门求助；具体诉讼程序由法律主题承接
+status: integrated
+draft: false
+verified: '2026-10-14'
+reviewed_by: care_writer（事实）；coverage_audit（第三编辑）；root（工程）
+search_keywords:
+- PDPA
+- PDPC
+- DPO
+- DNC
+- 个人资料
+- 查阅
+- 更正
+- 撤回同意
+weight: 40
 ---
 
 要查阅或更正自己的个人资料，向持有或控制资料的机构书面提出请求；要停止某些用途，写清撤回同意的范围。私人机构适用的《个人资料保护法》（Personal Data Protection Act，PDPA）分别规定查阅、更正和撤回同意，三者的费用和处理期限不同。私人机构不处理时，可向个人资料保护委员会（Personal Data Protection Commission，PDPC）反映；政府机构另按公共部门制度处理。营销电话、短信和传真可另用谢绝来电登记处（Do Not Call Registry，DNC）。[PDPC：资料保护职责](https://www.pdpc.gov.sg/overview-of-pdpa/the-legislation/personal-data-protection-act/data-protection-obligations)、[数码发展及新闻部（MDDI）：公私部门资料制度](https://www.mddi.gov.sg/other-pages/personal-data-protection-laws-and-policies/)

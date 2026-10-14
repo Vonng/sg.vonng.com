@@ -1,16 +1,23 @@
 ---
-title: "购买EC：家庭资格、项目批次与付款"
-description: "先分新售与转售，再按土地招标截止日核EC收入、最低居住期、开放外国买家及付款方案，完成资格与合同确认。"
+title: EC购房核对：项目批次、付款与交付
+description: 先确认新售资格或转售可受让范围，再按土地招标截止日核EC收入、最低居住期、买方开放和付款方案，按本交易文件完成签约与交付。
 page_id: sg-buying-ec
 content_kind: guide
-scope: "新加坡执行共管公寓；公民、PR、工作、学生、家属及访客按家庭成员、交易类别和项目批次判断；未明确的资格须向主管与开发商核实"
-status: written
-draft: true
-verified: ""
-reviewed_by: ""
+scope: 新加坡EC项目批次、付款与持有条件核对；公民、PR及工作、学生、家属、访客按成员和交易角色处理，以主管或开发商确认新售家庭资格、或律师核明转售受让条件为前提，不提供完整家庭计划资格清单
+status: integrated
+draft: false
+verified: '2026-10-14'
+reviewed_by: review_state_audit（事实）；care_writer（第三编辑）；root（工程）
+weight: 40
+search_keywords:
+- EC
+- 执行共管公寓
+- DPS
+- MOP
+- TOP
 ---
 
-买 Executive Condominium（EC，执行共管公寓），先分清向开发商买新单位还是向业主买转售，再确认项目的土地招标截止日期。2026年5月和8月的两次调整分别改变居住年限、付款与首次购房优先安排，以及新售收入上限；买房日期、推出日期和项目取得临时入伙准证（TOP）的日期不能代替这两个政策分界。[EC制度调整](https://www.mnd.gov.sg/newsroom/press-releases/view/strengthening-the-executive-condominium-housing-scheme-and-supporting-first-time-home-buyers)、[收入调整](https://www.mnd.gov.sg/newsroom/press-releases/view/increase-in-income-ceilings-and-greater-support-for-families-with-children)
+准备买 Executive Condominium（EC，执行共管公寓），先分清开发商新售与业主转售，把新售家庭资格交主管／开发商确认，或请承办律师核转售单位的可售日期和本次买方范围，再决定付款。本页重点是确认项目的土地招标截止日期、付款安排和交付。2026年5月和8月的两次调整分别改变居住年限、付款与首次购房优先安排，以及新售收入上限；买房日期、推出日期和项目取得临时入伙准证（TOP）的日期不能代替这两个政策分界。[EC制度调整](https://www.mnd.gov.sg/newsroom/press-releases/view/strengthening-the-executive-condominium-housing-scheme-and-supporting-first-time-home-buyers)、[收入调整](https://www.mnd.gov.sg/newsroom/press-releases/view/increase-in-income-ceilings-and-greater-support-for-families-with-children)
 
 ## 先认清交易类型与项目
 

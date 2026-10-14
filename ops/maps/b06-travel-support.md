@@ -1,6 +1,6 @@
 # B06 旅行保障与境外求助：完整接续地图
 
-root将三旧稿转care_writer（C）唯一续写；原51/24/21及外会话HANDOFF先精确保存和完整实读，不继承其source旗标或过时body定义。当前完整133RAW／25672B，body `b769c26169ee8d8b86e28e6a7861cad668016c50b7856d6acdf05b388312da8d`／full `1a335c8055620063afe1a4f7fb9133aa3a8e8dc2bbd97794e5a2e15f09400a3b`，九字段written/draft:true/核验空；仅作者完整冻稿，不计独立两审或integrated。正文单源content/book/rights/outdoors/travel-support.md，未建_index或计划空页。
+root将三旧稿转care_writer（C）唯一续写；原51/24/21及外会话HANDOFF先精确保存和完整实读，不继承其source旗标或过时body定义。当前第二冻133RAW／25749B，body `5df46a39dd271a408fcb7a1c6ed968a463995af35100e060a74b17a3de5cc28e`／full `f0d8f78a71c91fc36d710af118c75ca5345e20f826593c7bb9fcc83403a67390`，九字段written/draft:true/核验空；仅作者完整冻稿，不计独立两审或integrated。正文单源content/book/rights/outdoors/travel-support.md，未建_index或计划空页。
 
 | 必要任务／读者受阻 | 本稿完整行动 | 原件或已接收单源 |
 | --- | --- | --- |
@@ -19,12 +19,16 @@ root将三旧稿转care_writer（C）唯一续写；原51/24/21及外会话HANDO
 
 ## 实际原件与作者闭合
 
-26URL／47外引＝24实质＋2官方目录locator，24web（含两个入口）/两实体PDF；真实源日期/适用条件/时期/unknown在evidence及忽略source-adoptions。Income新entity20必要plain/7本人真图；GIA既有成功entity必要11/17两plain/11一图＋16辅助一plain；总22必要＋1aux＝23actualselectedtext、8真图，余页不说已核。来源混两列/三列与跨页实际图核，未由文件数签读。
+当前27URL／48外引＝25实质＋2官方目录locator，26web＋一Income实体PDF。首冻C两PDF23实际文字／8真图属于删除旧cache之前的真实作者历史；旧GIA实体现不可访问，当前留证段改用本轮已实际读的GIA详页，中央中国热线／网络电话分两原源。C本轮三网页完整采用段真实读取，未把B的Income新图读冒称C新读；原始失败及未知沿证据保存。
 
-完整working1/working4、三轮23完整操作、三diff已本作者真实读并逐轮逆替，9真实integrated内目标/11内引frontmatter和9meta、source/EOF/bold等源静态另见check，不当独立审或Hugo渲染。源原件/实际读取与HUM/frozenSHA/manifest齐，外来初稿有用种子仍覆盖，无silent降 scope。
+完整working1/working4、三轮23完整操作、三diff已本作者真实读并逐轮逆替，9真实integrated内目标/11内引frontmatter和9meta、source/EOF/bold等源静态另见check，不当独立审或Hugo渲染。首冻时源原件/实际读取与HUM/frozenSHA/manifest曾完整保存，旧cache现已删；本轮只保存两完整source-only改段/当前三文件/独立inverse和三新网页，外来初稿有用种子仍覆盖，无silent降 scope。
 
 ## 所有权及后续
 
 本稿为C唯一作者，evidence/map及HANDOFF-care_writer同C；parks与tropical成熟body/support已root工程接收，不再修改；travel-borders C原完整facts加六名字限定PASS后A真正第三已闭、root接工程。本稿不抢写其他正文、outdoors _index或导航/shared账。本文承接保障与境外求助，边境物品/现金/宠物详细行动由border单源；本稿没有把未integrated邻稿写成公开链接。
 
 完整作者冻稿后由root派另一位回源facts，再第三人全文编辑静态，root接收/门禁/实际render/sync。准确修订仍只C应用、留完整旧新diff和新SHA，由原事实限定或重审；当下不记两审通过或全书完成。
+
+## 六稿收尾第二冻仅两处换来源
+
+2026-10-14T20:14:34.684672+08:00，旧中国主管页超时、旧GIA实体403由B按唯一正常8888边界停止。C已真实复读三份新主管详源后只换正文两完整段引用，规则不变；完整旧新／唯一diff与C独立逆替精确回首冻已保存本轮新cache，不声称旧23HUM包或官方原件恢复。正文body `5df46a39dd271a408fcb7a1c6ed968a463995af35100e060a74b17a3de5cc28e`／full `f0d8f78a71c91fc36d710af118c75ca5345e20f826593c7bb9fcc83403a67390`；source数量按当前27／48，保持written/drafttrue核验空，交B事实同版终核，再第三／工程。

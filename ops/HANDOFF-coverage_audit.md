@@ -1,4 +1,26 @@
+## 2026-10-14 20:35 六稿收尾：旅行第三已签、住房作者冻结
+
+旅行支援真正第三PASS已落ops/reviews/b06-travel-support-editorial.md，17行／3831 B／SHA5f3fb59e4f9ab1a0160ec8a0835bbe0fb5cad0aaf7d116b683ead991d23595cc，绑定C正文body5df46a39…／fullf0d8f78a…及B正式41事实18a3db58…。A完整读当前133／79证据／34地图／41事实、本轮两整旧新和完整正文／支持差分，自己逆替精确首冻1a335c80；九integrated目标实际frontmatter及48外引27URL源码静态闭，无编辑请求。未重做B27源／PDF或恢复旧23HUM大包；root接工程。
+
+HDB按B首次BTO／SBF释义及两历史标签反馈已唯一作者限改、最终133全文与完整三diff实际读、正文和支持精确inverse闭。body4f851445fe320059330fb1490196a47e902ab52f3a0f55de980885db78ef7222／作者full9871f31001e8900b9f1c545c431aa8e0a4c67de72b23a81a60115bdcf3b819e7，支持7009774f…／5d0caa29…。root限定facts和B第三已正式同版PASS，主控20:35已接所有权及metadata工程，A不再修改。EC作者包仍de169d90…／c7c1b5f0…冻结，B事实→C第三；admission明确由C唯一作者，A不碰。
+
+按root/B请求，只提取了仍保留在本会话JSONL中的May8 MND真实完整公开工具返回：原A16:17:35.559 SGT从press-list2唯一UI点击，chunk87192c／call_0fbc848f7a614ee0886f42378743f089，完整3495 B／SHA7683cd1ecc1e0465aa94cfbffc4d0b0215b97d51c372fcdaa60d9e503570c07b，文件.cache/six-drafts/ec-retained-tool/may8-actual-retained-primary.txt及原完整tool输出／provenance。20:31只从现有原工具记录提取，无新网络请求，无已删HTML或旧全缓存恢复；A原文实际全读，B已收到正在独立读、root已完整独立读，旧政策未知仍不由正文存在填补。
+
 # coverage_audit 当前交接
+
+## 2026-10-14 六稿收尾：当前有效分工与冻结版本
+
+用户明确删除旧.cache并曾要求停止，随后新指令仅完成六篇草稿；当前以本节为准，下列19:01及更早分工／缓存路径都是历史。A仅拥有两住房正文及各证据地图，另完成自己的privacy第三；admission已明确转C唯一接续作者，不由A再修改。root拥有共享账／导航／构建与接收，不扩全书新队列。
+
+privacy第三正式PASS：ops/reviews/b06-privacy-data-editorial.md19行3943 B／SHA `21a46cc682a0eca169446a8bdd0b882379670b2d029b63fecce9e475051e50ce`，绑定当前128／body41b9cfdf…／full7ffe9845…、C95事实bff00d1e…、evi852ae71d…／map790567b3…。本轮128全文／95报告／45地图及88证据末版说明实际读；当前三目标元数据与源码检查PASS、唯一词组逆替准确旧14bf。原24完整操作／四diff／原源阅读是删除前真实历史，不声称遗失大缓存仍在，也不代工程。报告已交root。
+
+HDB正式本轮作者冻：133行21486 B，body `655781f0204685d978a13ad0cf2be74e7192437745451147826a21b8b4cba87f`／full `74fdb6acc3191d769227d9cf3778bc889a6696140131f408940546a5883e7666`；evi62／21133 B／e13fff70…，map31／3852 B／14361b6e…。六有限旧新及完整diff实际读，133全文1—68／69—133真读、独立逆替精确原0ecd；仅三个元数据行、两开篇完整段限HFE核定至交易交屋，MOP34按钥匙日起算及扣非占用期澄清。原61“≥3房”正确不改，误判已由root撤回。当前36外引17URL／5内引4integrated、九字段／单EOF等静态PASS，80k教学复算。root按原已真实核17源及三PDF五文字四图的PENDING范围承继，只限定新段及任务完整性，再异人第三；A不自签，不撤draft。
+
+EC正式本轮作者冻：124行16643 B，body `de169d9070fca5355b513c8f74e59b53887371d04ded8058701ad49d3f7ce282`／full `c7c1b5f0117794b90c5bc4e61bc631ffe1b024768717cbcbdb53885bf1aa49bb`；evi47／11184 B／567d6bc8…，map28／3692 B／66ca1fd3…。四完整旧新及全diff实际读，最终124全文真读、独立逆替准确原08a6；只标题／description／scope与首段限本交易资格已确认后的批次、付款与交付，其余规则数字日期URL不变。13外引5URL／10内引6integrated、九字段与源码PASS，350k教学复算。已交B独立全已写事实，再异人第三；范围变化不是事实通过。
+
+两篇按照root已采用PROMPT7.4的具体有用任务收束，仍保留SC-PR／全PR／非居民配偶／特殊家庭、PHG、EC国籍年龄／补贴征费／旧房处置及MOP实际起点等未核条件，付款前由主管或正式交易文件核定；不计全国全资格、住房核心或全书完成。两作者三文件均当前冻结，仅准确异人反馈由A改。原HUM已经实际完成不重跑；旧来源未恢复、不重建旗标。
+
+本轮必要ignored文件仅.cache/resume-six-2026-10-14：当前正文支持副本、hdb/ec-limited-delta.json／.diff／inverse、当前源码检查；另MOP同URL正常公开工具取得成功并实际限定读L91—113，真实原返mop-current-tool.txt、主文24June／footer24August与14Oct读取分开。未重探失败、未build/stage/commit、未改首页／导航／共享账或做真实办理。下一响应root HDB限定事实及B EC准确反馈；等待主控另派真正第三，作者不抢审自己稿。
 
 ## 2026-10-14 19:01 Singapore 最新有效断点：两份真正第三待限定末版
 

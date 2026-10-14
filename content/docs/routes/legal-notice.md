@@ -26,3 +26,5 @@ weight: 65
 合同付款、交付或终止有争议时，用[合同履行](/book/rights/contracts/performance/)把版本、已付与未付、未完成项目、通知及请求金额列清；签字身份、保证或附件不明确，回[签约前检查](/book/rights/contracts/before-signing/)整理原始约定，再携材料核适用救济。
 
 烟草、电子烟、酒类、药物或其他物品的查扣、调查、样本和康复通知，接[受管制物品](/book/rights/safety/controlled-items/)核具体机关、产品、所指行为和要完成的动作，再按上述路线整理期限与求助。
+
+准备消费、住宅租约或经营合同索赔时，接[合同争议](/book/rights/contracts/disputes/)核协商、调解、SCT及一般民事路径；资料查阅、更正或撤回同意的问题，接[个人资料权利](/book/life/digital/privacy-data/)按处理主体选路。已收到法院文件的，继续处理自身回应和出席安排。

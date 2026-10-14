@@ -1,6 +1,6 @@
 # B06 EC购买：作者证据与必要资格缺口
 
-唯一作者 coverage_audit；本人实际读源、成稿与自读日 2026-10-14 Asia/Singapore。正式作者首冻 `content/book/life/housing/buying-ec.md` 124 行 / 16,359 B；body SHA256 `8d8166c26f56916f7445b8ec392d97e3451c5ed69a29b285f7bbe447c0c5c1ef` / full SHA256 `08a65837968df315a507ddc0798c175a0a17805b1e8a85035fabfb047688bff8`。九字段 written / draft:true / 核验空；作者已实际完整自读并冻结；独立事实、第三、工程未做。
+唯一作者 coverage_audit；本人实际读源、成稿与自读日 2026-10-14 Asia/Singapore。正式作者首冻历史版 `content/book/life/housing/buying-ec.md` 124 行 / 16,359 B；body SHA256 `8d8166c26f56916f7445b8ec392d97e3451c5ed69a29b285f7bbe447c0c5c1ef` / full SHA256 `08a65837968df315a507ddc0798c175a0a17805b1e8a85035fabfb047688bff8`。九字段 written / draft:true / 核验空；作者已实际完整自读并冻结；独立事实、第三、工程未做。
 
 四组主管政策源及一公开求助定位源均实际读到主文。MND及AskHDB取得者为本人；AnnexA原取得者沿旧会话记录，不冒本人取得。三个2026 MND公告由本人本日沿新的正常可读公开press-list UI首次必要点击取得完整HTML及DOM全文；没有后台API、绕挑战、TLS关闭、私账户或重复HDB双路失败。收入AnnexA为13日已有真实实体，本人14日实际读物理1—2完整文字、亲看物理1图；这一次原件重读不伪称本人14日重下载或全PDF图审。
 
@@ -35,3 +35,13 @@ HDB finding-an-ec／eligibility／conditions-after-buying-an-ec及HDB住房核�
 ## 作者验证与下一步
 
 初稿122RAW1—61／62—122已实际读完；HUM13组完整旧新与全部差分实际读，首见MOP／CPF／HFE／HDB／MND释义、去重复否定和无用HDB比较，不改EC政策与未知边界。教学虚构三个tender例依5月8日／8月24日分界、不是实际项目；资金算例1500000−950000−200000＝350000，只总房款差额，税费另留并仍须按分期日期核。末版124RAW1—62／63—124、完整支持与六实际内目标元数据已真正读；源码静态全PASS，现正式首冻；本人不签独审，不建导航／共享账或build/stage。
+
+## 六稿收尾：项目批次、付款与交付的限定任务
+
+2026-10-14 Asia/Singapore，root采用作者按PROMPT7.4的明确范围：先取得新售家庭资格确认，或由律师核转售受让范围与可售日期，再核两次tenderclosing分界、收入／居住及开放年数、付款表与工程分期、签约交付、入住限制和受阻跟进。作者仅改title、description、scope及首段，旧全部政策数字、日期和URL／其余正文不变；范围变化本身不代事实通过。
+
+当前124行／16643 B，body `de169d9070fca5355b513c8f74e59b53887371d04ded8058701ad49d3f7ce282`／full `c7c1b5f0117794b90c5bc4e61bc631ffe1b024768717cbcbdb53885bf1aa49bb`，written／draft:true／核验空。四完整旧新／唯一全diff及逆替精确原冻在.cache/resume-six-2026-10-14/ec-limited-delta.json／.diff。原四政策源＋AskHDB定位源的实际作者阅读、两物理文字页／一真图与13HUM为删前历史，未重跑；旧原件／大包已随用户删除.cache，不再称当前可复查或伪造恢复。本轮只保存当前正文／支持和有限改段。
+
+完整新售国籍／年龄／JSS及特殊家庭、外籍成员准证、住房历史／征费／补助和具体处置、MOP／anybuyer起算及单位可售日仍按上表保留未知：付款前核该家庭／项目及本交易正式文件，不由TOP历史付款句推所有起点，不借其他房种规则补缺。本文完成的是这一限定核对任务，未宣称全国全资格或住房核心全部研究闭合。
+
+下一交B独立事实审全部已写规则及新scope的准确性，再异人第三、root工程；作者不自签，不机械删draft，不改共享导航／账或build／stage／commit。

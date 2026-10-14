@@ -1,6 +1,6 @@
 # 任务总账
 
-现场更新：2026-10-14 19:26（Asia/Singapore），按用户明确指令停止研究并收尾。用户确认已删除整个.cache；不恢复原件或生成缓存。111篇主题＝105 integrated＋6 written/draft:true；全书未完成。本轮新增正式SCT完整事实及第三编辑报告，合同争议最新body bca87325…尚未本地工程集成；隐私首冻完整facts已通过，最新41b9cfdf…唯一措辞修订的正式限定重绑及第三尚未落盘。HDB原17必要源审已完成但核心资格仍PENDING；收入附表原图≥3-room已核，错误“>”反馈已撤回、未改稿，MOP表达待修。EC／admission／travel-support仍待完整后续审核及必要核心。缓存路径均是历史取得位置，当前不可复查，不把删除前真实阅读撤回，也不伪造缓存恢复。首页由用户确认的另一会话维护，root不接续改版。最后本地工程仍B06H105／411；本轮没有新构建或sync。
+现场更新：2026-10-14 21:22（Asia/Singapore）。用户指定的六篇草稿已全部完成同版独立事实、真正第三及本地工程接收，111主题均integrated/draft:false，草稿0。B06I新增HDB购买办理、EC项目批次付款交付、个人资料权利、孩子入学选路材料报到、旅行支援及合同争议；组屋/EC完整家庭资格及入学全国分档/日历等仍按明确限定范围保留维护，不宣称整书核心全部查明。183源/185HTML，两轮生产门禁零错误警告；21路径1440/390、58基础＋72增补实点，打印145节点/111来源表/714物理页，root九网页及七PDF页真实目视。427初终/public全部路径、大小、SHA一致，详checks/b06i-acceptance.json。31工程输入未变，首页由另一会话维护；自有1338已停止。原删cache不重建大包，必要新原件/有限差分与QA已在忽略目录保存。原整书持续目标保持暂停，本批无外部推送、部署或真实代办。
 
 | 任务 | 所有者 | 状态 | 依赖与完成标准 |
 |---|---|---|---|
@@ -9,13 +9,13 @@
 | B01-C 就医/支付/CPF | care_finance | integrated | 3篇完整稿+关键资格矩阵→异人事实→第三静态 |
 | B01-D 交通/历史/多语 | daily_history | integrated | 3篇完整稿+原文→异人事实→第三静态 |
 | B01-R 轮换独立审阅 | 三作者轮换，root接收 | passed | I由C事实审；C由D事实审；D由I事实审；第三静态root |
-| B02 租房/应急/离职/个人税/出生/入学 | 三作者共7稿 | integrated 6 / draft 1 | 身份等主概念已稳定，逐篇写审集成 |
+| B02 租房/应急/离职/个人税/出生/入学 | 三作者及入学C/B＋D/root | integrated 7 / draft 0 | 入学已B06I按选路材料报到限定任务接收；全部出生/CEQ分档和下一届日历另见维护。 |
 | B03A 政府/地理/家庭日常/预算 | identity政府3；daily_history地理3；care_finance日常4；root预算1 | integrated | 11篇事实/第三编辑/生产构建与渲染通过；预算由care事实、identity第三编辑 |
 | B03B 社群/历史文化/世界与不平等 | identity社群3；daily_history历史文化4；care_finance世界与不平等4 | integrated | 11篇两轮审核、生产/25路径双视口/搜索/打印通过；版本见accepted和b03bc-acceptance |
-| B03C 身份住房交通数字社区余项 | root数字与社区；identity证件；daily住房；care交通 | writing / reviewing | 数字3、PR/文书2、社区3、出租车/主动出行2、租约、居留/准证管理、邻里与驾驶均已集成；机场、私宅与购房成本已集成；HDB/EC核心原文仍有明确来源缺口。root接第三编辑及工程；7—12领域缺口不按篇数认定完成 |
-| B04 家庭教育照护 | identity家庭；care医疗/心理残障/照护/老年；daily教育高教成人学习；root多语 | writing / researching | communication/multilingual-family及relationships/sexual-health已集成；childcare、medical-records已完成B04B，MDW/药物/高教已完成B04C两轮审核及实际工程；分居安全与TG已通过B04D独立审和实际工程；预防医疗MOH/CPF年龄冲突已由2027生效专业入口和手册解释，B04E限定两审及实际工程闭合；心理健康已B04F实际接收，学校learning已B04G两审及实际工程通过，学校生活已B04I两审及实际工程接收，成人学习已B06A完整两审与工程通过；残障支持已B04H接收，照顾者支持已B06A完整两审与工程通过。13—19全部种子、身份与生命周期分支逐条闭合；所分路径独占，必要拆页先登记 |
-| B05 财务经营法律安全 | root个人金融/税务经营；identity劳动 | writing / researching / planned | banking已完成独立两轮与生产实际验收；32详源及冲突边界已登记。SRS/投资/保险已完成独立审核和工程；债务两审及B04E实际工程通过；劳动权益与跨境税务已B04F接收，经营已B04G两审与实际工程通过；工伤与税务更正已B04I两审及实际工程接收；困难求职/家庭援助已拆三完整主题并全部B06B/C工程接收；房产税137行/P01—18已独立两审及B06A工程集成，BOOKMAP领域20—28余项逐条闭合 |
-| B06 全书覆盖与情境走查 | root+独立审阅者 | planned | 全28领域种子/身份/生命周期/弱势处境逐条证明 |
+| B03C 身份住房交通数字社区余项 | root接收；各正文原作者 | integrated topics / qualification maintenance | 全部候选正文已接收；HDB/EC为HFE或实际资格确认后的完整交易任务，全部家庭资格、补贴征费及具体起点仍按证据待新详源。 |
+| B04 家庭教育照护 | 各原作者；root接收 | integrated topics / final coverage pending | 入学最新180正文已完整B＋D事实/root第三及B06I工程；家庭医疗心理残障照护教育各候选已接收，13–19全部必要种子与身份/生命周期情境仍须最终逐条证明。 |
+| B05 财务经营法律安全 | 各原作者；root接收 | integrated topics / final coverage pending | 20–28候选正文均已接收；已审事实保留具体身份、年度、批次和未知，全部领域及五情境最终走查仍未通过。 |
+| B06 全书覆盖与情境走查 | root＋独立审阅者 | paused / not passed | 用户本次仅完成六稿；全28种子、六身份高影响分支及五真实读者情境须另按用户后续指令继续，不以111篇代完成率。 |
 | AUDIT 进展与续作提示词 | root；两位只读审计者 | complete（状态审计） | 源码覆盖、审核SHA、Git与实际生产门禁已核；不等于全书事实/内容完成，见PROGRESS-AUDIT及checks/progress-audit-2026-10-13.json |
 | P0 HUM版本与成熟稿接收 | root；A/B交叉独审；care_writer | integrated（B06A/HUM10） | 50篇维护双独审及三事实修正闭合；三成熟稿完整两审、70路径双视口/打印、340产物同步，详见b06a-acceptance |
 | B06B 退休、照护、劳动申索、法律体系 | care_writer老年；review_state_audit法律；root申索；coverage_audit事实轮换 | integrated | 四篇完整两审及同版SHA、21路径双视口58基础+56额外、打印/九个目视样本及356输出一致；checks/b06b-acceptance |
@@ -25,11 +25,13 @@
 | B06F 签前、履行、录用 | C合同作者；A录用作者；B签前/录用facts；root履行facts及工程；A合同第三/C录用第三 | integrated 3 | 最终fbd61158…／02385c9b…／5a2101d1…完整两审同版PASS，20导航、25路径双视口66基础＋128额外真实实点；打印100来源表/632页、root六网页八PDF实际样本；396初终/public完整清单一致，checks/b06f-acceptance |
 | B06G 职场与两安全 | A/B/C/root按正式角色 | integrated 3 | e028dcf6…／d40bb71d…／2f2bcba0…完整两审及25路径66＋118实测；六网页十PDF实际样本，655页打印，403产物全一致，checks/b06g-acceptance |
 | B06H 公园水域与跨境旅行 | root接收工程；C／B作者、B／C完整facts、root／A真正第三 | integrated 2 | 最终1b4b4267…／5322f08a…同版两审；21导航／25路径66＋104实点、4网页8PDF目视、672页打印／411产物完全同步，checks/b06h-acceptance |
-| 合同争议接续 | root唯一作者 | private complete draft / support pending | 123行draft2完整终稿、15＋2全改块／两diff及root逆替已真读；首SCT释义与唯一URL误换已修，证据地图／正式冻／独审待 |
-| 户外完整接续与独审 | C parks／support作者；B border作者；B／C完整facts；root／A真正第三 | integrated 2 / support writing | parks1b4b4267…和border5322f08a…已B06H工程接收；C旅行支援仍完整接续，未冻／独审 |
-| 住房与资料权利核心 | A HDB／EC作者、现接admission；B privacy-data唯一作者 | written / researching | HDB133／EC124正式作者冻，核心资格原文缺口未消，完整两审待；privacy128工作稿现行请求／21日DNC等补源及HUM仍待冻结，不计成熟 |
-| 首页并行改版 | 外部源稿保留；root必要工程修复/验收 | partial engineering passed / source handoff pending | 原始完整快照已存；root仅六行手机footer修复和自有短语搜索override；固定页脚链接守卫7案例、实际25路径/暗色/手机通过。四预设与工具卡片整卡/图标同行尚待最终首页走查，未知源/4小图标不混成熟内容stage |
-| HUM 全书说人话校对 | root；coverage_audit/review_state_audit交叉限定两审 | in progress（已公开源闭合） | 按 ops/HUMANIZE.md（提示词v2）初始94队列并追增实际源（二核140，已补登caregiver-support/property-tax）；礼节/小贩两份九处表达已限定事实及第三编辑通过，主控已应用并完成B04A生产、双视口及打印验收。删说教/免责/无信息量否定，事实层零变动；在途draft待集成后补；独立版本与accepted SHA绑定，闭环后主控工程验收 |
+| 合同争议接续 | root作者/B事实/A第三 | integrated | 123稿bodybca87325完整两审及B06I实际工程；协商调解、SCT送达出席与执行已闭。 |
+| 户外完整接续与独审 | C parks/support作者；B border作者；异人事实/第三 | integrated 3 | parks和border保留B06H接收；support133/body5df46a39现B完整27URL事实/A真正第三/B06I工程，无剩余草稿。 |
+| 住房与资料权利核心 | A HDB/EC作者；B privacy作者 | integrated 3 / qualification maintenance | HDB4f851445、ECde169d90、privacy41b9cfdf同版两审及工程闭合；住房完整家庭资格、补贴征费与具体起点保留后续原文任务，非自动资格判定。 |
+| 首页并行改版 | 用户确认的另一会话 | parallel maintenance | 主控本批未改配置/模板/首页/图标，31工程输入SHA保持；随当前树门禁及菜单/明暗/手机检查通过，后续改版由其所有者接续。 |
+| HUM 全书说人话校对 | root；各作者及真正异人第三 | six-topic closeout passed / final book review pending | 本批六篇作者既有HUM与当前全文/完整差分第三闭合，不重做用户已删旧包；全书最终跨章表达与五情境仍保留独立任务。 |
+| B06I 用户指定六稿收尾 | root工程；A/B/C/D依正式报告角色 | integrated 6 | 111主题/0draft；21路径130实测、714页打印7页目视、427初终/public一致；checks/b06i-acceptance。 |
+
 
 ## 日期触发与来源缺口
 

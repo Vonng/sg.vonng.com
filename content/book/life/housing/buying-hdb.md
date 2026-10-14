@@ -1,20 +1,26 @@
 ---
-title: "购买组屋：HFE、新房申请与转售完成"
-description: "先核家庭与房型资格、HFE和资金，再完成BTO、SBF或转售；分清2026收入上限、私宅等候期和付款期限。"
+title: 组屋购买办理：HFE、选房、付款与交屋
+description: 以HFE及HDB对本家庭的确认安排新房或转售，核2026收入和产权调整、贷款与现金缺口，完成选房、签约、付款及交屋。
 page_id: sg-buying-hdb
 content_kind: guide
-scope: "新加坡组屋购买；公民、PR及工作、学生、家属、访客身份按申请人、家庭成员与具体计划判断，涵盖新售和转售"
-status: written
-draft: true
-verified: ""
-reviewed_by: ""
+scope: 新加坡组屋购买的办理与资金准备；公民、PR及工作、学生、家属、访客按申请人或成员申报，以HDB按实际家庭核定资格为前提，覆盖HFE、新售与转售至交屋，不提供全部家庭计划的自行资格判定
+status: integrated
+draft: false
+verified: '2026-10-14'
+reviewed_by: root（事实）；review_state_audit（第三编辑）；root（工程）
+weight: 30
+search_keywords:
+- HFE
+- BTO
+- SBF
+- 组屋购买
 ---
 
-买组屋，先取得建屋发展局（HDB）的 HDB Flat Eligibility Letter（HFE，组屋购买资格信），确认家庭可以买什么、能领哪些购房补助，以及是否能获得 HDB 贷款，再决定新房还是转售。申请 BTO／SBF 前须有有效 HFE；买转售房，须在卖方给出购房选择权书（Option to Purchase，OTP）前，以及递交转售申请时持有有效 HFE。银行愿意贷款并不能代替住房资格。[HDB购买概述](https://www.mynicehome.gov.sg/get-started/hdb-buying-guide/)
+准备买组屋，先取得建屋发展局（HDB）的 HDB Flat Eligibility Letter（HFE，组屋购买资格信），确认本家庭可以买什么、能领哪些购房补助，以及是否能获得 HDB 贷款，再安排新房或转售交易。本页按HFE及HDB对实际家庭的确认，衔接选房、资金、签约和交屋。申请预购组屋（BTO）／剩余组屋销售（SBF）前须有有效 HFE；买转售房，须在卖方给出购房选择权书（Option to Purchase，OTP）前，以及递交转售申请时持有有效 HFE。银行愿意贷款并不能代替住房资格。[HDB购买概述](https://www.mynicehome.gov.sg/get-started/hdb-buying-guide/)
 
 ## 先确定谁买、谁列入家庭
 
-把拟作业主的申请人、申请所必需的核心居住成员（core occupier）及其他家庭成员分开，逐人列出国籍、年龄、婚姻关系、准证及期限、收入、已有住房和曾享住房补贴。HFE 要把申请人和核心居住成员的资料一并纳入；不要为达到收入或人数要求，先删去配偶或其他必需成员。[HFE办理指南](https://www.mynicehome.gov.sg/get-started/hdb-hfe-guide/)
+把拟作业主的申请人、申请所必需的核心居住成员（core occupier）及其他家庭成员分开，逐人列出国籍、年龄、婚姻关系、准证及期限、收入、已有住房和曾享住房补贴。下表是资料与核问清单；公民与PR、全PR、非居民配偶及特殊家庭计划的完整成员条件，须由HDB按实际家庭确认。HFE 要把申请人和核心居住成员的资料一并纳入；不要为达到收入或人数要求，先删去配偶或其他必需成员。[HFE办理指南](https://www.mynicehome.gov.sg/get-started/hdb-hfe-guide/)
 
 | 家庭或身份 | 看房和付款前须做的事 |
 | --- | --- |
@@ -31,7 +37,7 @@ reviewed_by: ""
 
 ## 房型、分类与入住限制一起看
 
-房间数、剩余租期与 Standard／Plus／Prime 分类是不同条件。自2024年10月开始，新推出组屋采用这三类；此前的旧式房源通常属于未分类（Unclassified），原先的黄金地段组屋（PLH）则属于 Prime 的例外，不能只凭上市年份判断。最低居住期（Minimum Occupation Period，MOP）要求实际居住，离开而没有居住的期间不计入。[房型与分类指南](https://www.mynicehome.gov.sg/get-started/hdb-flat-types-classification-guide/)
+房间数、剩余租期与 Standard／Plus／Prime 分类是不同条件。自2024年10月开始，新推出组屋采用这三类；此前的旧式房源通常属于未分类（Unclassified），原先的黄金地段组屋（PLH）则属于 Prime 的例外，不能只凭上市年份判断。最低居住期（Minimum Occupation Period，MOP）要求实际居住，从领取钥匙日起计算；整套出租或违反组屋租约等未占用的期间不计入。[房型与分类指南](https://www.mynicehome.gov.sg/get-started/hdb-flat-types-classification-guide/)
 
 | 分类 | MOP及持有期间要点 |
 | --- | --- |
