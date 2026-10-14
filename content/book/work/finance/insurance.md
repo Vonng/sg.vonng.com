@@ -7,7 +7,7 @@ scope: 新加坡公民、PR、各类工作准证持有人、学生、家属及�
 status: integrated
 draft: false
 verified: '2026-10-13'
-reviewed_by: "daily_history（事实）；identity（第三编辑）"
+reviewed_by: "daily_history（事实）；identity（第三编辑）；HUM10限定维护：review_state_audit（事实）；coverage_audit（第三编辑）"
 weight: 60
 ---
 

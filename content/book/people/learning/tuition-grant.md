@@ -7,7 +7,7 @@ scope: "新加坡；公民、PR及外籍学生的指定全日制课程学费津�
 status: integrated
 draft: false
 verified: '2026-10-13'
-reviewed_by: "identity（事实）；root（第三编辑）"
+reviewed_by: "identity（事实）；root（第三编辑）；HUM10限定维护：review_state_audit（事实）；coverage_audit（第三编辑）"
 weight: 20
 search_keywords: ["Tuition Grant", "TG", "学费津贴", "担保人", "服务义务", "Banker’s Guarantee", "违约赔偿", "TG&S"]
 ---

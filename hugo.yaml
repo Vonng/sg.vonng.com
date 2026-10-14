@@ -190,7 +190,6 @@ menus:
     name: 怀疑被骗或账户遭盗用
     pageRef: /docs/routes/digital-safety/
     weight: 8
-
   - identifier: routes-getting-married
     parent: routes
     name: 结婚与共同生活
@@ -211,3 +210,18 @@ menus:
     name: 准备升学与学费资助
     pageRef: /docs/routes/higher-study/
     weight: 40
+  - identifier: routes-adult-learning
+    parent: routes
+    name: 成人进修与转职培训
+    pageRef: /docs/routes/adult-learning/
+    weight: 42
+  - identifier: routes-caregiving
+    parent: routes
+    name: 照顾家人与安排喘息
+    pageRef: /docs/routes/caregiving/
+    weight: 55
+  - identifier: profiles-disability-care
+    parent: profiles
+    name: 残障者与照护家庭
+    pageRef: /docs/profiles/disability-care/
+    weight: 70

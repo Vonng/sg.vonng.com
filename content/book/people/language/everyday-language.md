@@ -7,7 +7,7 @@ scope: 新加坡日常、工作、学校及办事中的语言选择；面向所�
 status: integrated
 draft: false
 verified: '2026-10-13'
-reviewed_by: identity（独立事实审）；root（编辑静态审）
+reviewed_by: "identity（独立事实审）；root（编辑静态审）；HUM10限定维护：review_state_audit（事实）；coverage_audit（第三编辑）"
 weight: 10
 ---
 

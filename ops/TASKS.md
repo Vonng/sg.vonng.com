@@ -1,6 +1,6 @@
 # 任务总账
 
-更新：2026-10-13（Asia/Singapore）。用户更换订阅号后明确续跑，后于14:21要求汇报后继续，整书工作继续，目标工具标签实况见CHECKPOINT；整书尚未完成。本次实查goal为active、三条写审线已重新建立，旧暂停现场作为历史依据保留在ops/HANDOFF-2026-10-13.md。
+更新：2026-10-14 08:29（Asia/Singapore）。用户active持续目标继续执行；B06A/HUM10已实际接收50篇表达维护和三成熟新主题，累计84可读主题。146源/86主题/4draft、144HTML，零错误警告；340输出同步public逐路径/大小/SHA一致。退休在事实收尾，长期照护/法律/困难援助持续成稿；全书五部分28领域范围未缩小。
 
 | 任务 | 所有者 | 状态 | 依赖与完成标准 |
 |---|---|---|---|
@@ -13,15 +13,20 @@
 | B03A 政府/地理/家庭日常/预算 | identity政府3；daily_history地理3；care_finance日常4；root预算1 | integrated | 11篇事实/第三编辑/生产构建与渲染通过；预算由care事实、identity第三编辑 |
 | B03B 社群/历史文化/世界与不平等 | identity社群3；daily_history历史文化4；care_finance世界与不平等4 | integrated | 11篇两轮审核、生产/25路径双视口/搜索/打印通过；版本见accepted和b03bc-acceptance |
 | B03C 身份住房交通数字社区余项 | root数字与社区；identity证件；daily住房；care交通 | writing / reviewing | 数字3、PR/文书2、社区3、出租车/主动出行2、租约、居留/准证管理、邻里与驾驶均已集成；机场、私宅与购房成本已集成；HDB/EC核心原文仍有明确来源缺口。root接第三编辑及工程；7—12领域缺口不按篇数认定完成 |
-| B04 家庭教育照护 | identity家庭；care医疗/心理残障/照护/老年；daily教育高教成人学习；root多语 | writing / researching | communication/multilingual-family及relationships/sexual-health已集成；childcare、medical-records已完成B04B，MDW/药物/高教已完成B04C两轮审核及实际工程；分居安全与TG已通过B04D独立审和实际工程；预防医疗MOH/CPF年龄冲突已由2027生效专业入口和手册解释，B04E限定两审及实际工程闭合；心理健康已B04F实际接收，学校learning已B04G两审及实际工程通过，学校生活已B04I两审及实际工程接收，成人学习在途写作；残障支持已B04H接收，照顾者支持研究写作中。13—19全部种子、身份与生命周期分支逐条闭合；所分路径独占，必要拆页先登记 |
-| B05 财务经营法律安全 | root个人金融/税务经营；identity劳动 | writing / researching / planned | banking已完成独立两轮与生产实际验收；32详源及冲突边界已登记。SRS/投资/保险已完成独立审核和工程；债务两审及B04E实际工程通过；劳动权益与跨境税务已B04F接收，经营已B04G两审与实际工程通过；工伤与税务更正已B04I两审及实际工程接收；困难援助与房产税研究中，BOOKMAP领域20—28余项逐条闭合 |
+| B04 家庭教育照护 | identity家庭；care医疗/心理残障/照护/老年；daily教育高教成人学习；root多语 | writing / researching | communication/multilingual-family及relationships/sexual-health已集成；childcare、medical-records已完成B04B，MDW/药物/高教已完成B04C两轮审核及实际工程；分居安全与TG已通过B04D独立审和实际工程；预防医疗MOH/CPF年龄冲突已由2027生效专业入口和手册解释，B04E限定两审及实际工程闭合；心理健康已B04F实际接收，学校learning已B04G两审及实际工程通过，学校生活已B04I两审及实际工程接收，成人学习已B06A完整两审与工程通过；残障支持已B04H接收，照顾者支持已B06A完整两审与工程通过。13—19全部种子、身份与生命周期分支逐条闭合；所分路径独占，必要拆页先登记 |
+| B05 财务经营法律安全 | root个人金融/税务经营；identity劳动 | writing / researching / planned | banking已完成独立两轮与生产实际验收；32详源及冲突边界已登记。SRS/投资/保险已完成独立审核和工程；债务两审及B04E实际工程通过；劳动权益与跨境税务已B04F接收，经营已B04G两审与实际工程通过；工伤与税务更正已B04I两审及实际工程接收；困难援助有研究无正文；房产税137行/P01—18已独立两审及B06A工程集成，BOOKMAP领域20—28余项逐条闭合 |
 | B06 全书覆盖与情境走查 | root+独立审阅者 | planned | 全28领域种子/身份/生命周期/弱势处境逐条证明 |
-| HUM 全书说人话校对 | root；identity限定事实；care第三编辑 | in progress | 按 ops/HUMANIZE.md 初始94队列并追增实际源（当前138）；礼节/小贩两份九处表达已限定事实及第三编辑通过，主控已应用并完成B04A生产、双视口及打印验收。删说教/免责/无信息量否定，事实层零变动；在途draft待集成后补；独立版本与accepted SHA绑定，闭环后主控工程验收 |
+| AUDIT 进展与续作提示词 | root；两位只读审计者 | complete（状态审计） | 源码覆盖、审核SHA、Git与实际生产门禁已核；不等于全书事实/内容完成，见PROGRESS-AUDIT及checks/progress-audit-2026-10-13.json |
+| P0 HUM版本与成熟稿接收 | root；A/B交叉独审；care_writer | integrated（B06A/HUM10） | 50篇维护双独审及三事实修正闭合；三成熟稿完整两审、70路径双视口/打印、340产物同步，详见b06a-acceptance |
+| B06B 退休、法律与困难完整链 | care_writer老年；review_state_audit法律；root困难；coverage_audit独立事实 | writing / reviewing | 退休全文事实→root第三编辑；长期照护与法律成稿；困难拆三任务完整回源写作，按冻结版本轮换两审，不积压 |
+| HUM 全书说人话校对 | root；coverage_audit/review_state_audit交叉限定两审 | in progress（已公开源闭合） | 按 ops/HUMANIZE.md（提示词v2）初始94队列并追增实际源（二核140，已补登caregiver-support/property-tax）；礼节/小贩两份九处表达已限定事实及第三编辑通过，主控已应用并完成B04A生产、双视口及打印验收。删说教/免责/无信息量否定，事实层零变动；在途draft待集成后补；独立版本与accepted SHA绑定，闭环后主控工程验收 |
 
 ## 日期触发与来源缺口
 
 | 触发日 | 重核对象 | 来源与受影响正文 |
 |---|---|---|
+| 每年1月1日/12月31日；匹配入账时 | MRSS资格、年度上限与终身上限、截止含当日及入账时公民身份 | retirement；CPF当期条件，未因年度合资格忽略翌年入账身份 |
+| 2027-03-31 | 取消公民/PR后CPF关户过渡利息安排终点 | retirement/CPF；CPF当前关户详页，不套成普通海外居住月款规则 |
 | 2026-11-30／12-01 | 两职业病项目移出过渡结束及四项户外热应激措施转强制 | injury；MOM职业病FAQ与热措施现行详页，当前与未来已明确区分 |
 | 2027-01-01 | SCFA收入门槛4500／1125变为6500／1625；提前申请窗口真实表述差异届时重核 | school-life；MSF现行SCFA详页及COS2026，SSCC条件另核 |
 | 2027（具体生效日及细则待公布） | HCG、残障MDW levy、CTG、Pioneer disability对ID/ASD特殊照护需要的资格拓宽；照顾者触点与培训框架 | care_finance实际读取MOH2026-09-04讲话；caregiver-support研究证据承接。现行CAF-R不得等同未来扩围，来源路径见本人HANDOFF |

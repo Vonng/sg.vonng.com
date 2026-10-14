@@ -7,7 +7,7 @@ scope: "新加坡；照顾公民、PR或外国学龄前儿童的父母、监护�
 status: integrated
 draft: false
 verified: "2026-10-13"
-reviewed_by: "care_finance（独立事实）；root（第三人编辑）"
+reviewed_by: "care_finance（独立事实）；root（第三人编辑）；HUM10限定维护：review_state_audit（事实）；coverage_audit（第三编辑）"
 weight: 40
 search_keywords: ["托育", "LifeSG", "KiFAS", "KCare", "EIPIC", "HHI", "PCI", "CCFA", "Form1"]
 ---

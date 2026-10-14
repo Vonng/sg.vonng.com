@@ -7,7 +7,7 @@ scope: "新加坡；需要就医资料、病假证明、诊疗沟通或医疗投
 status: integrated
 draft: false
 verified: "2026-10-13"
-reviewed_by: "daily_history（独立事实）；root（第三人编辑）"
+reviewed_by: "daily_history（独立事实）；root（第三人编辑）；HUM10限定维护：review_state_audit（事实）；coverage_audit（第三编辑）"
 weight: 30
 search_keywords: ["病历", "医疗报告", "MC", "NEHR", "SMC", "HMS", "HealthHub"]
 ---

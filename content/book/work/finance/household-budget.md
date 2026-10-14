@@ -7,7 +7,7 @@ scope: "新加坡；各类居民与家庭，预算方法通用，CPF和援助资
 status: integrated
 draft: false
 verified: "2026-10-13"
-reviewed_by: "care_finance（独立事实审）；identity（第三人编辑）；root（工程接收）"
+reviewed_by: "care_finance（独立事实审）；identity（第三人编辑）；root（工程接收）；HUM10限定维护：review_state_audit（事实）；coverage_audit（第三编辑）"
 weight: 10
 ---
 

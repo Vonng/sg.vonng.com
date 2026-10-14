@@ -104,3 +104,6 @@ weight: 30
 | WICA / AME / ADE | 工伤赔偿法 / 平均月收入 / 平均日收入；雇员与平台工作者的计算条件分别核 | [工伤赔偿](/book/work/employment/injury/) |
 | NOA / NOC / SnapSAFE | 工伤评估通知 / 赔偿计算通知 / 工作场所安全报告渠道；NOA在税务中另有含义 | [索偿异议与安全报告](/book/work/employment/injury/) |
 | VDP / ITBR / SFA | 税务自愿披露计划 / 所得税复核委员会 / 外国个人Singpass账户；用途与资格分别核 | [税单更正与争议](/book/work/tax/corrections-disputes/) |
+| SFC / MCES / TA / WSS / WSQ / SOA | SkillsFuture Credit、增强课程资助、培训津贴、Workfare技能支持及技能资格/模块证书；各按本人的计划条件 | [成人学习](/book/people/learning/adult-learning/) |
+| HCG / CTG / FAR / CAF / HPC+ | 居家照护现金补助、照护培训补助、功能/支持评估及增强居家个人护理；对象和评估分别判断 | [照护者支持](/book/people/accessibility/caregiver-support/) |
+| AV / OOTR / VRB | 物业年值 / 自住房产税率 / 估值复核委员会；房产税与租金所得分别处理 | [房产税与出租所得](/book/work/tax/property-tax/) |

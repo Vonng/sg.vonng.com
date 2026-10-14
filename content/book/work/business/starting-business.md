@@ -7,7 +7,7 @@ scope: "新加坡新设一般企业；按个人准证、企业形式与实际活
 status: integrated
 draft: false
 verified: '2026-10-13'
-reviewed_by: "事实：care_finance；编辑：daily_history；集成：root"
+reviewed_by: "事实：care_finance；编辑：daily_history；集成：root；HUM10限定维护：review_state_audit（事实）；coverage_audit（第三编辑）"
 weight: 10
 search_keywords: ["创业", "开公司", "ACRA", "Bizfile", "UEN", "Corppass", "CSP", "独资", "LLP", "Home Office", "EntrePass"]
 ---

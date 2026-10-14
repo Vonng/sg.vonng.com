@@ -1,15 +1,18 @@
 # B04 基础教育、高教与成人学习地图
 
+2026-10-14 08:42主控接收追记：成人学习/照护者已B06A两审与实际工程集成；50维护版本HUM10独立限定两审/工程闭合，当前正文SHA以accepted及对应HUM10报告为准。退休136行body66abb2b5…完整事实/第三编辑通过待工程；困难三任务拆页见BOOKMAP和b06-employment-claims地图；原稿历史SHA与作者旧状态不替代当前版。
+
+
 作者／文件所有者 daily_history；研究起始2026-10-13（Asia/Singapore）。全部目标与正文路径按root分派及BOOKMAP；共享配置、导读、总账、构建和接收由root拥有。本地图不创建公开空页，不把已有入学草稿视为事实通过。
 
 | 本人独占正文 | 读者问题与必需覆盖 | 当前状态／审阅顺序 |
 | --- | --- | --- |
 | `content/book/people/school/admission.md` | 各身份小一与插班入学、AEIS／S-AEIS年级年龄／CEQ、材料与阶段、学额及新P1框架 | researching；旧稿仍written/draft:true未通过，2026-10-13本轮root转daily独占且care确认无并行编辑；旧失败不重探，核心完整资格缺口保留 |
 | `content/book/people/school/learning.md` | 怎样选择幼儿园／主流政府政府辅助／独立／国际私立课程并预算；PSLE、科目与Full SBB、母语和豁免、特殊教育／SEN支持、当前及未来考试／升学规则 | integrated；identity独立事实、root第三编辑及B04G实际工程已通过；当前36,253B／body2654d1f5…冻结；E01/33/34及E63—91与三组精度修订已记录 |
-| `content/book/people/school/school-life.md` | 怎样与学校沟通、缺课转学／海外返校、数字与同伴生活、霸凌及保护／心理SEN支持；家长／学生求助、保密与受阻、毕业升学就业及NS衔接 | written／draft:true；24,205B／bodyfc044bc2…冻结，care独立事实及第三编辑13处删除后的限定继承均通过；root最终第三编辑／工程进行。E92—110、OSC新详页及精确改段记录已落盘，未自行列integrated |
+| `content/book/people/school/school-life.md` | 怎样与学校沟通、缺课转学／海外返校、数字与同伴生活、霸凌及保护／心理SEN支持；家长／学生求助、保密与受阻、毕业升学就业及NS衔接 | integrated；care独立事实、root第三编辑及B04I实际工程通过；当前24285B／bodyfc044bc2…冻结；精确接收见ops/checks/b04i-acceptance.json，本人未构建 |
 | `content/book/people/learning/higher-education.md` | 大学／理工／ITE／艺术及其他校申请、当期课程和学制、SC/PR/IS费用与资金来源、HESL／PSEA／CPF等条件；校园科研学术规范与学习者权益 | integrated；root B04C已完成构建／实际渲染／打印接收；26,391B当前元数据，正文37c662a2…冻结；identity事实、root第三编辑通过 |
 | `content/book/people/learning/tuition-grant.md` | TG哪些课程／身份能申、名额不保证、签约担保及就业债券义务、违约／延期／转学身份变化；STP／DP等学生实习和工作的MOM条件 | integrated；root B04D已完成构建／实际渲染／打印接收；bodya62d60bb…保持，identity正式事实与root第三编辑通过；NS等原件差异明示，不从菜单推工作许可 |
-| `content/book/people/learning/adult-learning.md` | 成人转职怎样选培训，SkillsFuture信用／补贴／学习津贴的身份年龄和阶段、SSG／SWDA质量核验、私人课合同费用保护与争议、海外学历和受规管职业资格 | researching；技能资助、课程质量、学历和执业资格逐机构判断；失败链保留真实入口 |
+| `content/book/people/learning/adult-learning.md` | 成人转职怎样选培训，SkillsFuture信用／补贴／学习津贴的身份年龄和阶段、SSG／SWDA质量核验、私人课合同费用保护与争议、海外学历和受规管职业资格 | written／draft:true；完整175行36,905B／body77f54b5b…，identity事实进行；只按首轮意见精确补培训津贴的本人工资时薪基准，逆替回初冻，作者全文／改段与静态通过；E111—141详源／失败边界完整，待事实后root第三 |
 
 六类身份逐制度处理：公民、PR、外籍工作准证、学生、家属、访客；孩子身份不由父母工作准证推导，贷款／补贴国籍不由居留许可推导。幼教托育补贴主文由identity家庭负责，本人负责MOE幼儿园及基础教育的费用／课程与申请衔接。母语真实学习资源与家校衔接可引root多语已集成主文，MTL豁免／PSLE赋分／升学资格由本人教育主文承接。
 

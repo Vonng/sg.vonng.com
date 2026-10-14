@@ -1,16 +1,25 @@
 # identity 当前续跑断点
 
-2026-10-13（Asia/Singapore，20:12复核）。整书目标active，用户授权续跑，历史暂停／前轮时限已失效。已完整读PROMPT/AGENTS、BOOKMAP/TASKS/CHECKPOINT；root拥有配置、导航、共享总账、构建、同步和提交。本人只写分派正文／地图／证据／报告，不stage或构建、不联系真人或提交申请；不重审未变已接收稿。正文SHA为UTF-8 text.split('---',2)[2]。
+## 2026-10-14 08:42 主控接收追记（当前）
+
+以下作者断点为Oct13历史。成人学习、照护者支持、房产税三篇已完整两审及B06A实际工程集成；HUM10将50维护版本限定两审/当前SHA/工程全部闭合，accepted保留旧审范围与原verified，public340产物一致。新所有权与具体下一步见CHECKPOINT：care_writer老年、review_state_audit法律、root困难三任务，coverage_audit独审。旧代理句柄/PID与“待成人/照护事实”等描述不作当前运行状态。retirement已完整两审待下一批工程；employment-claims完整作者冻结交独立事实。主控只在此追记接收，不代称旧作者做了新工程。
+
+## 原作者交接（历史）
+
+
+2026-10-13（Asia/Singapore，20:40复核）。整书目标active，用户授权续跑，历史暂停／前轮时限已失效。已完整读PROMPT/AGENTS、BOOKMAP/TASKS/CHECKPOINT；root拥有配置、导航、共享总账、构建、同步和提交。本人只写分派正文／地图／证据／报告，不stage或构建、不联系真人或提交申请；不重审未变已接收稿。正文SHA为UTF-8 text.split('---',2)[2]。
 
 ## 在途与下一步
 
-最新排程：root税务更正争议独立事实已完成并直交daily第三编辑。报告ops/reviews/b05-tax-corrections-facts.md正式通过；最终26142B/full20e74eb839ab684d5665199454df6d688b1453a50507759d4beb348b897ef42d/body9f48d2500059cc35223bc4457f4b6f4b86a5fc2cf2cf58cb0a22aa6e6fe0146c（daily第三审仅两处“一月”→“一个月”，本审两完整段复读及严格逆差分通过）。13组采用原文独立读、新联网4页、两PDF全文独立提取及必要3页实目视；唯一ITBR无Corppass代理条件精确修订，严格逆差分回首冻，最终156行完整读及静态通过。root B04I也已接收tax-corrections，正文冻结；VDP15/18日冲突保留，已失败SSO/两IRAS实体PDF/三DOCX不再探。现回hardship研究，完整真实范围/失败/下一命令在.cache/research/b05-hardship/read-checkpoint.md（open1—11，尚无正文）。
+成人学习独立事实已正式通过，ops/reviews/b04-adult-learning-facts.md完整落盘并交root第三编辑；作者最终36,905B/full ee9bcfedf6811a64222aa3ef4aa40765e3ca09d0675ba3af0a59a8b84c080ee1/body77f54b5b2cbd6768e8671b33ee1c3ccfe892c3f9defe9247efad79cebbedc4c8。E111—141采用详原文实际回读；新联网两页，七PDF独立提取及九必要页真实目视，PEI DOCX全443段XML独立读不称Word目视，WSS原HTML独立解析全文匹配及MOE四问精确回原件。唯一工时外津贴工资时薪基准修订严格逆差分，最终175行完整复读与静态通过，无余事实阻断。caregiver-support由daily独占，本人未启动该审。现立即回hardship完整正文，研究open1—26及SGPC实体与3页目视已闭合，真实断点见缓存；不重探失败URL。
 
-**injury 已由root B04I第三编辑及实际工程接收，integrated／draft:false，正文冻结。** 路径content/book/work/employment/injury.md；35,242 B／218行／16H2／63HTTPS／7实际relref。现完整SHA `feca57baaab690b3c51d79fe2b8b5c233674ac41f54013d9e158f9e349053f87`；正文SHA `ded294aee91cf2d8babaee9a2f4365fb56ccd7262283e6e4b1ff42805a2d2109`。root第三编辑要求两处纯表达删除，作者已精确改并复读两完整段；逆替逐字节回首冻6668dff7…，.cache/research/b05-injury/editorial-refine.json和.md保存。care已完成两完整段复读和精确逆差分，事实正式继承新SHA；root B04I实际工程与public接收完成。现integrated／draft:false；care报告ops/reviews/b05-injury-facts.md及限定继承均完成。完整218行与I01—33原事实无问题，root第三编辑两删除以逆差分证明其余内容未变；接收元数据后完整SHA以root工程报告为准。
+最新排程：root税务更正争议独立事实已完成并直交daily第三编辑。报告ops/reviews/b05-tax-corrections-facts.md正式通过；最终26142B/full20e74eb839ab684d5665199454df6d688b1453a50507759d4beb348b897ef42d/body9f48d2500059cc35223bc4457f4b6f4b86a5fc2cf2cf58cb0a22aa6e6fe0146c（daily第三审仅两处“一月”→“一个月”，本审两完整段复读及严格逆差分通过）。13组采用原文独立读、新联网4页、两PDF全文独立提取及必要3页实目视；唯一ITBR无Corppass代理条件精确修订，严格逆差分回首冻，最终156行完整读及静态通过。root B04I也已接收tax-corrections，正文冻结；VDP15/18日冲突保留，已失败SSO/两IRAS实体PDF/三DOCX不再探。现回hardship研究，完整真实范围/失败/下一命令在.cache/research/b05-hardship/read-checkpoint.md（open1—26与公开SGPC四页PDF，尚无正文；正常下载已完成，物理2/3/4已实际目视）。
 
-作者实际完整读218行，修订治疗处方条件／WICA普通法选路／已有茶休例外后再读全稿；最终另补PI六个月说明的I03近邻引用并完整再读该段。9字段、首段回答、无正文H1、粗体外空格、7内链真实文件、EOF静态通过；没有构建或网页／打印目视声称。正式I01—33矩阵和未知已完整追加ops/evidence/b05-employment.md；地图ops/maps/b05-employment.md同步written。
+**injury 已由root B04I第三编辑及实际工程接收，integrated／draft:false，正文冻结。** 路径content/book/work/employment/injury.md；35,242 B／218行／16H2／63HTTPS／7实际relref。作者冻结完整SHA `feca57baaab690b3c51d79fe2b8b5c233674ac41f54013d9e158f9e349053f87`；正文SHA `ded294aee91cf2d8babaee9a2f4365fb56ccd7262283e6e4b1ff42805a2d2109`。root第三编辑要求两处纯表达删除，作者已精确改并复读两完整段；逆替逐字节回首冻6668dff7…，.cache/research/b05-injury/editorial-refine.json和.md保存。care已完成两完整段复读和精确逆差分，事实正式继承新SHA；root B04I实际工程与public接收完成。现integrated／draft:false；care报告ops/reviews/b05-injury-facts.md及限定继承均完成。完整218行与I01—33原事实无问题，root第三编辑两删除以逆差分证明其余内容未变；接收元数据后完整SHA以root工程报告为准。
 
-下一步hardship研究，先完整核TADM／ECT／MSF／WSG的请求类型、期限、金额、身份与救济流程；不建空正文。税务更正已正式事实通过交daily，现回hardship。injury若第三编辑有具体问题，仍本人修订并重新绑定。finance／tax／business作者由root保留；既有leaving-job与employment-rights冻结，不重写重复债务主题。
+作者实际完整读218行，修订治疗处方条件／WICA普通法选路／已有茶休例外后再读全稿；最终另补PI六个月说明的I03近邻引用并完整再读该段。9字段、首段回答、无正文H1、粗体外空格、7内链真实文件、EOF静态通过；没有构建或网页／打印目视声称。正式I01—33矩阵和未知已完整追加ops/evidence/b05-employment.md；地图ops/maps/b05-employment.md已同步integrated。
+
+下一步完成hardship正文；TADM／ECT／JS／ComCare／MWC与外国家庭FSC采用原件已真实读，正式H矩阵待写。成人学习事实已完成交root第三编辑；caregiver-support由root改派daily，本人未读未建报告。税务更正已正式事实通过交daily，现回hardship。injury若第三编辑有具体问题，仍本人修订并重新绑定。finance／tax／business作者由root保留；既有leaving-job与employment-rights冻结，不重写重复债务主题。
 
 ### injury 原件与阅读边界
 

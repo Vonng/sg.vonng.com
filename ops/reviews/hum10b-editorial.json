@@ -1,0 +1,2283 @@
+{
+  "schema": "sg-editorial-review/v1",
+  "batch": "HUM10-B",
+  "reviewer": "coverage_audit",
+  "reviewer_agent": "/root/coverage_audit",
+  "maintenance_author": "root",
+  "facts_reviewer": "review_state_audit",
+  "review_date": "2026-10-14",
+  "timezone": "Asia/Singapore",
+  "generated_at": "2026-10-14T08:17:37.616029+08:00",
+  "status": "passed",
+  "pages_total": 25,
+  "passed": 25,
+  "remaining_editorial_issues": [],
+  "baseline_commit": "4da4c936b79734580b842642286cf065d0027865",
+  "initial_frozen_commit": "a7f1ffda24ebc858338f7d653c56f87dd8564fdc",
+  "head_at_static_check": "a7f1ffda24ebc858338f7d653c56f87dd8564fdc",
+  "scope_file": ".cache/resume-2026-10-14/hum-b-paths.json",
+  "scope_manifest_sha256": "0c7150f3777be0cecdb5b04372ffb139838317552d9975f653c656d7af317b86",
+  "facts_report": "ops/reviews/hum10b-facts.md",
+  "facts_json": "ops/reviews/hum10b-facts.json",
+  "facts_report_sha256": "349af27aab2c2994aba195d1db10474a0d2bc1d461b2f9ef8a7768b9b0cf15f9",
+  "facts_json_sha256": "f2a72532f0f2f73b2c8f641a6aaec9e1c7353830d91fb78b262c264976124df3",
+  "body_sha_definition": "sha256(UTF-8 text.split('---', 2)[2]); retain all whitespace after the closing frontmatter line",
+  "roles_independent": true,
+  "read_scope": {
+    "current_full_bodies": 25,
+    "baseline_full_bodies": "All unchanged passages read once as shared baseline/current text, with every old and new changed paragraph read in full; separate complete current text plus complete baseline diff for the remaining pages.",
+    "method": "Original Markdown read. For long texts only HTTP(S) link targets were shortened in display using balanced-parentheses parsing; labels and prose were retained. Source SHA, metadata and link checks used the unchanged raw files.",
+    "recovered_truncations": [
+      "disability final body and complete zero-context diff",
+      "mental-health first 35 raw lines and complete zero-context diff",
+      "debt-disputes complete raw diff",
+      "household-budget full raw body and diff",
+      "insurance first 30 raw lines"
+    ],
+    "final_fact_fixes_read": [
+      "injury final lines 65 and 204 in full context",
+      "debt-disputes final line 119 in full context"
+    ],
+    "skill": "/Users/vonng/.agents/skills/humanizer/SKILL.md",
+    "fact_review_boundary": "No new primary-source policy reads for this editorial review. Limited factual approval belongs to review_state_audit in hum10b-facts; unchanged facts inherit the corresponding original fact reports."
+  },
+  "static_checks": {
+    "pages": 25,
+    "passed": 25,
+    "external_source_links": 1107,
+    "internal_links": 112,
+    "tables": 70,
+    "source_fragment_links": 0,
+    "scope": "25 source files plus read-only source route/page-id/title lookup across current content; no build and no HTML validation",
+    "verified": [
+      "nine required metadata fields",
+      "nonempty body and no repeated H1",
+      "bold inner trim and outer whitespace",
+      "no internal/tool/TODO/Canada residue markers",
+      "draft false and historical production status",
+      "verified date valid and not future",
+      "scoped page IDs and titles unique among current source pages",
+      "balanced inline link targets and valid HTTP(S) target syntax",
+      "internal references resolve to current non-draft source",
+      "table column counts",
+      "baseline frontmatter, headings, link targets and labels preserved",
+      "final body SHA matches the independent facts report"
+    ],
+    "external_url_availability_checked": false,
+    "machine_check_not_replacement_for_reading": true
+  },
+  "pages": [
+    {
+      "path": "content/book/life/transport/public-transport.md",
+      "title": "地铁和巴士怎样乘、怎样付费",
+      "status": "passed",
+      "body_sha256": "5072d90f88a4f16ea76499c25a8fbd88e03af9dd4d09b8e9042066e432582a8b",
+      "final_body_sha256": "5072d90f88a4f16ea76499c25a8fbd88e03af9dd4d09b8e9042066e432582a8b",
+      "final_full_sha256": "9287813988a4531c4b49cc158f5eea7b34d30b9830ac3a6549eff72677a2461e",
+      "original_body_sha256": "ea39157484fc03e113703da88fedbcdf55d5bfabf55de80aa34a4815a351f56e",
+      "initial_frozen_body_sha256": "5072d90f88a4f16ea76499c25a8fbd88e03af9dd4d09b8e9042066e432582a8b",
+      "fact_body_sha256": "5072d90f88a4f16ea76499c25a8fbd88e03af9dd4d09b8e9042066e432582a8b",
+      "fact_sha_matches": true,
+      "final_matches_initial_frozen_body": true,
+      "verified_unchanged": "2026-10-13",
+      "original_fact_report": "ops/reviews/b03c-public-transport-maintenance-facts.md",
+      "original_editorial_report": "ops/reviews/b03c-public-transport-editorial.md",
+      "diff_hunks": [
+        "@@ -18 +18 @@ weight: 10",
+        "@@ -61 +61 @@ Bukit Panjang、Newton、Tampines 的指定跨线换乘需要出入闸，是同"
+      ],
+      "headings_count": 8,
+      "external_source_links": 14,
+      "internal_links": 0,
+      "internal_targets": [],
+      "source_fragment_links": [],
+      "tables": [
+        {
+          "body_start_line": 13,
+          "columns": 3,
+          "rows": 6
+        },
+        {
+          "body_start_line": 56,
+          "columns": 2,
+          "rows": 7
+        }
+      ],
+      "bold_marks": 3,
+      "lines": 89,
+      "bytes": 9593,
+      "static_issues": [],
+      "reviewer": "coverage_audit",
+      "maintenance_author": "root",
+      "facts_reviewer": "review_state_audit",
+      "review_date": "2026-10-14",
+      "editorial_conclusion": "首段回答乘车与付款；换乘计时、票价查询及优惠资格分开，删尾句后步骤仍完整。",
+      "full_text_and_full_changes_read": true,
+      "factual_approval": "hum10b-facts.json final SHA",
+      "remaining_editorial_issues": []
+    },
+    {
+      "path": "content/book/life/transport/taxis-phv.md",
+      "title": "出租车和网约车怎样叫、怎样付费",
+      "status": "passed",
+      "body_sha256": "b761b24e0b516051d8009c52b1513995d5a42fe9d90dbbb32109a2937cb040da",
+      "final_body_sha256": "b761b24e0b516051d8009c52b1513995d5a42fe9d90dbbb32109a2937cb040da",
+      "final_full_sha256": "4184d6e8444f960a7afba674caa5fd7ef1ed5495ac9b64103ca71734e9232115",
+      "original_body_sha256": "0383e004578711555dff40f0e761bfdf5cf428e3df93abf84289fe8cfa450f90",
+      "initial_frozen_body_sha256": "b761b24e0b516051d8009c52b1513995d5a42fe9d90dbbb32109a2937cb040da",
+      "fact_body_sha256": "b761b24e0b516051d8009c52b1513995d5a42fe9d90dbbb32109a2937cb040da",
+      "fact_sha_matches": true,
+      "final_matches_initial_frozen_body": true,
+      "verified_unchanged": "2026-10-13",
+      "original_fact_report": "ops/reviews/b03c-taxis-phv-facts.md",
+      "original_editorial_report": "ops/reviews/b03c-transport-editorial.md",
+      "diff_hunks": [
+        "@@ -35 +35 @@ PHC 的前后有“Private Hire”贴标。预订后核对订单里的车牌和",
+        "@@ -47 +47 @@ PHC 乘客只要身高低于 **1.35 米** ，不论年龄，都须使用合规",
+        "@@ -49 +49 @@ PHC 乘客只要身高低于 **1.35 米** ，不论年龄，都须使用合规"
+      ],
+      "headings_count": 6,
+      "external_source_links": 22,
+      "internal_links": 0,
+      "internal_targets": [],
+      "source_fragment_links": [],
+      "tables": [
+        {
+          "body_start_line": 7,
+          "columns": 3,
+          "rows": 5
+        }
+      ],
+      "bold_marks": 7,
+      "lines": 67,
+      "bytes": 9498,
+      "static_issues": [],
+      "reviewer": "coverage_audit",
+      "maintenance_author": "root",
+      "facts_reviewer": "review_state_audit",
+      "review_date": "2026-10-14",
+      "editorial_conclusion": "公司、车型与订单报价限定清楚；轮椅固定、乘客容量和预约条件有具体动作，语气自然。",
+      "full_text_and_full_changes_read": true,
+      "factual_approval": "hum10b-facts.json final SHA",
+      "remaining_editorial_issues": []
+    },
+    {
+      "path": "content/book/people/accessibility/disability.md",
+      "title": "残障支持、辅具与无障碍生活",
+      "status": "passed",
+      "body_sha256": "1364e02504c0b73e595311367dc23445158c0dbca12834f93c99a1f6cf582805",
+      "final_body_sha256": "1364e02504c0b73e595311367dc23445158c0dbca12834f93c99a1f6cf582805",
+      "final_full_sha256": "bea2449c9aa479b65b15450994bf054970df7ee42e37e120ff2188e63d9c8dec",
+      "original_body_sha256": "baa6a1622c9b963aedda460137b0f2203ad6d2dbf250df647cdf754527a909f0",
+      "initial_frozen_body_sha256": "1364e02504c0b73e595311367dc23445158c0dbca12834f93c99a1f6cf582805",
+      "fact_body_sha256": "1364e02504c0b73e595311367dc23445158c0dbca12834f93c99a1f6cf582805",
+      "fact_sha_matches": true,
+      "final_matches_initial_frozen_body": true,
+      "verified_unchanged": "2026-10-13",
+      "original_fact_report": "ops/reviews/b04-disability-facts.md",
+      "original_editorial_report": "ops/reviews/b04-disability-editorial.md",
+      "diff_hunks": [
+        "@@ -31 +31 @@ MSF的Disability Verification用于其残障服务及部分其他政府计划，",
+        "@@ -47 +47 @@ Enabling Village内的 **Tech Able，20 Lengkok Bahru，#01-06** 提供展示和",
+        "@@ -51 +51 @@ Enabling Village内的 **Tech Able，20 Lengkok Bahru，#01-06** 提供展示和",
+        "@@ -67 +67 @@ Assistive Technology Fund（ATF）面向符合永久残障条件的 **公民或P",
+        "@@ -69 +69 @@ ATF目前没有统一的更换等待期，但仍要评估必要性；耗材不",
+        "@@ -73 +73 @@ ATF目前没有统一的更换等待期，但仍要评估必要性；耗材不",
+        "@@ -94 +94 @@ EASE Private通过官方门户申请，准备长者资料、地址、拟装设",
+        "@@ -100 +100 @@ SPED学校按个人教育计划（IEP）安排学习，并从13岁起制订个",
+        "@@ -102 +102 @@ JPJS面向符合指定永久残障条件的公民或PR。已验证残障状态",
+        "@@ -108 +108 @@ JPJS面向符合指定永久残障条件的公民或PR。已验证残障状态",
+        "@@ -120 +120 @@ JPJS面向符合指定永久残障条件的公民或PR。已验证残障状态",
+        "@@ -122 +122 @@ DAC的公民与PR费表不同，月费与按日收费也不同。网页所附费",
+        "@@ -126 +126 @@ DAC的公民与PR费表不同，月费与按日收费也不同。网页所附费"
+      ],
+      "headings_count": 10,
+      "external_source_links": 44,
+      "internal_links": 9,
+      "internal_targets": [
+        {
+          "line": 9,
+          "label": "就医入口",
+          "target": "{{< relref \"/book/people/healthcare/getting-care\" >}}",
+          "balanced": true,
+          "resolved": "content/book/people/healthcare/getting-care.md"
+        },
+        {
+          "line": 9,
+          "label": "心理健康",
+          "target": "{{< relref \"/book/people/accessibility/mental-health\" >}}",
+          "balanced": true,
+          "resolved": "content/book/people/accessibility/mental-health.md"
+        },
+        {
+          "line": 82,
+          "label": "高等教育",
+          "target": "{{< relref \"/book/people/learning/higher-education\" >}}",
+          "balanced": true,
+          "resolved": "content/book/people/learning/higher-education.md"
+        },
+        {
+          "line": 88,
+          "label": "劳动权益",
+          "target": "{{< relref \"/book/work/employment/employment-rights\" >}}",
+          "balanced": true,
+          "resolved": "content/book/work/employment/employment-rights.md"
+        },
+        {
+          "line": 96,
+          "label": "公共交通",
+          "target": "{{< relref \"/book/life/transport/public-transport\" >}}",
+          "balanced": true,
+          "resolved": "content/book/life/transport/public-transport.md"
+        },
+        {
+          "line": 96,
+          "label": "出租车与网约车",
+          "target": "{{< relref \"/book/life/transport/taxis-phv\" >}}",
+          "balanced": true,
+          "resolved": "content/book/life/transport/taxis-phv.md"
+        },
+        {
+          "line": 98,
+          "label": "手语与机构沟通",
+          "target": "{{< relref \"/book/people/language/communication\" >}}",
+          "balanced": true,
+          "resolved": "content/book/people/language/communication.md"
+        },
+        {
+          "line": 98,
+          "label": "紧急求助渠道",
+          "target": "{{< relref \"/book/rights/safety/emergencies\" >}}",
+          "balanced": true,
+          "resolved": "content/book/rights/safety/emergencies.md"
+        },
+        {
+          "line": 100,
+          "label": "账户与线下帮助",
+          "target": "{{< relref \"/book/life/digital/accounts\" >}}",
+          "balanced": true,
+          "resolved": "content/book/life/digital/accounts.md"
+        }
+      ],
+      "source_fragment_links": [],
+      "tables": [
+        {
+          "body_start_line": 43,
+          "columns": 3,
+          "rows": 7
+        },
+        {
+          "body_start_line": 67,
+          "columns": 2,
+          "rows": 4
+        }
+      ],
+      "bold_marks": 24,
+      "lines": 128,
+      "bytes": 22132,
+      "static_issues": [],
+      "reviewer": "coverage_audit",
+      "maintenance_author": "root",
+      "facts_reviewer": "review_state_audit",
+      "review_date": "2026-10-14",
+      "editorial_conclusion": "以实际需要选评估、辅具、学校、就业与社区服务；ATF/SMF年龄分流、身份和先批后买仍清楚，未留下指代断点。",
+      "full_text_and_full_changes_read": true,
+      "factual_approval": "hum10b-facts.json final SHA",
+      "remaining_editorial_issues": []
+    },
+    {
+      "path": "content/book/people/accessibility/mental-health.md",
+      "title": "心理健康、适应压力与求助",
+      "status": "passed",
+      "body_sha256": "5246ab6d4c26258780b98e6827b78b7ff901cdb2e0eaaca09b34c4f171b13b54",
+      "final_body_sha256": "5246ab6d4c26258780b98e6827b78b7ff901cdb2e0eaaca09b34c4f171b13b54",
+      "final_full_sha256": "53a1d11879b07a1735b5cc9327296b0ae738a16f7ae8907a19ea09d25f440f75",
+      "original_body_sha256": "190b3a1f4cd6f7ab941b95a3d0c47c4e6d6d39cb3f9b3f8ce253600d5317db15",
+      "initial_frozen_body_sha256": "5246ab6d4c26258780b98e6827b78b7ff901cdb2e0eaaca09b34c4f171b13b54",
+      "fact_body_sha256": "5246ab6d4c26258780b98e6827b78b7ff901cdb2e0eaaca09b34c4f171b13b54",
+      "fact_sha_matches": true,
+      "final_matches_initial_frozen_body": true,
+      "verified_unchanged": "2026-10-13",
+      "original_fact_report": "ops/reviews/b04-mental-health-facts.md",
+      "original_editorial_report": "ops/reviews/b04f-editorial.md",
+      "diff_hunks": [
+        "@@ -25 +25 @@ search_keywords: [\"心理健康\", \"1771\", \"SOS\", \"CHAT\", \"IMH\", \"抑郁\", \"焦",
+        "@@ -34 +34 @@ IMH在 **10 Buangkok View，Singapore 539747** 提供24小时精神科急诊，",
+        "@@ -38 +38 @@ IMH在 **10 Buangkok View，Singapore 539747** 提供24小时精神科急诊，",
+        "@@ -64 +64 @@ CHAT可在现场或通过视频会面，也接受开放时间内的到访。地",
+        "@@ -74 +74 @@ IMH专科门诊须预约。可以先由GP或综合诊疗所评估，按需要治",
+        "@@ -80 +80 @@ IMH专科门诊须预约。可以先由GP或综合诊疗所评估，按需要治",
+        "@@ -91 +91 @@ IMH专科门诊须预约。可以先由GP或综合诊疗所评估，按需要治",
+        "@@ -99 +99 @@ CDMP涵盖的心理疾病包括精神分裂症、重度抑郁症、双相情感"
+      ],
+      "headings_count": 9,
+      "external_source_links": 56,
+      "internal_links": 7,
+      "internal_targets": [
+        {
+          "line": 11,
+          "label": "紧急求助",
+          "target": "{{< relref \"/book/rights/safety/emergencies\" >}}",
+          "balanced": true,
+          "resolved": "content/book/rights/safety/emergencies.md"
+        },
+        {
+          "line": 24,
+          "label": "认识邻里与参加社区",
+          "target": "{{< relref \"/book/life/community/connections\" >}}",
+          "balanced": true,
+          "resolved": "content/book/life/community/connections.md"
+        },
+        {
+          "line": 64,
+          "label": "医疗文件与病历",
+          "target": "{{< relref \"/book/people/healthcare/medical-records\" >}}",
+          "balanced": true,
+          "resolved": "content/book/people/healthcare/medical-records.md"
+        },
+        {
+          "line": 77,
+          "label": "一般费用及雇主医疗责任",
+          "target": "{{< relref \"/book/people/healthcare/healthcare-payments\" >}}",
+          "balanced": true,
+          "resolved": "content/book/people/healthcare/healthcare-payments.md"
+        },
+        {
+          "line": 89,
+          "label": "家政人员的权利与求助",
+          "target": "{{< relref \"/book/people/family/domestic-workers\" >}}",
+          "balanced": true,
+          "resolved": "content/book/people/family/domestic-workers.md"
+        },
+        {
+          "line": 101,
+          "label": "医疗记录与沟通",
+          "target": "{{< relref \"/book/people/healthcare/medical-records\" >}}",
+          "balanced": true,
+          "resolved": "content/book/people/healthcare/medical-records.md"
+        },
+        {
+          "line": 105,
+          "label": "药品与持续用药",
+          "target": "{{< relref \"/book/people/healthcare/medicines\" >}}",
+          "balanced": true,
+          "resolved": "content/book/people/healthcare/medicines.md"
+        }
+      ],
+      "source_fragment_links": [],
+      "tables": [
+        {
+          "body_start_line": 9,
+          "columns": 3,
+          "rows": 6
+        },
+        {
+          "body_start_line": 30,
+          "columns": 3,
+          "rows": 7
+        },
+        {
+          "body_start_line": 70,
+          "columns": 2,
+          "rows": 6
+        }
+      ],
+      "bold_marks": 22,
+      "lines": 121,
+      "bytes": 21513,
+      "static_issues": [],
+      "reviewer": "coverage_audit",
+      "maintenance_author": "root",
+      "facts_reviewer": "review_state_audit",
+      "review_date": "2026-10-14",
+      "editorial_conclusion": "先给危机入口，再分预约、语言与支付；SOS英语文字、webCHAT暂停、费率身份和移工范围保留，表格列数一致。",
+      "full_text_and_full_changes_read": true,
+      "factual_approval": "hum10b-facts.json final SHA",
+      "remaining_editorial_issues": []
+    },
+    {
+      "path": "content/book/people/family/childcare.md",
+      "title": "托育与学前照护：找位、费用和补贴",
+      "status": "passed",
+      "body_sha256": "fbe5a1c0aa5e20c069459e36b9c9fd5b3898832d781bb2a904205f316edc438d",
+      "final_body_sha256": "fbe5a1c0aa5e20c069459e36b9c9fd5b3898832d781bb2a904205f316edc438d",
+      "final_full_sha256": "b3d0a455fe2d2baf98d11d54ccc9b2e4b5db40edc44f7c0888a52e94a5a85286",
+      "original_body_sha256": "59d75d5547f2d6a7709f4bd5809781f366038ba5a2284a3f3be1c3999eb31c31",
+      "initial_frozen_body_sha256": "fbe5a1c0aa5e20c069459e36b9c9fd5b3898832d781bb2a904205f316edc438d",
+      "fact_body_sha256": "fbe5a1c0aa5e20c069459e36b9c9fd5b3898832d781bb2a904205f316edc438d",
+      "fact_sha_matches": true,
+      "final_matches_initial_frozen_body": true,
+      "verified_unchanged": "2026-10-13",
+      "original_fact_report": "ops/reviews/b04-family-facts.md",
+      "original_editorial_report": "ops/reviews/b04b-editorial.md",
+      "diff_hunks": [
+        "@@ -42 +42 @@ LifeSG 网页搜索可在没有 Singpass 时使用；按地点或园名找，也",
+        "@@ -174 +174 @@ ECDA在入新园、托婴转托幼、N2升K1三个固定点重新评估收入及"
+      ],
+      "headings_count": 14,
+      "external_source_links": 72,
+      "internal_links": 6,
+      "internal_targets": [
+        {
+          "line": 30,
+          "label": "多语家庭与孩子的语言",
+          "target": "{{< relref \"/book/people/language/multilingual-family\" >}}",
+          "balanced": true,
+          "resolved": "content/book/people/language/multilingual-family.md"
+        },
+        {
+          "line": 46,
+          "label": "入境及 ICA 准证管理",
+          "target": "{{< relref \"/book/life/documents/arrival-renewal\" >}}",
+          "balanced": true,
+          "resolved": "content/book/life/documents/arrival-renewal.md"
+        },
+        {
+          "line": 46,
+          "label": "翻译及认证",
+          "target": "{{< relref \"/book/life/documents/documents\" >}}",
+          "balanced": true,
+          "resolved": "content/book/life/documents/documents.md"
+        },
+        {
+          "line": 61,
+          "label": "出生后的 CDA 等家庭安排",
+          "target": "{{< relref \"/book/people/family/birth\" >}}",
+          "balanced": true,
+          "resolved": "content/book/people/family/birth.md"
+        },
+        {
+          "line": 116,
+          "label": "政府账户",
+          "target": "{{< relref \"/book/life/digital/accounts\" >}}",
+          "balanced": true,
+          "resolved": "content/book/life/digital/accounts.md"
+        },
+        {
+          "line": 140,
+          "label": "紧急求助",
+          "target": "{{< relref \"/book/rights/safety/emergencies\" >}}",
+          "balanced": true,
+          "resolved": "content/book/rights/safety/emergencies.md"
+        }
+      ],
+      "source_fragment_links": [],
+      "tables": [
+        {
+          "body_start_line": 9,
+          "columns": 3,
+          "rows": 5
+        },
+        {
+          "body_start_line": 36,
+          "columns": 2,
+          "rows": 5
+        },
+        {
+          "body_start_line": 52,
+          "columns": 4,
+          "rows": 4
+        },
+        {
+          "body_start_line": 71,
+          "columns": 5,
+          "rows": 9
+        }
+      ],
+      "bold_marks": 13,
+      "lines": 178,
+      "bytes": 28828,
+      "static_issues": [],
+      "reviewer": "coverage_audit",
+      "maintenance_author": "root",
+      "facts_reviewer": "review_state_audit",
+      "review_date": "2026-10-14",
+      "editorial_conclusion": "年龄、所需时间、找位、费用、身份与补贴依办理顺序展开；2027调整与当期费表分段，教学算例及KCare单独条件清楚。",
+      "full_text_and_full_changes_read": true,
+      "factual_approval": "hum10b-facts.json final SHA",
+      "remaining_editorial_issues": []
+    },
+    {
+      "path": "content/book/people/family/domestic-workers.md",
+      "title": "雇用家政人员：费用、相处与双方责任",
+      "status": "passed",
+      "body_sha256": "bb01a6980bd2e6f5be9e22af2a028efb8eb7a05839fd15fc7cd9ae9e1f5fb1f0",
+      "final_body_sha256": "bb01a6980bd2e6f5be9e22af2a028efb8eb7a05839fd15fc7cd9ae9e1f5fb1f0",
+      "final_full_sha256": "696a0227d20b68a58b470ae395c79dcbfd707237caa95b91043ffb451994d490",
+      "original_body_sha256": "4ec7dae302a1811f3c44ef0cf7dc1d1244f5bb58373223d6df94e928323aa550",
+      "initial_frozen_body_sha256": "bb01a6980bd2e6f5be9e22af2a028efb8eb7a05839fd15fc7cd9ae9e1f5fb1f0",
+      "fact_body_sha256": "bb01a6980bd2e6f5be9e22af2a028efb8eb7a05839fd15fc7cd9ae9e1f5fb1f0",
+      "fact_sha_matches": true,
+      "final_matches_initial_frozen_body": true,
+      "verified_unchanged": "2026-10-13",
+      "original_fact_report": "ops/reviews/b04-family-facts.md",
+      "original_editorial_report": "ops/reviews/b04c-editorial.md",
+      "diff_hunks": [
+        "@@ -36 +36 @@ search_keywords: [\"MDW\", \"家政\", \"EOP\", \"SIP\", \"6ME\", \"CDE\"]"
+      ],
+      "headings_count": 17,
+      "external_source_links": 79,
+      "internal_links": 5,
+      "internal_targets": [
+        {
+          "line": 54,
+          "label": "家庭预算",
+          "target": "{{< relref \"/book/work/finance/household-budget\" >}}",
+          "balanced": true,
+          "resolved": "content/book/work/finance/household-budget.md"
+        },
+        {
+          "line": 117,
+          "label": "领取、续期与管理准证",
+          "target": "{{< relref \"/book/life/documents/pass-management\" >}}",
+          "balanced": true,
+          "resolved": "content/book/life/documents/pass-management.md"
+        },
+        {
+          "line": 123,
+          "label": "银行与支付",
+          "target": "{{< relref \"/book/work/finance/banking\" >}}",
+          "balanced": true,
+          "resolved": "content/book/work/finance/banking.md"
+        },
+        {
+          "line": 148,
+          "label": "在新加坡看病",
+          "target": "{{< relref \"/book/people/healthcare/getting-care\" >}}",
+          "balanced": true,
+          "resolved": "content/book/people/healthcare/getting-care.md"
+        },
+        {
+          "line": 197,
+          "label": "紧急求助",
+          "target": "{{< relref \"/book/rights/safety/emergencies\" >}}",
+          "balanced": true,
+          "resolved": "content/book/rights/safety/emergencies.md"
+        }
+      ],
+      "source_fragment_links": [],
+      "tables": [
+        {
+          "body_start_line": 17,
+          "columns": 2,
+          "rows": 6
+        },
+        {
+          "body_start_line": 45,
+          "columns": 2,
+          "rows": 8
+        },
+        {
+          "body_start_line": 62,
+          "columns": 2,
+          "rows": 6
+        },
+        {
+          "body_start_line": 81,
+          "columns": 2,
+          "rows": 5
+        },
+        {
+          "body_start_line": 195,
+          "columns": 2,
+          "rows": 7
+        }
+      ],
+      "bold_marks": 11,
+      "lines": 217,
+      "bytes": 35375,
+      "static_issues": [],
+      "reviewer": "coverage_audit",
+      "maintenance_author": "root",
+      "facts_reviewer": "review_state_audit",
+      "review_date": "2026-10-14",
+      "editorial_conclusion": "雇主身份、费用、合同、日常责任及结束雇用结构清楚；未列准证的未知和向MOM取得具体答复动作保留。",
+      "full_text_and_full_changes_read": true,
+      "factual_approval": "hum10b-facts.json final SHA",
+      "remaining_editorial_issues": []
+    },
+    {
+      "path": "content/book/people/family/separation-safety.md",
+      "title": "分居、离婚与家庭安全：孩子、财产和求助",
+      "status": "passed",
+      "body_sha256": "1e2b66baf551dcda933fb41fcbd923cf33bec017732074989389ee0b6da0230b",
+      "final_body_sha256": "1e2b66baf551dcda933fb41fcbd923cf33bec017732074989389ee0b6da0230b",
+      "final_full_sha256": "034063d313a751c5cd1608a4fb3031113ff8c84eb43d7e2ab2704255b7065a50",
+      "original_body_sha256": "3437f001435f518f48eb727f2981cf5c1e02a9ef435fef5a9c09c1a2fc9214af",
+      "initial_frozen_body_sha256": "1e2b66baf551dcda933fb41fcbd923cf33bec017732074989389ee0b6da0230b",
+      "fact_body_sha256": "1e2b66baf551dcda933fb41fcbd923cf33bec017732074989389ee0b6da0230b",
+      "fact_sha_matches": true,
+      "final_matches_initial_frozen_body": true,
+      "verified_unchanged": "2026-10-13",
+      "original_fact_report": "ops/reviews/b04-family-facts.md",
+      "original_editorial_report": "ops/reviews/b04d-editorial.md",
+      "diff_hunks": [
+        "@@ -170 +170 @@ CPF 储蓄可能纳入婚姻财产，但是否分配、怎样分配，要有相"
+      ],
+      "headings_count": 12,
+      "external_source_links": 78,
+      "internal_links": 6,
+      "internal_targets": [
+        {
+          "line": 47,
+          "label": "翻译、公证与认证",
+          "target": "/book/life/documents/documents/",
+          "balanced": true,
+          "resolved": "content/book/life/documents/documents.md"
+        },
+        {
+          "line": 106,
+          "label": "托育与学前照护",
+          "target": "/book/people/family/childcare/",
+          "balanced": true,
+          "resolved": "content/book/people/family/childcare.md"
+        },
+        {
+          "line": 128,
+          "label": "租约、维修与退租",
+          "target": "/book/life/housing/tenancy/",
+          "balanced": true,
+          "resolved": "content/book/life/housing/tenancy.md"
+        },
+        {
+          "line": 144,
+          "label": "准证领取、管理与续期",
+          "target": "/book/life/documents/pass-management/",
+          "balanced": true,
+          "resolved": "content/book/life/documents/pass-management.md"
+        },
+        {
+          "line": 146,
+          "label": "PR、公民与再入境",
+          "target": "/book/life/documents/permanent-residence/",
+          "balanced": true,
+          "resolved": "content/book/life/documents/permanent-residence.md"
+        },
+        {
+          "line": 154,
+          "label": "抵达、获准停留与延期",
+          "target": "/book/life/documents/arrival-renewal/",
+          "balanced": true,
+          "resolved": "content/book/life/documents/arrival-renewal.md"
+        }
+      ],
+      "source_fragment_links": [],
+      "tables": [
+        {
+          "body_start_line": 19,
+          "columns": 3,
+          "rows": 6
+        },
+        {
+          "body_start_line": 49,
+          "columns": 2,
+          "rows": 6
+        }
+      ],
+      "bold_marks": 47,
+      "lines": 178,
+      "bytes": 36824,
+      "static_issues": [],
+      "reviewer": "coverage_audit",
+      "maintenance_author": "root",
+      "facts_reviewer": "review_state_audit",
+      "review_date": "2026-10-14",
+      "editorial_conclusion": "先安全后法院、孩子、住房和居留，求助入口近邻；LAB一般资格与海牙例外、两法院程序均有明确条件。",
+      "full_text_and_full_changes_read": true,
+      "factual_approval": "hum10b-facts.json final SHA",
+      "remaining_editorial_issues": []
+    },
+    {
+      "path": "content/book/people/healthcare/getting-care.md",
+      "title": "生病后去哪看：诊所、专科与急诊",
+      "status": "passed",
+      "body_sha256": "c95e23934d9cc9c13e369f761e3231cff207ec437498ddc8e21ca24080f640e5",
+      "final_body_sha256": "c95e23934d9cc9c13e369f761e3231cff207ec437498ddc8e21ca24080f640e5",
+      "final_full_sha256": "d21db9fb714baf86919ad3311333a84bcff83626c3e9d1b4463cddd35210c6e4",
+      "original_body_sha256": "b5bb781c2fc6aeb13e019bd93db531fe3763eecb8d19cd2ace793bc4efb850db",
+      "initial_frozen_body_sha256": "c95e23934d9cc9c13e369f761e3231cff207ec437498ddc8e21ca24080f640e5",
+      "fact_body_sha256": "c95e23934d9cc9c13e369f761e3231cff207ec437498ddc8e21ca24080f640e5",
+      "fact_sha_matches": true,
+      "final_matches_initial_frozen_body": true,
+      "verified_unchanged": "2026-10-13",
+      "original_fact_report": "ops/reviews/b01-care-facts.md",
+      "original_editorial_report": null,
+      "diff_hunks": [
+        "@@ -14 +14 @@ weight: 10"
+      ],
+      "headings_count": 5,
+      "external_source_links": 15,
+      "internal_links": 1,
+      "internal_targets": [
+        {
+          "line": 35,
+          "label": "医疗费用怎样支付",
+          "target": "/book/people/healthcare/healthcare-payments/",
+          "balanced": true,
+          "resolved": "content/book/people/healthcare/healthcare-payments.md"
+        }
+      ],
+      "source_fragment_links": [],
+      "tables": [
+        {
+          "body_start_line": 7,
+          "columns": 3,
+          "rows": 6
+        }
+      ],
+      "bold_marks": 7,
+      "lines": 64,
+      "bytes": 7797,
+      "static_issues": [],
+      "reviewer": "coverage_audit",
+      "maintenance_author": "root",
+      "facts_reviewer": "review_state_audit",
+      "review_date": "2026-10-14",
+      "editorial_conclusion": "首段直接分普通与急症就医；预约、转介、交通和看完后的下一步衔接，删目的句未造成跳读。",
+      "full_text_and_full_changes_read": true,
+      "factual_approval": "hum10b-facts.json final SHA",
+      "remaining_editorial_issues": []
+    },
+    {
+      "path": "content/book/people/healthcare/medical-records.md",
+      "title": "病历、医疗报告、病假证明与诊疗沟通",
+      "status": "passed",
+      "body_sha256": "421ef41ede5d62ff252c06e6acd4fcc1a85ef89460bed3dccadfcea81aad6a52",
+      "final_body_sha256": "421ef41ede5d62ff252c06e6acd4fcc1a85ef89460bed3dccadfcea81aad6a52",
+      "final_full_sha256": "c20f0ca8f76281d5c50dc85af7bc5fcdde1b6fddb19fe22760856ed9dca9216c",
+      "original_body_sha256": "c38c9b0f8132571bc5506c992c718553e16b6ee45351bc986481b8a18f6d71c7",
+      "initial_frozen_body_sha256": "421ef41ede5d62ff252c06e6acd4fcc1a85ef89460bed3dccadfcea81aad6a52",
+      "fact_body_sha256": "421ef41ede5d62ff252c06e6acd4fcc1a85ef89460bed3dccadfcea81aad6a52",
+      "fact_sha_matches": true,
+      "final_matches_initial_frozen_body": true,
+      "verified_unchanged": "2026-10-13",
+      "original_fact_report": "ops/reviews/b04-medical-records-facts.md",
+      "original_editorial_report": "ops/reviews/b04b-editorial.md",
+      "diff_hunks": [
+        "@@ -101 +101 @@ NUH 路径与表件见[当前申请页](https://www.nuh.com.sg/care-at-nuh/reque"
+      ],
+      "headings_count": 9,
+      "external_source_links": 47,
+      "internal_links": 4,
+      "internal_targets": [
+        {
+          "line": 29,
+          "label": "多语就医沟通",
+          "target": "{{< relref \"/book/people/language/communication\" >}}",
+          "balanced": true,
+          "resolved": "content/book/people/language/communication.md"
+        },
+        {
+          "line": 31,
+          "label": "医疗支付",
+          "target": "{{< relref \"/book/people/healthcare/healthcare-payments\" >}}",
+          "balanced": true,
+          "resolved": "content/book/people/healthcare/healthcare-payments.md"
+        },
+        {
+          "line": 39,
+          "label": "数字身份",
+          "target": "{{< relref \"/book/life/digital/accounts\" >}}",
+          "balanced": true,
+          "resolved": "content/book/life/digital/accounts.md"
+        },
+        {
+          "line": 133,
+          "label": "应急入口",
+          "target": "{{< relref \"/book/rights/safety/emergencies\" >}}",
+          "balanced": true,
+          "resolved": "content/book/rights/safety/emergencies.md"
+        }
+      ],
+      "source_fragment_links": [],
+      "tables": [
+        {
+          "body_start_line": 9,
+          "columns": 2,
+          "rows": 8
+        },
+        {
+          "body_start_line": 76,
+          "columns": 2,
+          "rows": 4
+        },
+        {
+          "body_start_line": 127,
+          "columns": 2,
+          "rows": 7
+        }
+      ],
+      "bold_marks": 20,
+      "lines": 151,
+      "bytes": 24483,
+      "static_issues": [],
+      "reviewer": "coverage_audit",
+      "maintenance_author": "root",
+      "facts_reviewer": "review_state_audit",
+      "review_date": "2026-10-14",
+      "editorial_conclusion": "文件类型与报告申请、治疗同意分别处理；未成年、无能力、已故及雇主申请有各自标题和近邻链接，删句后限定仍清楚。",
+      "full_text_and_full_changes_read": true,
+      "factual_approval": "hum10b-facts.json final SHA",
+      "remaining_editorial_issues": []
+    },
+    {
+      "path": "content/book/people/language/everyday-language.md",
+      "title": "在多语环境里，把话听懂、把事说清",
+      "status": "passed",
+      "body_sha256": "bc3985690c03797a2e9ad0dea5fd7b2a33dd77a052cf11c1bceba729d6eaa3af",
+      "final_body_sha256": "bc3985690c03797a2e9ad0dea5fd7b2a33dd77a052cf11c1bceba729d6eaa3af",
+      "final_full_sha256": "a2d2aa9d7b6ce85c90ab55497fa57a461a5fe8eb01b1be3357e684b89fd52ec7",
+      "original_body_sha256": "487a9a8320516e2b38bf4697eb9c57b3a419346353b5234599fb867eb168c280",
+      "initial_frozen_body_sha256": "bc3985690c03797a2e9ad0dea5fd7b2a33dd77a052cf11c1bceba729d6eaa3af",
+      "fact_body_sha256": "bc3985690c03797a2e9ad0dea5fd7b2a33dd77a052cf11c1bceba729d6eaa3af",
+      "fact_sha_matches": true,
+      "final_matches_initial_frozen_body": true,
+      "verified_unchanged": "2026-10-13",
+      "original_fact_report": "ops/reviews/b01-daily-facts.md",
+      "original_editorial_report": null,
+      "diff_hunks": [
+        "@@ -45 +45 @@ Singlish 通常指 Colloquial Singapore English，即新加坡口语英语。它"
+      ],
+      "headings_count": 5,
+      "external_source_links": 9,
+      "internal_links": 0,
+      "internal_targets": [],
+      "source_fragment_links": [],
+      "tables": [
+        {
+          "body_start_line": 9,
+          "columns": 2,
+          "rows": 7
+        },
+        {
+          "body_start_line": 27,
+          "columns": 3,
+          "rows": 6
+        }
+      ],
+      "bold_marks": 3,
+      "lines": 75,
+      "bytes": 7991,
+      "static_issues": [],
+      "reviewer": "coverage_audit",
+      "maintenance_author": "root",
+      "facts_reviewer": "review_state_audit",
+      "review_date": "2026-10-14",
+      "editorial_conclusion": "建议用完整句子的语气保持为建议；多语与Singlish案例有具体背景和教学虚构标注，未留下机械尾总结。",
+      "full_text_and_full_changes_read": true,
+      "factual_approval": "hum10b-facts.json final SHA",
+      "remaining_editorial_issues": []
+    },
+    {
+      "path": "content/book/people/learning/tuition-grant.md",
+      "title": "Tuition Grant：申请、担保、三年服务与退出",
+      "status": "passed",
+      "body_sha256": "0e77d67c0bcd71dff9e394365c9268aef77c1a8958650f6dab7d51cb9561ff83",
+      "final_body_sha256": "0e77d67c0bcd71dff9e394365c9268aef77c1a8958650f6dab7d51cb9561ff83",
+      "final_full_sha256": "1eea9e00ed7bd8d53b7bb811619ff27b47cb8310af0d1326d1e5f74f4e97aa6d",
+      "original_body_sha256": "a62d60bb44721b7ddf1c8f7a3070d791bbdc1acf875d2146049305f75e6156ee",
+      "initial_frozen_body_sha256": "0e77d67c0bcd71dff9e394365c9268aef77c1a8958650f6dab7d51cb9561ff83",
+      "fact_body_sha256": "0e77d67c0bcd71dff9e394365c9268aef77c1a8958650f6dab7d51cb9561ff83",
+      "fact_sha_matches": true,
+      "final_matches_initial_frozen_body": true,
+      "verified_unchanged": "2026-10-13",
+      "original_fact_report": "ops/reviews/b04-tuition-grant-facts.md",
+      "original_editorial_report": "ops/reviews/b04d-editorial.md",
+      "diff_hunks": [
+        "@@ -27 +27 @@ TG 用于指定全日制 diploma 和本科课程，涉及理工学院、ITE、",
+        "@@ -29 +29 @@ TG 用于指定全日制 diploma 和本科课程，涉及理工学院、ITE、",
+        "@@ -43 +43 @@ PR和国际学生申请TG须指定 **两名担保人，sureties** 。他们承",
+        "@@ -53 +53 @@ TG申请和签约日期由各校通知，没有统一的全岛截止日。以本",
+        "@@ -72 +72 @@ TG申请和签约日期由各校通知，没有统一的全岛截止日。以本",
+        "@@ -90 +90 @@ TG服务以毕业后合资格的 **全职工作** 计算，可以换公司，累",
+        "@@ -120 +120 @@ TG服务以毕业后合资格的 **全职工作** 计算，可以换公司，累",
+        "@@ -122 +122 @@ TG服务以毕业后合资格的 **全职工作** 计算，可以换公司，累",
+        "@@ -156 +156 @@ MOE的BG详页提示银行可需三周；其他延期说明的分步时间较短"
+      ],
+      "headings_count": 10,
+      "external_source_links": 80,
+      "internal_links": 3,
+      "internal_targets": [
+        {
+          "line": 27,
+          "label": "高教申请与资金安排",
+          "target": "{{< relref \"/book/people/learning/higher-education\" >}}",
+          "balanced": true,
+          "resolved": "content/book/people/learning/higher-education.md"
+        },
+        {
+          "line": 70,
+          "label": "工作准证",
+          "target": "{{< relref \"/book/life/documents/work-passes\" >}}",
+          "balanced": true,
+          "resolved": "content/book/life/documents/work-passes.md"
+        },
+        {
+          "line": 72,
+          "label": "准证到期和变化",
+          "target": "{{< relref \"/book/life/documents/pass-management\" >}}",
+          "balanced": true,
+          "resolved": "content/book/life/documents/pass-management.md"
+        }
+      ],
+      "source_fragment_links": [],
+      "tables": [
+        {
+          "body_start_line": 9,
+          "columns": 2,
+          "rows": 7
+        },
+        {
+          "body_start_line": 82,
+          "columns": 2,
+          "rows": 7
+        },
+        {
+          "body_start_line": 98,
+          "columns": 2,
+          "rows": 9
+        }
+      ],
+      "bold_marks": 10,
+      "lines": 158,
+      "bytes": 28977,
+      "static_issues": [],
+      "reviewer": "coverage_audit",
+      "maintenance_author": "root",
+      "facts_reviewer": "review_state_audit",
+      "review_date": "2026-10-14",
+      "editorial_conclusion": "先资格与担保，再申请、服务、延期、BG和退出；冲突时限及年龄边界留在对应步骤，不把办事平台状态写成完结。",
+      "full_text_and_full_changes_read": true,
+      "factual_approval": "hum10b-facts.json final SHA",
+      "remaining_editorial_issues": []
+    },
+    {
+      "path": "content/book/people/school/learning.md",
+      "title": "课程、考试、学费与学习支持",
+      "status": "passed",
+      "body_sha256": "a710466c6d06c71e8ba758f273a02987acd79731ff2b719d9300ac2f1cdb4c30",
+      "final_body_sha256": "a710466c6d06c71e8ba758f273a02987acd79731ff2b719d9300ac2f1cdb4c30",
+      "final_full_sha256": "4faf3e17b4f656026a3818377e11f36fb63a871d237d4aa89ad2823bf6fad5d4",
+      "original_body_sha256": "2654d1f5e394aa88ba5d0d8a2044c9be09f623278e0a71c2e27042e8c37472e5",
+      "initial_frozen_body_sha256": "a710466c6d06c71e8ba758f273a02987acd79731ff2b719d9300ac2f1cdb4c30",
+      "fact_body_sha256": "a710466c6d06c71e8ba758f273a02987acd79731ff2b719d9300ac2f1cdb4c30",
+      "fact_sha_matches": true,
+      "final_matches_initial_frozen_body": true,
+      "verified_unchanged": "2026-10-13",
+      "original_fact_report": "ops/reviews/b04-school-learning-facts.md",
+      "original_editorial_report": "ops/reviews/b04g-editorial.md",
+      "diff_hunks": [
+        "@@ -27 +27 @@ search_keywords: [\"学费\", \"PSLE\", \"Full SBB\", \"SEC\", \"PSE\", \"母语\", \"FAS\", \"",
+        "@@ -29 +29 @@ search_keywords: [\"学费\", \"PSLE\", \"Full SBB\", \"SEC\", \"PSE\", \"母语\", \"FAS\", \"",
+        "@@ -45 +45 @@ IP也有不同终点。例如Victoria School与合作学校的六年IP通往Vict",
+        "@@ -59 +59 @@ IP也有不同终点。例如Victoria School与合作学校的六年IP通往Vict",
+        "@@ -63 +63 @@ IP也有不同终点。例如Victoria School与合作学校的六年IP通往Vict",
+        "@@ -80 +80 @@ PSLE按英语、母语、数学和科学四科的Achievement Level（AL）相加",
+        "@@ -112 +112 @@ Foundation科目另按A（75—100）、B（30—74）、C（低于30）报告",
+        "@@ -147 +147 @@ PSE公布的申请安排为自成绩发放当日起六个日历日，可填最",
+        "@@ -153 +153 @@ PSLE成绩需要复核时，须在成绩发放后 **五个工作日内** 向学",
+        "@@ -161 +161 @@ PSLE成绩需要复核时，须在成绩发放后 **五个工作日内** 向学",
+        "@@ -165 +165 @@ PSLE成绩需要复核时，须在成绩发放后 **五个工作日内** 向学",
+        "@@ -169 +169 @@ PSLE成绩需要复核时，须在成绩发放后 **五个工作日内** 向学",
+        "@@ -173 +173 @@ SPED学费及资助逐校核。Pathlight当前公民月费按小学、中学、",
+        "@@ -177 +177 @@ SPED学费及资助逐校核。Pathlight当前公民月费按小学、中学、",
+        "@@ -179 +179 @@ SPED学费及资助逐校核。Pathlight当前公民月费按小学、中学、",
+        "@@ -185 +185 @@ SPED学费及资助逐校核。Pathlight当前公民月费按小学、中学、"
+      ],
+      "headings_count": 11,
+      "external_source_links": 82,
+      "internal_links": 7,
+      "internal_targets": [
+        {
+          "line": 7,
+          "label": "托育与学前照护",
+          "target": "{{< relref \"/book/people/family/childcare.md\" >}}",
+          "balanced": true,
+          "resolved": "content/book/people/family/childcare.md"
+        },
+        {
+          "line": 35,
+          "label": "学前费用与补贴",
+          "target": "{{< relref \"/book/people/family/childcare.md\" >}}",
+          "balanced": true,
+          "resolved": "content/book/people/family/childcare.md"
+        },
+        {
+          "line": 37,
+          "label": "准证持有期间的变更与学习安排",
+          "target": "{{< relref \"/book/life/documents/pass-management.md\" >}}",
+          "balanced": true,
+          "resolved": "content/book/life/documents/pass-management.md"
+        },
+        {
+          "line": 80,
+          "label": "多语家庭",
+          "target": "{{< relref \"/book/people/language/multilingual-family.md\" >}}",
+          "balanced": true,
+          "resolved": "content/book/people/language/multilingual-family.md"
+        },
+        {
+          "line": 123,
+          "label": "大学、理工与ITE",
+          "target": "{{< relref \"/book/people/learning/higher-education.md\" >}}",
+          "balanced": true,
+          "resolved": "content/book/people/learning/higher-education.md"
+        },
+        {
+          "line": 123,
+          "label": "国民服役义务",
+          "target": "{{< relref \"/book/life/documents/national-service.md\" >}}",
+          "balanced": true,
+          "resolved": "content/book/life/documents/national-service.md"
+        },
+        {
+          "line": 169,
+          "label": "儿童疫苗记录与验证",
+          "target": "{{< relref \"/book/people/healthcare/preventive-care.md\" >}}",
+          "balanced": true,
+          "resolved": "content/book/people/healthcare/preventive-care.md"
+        }
+      ],
+      "source_fragment_links": [],
+      "tables": [
+        {
+          "body_start_line": 11,
+          "columns": 2,
+          "rows": 7
+        },
+        {
+          "body_start_line": 27,
+          "columns": 5,
+          "rows": 5
+        },
+        {
+          "body_start_line": 61,
+          "columns": 4,
+          "rows": 6
+        },
+        {
+          "body_start_line": 88,
+          "columns": 3,
+          "rows": 7
+        },
+        {
+          "body_start_line": 108,
+          "columns": 2,
+          "rows": 8
+        }
+      ],
+      "bold_marks": 5,
+      "lines": 187,
+      "bytes": 35310,
+      "static_issues": [],
+      "reviewer": "coverage_audit",
+      "maintenance_author": "root",
+      "facts_reviewer": "review_state_audit",
+      "review_date": "2026-10-14",
+      "editorial_conclusion": "学校类别、身份费表、课程考试及支持可顺序查找；2026/2027/2028批次清楚，PSLE/SPED条件和转衔仍具体。",
+      "full_text_and_full_changes_read": true,
+      "factual_approval": "hum10b-facts.json final SHA",
+      "remaining_editorial_issues": []
+    },
+    {
+      "path": "content/book/people/school/school-life.md",
+      "title": "学校生活：家校沟通、课后照顾与学生保护",
+      "status": "passed",
+      "body_sha256": "4174d82e656dfdf99a34bb5c780ff0c0c9fe741eacfd15ed6b34ca3c3249cce0",
+      "final_body_sha256": "4174d82e656dfdf99a34bb5c780ff0c0c9fe741eacfd15ed6b34ca3c3249cce0",
+      "final_full_sha256": "0193a73e82a59daed28703f26e7bc08ac498ebb580bc1ea83be7ad7affe9f97b",
+      "original_body_sha256": "fc044bc26adc3f60d53b8e1207bff3b0bcb1c2682851ebb30d3298277d60fd33",
+      "initial_frozen_body_sha256": "4174d82e656dfdf99a34bb5c780ff0c0c9fe741eacfd15ed6b34ca3c3249cce0",
+      "fact_body_sha256": "4174d82e656dfdf99a34bb5c780ff0c0c9fe741eacfd15ed6b34ca3c3249cce0",
+      "fact_sha_matches": true,
+      "final_matches_initial_frozen_body": true,
+      "verified_unchanged": "2026-10-13",
+      "original_fact_report": "ops/reviews/b04-school-life-facts.md",
+      "original_editorial_report": "ops/reviews/b04-school-life-editorial.md",
+      "diff_hunks": [
+        "@@ -62 +62 @@ Special Student Care Centre（SSCC）的补助适用7—18岁儿童；当前四",
+        "@@ -106 +106 @@ MOE区分一次性的伤害行为与有意、持续发生的欺凌，后者可"
+      ],
+      "headings_count": 10,
+      "external_source_links": 48,
+      "internal_links": 12,
+      "internal_targets": [
+        {
+          "line": 3,
+          "label": "学校课程与学习支持",
+          "target": "{{< relref \"/book/people/school/learning.md\" >}}",
+          "balanced": true,
+          "resolved": "content/book/people/school/learning.md"
+        },
+        {
+          "line": 13,
+          "label": "预防保健",
+          "target": "{{< relref \"/book/people/healthcare/preventive-care.md\" >}}",
+          "balanced": true,
+          "resolved": "content/book/people/healthcare/preventive-care.md"
+        },
+        {
+          "line": 13,
+          "label": "学校课程与学习支持",
+          "target": "{{< relref \"/book/people/school/learning.md\" >}}",
+          "balanced": true,
+          "resolved": "content/book/people/school/learning.md"
+        },
+        {
+          "line": 25,
+          "label": "分居时的孩子与学校安排",
+          "target": "{{< relref \"/book/people/family/separation-safety.md\" >}}",
+          "balanced": true,
+          "resolved": "content/book/people/family/separation-safety.md"
+        },
+        {
+          "line": 52,
+          "label": "课程与升学规则",
+          "target": "{{< relref \"/book/people/school/learning.md\" >}}",
+          "balanced": true,
+          "resolved": "content/book/people/school/learning.md"
+        },
+        {
+          "line": 74,
+          "label": "心理求助",
+          "target": "{{< relref \"/book/people/accessibility/mental-health.md\" >}}",
+          "balanced": true,
+          "resolved": "content/book/people/accessibility/mental-health.md"
+        },
+        {
+          "line": 90,
+          "label": "分居安全与儿童安排",
+          "target": "{{< relref \"/book/people/family/separation-safety.md\" >}}",
+          "balanced": true,
+          "resolved": "content/book/people/family/separation-safety.md"
+        },
+        {
+          "line": 90,
+          "label": "怎样就医",
+          "target": "{{< relref \"/book/people/healthcare/getting-care.md\" >}}",
+          "balanced": true,
+          "resolved": "content/book/people/healthcare/getting-care.md"
+        },
+        {
+          "line": 100,
+          "label": "外国学制学校与准证、合同",
+          "target": "{{< relref \"/book/people/school/learning.md\" >}}",
+          "balanced": true,
+          "resolved": "content/book/people/school/learning.md"
+        },
+        {
+          "line": 110,
+          "label": "学校课程与升学",
+          "target": "{{< relref \"/book/people/school/learning.md\" >}}",
+          "balanced": true,
+          "resolved": "content/book/people/school/learning.md"
+        },
+        {
+          "line": 110,
+          "label": "高等教育",
+          "target": "{{< relref \"/book/people/learning/higher-education.md\" >}}",
+          "balanced": true,
+          "resolved": "content/book/people/learning/higher-education.md"
+        },
+        {
+          "line": 110,
+          "label": "NS义务、出境与延期",
+          "target": "{{< relref \"/book/life/documents/national-service.md\" >}}",
+          "balanced": true,
+          "resolved": "content/book/life/documents/national-service.md"
+        }
+      ],
+      "source_fragment_links": [],
+      "tables": [
+        {
+          "body_start_line": 33,
+          "columns": 3,
+          "rows": 4
+        }
+      ],
+      "bold_marks": 5,
+      "lines": 122,
+      "bytes": 24195,
+      "static_issues": [],
+      "reviewer": "coverage_audit",
+      "maintenance_author": "root",
+      "facts_reviewer": "review_state_audit",
+      "review_date": "2026-10-14",
+      "editorial_conclusion": "日常交接、通知、托管、数字学习、伤害保护与转校分别展开；CCA指导语气及搬家转校资格保留。",
+      "full_text_and_full_changes_read": true,
+      "factual_approval": "hum10b-facts.json final SHA",
+      "remaining_editorial_issues": []
+    },
+    {
+      "path": "content/book/work/business/starting-business.md",
+      "title": "开始经营：身份、企业形式与注册开业",
+      "status": "passed",
+      "body_sha256": "880879035efc0c4f039ee60d550b34921f080808bacc12380a1d20b7b703f6e5",
+      "final_body_sha256": "880879035efc0c4f039ee60d550b34921f080808bacc12380a1d20b7b703f6e5",
+      "final_full_sha256": "7ab4afecd0e115a45ecca27d1e4aa669afaa4490e526a47b71af88baf2ddef59",
+      "original_body_sha256": "4e8f99eef6c9a26012eab8ac7aa39ef74a81484ff164c91dd01653674c8fc03a",
+      "initial_frozen_body_sha256": "880879035efc0c4f039ee60d550b34921f080808bacc12380a1d20b7b703f6e5",
+      "fact_body_sha256": "880879035efc0c4f039ee60d550b34921f080808bacc12380a1d20b7b703f6e5",
+      "fact_sha_matches": true,
+      "final_matches_initial_frozen_body": true,
+      "verified_unchanged": "2026-10-13",
+      "original_fact_report": "ops/reviews/b05-business-facts.md",
+      "original_editorial_report": "ops/reviews/b05-business-editorial.md",
+      "diff_hunks": [
+        "@@ -15 +15 @@ search_keywords: [\"创业\", \"开公司\", \"ACRA\", \"Bizfile\", \"UEN\", \"Corppass\", \"",
+        "@@ -35 +35 @@ search_keywords: [\"创业\", \"开公司\", \"ACRA\", \"Bizfile\", \"UEN\", \"Corppass\", \"",
+        "@@ -42 +42 @@ search_keywords: [\"创业\", \"开公司\", \"ACRA\", \"Bizfile\", \"UEN\", \"Corppass\", \"",
+        "@@ -70 +70 @@ ONE Pass持有人的 **配偶** 要经营业务，可由本人或就业中介申",
+        "@@ -74 +74 @@ ONE Pass持有人的 **配偶** 要经营业务，可由本人或就业中介申",
+        "@@ -102 +102 @@ ACRA登记名称不产生商标专有权，也不自动取得同名网站域名",
+        "@@ -121 +121 @@ ACRA登记名称不产生商标专有权，也不自动取得同名网站域名",
+        "@@ -129 +129 @@ ACRA登记名称不产生商标专有权，也不自动取得同名网站域名"
+      ],
+      "headings_count": 10,
+      "external_source_links": 58,
+      "internal_links": 4,
+      "internal_targets": [
+        {
+          "line": 9,
+          "label": "个人税务",
+          "target": "/book/work/tax/personal-tax/",
+          "balanced": true,
+          "resolved": "content/book/work/tax/personal-tax.md"
+        },
+        {
+          "line": 9,
+          "label": "本人准证允许的工作",
+          "target": "/book/life/documents/work-passes/",
+          "balanced": true,
+          "resolved": "content/book/life/documents/work-passes.md"
+        },
+        {
+          "line": 123,
+          "label": "CPF基础",
+          "target": "/book/work/finance/cpf-basics/",
+          "balanced": true,
+          "resolved": "content/book/work/finance/cpf-basics.md"
+        },
+        {
+          "line": 123,
+          "label": "预算方法",
+          "target": "/book/work/finance/household-budget/",
+          "balanced": true,
+          "resolved": "content/book/work/finance/household-budget.md"
+        }
+      ],
+      "source_fragment_links": [],
+      "tables": [
+        {
+          "body_start_line": 15,
+          "columns": 2,
+          "rows": 12
+        },
+        {
+          "body_start_line": 46,
+          "columns": 2,
+          "rows": 7
+        },
+        {
+          "body_start_line": 94,
+          "columns": 2,
+          "rows": 6
+        }
+      ],
+      "bold_marks": 13,
+      "lines": 135,
+      "bytes": 22526,
+      "static_issues": [],
+      "reviewer": "coverage_audit",
+      "maintenance_author": "root",
+      "facts_reviewer": "review_state_audit",
+      "review_date": "2026-10-14",
+      "editorial_conclusion": "先经营权限再选主体注册，成功通知后还有开业清单；CSP与Singpass来源差异、DP配偶分支及本人预算清楚。",
+      "full_text_and_full_changes_read": true,
+      "factual_approval": "hum10b-facts.json final SHA",
+      "remaining_editorial_issues": []
+    },
+    {
+      "path": "content/book/work/employment/injury.md",
+      "title": "工作受伤、职业病与工伤索偿",
+      "status": "passed",
+      "body_sha256": "1e76a24351dabfd145383c46f2e0e6e3d5e9d34ee6fea7e9cb5e394c2e103ab8",
+      "final_body_sha256": "1e76a24351dabfd145383c46f2e0e6e3d5e9d34ee6fea7e9cb5e394c2e103ab8",
+      "final_full_sha256": "d05a7d75fced8fbfb20a1690609773dd072de1a1132b963850bbe4a09a933292",
+      "original_body_sha256": "ded294aee91cf2d8babaee9a2f4365fb56ccd7262283e6e4b1ff42805a2d2109",
+      "initial_frozen_body_sha256": "b526577e956003e2977a41a397617168c69ab75cba10184a8e5ac140e8caded1",
+      "fact_body_sha256": "1e76a24351dabfd145383c46f2e0e6e3d5e9d34ee6fea7e9cb5e394c2e103ab8",
+      "fact_sha_matches": true,
+      "final_matches_initial_frozen_body": false,
+      "verified_unchanged": "2026-10-13",
+      "original_fact_report": "ops/reviews/b05-injury-facts.md",
+      "original_editorial_report": "ops/reviews/b05-injury-editorial.md",
+      "diff_hunks": [
+        "@@ -15 +15 @@ search_keywords: [\"工伤\", \"WICA\", \"职业病\", \"工伤保险\", \"病假工资\",",
+        "@@ -61 +61 @@ WICA要求事故因工作而起，并在工作过程中发生；职业病及因",
+        "@@ -65 +65 @@ WICA要求事故因工作而起，并在工作过程中发生；职业病及因",
+        "@@ -95 +95 @@ WICA要求事故因工作而起，并在工作过程中发生；职业病及因",
+        "@@ -107 +107 @@ WICA要求事故因工作而起，并在工作过程中发生；职业病及因",
+        "@@ -109 +109 @@ WICA要求事故因工作而起，并在工作过程中发生；职业病及因",
+        "@@ -111 +111 @@ WICA要求事故因工作而起，并在工作过程中发生；职业病及因",
+        "@@ -121 +121 @@ WICA要求事故因工作而起，并在工作过程中发生；职业病及因",
+        "@@ -128 +128 @@ WICA要求事故因工作而起，并在工作过程中发生；职业病及因",
+        "@@ -132 +132 @@ WICA要求事故因工作而起，并在工作过程中发生；职业病及因",
+        "@@ -150 +150 @@ WICA要求事故因工作而起，并在工作过程中发生；职业病及因",
+        "@@ -152 +152 @@ WICA要求事故因工作而起，并在工作过程中发生；职业病及因",
+        "@@ -160 +160 @@ WICA要求事故因工作而起，并在工作过程中发生；职业病及因",
+        "@@ -172 +172 @@ WICA要求事故因工作而起，并在工作过程中发生；职业病及因",
+        "@@ -176 +176 @@ WICA要求事故因工作而起，并在工作过程中发生；职业病及因",
+        "@@ -184 +184 @@ Work Permit持有人受伤后，雇主仍须承担应有的照料、食物和住",
+        "@@ -186 +186 @@ Work Permit持有人受伤后，雇主仍须承担应有的照料、食物和住",
+        "@@ -198 +198 @@ MOM说明，WSH Act禁止雇主因工人报告安全问题而解雇或威胁解",
+        "@@ -204 +204 @@ MOM说明，WSH Act禁止雇主因工人报告安全问题而解雇或威胁解",
+        "@@ -210 +210 @@ MOM说明，WSH Act禁止雇主因工人报告安全问题而解雇或威胁解"
+      ],
+      "headings_count": 16,
+      "external_source_links": 63,
+      "internal_links": 7,
+      "internal_targets": [
+        {
+          "line": 7,
+          "label": "就医入口",
+          "target": "{{< relref \"/book/people/healthcare/getting-care\" >}}",
+          "balanced": true,
+          "resolved": "content/book/people/healthcare/getting-care.md"
+        },
+        {
+          "line": 30,
+          "label": "工作准证与就业条件",
+          "target": "{{< relref \"/book/life/documents/work-passes\" >}}",
+          "balanced": true,
+          "resolved": "content/book/life/documents/work-passes.md"
+        },
+        {
+          "line": 30,
+          "label": "劳动权益",
+          "target": "{{< relref \"/book/work/employment/employment-rights\" >}}",
+          "balanced": true,
+          "resolved": "content/book/work/employment/employment-rights.md"
+        },
+        {
+          "line": 164,
+          "label": "离职与失业时的手续",
+          "target": "{{< relref \"/book/work/employment/leaving-job\" >}}",
+          "balanced": true,
+          "resolved": "content/book/work/employment/leaving-job.md"
+        },
+        {
+          "line": 174,
+          "label": "家政移工的安全与求助入口",
+          "target": "{{< relref \"/book/people/family/domestic-workers\" >}}",
+          "balanced": true,
+          "resolved": "content/book/people/family/domestic-workers.md"
+        },
+        {
+          "line": 182,
+          "label": "紧急渠道",
+          "target": "{{< relref \"/book/rights/safety/emergencies\" >}}",
+          "balanced": true,
+          "resolved": "content/book/rights/safety/emergencies.md"
+        },
+        {
+          "line": 206,
+          "label": "残障支持",
+          "target": "{{< relref \"/book/people/accessibility/disability\" >}}",
+          "balanced": true,
+          "resolved": "content/book/people/accessibility/disability.md"
+        }
+      ],
+      "source_fragment_links": [],
+      "tables": [
+        {
+          "body_start_line": 20,
+          "columns": 2,
+          "rows": 7
+        },
+        {
+          "body_start_line": 38,
+          "columns": 2,
+          "rows": 8
+        },
+        {
+          "body_start_line": 55,
+          "columns": 2,
+          "rows": 6
+        },
+        {
+          "body_start_line": 74,
+          "columns": 2,
+          "rows": 4
+        },
+        {
+          "body_start_line": 87,
+          "columns": 2,
+          "rows": 7
+        },
+        {
+          "body_start_line": 107,
+          "columns": 2,
+          "rows": 4
+        },
+        {
+          "body_start_line": 132,
+          "columns": 2,
+          "rows": 5
+        },
+        {
+          "body_start_line": 150,
+          "columns": 2,
+          "rows": 5
+        }
+      ],
+      "bold_marks": 34,
+      "lines": 218,
+      "bytes": 34064,
+      "static_issues": [],
+      "reviewer": "coverage_audit",
+      "maintenance_author": "root",
+      "facts_reviewer": "review_state_audit",
+      "review_date": "2026-10-14",
+      "editorial_conclusion": "全文按就医报告、保障、赔付、异议及外籍/平台/家政分支展开；最终“员工或其代表”明确通知对象，“防热措施另按ACOP”保留条件性表达。",
+      "full_text_and_full_changes_read": true,
+      "factual_approval": "hum10b-facts.json final SHA",
+      "remaining_editorial_issues": []
+    },
+    {
+      "path": "content/book/work/employment/leaving-job.md",
+      "title": "离职时怎样结工资、交接准证和处理争议",
+      "status": "passed",
+      "body_sha256": "a8359d19444baef8a518f3f2221dbd9f52c02750b6872fd9659353875c720772",
+      "final_body_sha256": "a8359d19444baef8a518f3f2221dbd9f52c02750b6872fd9659353875c720772",
+      "final_full_sha256": "24b990abfdde07bed903a8ccc55ff5a355df9e85536bde11c4ded5c1932d60ff",
+      "original_body_sha256": "ec71de55198a61e0796c2c393f0013c37b40ce86cf95abee1d87f1f7789c9e03",
+      "initial_frozen_body_sha256": "a8359d19444baef8a518f3f2221dbd9f52c02750b6872fd9659353875c720772",
+      "fact_body_sha256": "a8359d19444baef8a518f3f2221dbd9f52c02750b6872fd9659353875c720772",
+      "fact_sha_matches": true,
+      "final_matches_initial_frozen_body": true,
+      "verified_unchanged": "2026-10-13",
+      "original_fact_report": "ops/reviews/b02-employment-tax-facts.md",
+      "original_editorial_report": null,
+      "diff_hunks": [
+        "@@ -48 +48 @@ weight: 30",
+        "@@ -87 +87 @@ PEP、ONE Pass，以及 ICA 家属的 LOC/PLOC，不应套用 EP 的整套取消"
+      ],
+      "headings_count": 6,
+      "external_source_links": 21,
+      "internal_links": 2,
+      "internal_targets": [
+        {
+          "line": 39,
+          "label": "离职与离境税清",
+          "target": "/book/work/tax/leaving-singapore/",
+          "balanced": true,
+          "resolved": "content/book/work/tax/leaving-singapore.md"
+        },
+        {
+          "line": 70,
+          "label": "工作准证与家属工作权限",
+          "target": "/book/life/documents/work-passes/",
+          "balanced": true,
+          "resolved": "content/book/life/documents/work-passes.md"
+        }
+      ],
+      "source_fragment_links": [],
+      "tables": [
+        {
+          "body_start_line": 13,
+          "columns": 2,
+          "rows": 6
+        },
+        {
+          "body_start_line": 30,
+          "columns": 2,
+          "rows": 6
+        },
+        {
+          "body_start_line": 57,
+          "columns": 3,
+          "rows": 6
+        }
+      ],
+      "bold_marks": 6,
+      "lines": 99,
+      "bytes": 12071,
+      "static_issues": [],
+      "reviewer": "coverage_audit",
+      "maintenance_author": "root",
+      "facts_reviewer": "review_state_audit",
+      "review_date": "2026-10-14",
+      "editorial_conclusion": "通知、结算、裁员、准证与申索期限依行动展开；家政合同及MOM路径单列，删去后果提醒不影响资料清单。",
+      "full_text_and_full_changes_read": true,
+      "factual_approval": "hum10b-facts.json final SHA",
+      "remaining_editorial_issues": []
+    },
+    {
+      "path": "content/book/work/finance/banking.md",
+      "title": "开户与日常支付：工资、银行卡、PayNow 和 GIRO",
+      "status": "passed",
+      "body_sha256": "025136e9df7217965d14046229706a0c069bb5f67b3f9f8f6c61b3a98cfde3fb",
+      "final_body_sha256": "025136e9df7217965d14046229706a0c069bb5f67b3f9f8f6c61b3a98cfde3fb",
+      "final_full_sha256": "e9bf77dfb9eac41d415b7afc02bf6509ae4361c134eb134606a372dd41c43b15",
+      "original_body_sha256": "5653a945cadfa69565cf8d2b8530de1ce2eb230f0cf5ae5e17024be13e9b73d2",
+      "initial_frozen_body_sha256": "025136e9df7217965d14046229706a0c069bb5f67b3f9f8f6c61b3a98cfde3fb",
+      "fact_body_sha256": "025136e9df7217965d14046229706a0c069bb5f67b3f9f8f6c61b3a98cfde3fb",
+      "fact_sha_matches": true,
+      "final_matches_initial_frozen_body": true,
+      "verified_unchanged": "2026-10-13",
+      "original_fact_report": "ops/reviews/b05-banking-facts.md",
+      "original_editorial_report": "ops/reviews/b05-banking-editorial.md",
+      "diff_hunks": [
+        "@@ -112 +112 @@ NETS 的具体卡种见[NETS Bank Card](https://www.nets.com.sg/nets/for-you/net"
+      ],
+      "headings_count": 11,
+      "external_source_links": 45,
+      "internal_links": 4,
+      "internal_targets": [
+        {
+          "line": 7,
+          "label": "家庭预算",
+          "target": "/book/work/finance/household-budget/",
+          "balanced": true,
+          "resolved": "content/book/work/finance/household-budget.md"
+        },
+        {
+          "line": 38,
+          "label": "个人所得税",
+          "target": "/book/work/tax/personal-tax/",
+          "balanced": true,
+          "resolved": "content/book/work/tax/personal-tax.md"
+        },
+        {
+          "line": 42,
+          "label": "数字账户",
+          "target": "/book/life/digital/accounts/",
+          "balanced": true,
+          "resolved": "content/book/life/digital/accounts.md"
+        },
+        {
+          "line": 110,
+          "label": "诈骗与账户泄露处置",
+          "target": "/book/life/digital/privacy-fraud/",
+          "balanced": true,
+          "resolved": "content/book/life/digital/privacy-fraud.md"
+        }
+      ],
+      "source_fragment_links": [],
+      "tables": [
+        {
+          "body_start_line": 17,
+          "columns": 2,
+          "rows": 8
+        },
+        {
+          "body_start_line": 60,
+          "columns": 2,
+          "rows": 4
+        },
+        {
+          "body_start_line": 73,
+          "columns": 2,
+          "rows": 6
+        }
+      ],
+      "bold_marks": 28,
+      "lines": 142,
+      "bytes": 22459,
+      "static_issues": [],
+      "reviewer": "coverage_audit",
+      "maintenance_author": "root",
+      "facts_reviewer": "review_state_audit",
+      "review_date": "2026-10-14",
+      "editorial_conclusion": "按开户、工资、支付、GIRO、错账及离境展开；补缴前查记录、确认重扣和留凭据仍完整，具体银行例子有名称限制。",
+      "full_text_and_full_changes_read": true,
+      "factual_approval": "hum10b-facts.json final SHA",
+      "remaining_editorial_issues": []
+    },
+    {
+      "path": "content/book/work/finance/cpf-basics.md",
+      "title": "CPF 基础：谁要缴、工资怎样扣、钱能做什么",
+      "status": "passed",
+      "body_sha256": "d97936b93e8c6e33f76e4cd9b439005fb0a1c7fb8378d3343e6eede22d492537",
+      "final_body_sha256": "d97936b93e8c6e33f76e4cd9b439005fb0a1c7fb8378d3343e6eede22d492537",
+      "final_full_sha256": "491377d42ff1d8dc5026758fd45714f2034b6a654f4317ab7bc76e0169c490fe",
+      "original_body_sha256": "a02f942c16e6f1bea943646ec62c36555d998b504d552d07d2879b5dcb6966e0",
+      "initial_frozen_body_sha256": "d97936b93e8c6e33f76e4cd9b439005fb0a1c7fb8378d3343e6eede22d492537",
+      "fact_body_sha256": "d97936b93e8c6e33f76e4cd9b439005fb0a1c7fb8378d3343e6eede22d492537",
+      "fact_sha_matches": true,
+      "final_matches_initial_frozen_body": true,
+      "verified_unchanged": "2026-10-13",
+      "original_fact_report": "ops/reviews/b01-care-facts.md",
+      "original_editorial_report": null,
+      "diff_hunks": [
+        "@@ -26 +26 @@ weight: 20"
+      ],
+      "headings_count": 6,
+      "external_source_links": 30,
+      "internal_links": 1,
+      "internal_targets": [
+        {
+          "line": 67,
+          "label": "医疗费用怎样支付",
+          "target": "/book/people/healthcare/healthcare-payments/",
+          "balanced": true,
+          "resolved": "content/book/people/healthcare/healthcare-payments.md"
+        }
+      ],
+      "source_fragment_links": [],
+      "tables": [
+        {
+          "body_start_line": 7,
+          "columns": 3,
+          "rows": 7
+        },
+        {
+          "body_start_line": 21,
+          "columns": 4,
+          "rows": 7
+        }
+      ],
+      "bold_marks": 10,
+      "lines": 84,
+      "bytes": 12158,
+      "static_issues": [],
+      "reviewer": "coverage_audit",
+      "maintenance_author": "root",
+      "facts_reviewer": "review_state_audit",
+      "review_date": "2026-10-14",
+      "editorial_conclusion": "身份、PR阶段、年龄费率及雇员/自雇/平台分支清楚；计算教学例和实际入账核对帮助读者操作。",
+      "full_text_and_full_changes_read": true,
+      "factual_approval": "hum10b-facts.json final SHA",
+      "remaining_editorial_issues": []
+    },
+    {
+      "path": "content/book/work/finance/debt-disputes.md",
+      "title": "信用卡、借款与债务困难",
+      "status": "passed",
+      "body_sha256": "2f7a6567f626b20a300925a6561f09db63db3c3f8ba88e42c78c377cb22b271d",
+      "final_body_sha256": "2f7a6567f626b20a300925a6561f09db63db3c3f8ba88e42c78c377cb22b271d",
+      "final_full_sha256": "d7bb82dd6c001ad3cbb0241df75e09e76f2a63cf1ebadc72959b8a45752b3d6d",
+      "original_body_sha256": "56c13a38c8b52aad3f552d51501861151a21a606db62b6999d3d0bf9c5a167d7",
+      "initial_frozen_body_sha256": "f702d68d4bc414d096a403fc76f8dec5556624f0892bbaf5960bb60a18c17eef",
+      "fact_body_sha256": "2f7a6567f626b20a300925a6561f09db63db3c3f8ba88e42c78c377cb22b271d",
+      "fact_sha_matches": true,
+      "final_matches_initial_frozen_body": false,
+      "verified_unchanged": "2026-10-13",
+      "original_fact_report": "ops/reviews/b05-debt-disputes-facts.md",
+      "original_editorial_report": "ops/reviews/b05-debt-disputes-editorial.md",
+      "diff_hunks": [
+        "@@ -21 +21 @@ search_keywords: [\"信用卡\", \"信用报告\", \"贷款\", \"债务\", \"冷静期\",",
+        "@@ -23 +23 @@ search_keywords: [\"信用卡\", \"信用报告\", \"贷款\", \"债务\", \"冷静期\",",
+        "@@ -55 +55 @@ search_keywords: [\"信用卡\", \"信用报告\", \"贷款\", \"债务\", \"冷静期\",",
+        "@@ -57 +57 @@ search_keywords: [\"信用卡\", \"信用报告\", \"贷款\", \"债务\", \"冷静期\",",
+        "@@ -59 +59 @@ search_keywords: [\"信用卡\", \"信用报告\", \"贷款\", \"债务\", \"冷静期\",",
+        "@@ -65 +65 @@ search_keywords: [\"信用卡\", \"信用报告\", \"贷款\", \"债务\", \"冷静期\",",
+        "@@ -75 +75 @@ search_keywords: [\"信用卡\", \"信用报告\", \"贷款\", \"债务\", \"冷静期\",",
+        "@@ -83 +83 @@ search_keywords: [\"信用卡\", \"信用报告\", \"贷款\", \"债务\", \"冷静期\",",
+        "@@ -100 +100 @@ search_keywords: [\"信用卡\", \"信用报告\", \"贷款\", \"债务\", \"冷静期\",",
+        "@@ -117 +117 @@ DCP不包括联名账户、装修、教育、医疗及商业用途等所列贷",
+        "@@ -119 +119 @@ DCP不包括联名账户、装修、教育、医疗及商业用途等所列贷",
+        "@@ -123 +123 @@ DCP不包括联名账户、装修、教育、医疗及商业用途等所列贷",
+        "@@ -145 +145 @@ DRS还款计划最长五年，完成后解除的是纳入该计划的债务责"
+      ],
+      "headings_count": 11,
+      "external_source_links": 45,
+      "internal_links": 5,
+      "internal_targets": [
+        {
+          "line": 29,
+          "label": "银行账户与GIRO",
+          "target": "/book/work/finance/banking/",
+          "balanced": true,
+          "resolved": "content/book/work/finance/banking.md"
+        },
+        {
+          "line": 37,
+          "label": "账户泄露与诈骗处置",
+          "target": "/book/life/digital/privacy-fraud/",
+          "balanced": true,
+          "resolved": "content/book/life/digital/privacy-fraud.md"
+        },
+        {
+          "line": 79,
+          "label": "家庭预算",
+          "target": "/book/work/finance/household-budget/",
+          "balanced": true,
+          "resolved": "content/book/work/finance/household-budget.md"
+        },
+        {
+          "line": 133,
+          "label": "银行争议与FIDReC",
+          "target": "/book/work/finance/banking/",
+          "balanced": true,
+          "resolved": "content/book/work/finance/banking.md"
+        },
+        {
+          "line": 135,
+          "label": "警察、消防与救护",
+          "target": "/book/rights/safety/emergencies/",
+          "balanced": true,
+          "resolved": "content/book/rights/safety/emergencies.md"
+        }
+      ],
+      "source_fragment_links": [],
+      "tables": [
+        {
+          "body_start_line": 13,
+          "columns": 2,
+          "rows": 5
+        },
+        {
+          "body_start_line": 55,
+          "columns": 3,
+          "rows": 5
+        },
+        {
+          "body_start_line": 83,
+          "columns": 2,
+          "rows": 7
+        }
+      ],
+      "bold_marks": 12,
+      "lines": 149,
+      "bytes": 22279,
+      "static_issues": [],
+      "reviewer": "coverage_audit",
+      "maintenance_author": "root",
+      "facts_reviewer": "review_state_audit",
+      "review_date": "2026-10-14",
+      "editorial_conclusion": "产品资格、成本、报告、逾期、持牌贷款及DCP/DMP/MDMP/DRS分别展开；最终只写更新DMP状态及逐步重建信用，和近邻CCS链接衔接自然。",
+      "full_text_and_full_changes_read": true,
+      "factual_approval": "hum10b-facts.json final SHA",
+      "remaining_editorial_issues": []
+    },
+    {
+      "path": "content/book/work/finance/household-budget.md",
+      "title": "家庭预算：让每月收入接得住日常与意外",
+      "status": "passed",
+      "body_sha256": "3e28c8ebd25730908dde16f701dd92e414d0067822967ef4115b5c3712bbfb56",
+      "final_body_sha256": "3e28c8ebd25730908dde16f701dd92e414d0067822967ef4115b5c3712bbfb56",
+      "final_full_sha256": "7f05800d7fb4db5c7582cca202f246a911edf13f262f8398b7c1e29a4b1072e8",
+      "original_body_sha256": "dc4146d2f62c6a5bad41b1c450b24ef9fec90b064d000e08f3b24914c0c9a19c",
+      "initial_frozen_body_sha256": "3e28c8ebd25730908dde16f701dd92e414d0067822967ef4115b5c3712bbfb56",
+      "fact_body_sha256": "3e28c8ebd25730908dde16f701dd92e414d0067822967ef4115b5c3712bbfb56",
+      "fact_sha_matches": true,
+      "final_matches_initial_frozen_body": true,
+      "verified_unchanged": "2026-10-13",
+      "original_fact_report": "ops/reviews/b03-budget-facts.md",
+      "original_editorial_report": "ops/reviews/b03-budget-editorial.md",
+      "diff_hunks": [
+        "@@ -59 +59 @@ weight: 10"
+      ],
+      "headings_count": 5,
+      "external_source_links": 8,
+      "internal_links": 6,
+      "internal_targets": [
+        {
+          "line": 9,
+          "label": "CPF 基础",
+          "target": "/book/work/finance/cpf-basics/",
+          "balanced": true,
+          "resolved": "content/book/work/finance/cpf-basics.md"
+        },
+        {
+          "line": 26,
+          "label": "租房与签约",
+          "target": "/book/life/housing/renting/",
+          "balanced": true,
+          "resolved": "content/book/life/housing/renting.md"
+        },
+        {
+          "line": 26,
+          "label": "医疗费用怎样支付",
+          "target": "/book/people/healthcare/healthcare-payments/",
+          "balanced": true,
+          "resolved": "content/book/people/healthcare/healthcare-payments.md"
+        },
+        {
+          "line": 28,
+          "label": "个人税务",
+          "target": "/book/work/tax/personal-tax/",
+          "balanced": true,
+          "resolved": "content/book/work/tax/personal-tax.md"
+        },
+        {
+          "line": 28,
+          "label": "IR21 与暂扣款项",
+          "target": "/book/work/tax/leaving-singapore/",
+          "balanced": true,
+          "resolved": "content/book/work/tax/leaving-singapore.md"
+        },
+        {
+          "line": 58,
+          "label": "离职后的工资、准证与家属安排",
+          "target": "/book/work/employment/leaving-job/",
+          "balanced": true,
+          "resolved": "content/book/work/employment/leaving-job.md"
+        }
+      ],
+      "source_fragment_links": [],
+      "tables": [
+        {
+          "body_start_line": 17,
+          "columns": 3,
+          "rows": 6
+        },
+        {
+          "body_start_line": 34,
+          "columns": 2,
+          "rows": 13
+        }
+      ],
+      "bold_marks": 4,
+      "lines": 79,
+      "bytes": 8385,
+      "static_issues": [],
+      "reviewer": "coverage_audit",
+      "maintenance_author": "root",
+      "facts_reviewer": "review_state_audit",
+      "review_date": "2026-10-14",
+      "editorial_conclusion": "以实际收入和账单日期说明预算；虚构表与年度储备算例明确，删除不能增加收入的尾句后困难处理仍具体。",
+      "full_text_and_full_changes_read": true,
+      "factual_approval": "hum10b-facts.json final SHA",
+      "remaining_editorial_issues": []
+    },
+    {
+      "path": "content/book/work/finance/insurance.md",
+      "title": "怎样读保险条款、投保、续保和申请理赔",
+      "status": "passed",
+      "body_sha256": "09c3a9811a00fb0b660630a123e531e2fe3b57c1d123b5a40ce0aee89bf1ba91",
+      "final_body_sha256": "09c3a9811a00fb0b660630a123e531e2fe3b57c1d123b5a40ce0aee89bf1ba91",
+      "final_full_sha256": "91335624f038af7a641430e8067ed2c208bf7edf8386bf44da59dd5dc615beb4",
+      "original_body_sha256": "6a265268616755a8e32b10ba4dea99d7556c6a727e1e1c6a178731301ffa8133",
+      "initial_frozen_body_sha256": "09c3a9811a00fb0b660630a123e531e2fe3b57c1d123b5a40ce0aee89bf1ba91",
+      "fact_body_sha256": "09c3a9811a00fb0b660630a123e531e2fe3b57c1d123b5a40ce0aee89bf1ba91",
+      "fact_sha_matches": true,
+      "final_matches_initial_frozen_body": true,
+      "verified_unchanged": "2026-10-13",
+      "original_fact_report": "ops/reviews/b05-insurance-facts.md",
+      "original_editorial_report": "ops/reviews/b05-insurance-editorial.md",
+      "diff_hunks": [
+        "@@ -29 +29 @@ weight: 60",
+        "@@ -31 +31 @@ MediShield Life覆盖公民和PR；外国人的商业医疗资格应逐个产品",
+        "@@ -56 +56 @@ Integrated Shield Plan（IP）包含MediShield Life部分和额外私人保险",
+        "@@ -95 +95 @@ Integrated Shield Plan（IP）包含MediShield Life部分和额外私人保险",
+        "@@ -97 +97 @@ Integrated Shield Plan（IP）包含MediShield Life部分和额外私人保险",
+        "@@ -107 +107 @@ Integrated Shield Plan（IP）包含MediShield Life部分和额外私人保险"
+      ],
+      "headings_count": 11,
+      "external_source_links": 39,
+      "internal_links": 6,
+      "internal_targets": [
+        {
+          "line": 3,
+          "label": "家庭预算",
+          "target": "{{< relref \"/book/work/finance/household-budget\" >}}",
+          "balanced": true,
+          "resolved": "content/book/work/finance/household-budget.md"
+        },
+        {
+          "line": 18,
+          "label": "医疗费用与支付",
+          "target": "{{< relref \"/book/people/healthcare/healthcare-payments\" >}}",
+          "balanced": true,
+          "resolved": "content/book/people/healthcare/healthcare-payments.md"
+        },
+        {
+          "line": 18,
+          "label": "雇用手续与保障要求",
+          "target": "{{< relref \"/book/people/family/domestic-workers\" >}}",
+          "balanced": true,
+          "resolved": "content/book/people/family/domestic-workers.md"
+        },
+        {
+          "line": 92,
+          "label": "驾驶与车辆",
+          "target": "{{< relref \"/book/life/transport/driving\" >}}",
+          "balanced": true,
+          "resolved": "content/book/life/transport/driving.md"
+        },
+        {
+          "line": 112,
+          "label": "离职与身份变化",
+          "target": "{{< relref \"/book/work/employment/leaving-job\" >}}",
+          "balanced": true,
+          "resolved": "content/book/work/employment/leaving-job.md"
+        },
+        {
+          "line": 130,
+          "label": "银行篇的金融争议处理",
+          "target": "{{< relref \"/book/work/finance/banking\" >}}",
+          "balanced": true,
+          "resolved": "content/book/work/finance/banking.md"
+        }
+      ],
+      "source_fragment_links": [],
+      "tables": [
+        {
+          "body_start_line": 9,
+          "columns": 3,
+          "rows": 8
+        },
+        {
+          "body_start_line": 26,
+          "columns": 3,
+          "rows": 8
+        },
+        {
+          "body_start_line": 55,
+          "columns": 2,
+          "rows": 10
+        }
+      ],
+      "bold_marks": 13,
+      "lines": 145,
+      "bytes": 23113,
+      "static_issues": [],
+      "reviewer": "coverage_audit",
+      "maintenance_author": "root",
+      "facts_reviewer": "review_state_audit",
+      "review_date": "2026-10-14",
+      "editorial_conclusion": "已有保障、损失、条款、投保与理赔顺序可用；2026 rider、冷静期例外、续保及本人身份变化各有具体条件。",
+      "full_text_and_full_changes_read": true,
+      "factual_approval": "hum10b-facts.json final SHA",
+      "remaining_editorial_issues": []
+    },
+    {
+      "path": "content/book/work/finance/saving-investing.md",
+      "title": "储蓄与投资：存款、国债、证券和基金怎样买卖",
+      "status": "passed",
+      "body_sha256": "7fa57b733d4ed93e4eb7acfea4d54f1009d613b6d788ea4a4b5d9d5a889a499d",
+      "final_body_sha256": "7fa57b733d4ed93e4eb7acfea4d54f1009d613b6d788ea4a4b5d9d5a889a499d",
+      "final_full_sha256": "d22539bf44c2fdecfe857e1d3012538dca4527446bfe6730705d1da695c34b45",
+      "original_body_sha256": "4e77083b14a248c638cfdf7e398d523d2a58115fafa2dcf16e9f2004d39f6495",
+      "initial_frozen_body_sha256": "7fa57b733d4ed93e4eb7acfea4d54f1009d613b6d788ea4a4b5d9d5a889a499d",
+      "fact_body_sha256": "7fa57b733d4ed93e4eb7acfea4d54f1009d613b6d788ea4a4b5d9d5a889a499d",
+      "fact_sha_matches": true,
+      "final_matches_initial_frozen_body": true,
+      "verified_unchanged": "2026-10-13",
+      "original_fact_report": "ops/reviews/b05-saving-investing-facts.md",
+      "original_editorial_report": "ops/reviews/b05-saving-investing-editorial.md",
+      "diff_hunks": [
+        "@@ -65 +65 @@ SSB 每次最低申请 **S$500** ，以 S$500 为单位；个人同时持有的",
+        "@@ -74 +74 @@ DCS 是把利息和本金付到指定银行账户的服务。开户后须等CDP",
+        "@@ -131 +131 @@ T-bills期限为六个月或一年，最低S$1,000、以S$1,000递增；折价",
+        "@@ -133 +133 @@ T-bills期限为六个月或一年，最低S$1,000、以S$1,000递增；折价",
+        "@@ -141 +141 @@ T-bills期限为六个月或一年，最低S$1,000、以S$1,000递增；折价"
+      ],
+      "headings_count": 9,
+      "external_source_links": 55,
+      "internal_links": 4,
+      "internal_targets": [
+        {
+          "line": 7,
+          "label": "家庭预算",
+          "target": "/book/work/finance/household-budget/",
+          "balanced": true,
+          "resolved": "content/book/work/finance/household-budget.md"
+        },
+        {
+          "line": 45,
+          "label": "银行与存款保障",
+          "target": "/book/work/finance/banking/",
+          "balanced": true,
+          "resolved": "content/book/work/finance/banking.md"
+        },
+        {
+          "line": 125,
+          "label": "CPF入门",
+          "target": "/book/work/finance/cpf-basics/",
+          "balanced": true,
+          "resolved": "content/book/work/finance/cpf-basics.md"
+        },
+        {
+          "line": 129,
+          "label": "银行与金融投诉的FIDReC路径",
+          "target": "/book/work/finance/banking/",
+          "balanced": true,
+          "resolved": "content/book/work/finance/banking.md"
+        }
+      ],
+      "source_fragment_links": [],
+      "tables": [
+        {
+          "body_start_line": 11,
+          "columns": 3,
+          "rows": 7
+        },
+        {
+          "body_start_line": 27,
+          "columns": 2,
+          "rows": 7
+        }
+      ],
+      "bold_marks": 17,
+      "lines": 141,
+      "bytes": 23033,
+      "static_issues": [],
+      "reviewer": "coverage_audit",
+      "maintenance_author": "root",
+      "facts_reviewer": "review_state_audit",
+      "review_date": "2026-10-14",
+      "editorial_conclusion": "按用钱时间、账户、SSB、T-bills及证券基金展开；申请/赎回/交割与资金回到账户分别说明，删除尾句未扩大免税和退出范围。",
+      "full_text_and_full_changes_read": true,
+      "factual_approval": "hum10b-facts.json final SHA",
+      "remaining_editorial_issues": []
+    },
+    {
+      "path": "content/book/work/finance/srs.md",
+      "title": "SRS：开户、缴款减税与退休提款",
+      "status": "passed",
+      "body_sha256": "efff60da58ba40e1967f309efce78316ff9dc0b6f760a30788de9b4f845f930f",
+      "final_body_sha256": "efff60da58ba40e1967f309efce78316ff9dc0b6f760a30788de9b4f845f930f",
+      "final_full_sha256": "e5d7eccf223cbbd486a259fce66c877e55f81b66be75184422d1d14757bd0a7b",
+      "original_body_sha256": "0e1044105ab9d7dd48c8383ac3c8680d2c8ad04c9f9541c7e27f33f2157f0190",
+      "initial_frozen_body_sha256": "efff60da58ba40e1967f309efce78316ff9dc0b6f760a30788de9b4f845f930f",
+      "fact_body_sha256": "efff60da58ba40e1967f309efce78316ff9dc0b6f760a30788de9b4f845f930f",
+      "fact_sha_matches": true,
+      "final_matches_initial_frozen_body": true,
+      "verified_unchanged": "2026-10-13",
+      "original_fact_report": "ops/reviews/b05-srs-facts.md",
+      "original_editorial_report": "ops/reviews/b05-srs-editorial.md",
+      "diff_hunks": [
+        "@@ -25 +25 @@ SRS 是自愿参加的补充退休计划，与 [CPF](/book/work/finance/cpf-basi",
+        "@@ -40 +40 @@ SRS 制度允许符合条件的新加坡公民、PR 和外国人参加。开户",
+        "@@ -119 +119 @@ SRS 制度允许符合条件的新加坡公民、PR 和外国人参加。开户",
+        "@@ -135 +135 @@ SRS 制度允许符合条件的新加坡公民、PR 和外国人参加。开户"
+      ],
+      "headings_count": 11,
+      "external_source_links": 47,
+      "internal_links": 5,
+      "internal_targets": [
+        {
+          "line": 7,
+          "label": "CPF",
+          "target": "/book/work/finance/cpf-basics/",
+          "balanced": true,
+          "resolved": "content/book/work/finance/cpf-basics.md"
+        },
+        {
+          "line": 9,
+          "label": "家庭预算",
+          "target": "/book/work/finance/household-budget/",
+          "balanced": true,
+          "resolved": "content/book/work/finance/household-budget.md"
+        },
+        {
+          "line": 28,
+          "label": "个人所得税",
+          "target": "/book/work/tax/personal-tax/",
+          "balanced": true,
+          "resolved": "content/book/work/tax/personal-tax.md"
+        },
+        {
+          "line": 68,
+          "label": "银行与存款保障",
+          "target": "/book/work/finance/banking/",
+          "balanced": true,
+          "resolved": "content/book/work/finance/banking.md"
+        },
+        {
+          "line": 131,
+          "label": "离境税务",
+          "target": "/book/work/tax/leaving-singapore/",
+          "balanced": true,
+          "resolved": "content/book/work/tax/leaving-singapore.md"
+        }
+      ],
+      "source_fragment_links": [],
+      "tables": [
+        {
+          "body_start_line": 19,
+          "columns": 3,
+          "rows": 8
+        },
+        {
+          "body_start_line": 36,
+          "columns": 3,
+          "rows": 5
+        },
+        {
+          "body_start_line": 88,
+          "columns": 3,
+          "rows": 8
+        }
+      ],
+      "bold_marks": 16,
+      "lines": 145,
+      "bytes": 22887,
+      "static_issues": [],
+      "reviewer": "coverage_audit",
+      "maintenance_author": "root",
+      "facts_reviewer": "review_state_audit",
+      "review_date": "2026-10-14",
+      "editorial_conclusion": "缴款减免与后续提款分别计算；首次缴款退休年龄、外国人十年、PR预扣和最终税务居民判断清楚，例子不当现售保证。",
+      "full_text_and_full_changes_read": true,
+      "factual_approval": "hum10b-facts.json final SHA",
+      "remaining_editorial_issues": []
+    },
+    {
+      "path": "content/book/work/tax/cross-border.md",
+      "title": "跨境工作、海外收入与账户税务声明",
+      "status": "passed",
+      "body_sha256": "470a9fd5652d316bbd14e717d8ad15bf405a251a6e557f61c19def6a33da1382",
+      "final_body_sha256": "470a9fd5652d316bbd14e717d8ad15bf405a251a6e557f61c19def6a33da1382",
+      "final_full_sha256": "329b28b6a8be1449b07acfaab321f565749e1dc75b24c0ef0ed8ebb3146c6af6",
+      "original_body_sha256": "34f41a148d60a75df96c860de5fe04763765b6a9545defcbb69f81acac779adc",
+      "initial_frozen_body_sha256": "470a9fd5652d316bbd14e717d8ad15bf405a251a6e557f61c19def6a33da1382",
+      "fact_body_sha256": "470a9fd5652d316bbd14e717d8ad15bf405a251a6e557f61c19def6a33da1382",
+      "fact_sha_matches": true,
+      "final_matches_initial_frozen_body": true,
+      "verified_unchanged": "2026-10-13",
+      "original_fact_report": "ops/reviews/b05-tax-cross-border-facts.md",
+      "original_editorial_report": "ops/reviews/b05-tax-cross-border-editorial.md",
+      "diff_hunks": [
+        "@@ -96 +96 @@ search_keywords: [\"海外收入\", \"境外雇主\", \"跨境\", \"双重征税\", \"COR"
+      ],
+      "headings_count": 11,
+      "external_source_links": 32,
+      "internal_links": 7,
+      "internal_targets": [
+        {
+          "line": 16,
+          "label": "个人所得税",
+          "target": "/book/work/tax/personal-tax/",
+          "balanced": true,
+          "resolved": "content/book/work/tax/personal-tax.md"
+        },
+        {
+          "line": 16,
+          "label": "本人身份和具体制度",
+          "target": "/book/life/documents/status-and-eligibility/",
+          "balanced": true,
+          "resolved": "content/book/life/documents/status-and-eligibility.md"
+        },
+        {
+          "line": 26,
+          "label": "个人所得税的具体条件",
+          "target": "/book/work/tax/personal-tax/",
+          "balanced": true,
+          "resolved": "content/book/work/tax/personal-tax.md"
+        },
+        {
+          "line": 38,
+          "label": "IR21税清",
+          "target": "/book/work/tax/leaving-singapore/",
+          "balanced": true,
+          "resolved": "content/book/work/tax/leaving-singapore.md"
+        },
+        {
+          "line": 88,
+          "label": "个人所得税",
+          "target": "/book/work/tax/personal-tax/",
+          "balanced": true,
+          "resolved": "content/book/work/tax/personal-tax.md"
+        },
+        {
+          "line": 90,
+          "label": "IR21税清",
+          "target": "/book/work/tax/leaving-singapore/",
+          "balanced": true,
+          "resolved": "content/book/work/tax/leaving-singapore.md"
+        },
+        {
+          "line": 92,
+          "label": "提款与预扣税",
+          "target": "/book/work/finance/srs/",
+          "balanced": true,
+          "resolved": "content/book/work/finance/srs.md"
+        }
+      ],
+      "source_fragment_links": [],
+      "tables": [
+        {
+          "body_start_line": 9,
+          "columns": 2,
+          "rows": 6
+        },
+        {
+          "body_start_line": 42,
+          "columns": 2,
+          "rows": 5
+        }
+      ],
+      "bold_marks": 5,
+      "lines": 104,
+      "bytes": 17904,
+      "static_issues": [],
+      "reviewer": "coverage_audit",
+      "maintenance_author": "root",
+      "facts_reviewer": "review_state_audit",
+      "review_date": "2026-10-14",
+      "editorial_conclusion": "收入来源、工作地点、DTA/COR/FTC及银行声明各有用途；CRS由金融机构报送与个人所得申报分开，未来年份保留。",
+      "full_text_and_full_changes_read": true,
+      "factual_approval": "hum10b-facts.json final SHA",
+      "remaining_editorial_issues": []
+    },
+    {
+      "path": "content/book/work/tax/personal-tax.md",
+      "title": "个人所得税：居民身份、申报和缴款",
+      "status": "passed",
+      "body_sha256": "4679b77f7ea631ffb14f41aa3ca111625d43ec7475e8a3515cb834e8fa0530a6",
+      "final_body_sha256": "4679b77f7ea631ffb14f41aa3ca111625d43ec7475e8a3515cb834e8fa0530a6",
+      "final_full_sha256": "b126f3e0f93d6787fa54ddee53591864ccec395abdd79fb5b004e7be5739d7de",
+      "original_body_sha256": "51d4abf45e7317f4a744a0395ac6c809f4a382add5ec49397f60b491162e6ab6",
+      "initial_frozen_body_sha256": "4679b77f7ea631ffb14f41aa3ca111625d43ec7475e8a3515cb834e8fa0530a6",
+      "fact_body_sha256": "4679b77f7ea631ffb14f41aa3ca111625d43ec7475e8a3515cb834e8fa0530a6",
+      "fact_sha_matches": true,
+      "final_matches_initial_frozen_body": true,
+      "verified_unchanged": "2026-10-13",
+      "original_fact_report": "ops/reviews/b02-employment-tax-facts.md",
+      "original_editorial_report": null,
+      "diff_hunks": [
+        "@@ -20 +20 @@ Year of Assessment（YA，课税年度）通常是收入年度的下一年。 **"
+      ],
+      "headings_count": 7,
+      "external_source_links": 18,
+      "internal_links": 1,
+      "internal_targets": [
+        {
+          "line": 66,
+          "label": "离职与离境税清",
+          "target": "/book/work/tax/leaving-singapore/",
+          "balanced": true,
+          "resolved": "content/book/work/tax/leaving-singapore.md"
+        }
+      ],
+      "source_fragment_links": [],
+      "tables": [
+        {
+          "body_start_line": 15,
+          "columns": 2,
+          "rows": 5
+        },
+        {
+          "body_start_line": 39,
+          "columns": 2,
+          "rows": 6
+        }
+      ],
+      "bold_marks": 7,
+      "lines": 79,
+      "bytes": 10835,
+      "static_issues": [],
+      "reviewer": "coverage_audit",
+      "maintenance_author": "root",
+      "facts_reviewer": "review_state_audit",
+      "review_date": "2026-10-14",
+      "editorial_conclusion": "以YA和2026报税季为明确例子，再解释居民、AIS/NFS/D-NOA及税单付款；未预测2027截止，删提醒后时间范围清楚。",
+      "full_text_and_full_changes_read": true,
+      "factual_approval": "hum10b-facts.json final SHA",
+      "remaining_editorial_issues": []
+    }
+  ],
+  "boundaries": [
+    "Only source editorial/static review for these 25 HUM10-B maintenance versions; not a full-book policy refresh.",
+    "No content, frontmatter, accepted ledger, configuration, shared map/tasks/checkpoint, staging, commit or shared build performed.",
+    "No browser, desktop/mobile, search/menu/dark mode or print visual inspection; those remain root acceptance work.",
+    "Historical integrated/draft false metadata do not itself constitute new HUM10 acceptance.",
+    "Any later body change requires review and rebinding to the new body SHA; metadata-only root role recording does not alter body SHA."
+  ],
+  "production_acceptance": "pending_root"
+}

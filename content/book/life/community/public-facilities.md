@@ -7,7 +7,7 @@ scope: 新加坡公民、PR、工作准证、学生、家属与访客；日常�
 status: integrated
 draft: false
 verified: "2026-10-13"
-reviewed_by: "care_finance（独立事实）；identity（第三人编辑）"
+reviewed_by: "care_finance（独立事实）；identity（第三人编辑）；HUM10限定维护：coverage_audit（事实）；review_state_audit（第三编辑）"
 weight: 10
 search_keywords: ["NLB", "CC", "PA", "ActiveSG", "MyActiveSG+", "PAssion", "SG Culture Pass", "图书馆", "社区课程"]
 ---

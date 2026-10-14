@@ -7,7 +7,7 @@ scope: 公民、PR、工作准证、学生、家属与访客；含未成年人�
 status: integrated
 draft: false
 verified: "2026-10-13"
-reviewed_by: "daily_history（独立事实）；identity（第三人编辑）"
+reviewed_by: "daily_history（独立事实）；identity（第三人编辑）；HUM10限定维护：review_state_audit（事实）；coverage_audit（第三编辑）"
 weight: 20
 search_keywords: ["银行开户", "银行卡", "PayNow", "FAST", "GIRO", "eGIRO", "NETS", "工资账户", "POSB", "联名账户", "错汇"]
 ---

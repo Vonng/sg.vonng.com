@@ -1,5 +1,11 @@
 # 全书“说人话”校对任务与进度跟踪（2026-10-13 用户指令）
 
+## 2026-10-14 当前接收范围
+
+HUM10将HUM02—09实际改变的50篇正文与4da4c93旧接收逐改段独立事实复核，再交换第三编辑全文/差分/静态审，最终SHA均闭合；B06A生产、70路径双视口和打印抽样通过。工伤主体与平台防热、DMP状态三处语义漂移由root回主管修正，复核后接收，不再称该三处仅纯表达。未变事实继承旧报告，verified不刷新；accepted保留previous_review。成人学习175行、照护者125行和房产税137行已全文第三编辑按唯一判据处理并集成。新增导航全文通读，新稿及admission继续追增，全书HUM不提前记完成。下方v2及HUM02—09计数为当时范围，不拿旧四draft继续跳过已集成三稿。
+
+## 2026-10-13初始任务与历史量化
+
 正文存在 AI 说教腔：品格训导句、撇责性免责、无信息量的否定/对比尾巴。2026-10-13 二次量化（B04 批次集成后，140 源）：`不要把/不能把/避免把` 式过度概括警告 **134 处、分布在 51 个文件**，较首轮 50 处/28 文件接近两倍，重灾区是新集成的工伤、驾驶、心理健康、债务与教育类稿件。本文件给出任务提示词（v2）、改写规则与全部内容文件的处理进度；每个文件都要过一遍，已完成 17 篇（HUM01 两篇＋HUM02 P1 十五篇）。
 
 ## 一、任务提示词（投给执行会话，整段复制）
@@ -218,7 +224,7 @@
 - [x] `content/book/people/healthcare/medicines.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
 - [x] `content/book/people/healthcare/preventive-care.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
 - [x] `content/book/people/learning/_index.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
-- [○] `content/book/people/learning/adult-learning.md`
+- [x] `content/book/people/learning/adult-learning.md` — 全文第三编辑按判据通读，独立事实及B06A工程通过，2026-10-14；不改原事实日期。
 - [x] `content/book/people/learning/higher-education.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
 - [x] `content/book/people/learning/tuition-grant.md` — HUM02删8处改写1处，2026-10-13全文过判据。
 - [x] `content/book/people/school/_index.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
@@ -242,5 +248,17 @@
 
 B04I 追增后新增、此前未入队的源，均为在途 draft：
 
-- [○] `content/book/people/accessibility/caregiver-support.md`
-- [○] `content/book/work/tax/property-tax.md`
+- [x] `content/book/people/accessibility/caregiver-support.md` — 全文第三编辑按判据通读，独立事实及B06A工程通过，2026-10-14；不改原事实日期。
+- [x] `content/book/work/tax/property-tax.md` — 全文第三编辑按判据通读，独立事实及B06A工程通过，2026-10-14；不改原事实日期。
+
+
+
+
+### B06A新增源追登（2026-10-14）
+
+- [x] `content/docs/routes/adult-learning.md` — root创建后全文表达通读；两新章导读仍私有draft，2026-10-14。
+- [x] `content/docs/routes/caregiving.md` — root创建后全文表达通读；两新章导读仍私有draft，2026-10-14。
+- [x] `content/docs/profiles/disability-care.md` — root创建后全文表达通读；两新章导读仍私有draft，2026-10-14。
+- [x] `content/book/people/ageing/_index.md` — root创建后全文表达通读；两新章导读仍私有draft，2026-10-14。
+- [x] `content/book/rights/legal/_index.md` — root创建后全文表达通读；两新章导读仍私有draft，2026-10-14。
+- ○ `content/book/people/ageing/retirement.md` — 作者完整自审；待异人事实及第三编辑接收后补登记。

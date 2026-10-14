@@ -7,7 +7,7 @@ scope: 新加坡；一般受雇公民与PR、自雇人士及平台工作者，�
 status: integrated
 draft: false
 verified: '2026-10-13'
-reviewed_by: daily_history（独立事实审）；root（编辑静态审）
+reviewed_by: "daily_history（独立事实审）；root（编辑静态审）；HUM10限定维护：review_state_audit（事实）；coverage_audit（第三编辑）"
 weight: 20
 ---
 

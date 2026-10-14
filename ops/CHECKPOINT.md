@@ -1,5 +1,49 @@
 # 当前检查点
 
+## 2026-10-14 08:29 B06A/HUM10已验收，持续补全在途
+
+用户持续目标active。已闭合50篇HUM维护版的独立限定事实/第三编辑，工伤两处及DMP一处按主管修正并再核；accepted保存previous_review，原verified仍Oct13。成人学习/照护者/房产税三篇完整两审及主控实际工程通过，累计84主题integrated/draft:false。正文SHA分别77f54b5b…/7c5267d9…/d1090e1a…，完整当前版本见accepted。三新导航、相关身份/导读/菜单术语已更新。
+
+最终门禁146源/86主题/4draft、144HTML、26137内部引用、7463外链跳过HTTP，零错误警告；70路径双视口156基础+50额外实点，打印113节点/84来源表/496页；root实际三网页图及PDF261/360/470/473/400/451，仅抽样。340产物已sync并逐路径/大小/SHA一致。详情checks/b06a-acceptance.json；输出和PDF仍忽略。预览服务本轮自启1328/session22653，恢复实查当前PID，不沿旧句柄；无外部推送部署联络代办。
+
+下一批所有权：care_writer作者退休首稿136行已修MRSS匹配入账时公民条件及含当日截止，body66abb2b5…/full55e61aa2…，coverage_audit正式事实及root全文第三编辑已通过，待下一批实际工程。care_writer继续long-term-care独占正文/证据/地图；review_state_audit继续legal-system独占。root将困难内容拆成employment-claims/jobseeker-support/hardship三完整任务，已登记111候选；employment-claims109行/19495B/body268f4822…完整冻结交coverage_audit事实，正式证据20组。法律首稿104行/bodya938037a…冻结待root事实；不丢原hardship任何范围。两个新章_index仍draft:true，未有接收正文不公开空章。
+
+本批审计+写审与工程尚未本地提交；用户PROMPT-ORIGIN及在途新稿不stage。下一具体动作：签发并复核退休事实报告→root完整第三编辑；闭合employment-claims当前事实/第三编辑；root完成Jobseeker及ComCare两稿证据SHA→异人事实；再主控统一后续导航/门禁/实际QA/sync。当前待写与受限核心仍在COVERAGE/TASKS，28领域最终走查未通过，不能mark目标complete。
+
+## 先前执行断点（历史）
+
+## 2026-10-14 08:14 持续目标执行：HUM10与成熟稿接收在途
+
+用户已明确要求直接执行全书持续目标；本轮get_goal实查active，不再沿用昨天审计的null。Hugo/OINK锁定未变，HEAD起点a7f1ffd，1327/1328起始无监听。主控完整读取RESUME-PROMPT并核现场；此前审计 turn 属于完成状态审计，本轮开始实际内容接收。
+
+HUM10-A/B各25篇独立限定事实已正式通过，报告hum10a-facts及hum10b-facts（含最终完整SHA）；原未变事实继承，不升全页verified。B组指出工伤两处、DMP一处语义漂移，root新联网回主管原文精确修正，并由B事实审复核最终段及逆差分。新injury body1e76a243…、debt2f7a6567…；其他48篇仍为a7正文。现coverage_audit独占B组第三编辑，review_state_audit独占A组第三编辑及随后property-tax第三编辑；不得未经两轮闭合刷新accepted。
+
+成人学习175行与照护者125行已由root全文第三编辑通过、正文未动；事实日期仍2026-10-13，现status:verified/draft:false与accepted仅供本批生产审查，尚未宣称integrated/工程通过。补成人进修、照护事项及残障照护家庭入口三源，更新11个旧导航/导读及菜单、术语。当前143源/85主题，property-tax与admission仍draft；public仍保留最后B04I输出。
+
+property-tax已由care_writer完整18源独立事实通过，root按反馈修VRB授权代理入口、首租装修初修不可扣及按卧室数分摊三处，body d1090e1a…，待review_state_audit第三编辑。care_writer已转retirement写作，独占该正文/自己的证据地图HANDOFF。root接hardship真实缓存的作者写作；拟将欠薪诉讼、求职支持与日常援助分成独立题目，完整承接原hardship范围，不删任何必要问题。三代理仍在实际运行，恢复需再实查。
+
+下一步：接HUM两份第三编辑及房产税第三编辑，核全部最终SHA，主控处理accepted继承与正式review build，再运行生产门禁和实际桌面/手机/打印（PDF按pdf技能），通过后sync核路径/大小/SHA，最终标integrated并本地提交。root继续困难援助成稿；care_writer继续退休，接收一批后接法律/合同与其他余项。所有研究/构建/草稿产物仍在忽略.cache，用户PROMPT-ORIGIN和无关改动保留，未外部推送或办理。
+
+## 先前检查点（历史，当前以本节为准）
+
+## 2026-10-13 23:25 项目进展审计
+
+本轮为用户请求的进展梳理与可直接执行续作提示词，主控已核项目约定、三本总账、Git、实际正文、审核SHA、构建及public；两位独立代理只读审计覆盖和审查状态。报告为 `ops/PROGRESS-AUDIT.md`，执行提示词为 `ops/RESUME-PROMPT.md`，轻量机器记录为 `ops/checks/progress-audit-2026-10-13.json`。
+
+内容实况：140源=85主题+55编辑入口；109候选=81历史接收+4草稿+24未建正文。五部分历史接收分别18/27/20/15/1；草稿0/0/3/1/0；未建0/3/4/6/11。ageing/career/legal/contracts/outdoors五领域尚无本章正文，B06整体未通过。地图integrated与元数据表示原接收，不能覆盖后续正文改动。
+
+审计期间外部会话完成HUM06—09，最新内容提交a7f1ffd；HUMANIZE记录136个非在途源作者全文通读、4草稿待补。50篇正文与accepted原审核SHA不符，独立维护差分两审和工程尚未闭。23:25最终实跑make check：Hugo成功无警告；140源/85主题/4draft、138HTML、24266内部引用、6992外链跳过HTTP，50项body differs，exit 2。第一次动态快照44项为历史，不与最终结果混用。public328产物仍与B04I清单逐路径/大小/SHA一致，未同步失败产物；未新接收主题。可靠已接收差分基准为4da4c93，当时81条正文全部相符。不得直接批量刷新SHA或回滚他人校对。
+
+adult-learning175行完整稿已由identity事实正式通过（body77f54b5b…）；caregiver-support125行完整稿已由daily事实正式通过（body7c5267d9…），均待第三编辑与工程。property-tax137行/P01—18已存在，body5c6de8f5…，待作者交审冻结及独立两审。admission保留核心原文缺口，未通过。hardship无正文但open1—26研究存在，退休已有MOM/CPF研究；复用最新HANDOFF和缓存断点，不重开旧失败源。完整SHA和覆盖缺口见审计报告。
+
+本轮get_goal=null、1327/1328无监听，未自启服务；三个历史写审代理、旧PID54938和下载/exec句柄不作当前运行证据。用户原有PROMPT-ORIGIN及未提交正文/证据/交接保留。本轮没有外部推送、部署、联络和真实办理；普通研究编辑本地构建提交的原授权继续有效。
+
+下一动作：先核Git、文件所有者及冻结版本；协调独立审阅者审核50篇HUM真实差分（继承未变事实），同时接adult-learning/caregiver-support第三编辑，property-tax正式交审，hardship/retirement完成稿。两审与最终SHA绑定后由主控统一门禁、实际桌面/手机/打印，再sync核SHA并集成；随后持续补老年、求职经营、法律合同安全户外及具体来源缺口。执行 `ops/RESUME-PROMPT.md` 可恢复全书持续目标；本次状态审计没有自动启动新的整书目标。
+
+## 2026-10-13此前建设与校对记录（历史）
+
+以下保留原批次事实、检查和作者通读记录；其中“当前”“active”“在途未冻结”“房产税无正文”和进程描述的时效以本检查点上段与恢复实查为准。
+
 2026-10-13 20:20，Asia/Singapore。本轮12:09 UTC实查get_goal为active，完整五部分28领域目标持续推进，没有用户暂停。已按恢复次序完整读PROMPT／AGENTS、BOOKMAP／TASKS／旧CHECKPOINT与相关交接，并核实际Git、正文、审核、构建和渲染。B06和HUM均未整体通过。
 
 提交前HEAD为4fc8e85（B04H残障支持）；本检查点随B04I本地提交保存，恢复时以git log实查提交号。Hugo0.166.0 Extended及OINK1.2.0 f8f476e660cf053a2645b7b923ae8d08d5448fce未变。用户原有ops/PROMPT-ORIGIN.md保留不stage；未外部推送、部署或联系机构。

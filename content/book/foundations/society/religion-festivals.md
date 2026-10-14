@@ -7,7 +7,7 @@ scope: "新加坡居民与访客；宗教文化理解、节庆邀请及日常宗
 status: integrated
 draft: false
 verified: "2026-10-13"
-reviewed_by: "care_finance（独立事实）；root（第三人编辑）"
+reviewed_by: "care_finance（独立事实）；root（第三人编辑）；HUM10限定维护：coverage_audit（事实）；review_state_audit（第三编辑）"
 weight: 20
 ---
 

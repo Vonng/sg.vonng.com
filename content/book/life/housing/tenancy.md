@@ -7,7 +7,7 @@ scope: 新加坡公开市场租住 HDB 或私人住宅的个人及合租者；�
 status: integrated
 draft: false
 verified: "2026-10-13"
-reviewed_by: "identity（独立事实）；root（第三人编辑）"
+reviewed_by: "identity（独立事实）；root（第三人编辑）；HUM10限定维护：coverage_audit（事实）；review_state_audit（第三编辑）"
 weight: 20
 search_keywords: ["SCT", "CJTS", "CEA", "租约", "押金", "退租", "维修"]
 ---

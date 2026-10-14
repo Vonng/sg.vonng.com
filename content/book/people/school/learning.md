@@ -7,7 +7,7 @@ scope: "新加坡基础教育及中学后衔接；公民、PR、国际学生，�
 status: integrated
 draft: false
 verified: '2026-10-13'
-reviewed_by: "事实：identity；编辑：root；集成：root"
+reviewed_by: "事实：identity；编辑：root；集成：root；HUM10限定维护：review_state_audit（事实）；coverage_audit（第三编辑）"
 weight: 20
 search_keywords: ["学费", "PSLE", "Full SBB", "SEC", "PSE", "母语", "FAS", "SEN", "SPED", "考试便利", "国际学校"]
 ---

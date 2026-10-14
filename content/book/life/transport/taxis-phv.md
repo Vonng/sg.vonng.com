@@ -7,7 +7,7 @@ scope: "新加坡境内出租车及私人出租汽车乘客；含居民和访客
 status: integrated
 draft: false
 verified: "2026-10-13"
-reviewed_by: "daily_history（独立事实）；root（第三人编辑）"
+reviewed_by: "daily_history（独立事实）；root（第三人编辑）；HUM10限定维护：review_state_audit（事实）；coverage_audit（第三编辑）"
 weight: 30
 search_keywords: ["PHV", "PHC", "CDG", "出租车", "网约车", "儿童座椅", "轮椅"]
 ---

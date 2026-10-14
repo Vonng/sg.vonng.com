@@ -320,3 +320,61 @@ MOE原HTML1308012B／`83b4f60d45647c45da0321d5e11ec32b9481a6ecb612ef3827bc2d9277
 ### disability 独立事实反馈后的限定修订
 
 2026-10-13，identity完整事实审指出DVF类别近邻缺永久性限定。作者实际回读open2 DB03 L42—65，L50明确permanent disability，仅把“MSF的Disability Verification用于其残障服务及部分其他政府计划。常见类别包括”改为“MSF的Disability Verification用于其残障服务及部分其他政府计划，验证对象须符合永久残障条件。常见类别包括”。完整改变段复读；逆替严格回首冻1eebdd4e…，其余正文与元数据不变。新22781B/full `ca1e9ace952dc6db01af0e569042952b92494a3c1025afc9ccb9ced5bb5d390f`/body `baa6a1622c9b963aedda460137b0f2203ad6d2dbf250df647cdf754527a909f0`，仍冻结交identity限定复核。author-facts-feedback-check.json保存差分，首轮作者静态范围继承，不自签事实。
+
+2026-10-13，identity正式独立事实报告已签并交root第三编辑；作者完整实际读ops/reviews/b04-disability-facts.md，确认最终22,781B/fullca1e9ace…／bodybaa6a162…一致。报告完整区分30组采用原文、五PDF实体与五页图、EASE原HTML独立解和各自范围，未要求其他修订。作者继续冻结；尚未root工程接收，不标integrated。
+
+后续接收记录：root已完成B04H第三编辑及实际工程并提交4fc8e85，disability为integrated，bodybaa6a162…保持。详细工程范围由root的验收记录负责，作者不冒称亲做构建或目视。
+
+## caregiver-support：完整作者稿冻结，交独立事实
+
+查阅及冻结日期2026-10-13（Asia/Singapore）；作者care_finance。正文`content/book/people/accessibility/caregiver-support.md`，25,140 B／125行，full `c06f223fdd4e7860c8cbe8651ce6ee07459472b0f725089dc9150045755e4499`，body `9fdef2668eb91cd03980594949e0ba07a3066613c86f5c5d648e33852d9c93be`。9个H2、53个HTTPS近邻引用、去片段后23个详源、11个实际存在且已integrated的内链。元数据仍written／draft:true／核验字段空，作者不自签事实。
+
+原始工具返回及拆分在`.cache/research/b04-care-ageing/caregiver-support/`，包括open1—13、五PDF实体、实际图页与下载清单；`read-checkpoint.md`记录真实读取、排除及失败。下列行号均为真实工具返回，PDF物理页另标；搜索仅找路，不把搜索摘要、作者笔记或机构目录当具体规则依据。
+
+| 编号与原文 | 实际阅读及采用范围 | 适用条件、时点与边界 |
+| --- | --- | --- |
+| CG01 [AIC照护支持入口](https://www.aic.sg/Caregiving-Support) | open6-source0 L10—100；实际导航和支援分类 | 入口近引，不声称所有附件已读 |
+| CG02 [出院准备](https://www.aic.sg/Caregiving-Support/Discharge-Preparation) | open7-source2 L13—104完整主体；病情、药物、复诊、膳食、技能、器材与费用服务交接 | 本文建议带清单问临床团队，不提供未经评估的管饲／吞咽／转移操作处方 |
+| CG03 [安排照护日程](https://www.aic.sg/Caregiving-Support/Planning-Care-Routine) | open9-source0 L13—128完整主体；共同日程、活动、膳食和药物 | 图像、YouTube、docx/PDF模板未逐项取得，正文不用未读模板细项 |
+| CG04 [AIC联系](https://www.aic.sg/contact-us) | open3-source2 L10—85完整主体；四语言、18006506060、周一五8:30—20:30／六8:30—16、日及PH休 | 固话免通话费／手机airtime；查AIC Link实际柜台，不把总部当服务柜台 |
+| CG05 [家庭分工](https://www.aic.sg/Caregiving-Support/Involving-Your-Family) | open9-source1 L24—137完整主体；家庭会议、任务、远程、社工协助 | 不声称家庭决定自动取得医疗或财务代办权；遗产只背景未在本篇展开 |
+| CG06 [TAFEP雇员FWA指南](https://www.tal.sg/tafep/employment-practices/work-life-harmony/guide-to-requesting-and-using-flexible-work-arrangements-for-employees) | 本次完整复读已接受同日真实原返回`.cache/research/b05-employment-facts/src-043.txt` L18—140；试用期、正式书面、2月回复、业务理由、工资福利、内部／工会／TAFEP | 新web Internal Error，无新版本无需反复；不是本次新联网成功。自雇／平台没有套入雇员正式请求权 |
+| CG07 [HPC+](https://www.aic.sg/Care-Services/Enhanced-Home-Personal-Care) | open1-source2 L38—69、open2-source22 L70—80、open4-source0 L72—149合读完整采用主体 | 按小时／4小时块，25/hr起未补贴；SC/PR means-test；医生转介/AIC Link；数码监测未推24h真人 |
+| CG08 [Day Care](https://www.aic.sg/Care-Services/Day-Care) | open10-source0 L38—134主体和FAQ；服务、平日／部分周末、55/session及dementia63起、交通另费、转介、费用帮助及经济评估 | SC/PR补贴，外国接纳与全自费询提供者；地图未操作，0结果非当地无服务 |
+| CG09 [护理院喘息](https://www.aic.sg/Care-Services/Nursing-Home-Respite-Care) | open3-source1 L38—140完整主体／FAQ；稳定非急症、多ADL／护理、长期与返家计划、131/day开房起、额外费、四周前／六个月内病历 | SC/PR means-test及机构评估，不保证床位；7/30天另来自CG11 |
+| CG10 [原HBRC转接](https://www.aic.sg/care-services/home-based-respite-care) | open4-source1 L11—36全主体；2026-04-01起转HPC+ | 旧临终居家喘息条件仅背景，不把两服务同时推荐为现行平行方案 |
+| CG11 [Take a Break](https://www.aic.sg/Caregiving-Support/Take-a-Break) | open7-source3 L13—119完整主体；家庭接替、HSS基础看顾与专业护理区分、日间临时一天／部分周末、NHR至少7天每次最多30天每年 | NHR具体转介仍CG09；不据旧新闻承诺短时激活 |
+| CG12 [ESH](https://www.enablingguide.sg/service-directory/enabling-services-hubs-%28enabling-guide%29) | open12-source0 L46—191完整主体；Tampines/Jurong/Punggol、公共信息／转介／活动everyone，喘息／固定课程限eligible | 外国人可问公共转介，资格及接替时段不能从开放活动推全免费服务 |
+| CG13 [ESH家属FAQ](https://www.enablingguide.sg/docs/default-source/default-document-library/commonly-asked-questions-by-caregivers.pdf?sfvrsn=5dde4b32_6) | 实体3页文字全文实读，物理1／2页PNG实际目视；采用Q2、Q4、Q8、Q9服务区别、非固定全日、交通评估／餐食自备 | Q1仍写2025未来场地与现网页冲突，排除；Q10暂免收费未写作永久免费。Q7等候资格读到但本篇导向具体服务／残障主文，不扩展适用人群 |
+| CG14 [CTG](https://www.aic.sg/financial-assistance/caregivers-training-grant) | open1-source1 L14—157完整主体／FAQ，并复读35—157；SC/PR受照护人65+或永久至少1ADL／列明受助证明，主要家属／MDW、认可课程完成、400初始／每Apr1+200／上限400／至少10自付、共享余额、2周前提供者代申及完课后补给提供者 | 培训者国籍不替代受照护人资格；SkillsFuture只部分课且个人另核；目录及申请表未实开，不声称具体场次或费用已确认 |
+| CG15 [HNF CST](https://www.hnf.org.sg/services/caregiver-support-training-programme/) | open6-source1 L30—142，采用L97—113模块、上课eldersitting、68548300 | 未列国籍及费用，不称外国免费、不承诺此全部课程CTG认可 |
+| CG16 [HCG](https://www.aic.sg/financial-assistance/home-caregiving-grant) | open1-source0 L14—319完整主体／FAQ，后复读采用资格／FAR／CAF／代理；SC或PR有在世SC父母子女配偶、居SG社区、永久3ADL、人均4800、600/400/200及多物业200、家庭毛收入/2025AV、申请/代理/结果/银行/变更 | 网页AV资格under21000与支付表<=有差异，CG18现行条款和CG17双核<=；CAF当前流程与2027拓宽分开；无Singpass纸本；不把家庭身份推本人资格 |
+| CG17 [MOF Annex F3](https://isomer-user-content.by.gov.sg/153/387fff34-f120-44e1-b316-60d29feee5ff/Annex%20F3_%20Enhancements%20To%20Long-Term%20Care%20Subsidies%20And%20Grants.pdf) | open8-source1 L0—215／物理1—5文字实读，实体物理3图实际目视；仅采用2026-04 HCG金额及无收入AV<=21000 | 2025发布、规则2026-04生效；不把整个7页或所有LTC当前细则称已完整核 |
+| CG18 [AIC计划条款](https://edge.sitecorecloud.io/agencyforinb6cc-agencyforin73f5-production08ac-d178/media/agency-for-integrated-care/Files/Financial-Assistance/Schemes-Terms-Conditions.pdf) | Updated1June2026；open10-source1 L0—128／物理1—3全及4前；本地物理9—14、19完整文字实读，物理11及19两图实际目视 | 代表/财务权限、12月任命及账户分支、资金优先照护、资料变化／复评／终止／追还、HCG资格及<=21000；20页其余未称全读；网FAQ严格12月与条款依情形付款选择都保留 |
+| CG19 [MOH 2026-09-04演讲](https://www.moh.gov.sg/newsroom/speech-by-mr-ong-ye-kung--minister-for-health-and-coordinating-minister-for-social-policies--at-the-home-nursing-foundation-s-50th-anniversary-caregiving-conference--4-september-2026/) | open3-source0 L23—76完整演讲主体；2027 ID/ASD四计划拓宽 | 未给详细实施月日及细则，明写待后续；八CST及early2027培训背景未当现行已可预约服务 |
+| CG20 [FAR](https://edge.sitecorecloud.io/agencyforinb6cc-agencyforin73f5-production08ac-d178/media/agency-for-integrated-care/Files/Financial-Assistance/Functional-Assessment-Report.pdf) | September2025；open7-source0 L0—142三页文字全读，实体3页PNG均实际目视 | 专业注册／under8儿科／永久卧床MD memo；六ADL表；B能力只MD。不把FAR当CareShield等严重残障评估 |
+| CG21 [CAF](https://edge.sitecorecloud.io/agencyforinb6cc-agencyforin73f5-production08ac-d178/media/agency-for-integrated-care/Files/Financial-Assistance/Client-Assessment-Form.pdf) | open7-source1 L0—37全文，实体1页图实际目视；2018版四领域评估、认证PT/OT与16+ | 旧页脚项目名未作当前资格，当前条件由CG16；21+能力证明由CG16+CG20 |
+| CG22 [照护压力](https://www.aic.sg/Caregiving-Support/Managing-Stress-and-Avoiding-Burnout) | open9-source2 L21—130全部主体；压力、求助、专业帮助、自查和转介 | 没采用未读图片症状；未复刻ZBI评分作诊断。AIC称1771免费不得推通话免费，正文导向已接收心理单源 |
+| CG23 [CAREbuddy](https://www.caring.sg/carebuddy/) | open6-source2 L87—186及open10-source2 L87—201完整采用主体／FAQ；成员、匹配、六个月至少四次、媒介、收费询补贴、非喘息/急救 | 同页0%动态计数、SEO价目模板、Latin假证言排除；旧IMH号码不采用，危机导向本书已接收当前主文 |
+
+### caregiver PDF实体、失败与复用
+
+普通HTTPS下载的五实体均保留：FAR 323,480 B／SHA `3730714537b2463dd750ddfab935766788c82361c7e8830d2e78afd6f27a6ac9`；CAF 451,177 B／`554e33e6b928db5d7c9012f0f1192f12c0c66740c33e6d916905abbd34ddbd7b`；MOF Annex F3 204,877 B／`dc1c18949cdf1eb5ae7a4e9a5464b4d8e567d680cc294441958068b5df190240`；AIC条款324,678 B／`79d13160f5bed87dc845147060acb705a4197a2d6703e4534cc23cad3f3f734f`；ESH FAQ182,893 B／`0ac908e5ddeb0e98ab61ad6d493a97b5a0b938e7642a6537e67cd592a72f0890`。实际图共九页：FAR1／2／3，CAF1，MOF3，条款11／19，ESH1／2；文字范围如表，不把截图生成当目视。
+
+条款open9首次只返metadata，open10／11／12后续按正文定位，并非受限失败重探。ESH FAQ web超时，唯一正常HTTPS成功；未用代理。TAFEP本轮新web错误后直接采用当天已接受原件，实读而非沿报告摘要。MSF recognition-support查询旧入口只六行失败，不采用且没有反复；2027唯一现有主管宣布明写为未来。
+
+旧GoRespite新闻open8-source2实读L23—54，页面显示2018日期、正文讲2019措施，旧HCG金额和启动时间不作现制；不以旧试点替当前CG09四周准备。CAREconnect原件主体和尾部读过但未采用，假见证／0%未用于任何结论。askAIC HCG页还留April2026将来式，正文采用已更新正式条款和当前计划页，不把检索时间当政策日期。
+
+跨章链接只作导流；本轮机器核11次链接均指向实际integrated正文，bodySHA记`author-check.json`，未复制尚未完成ageing计划页链接。TAFEP为本作者此前独立事实且当前实际复读原件，其他已接受医疗／心理／劳动／家庭／学校主文未声称重新全部回源。本稿没有电话联系、登录Singpass、提交表格、操作地图定位或查询真实个人资料。
+
+### caregiver作者完整自审与交接
+
+完整125行分1—78及79—125实际自读；随后改“签定”为“确定”、明确CTG公民/PR与年龄／残障的括号关系、修正紧急求助内链，并实际复读三个完整改段。覆盖出院交接、家庭分工和就业／收入、各种接替服务／费用／申请时长、残障儿童成人转衔、培训、HCG、评估／财务代理、无数字申请、结果／账户／复评／受阻、照护者压力同伴；主要外国准证受照护人、PR与SC、外国家属和MDW照护者的身份分别说明。
+
+九字段、written／draft:true／核验空、无H1、加粗外侧空格、实际内链和单EOF静态通过，冻结副本`author-frozen.md`及`author-check.json`完整落盘。未知仅为具体服务接纳／空位／实际费用、私有申请个别材料和2027细则，正文均给实际受理者及下一动作。交daily_history独立回源事实、root第三编辑；作者保持正文冻结，具体问题由作者修，不自签，不运行共享构建或渲染。
+
+### caregiver独立事实反馈：作者三组限定修订
+
+2026-10-13 20:42 Singapore，daily_history反馈后，作者重新实际回读CG09的L85—109及CG18实体物理11、19全文：补熟悉病情的GP转介、医疗报告以拟入住日倒推六个月及COVID-19记录／佐证；HCG多处物业限定在新加坡；无donee／deputy的十二个月明确从申请获批日起算，另有主管指定期限时核其通知，原网页与条款账户分支仍保留。未新增来源、未声称新的图片目视，原五实体SHA不变。
+
+仅上述三组字符串改变，三个完整改段已实际复读；逆替逐字节回首冻c06f223f…，元数据、URL和其余正文完全不变。最终25,390 B／full `caff71e623c704160ff295df63a9c0504cd1e5326e9aa2cdfd8ace1fa8179c17`／body `7c5267d96d43b4deba17e05d3b5bfcb7ed9ec1e7c4b58c41f9416aafd9d865a7`。精确差分、逆替与版本记录`author-facts-feedback.json`、副本`author-frozen-2.md`；交daily_history最终独立事实裁断，root第三编辑，本作者不自签。

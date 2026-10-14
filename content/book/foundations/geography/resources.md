@@ -7,7 +7,7 @@ scope: 在新加坡生活的所有家庭；解释资源供给、约束与日常�
 status: integrated
 draft: false
 verified: '2026-10-13'
-reviewed_by: identity（独立事实审）；root（编辑静态审）
+reviewed_by: "identity（独立事实审）；root（编辑静态审）；HUM10限定维护：coverage_audit（事实）；review_state_audit（第三编辑）"
 weight: 30
 ---
 

@@ -18,3 +18,7 @@ weight: 20
 准备购买私人住宅时，先核[外国个人的产权批准与原住房条件](/book/life/housing/buying-private/)，再按[购房预算](/book/life/housing/purchase-costs/)计算税、现金、CPF和贷款；账户材料与离境后的银行安排见[银行服务](/book/work/finance/banking/)。
 
 筛查、疫苗及长者功能检查按[PR预防保健分支](/book/people/healthcare/preventive-care/)核机构与费用。读资助课程时另查[Tuition Grant](/book/people/learning/tuition-grant/)的担保及服务；家庭变化时由[分居与家庭安全](/book/people/family/separation-safety/)接住房、CPF和居留记录。
+
+成人进修的PR课程资助与外国学员条件，见[成人学习](/book/people/learning/adult-learning/)；家人需要日常照护，按[照护事项](/docs/routes/caregiving/)核各计划实际身份与评估条件。
+
+拥有住宅或出租房屋，按[房产税与出租所得](/book/work/tax/property-tax/)核自住期间、变更通知、缴款和租金申报。

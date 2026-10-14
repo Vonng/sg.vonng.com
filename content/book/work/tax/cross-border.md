@@ -7,7 +7,7 @@ scope: "新加坡个人跨境所得与金融账户声明；按实际工作、收
 status: integrated
 draft: false
 verified: '2026-10-13'
-reviewed_by: "事实：identity；编辑：daily_history；集成：root"
+reviewed_by: "事实：identity；编辑：daily_history；集成：root；HUM10限定维护：review_state_audit（事实）；coverage_audit（第三编辑）"
 weight: 30
 search_keywords: ["海外收入", "境外雇主", "跨境", "双重征税", "COR", "FTC", "CRS", "FATCA", "税务居民"]
 ---

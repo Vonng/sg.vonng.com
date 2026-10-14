@@ -7,7 +7,7 @@ scope: 新加坡居民与访客的个人数字安全、信息核实和诈骗应�
 status: integrated
 draft: false
 verified: "2026-10-13"
-reviewed_by: "daily_history（独立事实）；identity（第三人编辑）"
+reviewed_by: "daily_history（独立事实）；identity（第三人编辑）；HUM10限定维护：coverage_audit（事实）；review_state_audit（第三编辑）"
 weight: 30
 search_keywords: ["ScamShield", "1799", "NRIC", "PDPA", "诈骗", "恶意软件"]
 ---

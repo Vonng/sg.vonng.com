@@ -7,7 +7,7 @@ scope: "向 ICA、MOM 或其他机构提交文件，以及把新加坡文件送�
 status: integrated
 draft: false
 verified: "2026-10-13"
-reviewed_by: "care_finance（独立事实）；root（第三人编辑）"
+reviewed_by: "care_finance（独立事实）；root（第三人编辑）；HUM10限定维护：coverage_audit（事实）；review_state_audit（第三编辑）"
 weight: 60
 search_keywords: ["SAL", "Apostille", "HCCH", "CTC", "ACO", "翻译", "公证", "文件认证"]
 ---

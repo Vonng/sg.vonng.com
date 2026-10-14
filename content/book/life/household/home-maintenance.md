@@ -7,7 +7,7 @@ scope: 新加坡住宅；业主与租户的公用事业、日常维护和回收
 status: integrated
 draft: false
 verified: '2026-10-13'
-reviewed_by: daily_history（独立事实审）；root（编辑静态审）
+reviewed_by: "daily_history（独立事实审）；root（编辑静态审）；HUM10限定维护：coverage_audit（事实）；review_state_audit（第三编辑）"
 weight: 20
 ---
 

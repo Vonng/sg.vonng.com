@@ -7,7 +7,7 @@ scope: "新加坡；雇员、平台工作者、家政移工、自雇者及家属
 status: integrated
 draft: false
 verified: '2026-10-13'
-reviewed_by: care_finance（独立事实）；root（第三编辑）
+reviewed_by: "care_finance（独立事实）；root（第三编辑）；HUM10限定维护：review_state_audit（事实）；coverage_audit（第三编辑）"
 weight: 30
 search_keywords: ["工伤", "WICA", "职业病", "工伤保险", "病假工资", "平台工作", "永久伤残", "热应激", "SnapSAFE"]
 ---
@@ -62,7 +62,7 @@ WICA要求事故因工作而起，并在工作过程中发生；职业病及因�
 
 ## 报告事故，并确认索偿已经开始
 
-对2020年9月1日起发生的雇员工伤，雇主获知事故后，WICA索偿即视为提出；MOM收到事故报告后启动处理。 **员工仍须自己报告、交材料并跟进。** 尽快向雇主报告，确认其已向MOM及保险公司提交，并索取编号。[MOM：视为提出索偿的规则](https://www.mom.gov.sg/faq/work-injury-compensation/do-employees-or-representatives-still-need-to-file-claim-for-wica-with-mom)
+对2020年9月1日起发生的雇员工伤，雇主获知事故后，WICA索偿即视为提出；MOM收到事故报告后启动处理。 **员工或其代表仍须通知雇主、提供材料并跟进。** 尽快向雇主报告，确认其已向MOM及保险公司提交，并索取编号。[MOM：视为提出索偿的规则](https://www.mom.gov.sg/faq/work-injury-compensation/do-employees-or-representatives-still-need-to-file-claim-for-wica-with-mom)
 
 | 报告事项 | 责任人与时间 |
 | --- | --- |
@@ -201,7 +201,7 @@ MOM说明，WSH Act禁止雇主因工人报告安全问题而解雇或威胁解�
 
 截至2026年10月13日，下列四项仍属于已公布、将于 **2026年12月1日** 转为强制的措施：为暴露于热环境的人员建立培训、在工作区附近提供凉饮用水、备妥冷水／冰袋／喷水等应急降温物资，以及提供适当防热衣物。雇主现在即可准备；现有补水、遮阴休息、风险评估和应急责任仍须执行。[MOM：12月起新增强制措施及细节](https://www.mom.gov.sg/heat-stress-measures-for-outdoor-work)、[培训、水源和衣物FAQ](https://www.mom.gov.sg/heat-stress-measures-for-outdoor-work/faqs-on-heat-stress-measures-for-outdoor-work)
 
-平台配送不适用上述雇员休息工资安排。MOM在2026年10月7日说明，平台服务ACOP要求经营者提醒平台工作者不适时停工就医、补水、尽可能到阴凉或室内处休息，并鼓励穿宽松浅色衣物。平台工作者可向经营者报告危险负重、热风险和事故，保存联系记录；平台仍有风险评估、培训和应急责任。[MOM：平台热风险措施](https://www.mom.gov.sg/newsroom/parliament-questions-and-replies/2026/1007-written-answer-to-pq-on-heat-stress-protections-for-platform-delivery-workers)、[平台安全责任](https://www.mom.gov.sg/workplace-safety-and-health/workplace-safety-and-health-act/responsibilities-of-stakeholders)
+平台工作者的防热措施另按平台服务ACOP核对。MOM在2026年10月7日说明，平台服务ACOP要求经营者提醒平台工作者不适时停工就医、补水、尽可能到阴凉或室内处休息，并鼓励穿宽松浅色衣物。平台工作者可向经营者报告危险负重、热风险和事故，保存联系记录；平台仍有风险评估、培训和应急责任。[MOM：平台热风险措施](https://www.mom.gov.sg/newsroom/parliament-questions-and-replies/2026/1007-written-answer-to-pq-on-heat-stress-protections-for-platform-delivery-workers)、[平台安全责任](https://www.mom.gov.sg/workplace-safety-and-health/workplace-safety-and-health-act/responsibilities-of-stakeholders)
 
 ## 家属遇到工作死亡事故
 

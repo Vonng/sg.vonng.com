@@ -7,7 +7,7 @@ scope: "新加坡；个人所得税年度流程，以雇员为主，列明非居
 status: integrated
 draft: false
 verified: "2026-10-13"
-reviewed_by: "care_finance（独立事实审）；root（编辑静态审）"
+reviewed_by: "care_finance（独立事实审）；root（编辑静态审）；HUM10限定维护：review_state_audit（事实）；coverage_audit（第三编辑）"
 weight: 10
 ---
 

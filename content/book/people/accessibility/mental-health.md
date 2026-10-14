@@ -7,7 +7,7 @@ scope: "新加坡；公民、PR、工作准证、学生、家属及访客的心�
 status: integrated
 draft: false
 verified: '2026-10-13'
-reviewed_by: "事实：identity；编辑：root；集成：root"
+reviewed_by: "事实：identity；编辑：root；集成：root；HUM10限定维护：review_state_audit（事实）；coverage_audit（第三编辑）"
 weight: 10
 search_keywords: ["心理健康", "1771", "SOS", "CHAT", "IMH", "抑郁", "焦虑", "孤独", "文化适应"]
 ---

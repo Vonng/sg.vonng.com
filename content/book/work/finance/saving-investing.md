@@ -7,7 +7,7 @@ scope: 公民、PR、工作准证、学生、家属和访客；产品年龄与�
 status: integrated
 draft: false
 verified: '2026-10-13'
-reviewed_by: "care_finance（事实）；daily_history（第三编辑）"
+reviewed_by: "care_finance（事实）；daily_history（第三编辑）；HUM10限定维护：review_state_audit（事实）；coverage_audit（第三编辑）"
 weight: 40
 search_keywords: ["储蓄", "投资", "定期存款", "SSB", "T-bills", "国债", "CDP", "ETF", "基金", "证券账户", "CAR", "CKA"]
 ---

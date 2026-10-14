@@ -7,7 +7,7 @@ scope: "新加坡；有身体、感官、认知或其他持续支持需要的人
 status: integrated
 draft: false
 verified: '2026-10-13'
-reviewed_by: "事实：identity；编辑：root；集成：root"
+reviewed_by: "事实：identity；编辑：root；集成：root；HUM10限定维护：review_state_audit（事实）；coverage_audit（第三编辑）"
 weight: 20
 search_keywords: ["残障", "无障碍", "SG Enable", "DVF", "ATF", "辅具", "听障", "视障", "自闭症", "EASE", "复工"]
 ---

@@ -7,7 +7,7 @@ scope: 新加坡居民与访客；公共环境反馈及居民网络选路，不�
 status: integrated
 draft: false
 verified: "2026-10-13"
-reviewed_by: "care_finance（独立事实）；identity（第三人编辑）"
+reviewed_by: "care_finance（独立事实）；identity（第三人编辑）；HUM10限定维护：coverage_audit（事实）；review_state_audit（第三编辑）"
 weight: 20
 search_keywords: ["RN", "RC", "NC", "OneService", "居民网络", "街区问题"]
 ---

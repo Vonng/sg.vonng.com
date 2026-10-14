@@ -7,7 +7,7 @@ scope: "新加坡 PR 与公民申请人、担保家庭及准备跨境出行的 P
 status: integrated
 draft: false
 verified: "2026-10-13"
-reviewed_by: "care_finance（独立事实）；root（第三人编辑）"
+reviewed_by: "care_finance（独立事实）；root（第三人编辑）；HUM10限定维护：coverage_audit（事实）；review_state_audit（第三编辑）"
 weight: 50
 search_keywords: ["PR", "REP", "SCJ", "ORAL", "PRSEP", "入籍", "再入境许可"]
 ---

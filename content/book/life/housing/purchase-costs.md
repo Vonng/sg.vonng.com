@@ -7,7 +7,7 @@ scope: 在新加坡购买住宅的个人及共同买家，涵盖公民、PR 与�
 status: integrated
 draft: false
 verified: "2026-10-13"
-reviewed_by: "identity（独立事实）；root（第三人编辑）"
+reviewed_by: "identity（独立事实）；root（第三人编辑）；HUM10限定维护：coverage_audit（事实）；review_state_audit（第三编辑）"
 weight: 45
 search_keywords: ["BSD", "ABSD", "SSD", "LTV", "TDSR", "MSR", "首付", "现金溢价", "住房贷款"]
 ---

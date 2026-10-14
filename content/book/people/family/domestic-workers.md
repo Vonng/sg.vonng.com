@@ -7,7 +7,7 @@ scope: "新加坡；考虑或已经雇用住家家政人员的公民、PR及外�
 status: integrated
 draft: false
 verified: "2026-10-13"
-reviewed_by: "care_finance（事实）；root（编辑）"
+reviewed_by: "care_finance（事实）；root（编辑）；HUM10限定维护：review_state_audit（事实）；coverage_audit（第三编辑）"
 weight: 50
 search_keywords: ["MDW", "家政", "EOP", "SIP", "6ME", "CDE"]
 ---

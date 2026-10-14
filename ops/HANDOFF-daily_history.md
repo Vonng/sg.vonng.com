@@ -1,14 +1,25 @@
 # daily_history 当前交接
 
-保存于2026-10-13，Asia/Singapore。本轮最新续跑20:10前后，root确认整书goal为active，没有用户暂停。**全书任务继续，不因旧轮时限自行停工。** 下方各时点旧记录均为历史，当前以本节及地图为准。
+## 2026-10-14 08:42 主控接收追记（当前）
 
-## 当前执行断点（20:10前后）
+以下作者断点为Oct13历史。成人学习、照护者支持、房产税三篇已完整两审及B06A实际工程集成；HUM10将50维护版本限定两审/当前SHA/工程全部闭合，accepted保留旧审范围与原verified，public340产物一致。新所有权与具体下一步见CHECKPOINT：care_writer老年、review_state_audit法律、root困难三任务，coverage_audit独审。旧代理句柄/PID与“待成人/照护事实”等描述不作当前运行状态。retirement已完整两审待下一批工程；employment-claims完整作者冻结交独立事实。主控只在此追记接收，不代称旧作者做了新工程。
 
-school-life已由care完整独立事实通过。返校建议、SCFA单亲／求职及OSC未满16岁受虐影像范围和必要保存期限均由作者限定修订，care最终122行全文复读及两轮严格逆差分签发。root第三编辑另要求13处纯表达删除，作者已逐字删除、读全部改段，数字／日期／URL／H2／表格／元数据均严格未变，care再次限定事实继承通过。当前24,205B/full `197b896490d80082702c43fed06350857dcd11fe60d3aa808d49615f82d8ed10`／body `fc044bc26adc3f60d53b8e1207bff3b0bcb1c2682851ebb30d3298277d60fd33`，written/draft:true保持冻结，root正第三编辑与B04I工程，尚未告接收。精确差分`.cache/research/b04-education/school-life-third-editorial-diff.json`；事实报告由care独占，不由本人改。
+## 原作者交接（历史）
 
-adult-learning仍是当前作者主任务，尚未建空页。原工具`adult-source-1`至`33`、`35`至`43.txt`已持久保存；34是命令返回，不冒称web原件。已实际读SFC申领／取消／退款详问、2026申请人条款4页、TA当期条款3页与checklist1页、TP端35问、MCES／SCTP、WSS Basic新原HTML可见主体及MOM Level-Up公告／一页附表、雇主资助／MOM加班外培训／CPF SDL、ICA学习与访客／DP工作、NUS兼读学制实例、TPQA、PEI4.1合同完整XML文字／FPS／2026-08私校调解规则11页文字、残障培训与职业咨询、2026WSQ完整资格同校规则及电子证书、具体海外资格用途、e-attendance10页中采用问及物理3／10页目视。完整采用边界及下载SHA补入教育证据下一节；当前不再无条件重探已失败旧SkillsFuture／WSG／SWDA目录。
 
-下一动作：先把E116起正式来源表和失败记录落盘，再写完整adult-learning（身份→选课→补助Credit/TA/WSS→雇主→支持与考勤→合同退款与争议→结业认可）；作者全文和静态后交identity事实、root第三。root新tax/corrections-disputes正在identity事实，**正式通过才接本人第三编辑**，报告`ops/reviews/b05-tax-corrections-editorial.md`本人独占；先清该成熟审核再回adult。所有下载会话13368／59446已完成，无待poll；无构建／同步／stage／commit。本文件后文“仅E111—115、无下载、学校生活未审”已过时。
+保存于2026-10-13，Asia/Singapore。当前断点已更新至成人稿一处事实修订及照护者支持最终事实通过；root整书goal active，用户未暂停，旧轮时限不构成停工。本人不改共享总账／导航，不构建、同步、stage或commit。
+
+## 当前执行断点
+
+**adult-learning完整作者稿已交identity事实，首轮一处修订后继续冻结。** `content/book/people/learning/adult-learning.md`现36,905B／175行，full `ee9bcfedf6811a64222aa3ef4aa40765e3ca09d0675ba3af0a59a8b84c080ee1`／body `77f54b5b2cbd6768e8671b33ee1c3ccfe892c3f9defe9247efad79cebbedc4c8`。只将工时外培训“按小时”精确补为“按本人工资时薪”，作者已重读MOM source26两详页采用段、完整改段；单字符串逆替严格回初冻full75f4f392…／body52cca499…。written/draft:true／核验空，11H2／81HTTPS／6 integrated内链／3表；E111—141与失败边界完整。首冻和反馈差分检查在教育缓存`adult-learning-author-frozen.md`、`adult-learning-feedback1-check.json`／diff。identity正在收尾PDF及其余资格独立核查，仍未正式事实放行；问题仅由本人限定修。
+
+**school-life已B04I integrated/draft:false。** care完整事实及13处删除限定继承、root第三编辑与实际工程通过，本地提交4da4c93；本人核当前24285B/full `5cb9957578fbdec08f339a633f360b713eb06b5bf06b8c0ef99dc67ea49ffee9`／body `fc044bc26adc3f60d53b8e1207bff3b0bcb1c2682851ebb30d3298277d60fd33`。root实际工程详`ops/checks/b04i-acceptance.json`，不是本人构建。前版作者24,205B/full197b8964…历史冻结留存，正文不变。
+
+**tax/corrections-disputes第三编辑已通过且随B04I接收。** 本人全文156行、identity事实报告及静态实审，只建议两处“一月”→“一个月”，root精确修后本人严格逆差分及两改段复读。作者最终26,142B/full `20e74eb839ab684d5665199454df6d688b1453a50507759d4beb348b897ef42d`／body `9f48d2500059cc35223bc4457f4b6f4b86a5fc2cf2cf58cb0a22aa6e6fe0146c`；正式`ops/reviews/b05-tax-corrections-editorial.md`已交root，identity事实同版本限定继承完成，未重审其13源。
+
+**caregiver-support独立事实正式通过，已交root第三编辑。** 作者care_finance；最终`content/book/people/accessibility/caregiver-support.md`25,390B／125行，full `caff71e623c704160ff295df63a9c0504cd1e5326e9aa2cdfd8ace1fa8179c17`／body `7c5267d96d43b4deba17e05d3b5bfcb7ed9ec1e7c4b58c41f9416aafd9d865a7`。本人首末125行全文、23组采用原件已独立实读，HCG／CTG另新联网；五PDF独立SHA／文字、必要九页图已实看。三组限定修为GP转介及报告从拟入住日倒推六个月／材料、新加坡多房产、获批日起十二月及主管另定；三完整段严格逆替回首冻，无其他漂移。正式报告`ops/reviews/b04-caregiver-support-facts.md`，自有证据`.cache/research/b04-caregiver-facts/`含fresh web、PDF独立文本、initial/final副本及static/reverse。未改care正文／证据／地图，未构建；其他失败未重探。
+
+HDB／EC与admission旧失败仍具体保留。新P1 `https://p1.placement.moe.gov.sg/`仅搜索定位未打开，可作care事实后本人入学的真正新入口；无新条件不重探旧MOE／HDB／EC。没有后台待poll任务；下载13368／59446均已完成。下面旧断点均历史，不执行旧“尚未成稿TG／学校／成人”动作。
 
 ## 权限与已读要求
 

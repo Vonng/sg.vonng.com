@@ -22,3 +22,5 @@ weight: 40
 在校活动、学习设备、请假沟通与学生保护，见[学校日常安排](/book/people/school/school-life/)；遇到欺凌或网络伤害时按具体渠道求助。
 
 学习中需要辅助设备、沟通或环境调整时，结合[残障与学校支持](/book/people/accessibility/disability/)向学校说明需要；课程与考试便利仍按学校教育专题准备。
+
+兼读培训、私校合同退费、证书或海外资格用途可查[成人学习](/book/people/learning/adult-learning/)，按所持身份和课程条件选路。

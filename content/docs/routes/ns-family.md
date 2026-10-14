@@ -15,7 +15,7 @@ weight: 30
 
 1. 准备PR申请时，先核对父母担保、学生申请等分支对孩子的影响。
 2. 收到登记或体检通知后，按NS页准备资料并确认系统状态。
-3. 学校录取和延缓入伍安排一起核对：对照课程、已有学历、年龄和起止日期，保存实际批准。
-4. 在海外读书或长期居住，查Exit Permit及担保条件；PR还需同时查看[身份页的REP安排](/book/life/documents/status-and-eligibility/)。
+3. 学校录取和延缓入伍安排一起核对：对照课程、已有学历、年龄和起止日期，保存实际批准。课程与升学可查[学校学习支持](/book/people/school/learning/)，家校及转返校安排接[学校生活](/book/people/school/school-life/)。
+4. 在海外读书或长期居住，查Exit Permit及担保条件；PR还需同时查看[REP申请与到期安排](/book/life/documents/permanent-residence/)。
 
 有旧身份、已错过通知或不清楚批准路径，NS页列有CMPB个案查询方式。这里的顺序是家庭准备建议；期限以正文对应主管规定和本人通知为据。

@@ -16,3 +16,7 @@ weight: 10
 准备迎接孩子可看[生育事项](/docs/routes/having-child/)；工作变化可看[离职流程](/book/work/employment/leaving-job/)，正常申报进入[个人所得税](/book/work/tax/personal-tax/)。
 
 日常按[预防保健](/book/people/healthcare/preventive-care/)核筛查、疫苗和牙眼安排。已有应急储备后，再比较[储蓄与投资](/book/work/finance/saving-investing/)的账户、费用及退出方式；家庭保障接[保险](/book/work/finance/insurance/)核合同与理赔。
+
+准备进修或转职，按[成人学习事项](/docs/routes/adult-learning/)核课程与个人资助；照顾家人时从[照护事项](/docs/routes/caregiving/)安排接替、培训及申请。
+
+拥有住宅或出租房屋，按[房产税与出租所得](/book/work/tax/property-tax/)核自住期间、变更通知、缴款和租金申报。

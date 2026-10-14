@@ -7,7 +7,7 @@ scope: "新加坡个人消费信贷；按国籍、居住、收入、贷款种类
 status: "integrated"
 draft: false
 verified: "2026-10-13"
-reviewed_by: "care_finance（独立事实审）；daily_history（第三人编辑静态审）"
+reviewed_by: "care_finance（独立事实审）；daily_history（第三人编辑静态审）；HUM10限定维护：review_state_audit（事实）；coverage_audit（第三编辑）"
 weight: 70
 search_keywords: ["信用卡", "信用报告", "贷款", "债务", "冷静期", "DCP", "DMP", "MDMP", "DRS", "CCS", "持牌放贷人"]
 ---
@@ -116,7 +116,7 @@ DCP不包括联名账户、装修、教育、医疗及商业用途等所列贷�
 
 **Credit Counselling Singapore（CCS）** 的DMP是协助可持续还款者与银行／发卡机构商谈的债务管理计划。一般评估条件包括无抵押债务至少S$10,000、涉及至少两个债权人，并有能力在合理年期内且不晚于70岁全额偿还。信用卡、信用额度、个人贷款及部分装修／教育债务可进入该项评估。[CCS：DMP评估条件](https://ccs.org.sg/consumer/dmp/)
 
-经评估拟定的方案仍须各债权人批准；获准后按计划直接还给各机构。现有信用卡及无抵押额度会取消，CBS会显示DMP状态；还清后通知CCS处理状态更新，还款历史仍会按规则保留一段时间。[CCS：批准、付款与记录](https://ccs.org.sg/consumer/dmp/)
+经评估拟定的方案仍须各债权人批准；获准后按计划直接还给各机构。现有信用卡及无抵押额度会取消，CBS会显示DMP状态；还清后通知CCS更新DMP状态，并逐步重建信用。[CCS：批准、付款与记录](https://ccs.org.sg/consumer/dmp/)
 
 办理顺序是先参加CCS的 **InfoTalk／网络讲座** ，再交咨询申请表和所需材料，齐件后安排个人咨询。清单包括信用报告、适用的MLCB报告、CPF记录和收入证明；自雇、佣金及其他收入各有材料分支。线上操作困难，可拨 **6225 5227** 询问材料及预约；纸件可按清单邮寄或交至51 Cuppage Road、#07-06。[CCS：咨询流程、材料及纸件渠道](https://ccs.org.sg/consumer/appointment-documents/)
 

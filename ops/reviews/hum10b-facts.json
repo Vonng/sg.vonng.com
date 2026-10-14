@@ -1,0 +1,2572 @@
+{
+  "schema": 1,
+  "batch": "HUM10-B",
+  "reviewer": "review_state_audit",
+  "review_date": "2026-10-14",
+  "timezone": "Asia/Singapore",
+  "generated_at": "2026-10-14T08:04:07.816125+08:00",
+  "status": "passed",
+  "baseline_commit": "4da4c93",
+  "initial_frozen_commit": "a7f1ffda24ebc858338f7d653c56f87dd8564fdc",
+  "scope_file": ".cache/resume-2026-10-14/hum-b-paths.json",
+  "pages_total": 25,
+  "passed": 25,
+  "remaining_factual_issues": 0,
+  "source_read_groups": 9,
+  "sources": [
+    {
+      "id": "WICA-I01",
+      "url": "https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/who-is-covered",
+      "cache": ".cache/research/b05-injury/source-corpus.json",
+      "range": "该URL lines34—53",
+      "original_record": "author-tool-1.json",
+      "supports": "本外籍雇员范围、离职/准证取消不自动消灭既有索偿",
+      "read_date": "2026-10-14",
+      "retrieved_date": "2026-10-13",
+      "mode": "independent_read_of_existing_successful_official_cache",
+      "new_network": false
+    },
+    {
+      "id": "WICA-I10",
+      "url": "https://www.mom.gov.sg/faq/work-injury-compensation/do-employees-or-representatives-still-need-to-file-claim-for-wica-with-mom",
+      "cache": ".cache/research/b05-injury/source-corpus.json",
+      "range": "该URL lines34—47",
+      "original_record": "author-tool-4.json",
+      "supports": "员工或代表不必另向MOM提出索偿，但仍须尽快通知雇主",
+      "read_date": "2026-10-14",
+      "retrieved_date": "2026-10-13",
+      "mode": "independent_read_of_existing_successful_official_cache",
+      "new_network": false
+    },
+    {
+      "id": "WICA-I28",
+      "url": "https://www.mom.gov.sg/newsroom/parliament-questions-and-replies/2026/1007-written-answer-to-pq-on-heat-stress-protections-for-platform-delivery-workers",
+      "cache": ".cache/research/b05-injury/source-corpus.json",
+      "range": "该URL lines32—46",
+      "original_record": "author-tool-9.json",
+      "supports": "新户外措施对平台工人未必可直接适用；平台服务另按ACOP提醒/防热措施",
+      "read_date": "2026-10-14",
+      "retrieved_date": "2026-10-13",
+      "mode": "independent_read_of_existing_successful_official_cache",
+      "new_network": false
+    },
+    {
+      "id": "WICA-I32",
+      "url": "https://www.mom.gov.sg/employment-practices/platform-workers-act/platform-worker",
+      "cache": ".cache/research/b05-injury/source-corpus.json",
+      "range": "该URL lines34—63",
+      "supports": "平台协议/控制与雇佣合同分支，不能把所有配送者均判为PWA平台工人",
+      "read_date": "2026-10-14",
+      "retrieved_date": "2026-10-13",
+      "mode": "independent_read_of_existing_successful_official_cache",
+      "new_network": false
+    },
+    {
+      "id": "CCS-D06",
+      "url": "https://ccs.org.sg/consumer/dmp/",
+      "cache": ".cache/research/b05-debt-facts/src-debt-open4-00.txt",
+      "range": "L54—90",
+      "supports": "债权人批准、额度取消、DMP标记、结清通知后更新/移除标记及逐步重建信用",
+      "read_date": "2026-10-14",
+      "retrieved_date": "2026-10-13",
+      "mode": "independent_read_of_existing_successful_official_cache",
+      "new_network": false
+    },
+    {
+      "id": "MoneySense-D02",
+      "url": "https://www.moneysense.gov.sg/credit-reports-and-creditworthiness/",
+      "cache": ".cache/research/b05-debt-facts/src-debt-open1-01.txt",
+      "range": "L17—93",
+      "supports": "信用历史/还款记录及信用重建；未提供DMP结清后具体留存规则，因此不用于新增留存断言",
+      "read_date": "2026-10-14",
+      "retrieved_date": "2026-10-13",
+      "mode": "independent_read_of_existing_successful_official_cache",
+      "new_network": false
+    },
+    {
+      "id": "ACRA-B01",
+      "url": "https://www.acra.gov.sg/register/business/requirements-eligibility/",
+      "cache": ".cache/research/b05-business-facts/source-008.txt",
+      "range": "L37—112",
+      "supports": "外国CSP、本地居民任职和准证签发机构先核权限",
+      "read_date": "2026-10-14",
+      "retrieved_date": "2026-10-13",
+      "mode": "independent_read_of_existing_successful_official_cache",
+      "new_network": false
+    },
+    {
+      "id": "ACRA-B19",
+      "url": "https://www.acra.gov.sg/resources/guides-forms/troubleshooting-guide-name-application-business-registration/",
+      "cache": ".cache/research/b05-business-facts/source-114.txt",
+      "range": "L45—154",
+      "supports": "外国职务持有人由CSP、提交人必需任职条件及同账户付款/成功通知",
+      "read_date": "2026-10-14",
+      "retrieved_date": "2026-10-13",
+      "mode": "independent_read_of_existing_successful_official_cache",
+      "new_network": false
+    },
+    {
+      "id": "ACRA-B02-sole",
+      "url": "https://www.acra.gov.sg/register/business/registering-different-business-structures/sole-proprietorship-or-partnership/",
+      "cache": ".cache/research/b05-business-facts/source-045.txt",
+      "range": "L41—77及L97—207",
+      "supports": "有Singpass的外国人步骤说明、本人预留名称/所有者或代表条件，与总则差异不能仅凭登录消解",
+      "read_date": "2026-10-14",
+      "retrieved_date": "2026-10-13",
+      "mode": "independent_read_of_existing_successful_official_cache",
+      "new_network": false
+    }
+  ],
+  "pages": [
+    {
+      "path": "content/book/life/transport/public-transport.md",
+      "status": "passed",
+      "reviewer": "review_state_audit",
+      "maintenance_author": "root (earlier HUM author and current correction author)",
+      "review_date": "2026-10-14",
+      "original_fact_report": "ops/reviews/b03c-public-transport-maintenance-facts.md",
+      "original_editorial_report": "ops/reviews/b03c-public-transport-editorial.md",
+      "original_acceptance": {
+        "author": "daily_history",
+        "facts": "identity",
+        "editor": "root",
+        "date": "2026-10-13",
+        "report": "ops/reviews/b03c-public-transport-maintenance-facts.md",
+        "editorial_report": "ops/reviews/b03c-public-transport-editorial.md",
+        "previous_report": "ops/reviews/b01-daily-facts.md",
+        "previous_body_sha256": "b49ae3a7932164bc72cdc9327a84df591a12df7198113db64a30f09b336d1062",
+        "review_scope": "新增巴士行为小节；其余正文复用B01事实/编辑审",
+        "body_sha256": "ea39157484fc03e113703da88fedbcdf55d5bfabf55de80aa34a4815a351f56e",
+        "reviewed_file_sha256": "83ae3bfee3bf13b5d3ef434077dc0f90b419c63dffedee21eb7b077570be33ef"
+      },
+      "original_full_sha256": "83ae3bfee3bf13b5d3ef434077dc0f90b419c63dffedee21eb7b077570be33ef",
+      "original_body_sha256": "ea39157484fc03e113703da88fedbcdf55d5bfabf55de80aa34a4815a351f56e",
+      "initial_frozen_full_sha256": "9287813988a4531c4b49cc158f5eea7b34d30b9830ac3a6549eff72677a2461e",
+      "initial_frozen_body_sha256": "5072d90f88a4f16ea76499c25a8fbd88e03af9dd4d09b8e9042066e432582a8b",
+      "final_full_sha256": "9287813988a4531c4b49cc158f5eea7b34d30b9830ac3a6549eff72677a2461e",
+      "final_body_sha256": "5072d90f88a4f16ea76499c25a8fbd88e03af9dd4d09b8e9042066e432582a8b",
+      "body_sha256": "5072d90f88a4f16ea76499c25a8fbd88e03af9dd4d09b8e9042066e432582a8b",
+      "final_bytes": 9593,
+      "final_lines": 89,
+      "semantic_conclusion": "删去短程票价概括全岛、两站距离替代刷卡时间的反面尾句；起终点查价、换乘计时和指定15分钟例外仍在。",
+      "read_scope": "old and current full changed paragraphs plus all unified-diff context; unchanged text mechanically confirmed and original accepted fact scope inherited, not a new full-source fact review",
+      "changed_line_ranges": [
+        {
+          "kind": "replace",
+          "old_lines": [
+            18,
+            18
+          ],
+          "final_lines": [
+            18,
+            18
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            61,
+            61
+          ],
+          "final_lines": [
+            61,
+            61
+          ]
+        }
+      ],
+      "protected_sequence_equality": {
+        "metadata": true,
+        "h2": true,
+        "table_rows": true,
+        "links": true,
+        "bold": true,
+        "numbers": true
+      },
+      "actual_source_reads": [],
+      "author_feedback_changes": 0,
+      "reverse_equals_initial_frozen": true,
+      "remaining_factual_issues": []
+    },
+    {
+      "path": "content/book/life/transport/taxis-phv.md",
+      "status": "passed",
+      "reviewer": "review_state_audit",
+      "maintenance_author": "root (earlier HUM author and current correction author)",
+      "review_date": "2026-10-14",
+      "original_fact_report": "ops/reviews/b03c-taxis-phv-facts.md",
+      "original_editorial_report": "ops/reviews/b03c-transport-editorial.md",
+      "original_acceptance": {
+        "author": "care_finance",
+        "facts": "daily_history",
+        "editor": "root",
+        "date": "2026-10-13",
+        "report": "ops/reviews/b03c-taxis-phv-facts.md",
+        "editorial_report": "ops/reviews/b03c-transport-editorial.md",
+        "body_sha256": "0383e004578711555dff40f0e761bfdf5cf428e3df93abf84289fe8cfa450f90",
+        "reviewed_file_sha256": "215eabebd8a4ad24c6b33408fd09090f614cbedab2a1a1ad088eed5bd5074fbf"
+      },
+      "original_full_sha256": "09cc3bac1f7f6167d9158582ba87db656e7bb4191f5b0da16a095f52bf091e82",
+      "original_body_sha256": "0383e004578711555dff40f0e761bfdf5cf428e3df93abf84289fe8cfa450f90",
+      "initial_frozen_full_sha256": "4184d6e8444f960a7afba674caa5fd7ef1ed5495ac9b64103ca71734e9232115",
+      "initial_frozen_body_sha256": "b761b24e0b516051d8009c52b1513995d5a42fe9d90dbbb32109a2937cb040da",
+      "final_full_sha256": "4184d6e8444f960a7afba674caa5fd7ef1ed5495ac9b64103ca71734e9232115",
+      "final_body_sha256": "b761b24e0b516051d8009c52b1513995d5a42fe9d90dbbb32109a2937cb040da",
+      "body_sha256": "b761b24e0b516051d8009c52b1513995d5a42fe9d90dbbb32109a2937cb040da",
+      "final_bytes": 9498,
+      "final_lines": 67,
+      "semantic_conclusion": "删起步价、轮椅大车容量和取消风险复述；公司/车型/订单费用条件、轮椅固定与承载确认、人数与行李容量、下单前确认均保留。",
+      "read_scope": "old and current full changed paragraphs plus all unified-diff context; unchanged text mechanically confirmed and original accepted fact scope inherited, not a new full-source fact review",
+      "changed_line_ranges": [
+        {
+          "kind": "replace",
+          "old_lines": [
+            35,
+            35
+          ],
+          "final_lines": [
+            35,
+            35
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            47,
+            47
+          ],
+          "final_lines": [
+            47,
+            47
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            49,
+            49
+          ],
+          "final_lines": [
+            49,
+            49
+          ]
+        }
+      ],
+      "protected_sequence_equality": {
+        "metadata": true,
+        "h2": true,
+        "table_rows": true,
+        "links": true,
+        "bold": true,
+        "numbers": true
+      },
+      "actual_source_reads": [],
+      "author_feedback_changes": 0,
+      "reverse_equals_initial_frozen": true,
+      "remaining_factual_issues": []
+    },
+    {
+      "path": "content/book/people/accessibility/disability.md",
+      "status": "passed",
+      "reviewer": "review_state_audit",
+      "maintenance_author": "root (earlier HUM author and current correction author)",
+      "review_date": "2026-10-14",
+      "original_fact_report": "ops/reviews/b04-disability-facts.md",
+      "original_editorial_report": "ops/reviews/b04-disability-editorial.md",
+      "original_acceptance": {
+        "author": "care_finance",
+        "facts": "identity",
+        "editor": "root",
+        "date": "2026-10-13",
+        "report": "ops/reviews/b04-disability-facts.md",
+        "editorial_report": "ops/reviews/b04-disability-editorial.md",
+        "body_sha256": "baa6a1622c9b963aedda460137b0f2203ad6d2dbf250df647cdf754527a909f0",
+        "reviewed_file_sha256": "ca1e9ace952dc6db01af0e569042952b92494a3c1025afc9ccb9ced5bb5d390f",
+        "engineering": "B04H production and actual desktop/mobile passed; sampled print and final sync recorded in ops/checks/b04h-acceptance.json"
+      },
+      "original_full_sha256": "735a6e83bba58a0624c842fcc63bede25b9806e011714eff8f4dd30dad7c87e1",
+      "original_body_sha256": "baa6a1622c9b963aedda460137b0f2203ad6d2dbf250df647cdf754527a909f0",
+      "initial_frozen_full_sha256": "bea2449c9aa479b65b15450994bf054970df7ee42e37e120ff2188e63d9c8dec",
+      "initial_frozen_body_sha256": "1364e02504c0b73e595311367dc23445158c0dbca12834f93c99a1f6cf582805",
+      "final_full_sha256": "bea2449c9aa479b65b15450994bf054970df7ee42e37e120ff2188e63d9c8dec",
+      "final_body_sha256": "1364e02504c0b73e595311367dc23445158c0dbca12834f93c99a1f6cf582805",
+      "body_sha256": "1364e02504c0b73e595311367dc23445158c0dbca12834f93c99a1f6cf582805",
+      "final_bytes": 22132,
+      "final_lines": 128,
+      "semantic_conclusion": "13组差分保留ATF公民/PR及永久残障、4800及经济评估、先批后买不追付、60岁分流、SMF附加条件、SAVH外国自费/一般登记、JPJS/H2W条件、ODP雇主计划及DAC2025费表时期。删2026重复年份和重复禁误推，不删实际金额或年份条件。",
+      "read_scope": "old and current full changed paragraphs plus all unified-diff context; unchanged text mechanically confirmed and original accepted fact scope inherited, not a new full-source fact review",
+      "changed_line_ranges": [
+        {
+          "kind": "replace",
+          "old_lines": [
+            31,
+            31
+          ],
+          "final_lines": [
+            31,
+            31
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            47,
+            47
+          ],
+          "final_lines": [
+            47,
+            47
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            51,
+            51
+          ],
+          "final_lines": [
+            51,
+            51
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            67,
+            67
+          ],
+          "final_lines": [
+            67,
+            67
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            69,
+            69
+          ],
+          "final_lines": [
+            69,
+            69
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            73,
+            73
+          ],
+          "final_lines": [
+            73,
+            73
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            94,
+            94
+          ],
+          "final_lines": [
+            94,
+            94
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            100,
+            100
+          ],
+          "final_lines": [
+            100,
+            100
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            102,
+            102
+          ],
+          "final_lines": [
+            102,
+            102
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            108,
+            108
+          ],
+          "final_lines": [
+            108,
+            108
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            120,
+            120
+          ],
+          "final_lines": [
+            120,
+            120
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            122,
+            122
+          ],
+          "final_lines": [
+            122,
+            122
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            126,
+            126
+          ],
+          "final_lines": [
+            126,
+            126
+          ]
+        }
+      ],
+      "protected_sequence_equality": {
+        "metadata": true,
+        "h2": true,
+        "table_rows": true,
+        "links": true,
+        "bold": true,
+        "numbers": false
+      },
+      "actual_source_reads": [],
+      "author_feedback_changes": 0,
+      "reverse_equals_initial_frozen": true,
+      "remaining_factual_issues": []
+    },
+    {
+      "path": "content/book/people/accessibility/mental-health.md",
+      "status": "passed",
+      "reviewer": "review_state_audit",
+      "maintenance_author": "root (earlier HUM author and current correction author)",
+      "review_date": "2026-10-14",
+      "original_fact_report": "ops/reviews/b04-mental-health-facts.md",
+      "original_editorial_report": "ops/reviews/b04f-editorial.md",
+      "original_acceptance": {
+        "author": "care_finance",
+        "facts": "identity",
+        "editor": "root",
+        "date": "2026-10-13",
+        "report": "ops/reviews/b04-mental-health-facts.md",
+        "editorial_report": "ops/reviews/b04f-editorial.md",
+        "body_sha256": "190b3a1f4cd6f7ab941b95a3d0c47c4e6d6d39cb3f9b3f8ce253600d5317db15",
+        "reviewed_file_sha256": "bb855c589051a3ef9980efcedb74e8153c80fd7f932b137166c4239c074cc66f",
+        "engineering": "B04F production and actual desktop/mobile passed; sampled print and final sync recorded in ops/checks/b04f-acceptance.json"
+      },
+      "original_full_sha256": "f7c28121f7c0609f99b90200d53a344f90475c162d25aa5a86278c52894102b8",
+      "original_body_sha256": "190b3a1f4cd6f7ab941b95a3d0c47c4e6d6d39cb3f9b3f8ce253600d5317db15",
+      "initial_frozen_full_sha256": "53a1d11879b07a1735b5cc9327296b0ae738a16f7ae8907a19ea09d25f440f75",
+      "initial_frozen_body_sha256": "5246ab6d4c26258780b98e6827b78b7ff901cdb2e0eaaca09b34c4f171b13b54",
+      "final_full_sha256": "53a1d11879b07a1735b5cc9327296b0ae738a16f7ae8907a19ea09d25f440f75",
+      "final_body_sha256": "5246ab6d4c26258780b98e6827b78b7ff901cdb2e0eaaca09b34c4f171b13b54",
+      "body_sha256": "5246ab6d4c26258780b98e6827b78b7ff901cdb2e0eaaca09b34c4f171b13b54",
+      "final_bytes": 21513,
+      "final_lines": 121,
+      "semantic_conclusion": "SOS表仍标WhatsApp英语文字且不接语音图片视频；webCHAT暂停、IMH尽力安排语言、身份费率、诊费组成、2026/2027支付分期及家政工服务限定均保留。表格仅删除单元格尾句，列数不变。",
+      "read_scope": "old and current full changed paragraphs plus all unified-diff context; unchanged text mechanically confirmed and original accepted fact scope inherited, not a new full-source fact review",
+      "changed_line_ranges": [
+        {
+          "kind": "replace",
+          "old_lines": [
+            25,
+            25
+          ],
+          "final_lines": [
+            25,
+            25
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            34,
+            34
+          ],
+          "final_lines": [
+            34,
+            34
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            38,
+            38
+          ],
+          "final_lines": [
+            38,
+            38
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            64,
+            64
+          ],
+          "final_lines": [
+            64,
+            64
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            74,
+            74
+          ],
+          "final_lines": [
+            74,
+            74
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            80,
+            80
+          ],
+          "final_lines": [
+            80,
+            80
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            91,
+            91
+          ],
+          "final_lines": [
+            91,
+            91
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            99,
+            99
+          ],
+          "final_lines": [
+            99,
+            99
+          ]
+        }
+      ],
+      "protected_sequence_equality": {
+        "metadata": true,
+        "h2": true,
+        "table_rows": false,
+        "links": true,
+        "bold": true,
+        "numbers": true
+      },
+      "actual_source_reads": [],
+      "author_feedback_changes": 0,
+      "reverse_equals_initial_frozen": true,
+      "remaining_factual_issues": []
+    },
+    {
+      "path": "content/book/people/family/childcare.md",
+      "status": "passed",
+      "reviewer": "review_state_audit",
+      "maintenance_author": "root (earlier HUM author and current correction author)",
+      "review_date": "2026-10-14",
+      "original_fact_report": "ops/reviews/b04-family-facts.md",
+      "original_editorial_report": "ops/reviews/b04b-editorial.md",
+      "original_acceptance": {
+        "author": "identity",
+        "facts": "care_finance",
+        "editor": "root",
+        "report": "ops/reviews/b04-family-facts.md",
+        "reviewed_file_sha256": "a8d04aaf6954d816d3d0891df0870d4c27f0079e3fa82f435ecd16445eeb09ab",
+        "body_sha256": "59d75d5547f2d6a7709f4bd5809781f366038ba5a2284a3f3be1c3999eb31c31",
+        "date": "2026-10-13",
+        "editorial_report": "ops/reviews/b04b-editorial.md"
+      },
+      "original_full_sha256": "8b535de97043a75607dea432805c01cbf0d388e5dda5dfa1932b0067cb5cf9df",
+      "original_body_sha256": "59d75d5547f2d6a7709f4bd5809781f366038ba5a2284a3f3be1c3999eb31c31",
+      "initial_frozen_full_sha256": "b3d0a455fe2d2baf98d11d54ccc9b2e4b5db40edc44f7c0888a52e94a5a85286",
+      "initial_frozen_body_sha256": "fbe5a1c0aa5e20c069459e36b9c9fd5b3898832d781bb2a904205f316edc438d",
+      "final_full_sha256": "b3d0a455fe2d2baf98d11d54ccc9b2e4b5db40edc44f7c0888a52e94a5a85286",
+      "final_body_sha256": "fbe5a1c0aa5e20c069459e36b9c9fd5b3898832d781bb2a904205f316edc438d",
+      "body_sha256": "fbe5a1c0aa5e20c069459e36b9c9fd5b3898832d781bb2a904205f316edc438d",
+      "final_bytes": 28828,
+      "final_lines": 178,
+      "semantic_conclusion": "删选择园方的元说明及KCare套数字提醒；记录具体约定的行动保留，2027ECDA/KiFAS门槛和KCare另按MOE公布均保留，未扩大未来补贴。",
+      "read_scope": "old and current full changed paragraphs plus all unified-diff context; unchanged text mechanically confirmed and original accepted fact scope inherited, not a new full-source fact review",
+      "changed_line_ranges": [
+        {
+          "kind": "replace",
+          "old_lines": [
+            42,
+            42
+          ],
+          "final_lines": [
+            42,
+            42
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            174,
+            174
+          ],
+          "final_lines": [
+            174,
+            174
+          ]
+        }
+      ],
+      "protected_sequence_equality": {
+        "metadata": true,
+        "h2": true,
+        "table_rows": true,
+        "links": true,
+        "bold": true,
+        "numbers": true
+      },
+      "actual_source_reads": [],
+      "author_feedback_changes": 0,
+      "reverse_equals_initial_frozen": true,
+      "remaining_factual_issues": []
+    },
+    {
+      "path": "content/book/people/family/domestic-workers.md",
+      "status": "passed",
+      "reviewer": "review_state_audit",
+      "maintenance_author": "root (earlier HUM author and current correction author)",
+      "review_date": "2026-10-14",
+      "original_fact_report": "ops/reviews/b04-family-facts.md",
+      "original_editorial_report": "ops/reviews/b04c-editorial.md",
+      "original_acceptance": {
+        "author": "identity",
+        "facts": "care_finance",
+        "editor": "root",
+        "report": "ops/reviews/b04-family-facts.md",
+        "reviewed_file_sha256": "65a640cf98dc5a1834911d093372d7eb240721b0981ae760d15505165f02e385",
+        "body_sha256": "4ec7dae302a1811f3c44ef0cf7dc1d1244f5bb58373223d6df94e928323aa550",
+        "date": "2026-10-13",
+        "editorial_report": "ops/reviews/b04c-editorial.md",
+        "engineering": "B04C accepted; production, actual desktop/mobile and sampled print passed; ops/checks/b04c-acceptance.json"
+      },
+      "original_full_sha256": "03aed7e14971fd7c1f1ecc77cbc54f14c42241e97c5ac4259c68ff82bd98994a",
+      "original_body_sha256": "4ec7dae302a1811f3c44ef0cf7dc1d1244f5bb58373223d6df94e928323aa550",
+      "initial_frozen_full_sha256": "696a0227d20b68a58b470ae395c79dcbfd707237caa95b91043ffb451994d490",
+      "initial_frozen_body_sha256": "bb01a6980bd2e6f5be9e22af2a028efb8eb7a05839fd15fc7cd9ae9e1f5fb1f0",
+      "final_full_sha256": "696a0227d20b68a58b470ae395c79dcbfd707237caa95b91043ffb451994d490",
+      "final_body_sha256": "bb01a6980bd2e6f5be9e22af2a028efb8eb7a05839fd15fc7cd9ae9e1f5fb1f0",
+      "body_sha256": "bb01a6980bd2e6f5be9e22af2a028efb8eb7a05839fd15fc7cd9ae9e1f5fb1f0",
+      "final_bytes": 35375,
+      "final_lines": 217,
+      "semantic_conclusion": "删未明确列出不等于全准/全禁的复述；前表仍逐类区分准证，未知类别明确未解决且必须向MOM提供实际资料确认。",
+      "read_scope": "old and current full changed paragraphs plus all unified-diff context; unchanged text mechanically confirmed and original accepted fact scope inherited, not a new full-source fact review",
+      "changed_line_ranges": [
+        {
+          "kind": "replace",
+          "old_lines": [
+            36,
+            36
+          ],
+          "final_lines": [
+            36,
+            36
+          ]
+        }
+      ],
+      "protected_sequence_equality": {
+        "metadata": true,
+        "h2": true,
+        "table_rows": true,
+        "links": true,
+        "bold": true,
+        "numbers": true
+      },
+      "actual_source_reads": [],
+      "author_feedback_changes": 0,
+      "reverse_equals_initial_frozen": true,
+      "remaining_factual_issues": []
+    },
+    {
+      "path": "content/book/people/family/separation-safety.md",
+      "status": "passed",
+      "reviewer": "review_state_audit",
+      "maintenance_author": "root (earlier HUM author and current correction author)",
+      "review_date": "2026-10-14",
+      "original_fact_report": "ops/reviews/b04-family-facts.md",
+      "original_editorial_report": "ops/reviews/b04d-editorial.md",
+      "original_acceptance": {
+        "author": "identity",
+        "facts": "care_finance",
+        "editor": "root",
+        "date": "2026-10-13",
+        "report": "ops/reviews/b04-family-facts.md",
+        "editorial_report": "ops/reviews/b04d-editorial.md",
+        "reviewed_file_sha256": "fc21f2c710cd1aa1bf35a210dc7b14e8e162fa884db0fb245795f3ba8923d353",
+        "body_sha256": "3437f001435f518f48eb727f2981cf5c1e02a9ef435fef5a9c09c1a2fc9214af",
+        "engineering": "B04D accepted; production, actual desktop/mobile and sampled print passed; ops/checks/b04d-acceptance.json"
+      },
+      "original_full_sha256": "40eac1d5aabf0486cd9d3b7557c3a873bd22812fac683188b8f04d02f2f294bd",
+      "original_body_sha256": "3437f001435f518f48eb727f2981cf5c1e02a9ef435fef5a9c09c1a2fc9214af",
+      "initial_frozen_full_sha256": "034063d313a751c5cd1608a4fb3031113ff8c84eb43d7e2ab2704255b7065a50",
+      "initial_frozen_body_sha256": "1e2b66baf551dcda933fb41fcbd923cf33bec017732074989389ee0b6da0230b",
+      "final_full_sha256": "034063d313a751c5cd1608a4fb3031113ff8c84eb43d7e2ab2704255b7065a50",
+      "final_body_sha256": "1e2b66baf551dcda933fb41fcbd923cf33bec017732074989389ee0b6da0230b",
+      "body_sha256": "1e2b66baf551dcda933fb41fcbd923cf33bec017732074989389ee0b6da0230b",
+      "final_bytes": 36824,
+      "final_lines": 178,
+      "semantic_conclusion": "删外国居民不可套一般LAB资格的重复尾句；一般SC/PR资格、海牙特定例外、经济/案情审、未21岁代申请均完整。",
+      "read_scope": "old and current full changed paragraphs plus all unified-diff context; unchanged text mechanically confirmed and original accepted fact scope inherited, not a new full-source fact review",
+      "changed_line_ranges": [
+        {
+          "kind": "replace",
+          "old_lines": [
+            170,
+            170
+          ],
+          "final_lines": [
+            170,
+            170
+          ]
+        }
+      ],
+      "protected_sequence_equality": {
+        "metadata": true,
+        "h2": true,
+        "table_rows": true,
+        "links": true,
+        "bold": true,
+        "numbers": true
+      },
+      "actual_source_reads": [],
+      "author_feedback_changes": 0,
+      "reverse_equals_initial_frozen": true,
+      "remaining_factual_issues": []
+    },
+    {
+      "path": "content/book/people/healthcare/getting-care.md",
+      "status": "passed",
+      "reviewer": "review_state_audit",
+      "maintenance_author": "root (earlier HUM author and current correction author)",
+      "review_date": "2026-10-14",
+      "original_fact_report": "ops/reviews/b01-care-facts.md",
+      "original_editorial_report": null,
+      "original_acceptance": {
+        "author": "care_finance",
+        "facts": "daily_history",
+        "editor": "root",
+        "date": "2026-10-13",
+        "report": "ops/reviews/b01-care-facts.md",
+        "body_sha256": "b5bb781c2fc6aeb13e019bd93db531fe3763eecb8d19cd2ace793bc4efb850db",
+        "reviewed_file_sha256": "33c1ab0a88ab67f29704ea4a840f6889c9a2e36d2bf12d3363a31b4257b5ea34"
+      },
+      "original_full_sha256": "4cb39b923f3710dbe91c6cd1884dcf535f9b2096ebabdc95ea82737b93620315",
+      "original_body_sha256": "b5bb781c2fc6aeb13e019bd93db531fe3763eecb8d19cd2ace793bc4efb850db",
+      "initial_frozen_full_sha256": "d21db9fb714baf86919ad3311333a84bcff83626c3e9d1b4463cddd35210c6e4",
+      "initial_frozen_body_sha256": "c95e23934d9cc9c13e369f761e3231cff207ec437498ddc8e21ca24080f640e5",
+      "final_full_sha256": "d21db9fb714baf86919ad3311333a84bcff83626c3e9d1b4463cddd35210c6e4",
+      "final_body_sha256": "c95e23934d9cc9c13e369f761e3231cff207ec437498ddc8e21ca24080f640e5",
+      "body_sha256": "c95e23934d9cc9c13e369f761e3231cff207ec437498ddc8e21ca24080f640e5",
+      "final_bytes": 7797,
+      "final_lines": 64,
+      "semantic_conclusion": "仅删到院登记与预期不同的结果说明；GP/综合诊疗所转介、紧急症状995和本人身份/网络/支付确认动作不变。",
+      "read_scope": "old and current full changed paragraphs plus all unified-diff context; unchanged text mechanically confirmed and original accepted fact scope inherited, not a new full-source fact review",
+      "changed_line_ranges": [
+        {
+          "kind": "replace",
+          "old_lines": [
+            14,
+            14
+          ],
+          "final_lines": [
+            14,
+            14
+          ]
+        }
+      ],
+      "protected_sequence_equality": {
+        "metadata": true,
+        "h2": true,
+        "table_rows": true,
+        "links": true,
+        "bold": true,
+        "numbers": true
+      },
+      "actual_source_reads": [],
+      "author_feedback_changes": 0,
+      "reverse_equals_initial_frozen": true,
+      "remaining_factual_issues": []
+    },
+    {
+      "path": "content/book/people/healthcare/medical-records.md",
+      "status": "passed",
+      "reviewer": "review_state_audit",
+      "maintenance_author": "root (earlier HUM author and current correction author)",
+      "review_date": "2026-10-14",
+      "original_fact_report": "ops/reviews/b04-medical-records-facts.md",
+      "original_editorial_report": "ops/reviews/b04b-editorial.md",
+      "original_acceptance": {
+        "author": "care_finance",
+        "facts": "daily_history",
+        "editor": "root",
+        "report": "ops/reviews/b04-medical-records-facts.md",
+        "reviewed_file_sha256": "7088f1d1b988e7b4a9df03427f6f911d98afdaa259bd8d5424e7e54f9aa8c6c7",
+        "body_sha256": "c38c9b0f8132571bc5506c992c718553e16b6ee45351bc986481b8a18f6d71c7",
+        "date": "2026-10-13",
+        "editorial_report": "ops/reviews/b04b-editorial.md"
+      },
+      "original_full_sha256": "5d64be3ad1a32dd1ab6f45821838e51b1a65a0f24d7e855f17f9fd448c7f54f5",
+      "original_body_sha256": "c38c9b0f8132571bc5506c992c718553e16b6ee45351bc986481b8a18f6d71c7",
+      "initial_frozen_full_sha256": "c20f0ca8f76281d5c50dc85af7bc5fcdde1b6fddb19fe22760856ed9dca9216c",
+      "initial_frozen_body_sha256": "421ef41ede5d62ff252c06e6acd4fcc1a85ef89460bed3dccadfcea81aad6a52",
+      "final_full_sha256": "c20f0ca8f76281d5c50dc85af7bc5fcdde1b6fddb19fe22760856ed9dca9216c",
+      "final_body_sha256": "421ef41ede5d62ff252c06e6acd4fcc1a85ef89460bed3dccadfcea81aad6a52",
+      "body_sha256": "421ef41ede5d62ff252c06e6acd4fcc1a85ef89460bed3dccadfcea81aad6a52",
+      "final_bytes": 24483,
+      "final_lines": 151,
+      "semantic_conclusion": "仅删这是报告申请条件的尾句；开头医院申请同意表、NUHS Form A对此项minor的21岁/服役/婚姻例外及正确分支动作明确，未写成一般法定成年定义。",
+      "read_scope": "old and current full changed paragraphs plus all unified-diff context; unchanged text mechanically confirmed and original accepted fact scope inherited, not a new full-source fact review",
+      "changed_line_ranges": [
+        {
+          "kind": "replace",
+          "old_lines": [
+            101,
+            101
+          ],
+          "final_lines": [
+            101,
+            101
+          ]
+        }
+      ],
+      "protected_sequence_equality": {
+        "metadata": true,
+        "h2": true,
+        "table_rows": true,
+        "links": true,
+        "bold": true,
+        "numbers": true
+      },
+      "actual_source_reads": [],
+      "author_feedback_changes": 0,
+      "reverse_equals_initial_frozen": true,
+      "remaining_factual_issues": []
+    },
+    {
+      "path": "content/book/people/language/everyday-language.md",
+      "status": "passed",
+      "reviewer": "review_state_audit",
+      "maintenance_author": "root (earlier HUM author and current correction author)",
+      "review_date": "2026-10-14",
+      "original_fact_report": "ops/reviews/b01-daily-facts.md",
+      "original_editorial_report": null,
+      "original_acceptance": {
+        "author": "daily_history",
+        "facts": "identity",
+        "editor": "root",
+        "date": "2026-10-13",
+        "report": "ops/reviews/b01-daily-facts.md",
+        "body_sha256": "487a9a8320516e2b38bf4697eb9c57b3a419346353b5234599fb867eb168c280",
+        "reviewed_file_sha256": "de8bfca1720da4ebec053ff7a40156e43b65f622364f7609c6a006ec9be373f7",
+        "editorial_only_change": "root: removed surplus blank line at EOF after fact review; all text unchanged"
+      },
+      "original_full_sha256": "80803221d288b80b11270f37c2c6219ce574b9a6c11c3e7305b5440853e5d5e6",
+      "original_body_sha256": "487a9a8320516e2b38bf4697eb9c57b3a419346353b5234599fb867eb168c280",
+      "initial_frozen_full_sha256": "a2d2aa9d7b6ce85c90ab55497fa57a461a5fe8eb01b1be3357e684b89fd52ec7",
+      "initial_frozen_body_sha256": "bc3985690c03797a2e9ad0dea5fd7b2a33dd77a052cf11c1bceba729d6eaa3af",
+      "final_full_sha256": "a2d2aa9d7b6ce85c90ab55497fa57a461a5fe8eb01b1be3357e684b89fd52ec7",
+      "final_body_sha256": "bc3985690c03797a2e9ad0dea5fd7b2a33dd77a052cf11c1bceba729d6eaa3af",
+      "body_sha256": "bc3985690c03797a2e9ad0dea5fd7b2a33dd77a052cf11c1bceba729d6eaa3af",
+      "final_bytes": 7991,
+      "final_lines": 75,
+      "semantic_conclusion": "删并非所有工作场合禁Singlish的免责声明；正文仍称建议用完整简短句留档，未升级为法定或全职场禁止。",
+      "read_scope": "old and current full changed paragraphs plus all unified-diff context; unchanged text mechanically confirmed and original accepted fact scope inherited, not a new full-source fact review",
+      "changed_line_ranges": [
+        {
+          "kind": "replace",
+          "old_lines": [
+            45,
+            45
+          ],
+          "final_lines": [
+            45,
+            45
+          ]
+        }
+      ],
+      "protected_sequence_equality": {
+        "metadata": true,
+        "h2": true,
+        "table_rows": true,
+        "links": true,
+        "bold": true,
+        "numbers": true
+      },
+      "actual_source_reads": [],
+      "author_feedback_changes": 0,
+      "reverse_equals_initial_frozen": true,
+      "remaining_factual_issues": []
+    },
+    {
+      "path": "content/book/people/learning/tuition-grant.md",
+      "status": "passed",
+      "reviewer": "review_state_audit",
+      "maintenance_author": "root (earlier HUM author and current correction author)",
+      "review_date": "2026-10-14",
+      "original_fact_report": "ops/reviews/b04-tuition-grant-facts.md",
+      "original_editorial_report": "ops/reviews/b04d-editorial.md",
+      "original_acceptance": {
+        "author": "daily_history",
+        "facts": "identity",
+        "editor": "root",
+        "date": "2026-10-13",
+        "report": "ops/reviews/b04-tuition-grant-facts.md",
+        "editorial_report": "ops/reviews/b04d-editorial.md",
+        "reviewed_file_sha256": "59375dab1db724dcc56e445d6bca8b4a173b447f3e16b4816ba1454dcdd805bc",
+        "body_sha256": "a62d60bb44721b7ddf1c8f7a3070d791bbdc1acf875d2146049305f75e6156ee",
+        "engineering": "B04D accepted; production, actual desktop/mobile and sampled print passed; ops/checks/b04d-acceptance.json"
+      },
+      "original_full_sha256": "cd02f5395cf090c70fff286d9fe02c9814589b35d8d57f47577f9bd52542cf76",
+      "original_body_sha256": "a62d60bb44721b7ddf1c8f7a3070d791bbdc1acf875d2146049305f75e6156ee",
+      "initial_frozen_full_sha256": "1eea9e00ed7bd8d53b7bb811619ff27b47cb8310af0d1326d1e5f74f4e97aa6d",
+      "initial_frozen_body_sha256": "0e77d67c0bcd71dff9e394365c9268aef77c1a8958650f6dab7d51cb9561ff83",
+      "final_full_sha256": "1eea9e00ed7bd8d53b7bb811619ff27b47cb8310af0d1326d1e5f74f4e97aa6d",
+      "final_body_sha256": "0e77d67c0bcd71dff9e394365c9268aef77c1a8958650f6dab7d51cb9561ff83",
+      "body_sha256": "0e77d67c0bcd71dff9e394365c9268aef77c1a8958650f6dab7d51cb9561ff83",
+      "final_bytes": 28977,
+      "final_lines": 158,
+      "semantic_conclusion": "9组差分保留指定全日制课程、本人身份、两担保人严格年龄/财力、准证例外、身份变更的三年义务、三月/一年冲突、正式延期批准与八周取得批准、未批升学追偿、BG和discharge程序；删重述性警告不解除任一条件。",
+      "read_scope": "old and current full changed paragraphs plus all unified-diff context; unchanged text mechanically confirmed and original accepted fact scope inherited, not a new full-source fact review",
+      "changed_line_ranges": [
+        {
+          "kind": "replace",
+          "old_lines": [
+            27,
+            27
+          ],
+          "final_lines": [
+            27,
+            27
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            29,
+            29
+          ],
+          "final_lines": [
+            29,
+            29
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            43,
+            43
+          ],
+          "final_lines": [
+            43,
+            43
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            53,
+            53
+          ],
+          "final_lines": [
+            53,
+            53
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            72,
+            72
+          ],
+          "final_lines": [
+            72,
+            72
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            90,
+            90
+          ],
+          "final_lines": [
+            90,
+            90
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            120,
+            120
+          ],
+          "final_lines": [
+            120,
+            120
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            122,
+            122
+          ],
+          "final_lines": [
+            122,
+            122
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            156,
+            156
+          ],
+          "final_lines": [
+            156,
+            156
+          ]
+        }
+      ],
+      "protected_sequence_equality": {
+        "metadata": true,
+        "h2": true,
+        "table_rows": false,
+        "links": true,
+        "bold": true,
+        "numbers": true
+      },
+      "actual_source_reads": [],
+      "author_feedback_changes": 0,
+      "reverse_equals_initial_frozen": true,
+      "remaining_factual_issues": []
+    },
+    {
+      "path": "content/book/people/school/learning.md",
+      "status": "passed",
+      "reviewer": "review_state_audit",
+      "maintenance_author": "root (earlier HUM author and current correction author)",
+      "review_date": "2026-10-14",
+      "original_fact_report": "ops/reviews/b04-school-learning-facts.md",
+      "original_editorial_report": "ops/reviews/b04g-editorial.md",
+      "original_acceptance": {
+        "author": "daily_history",
+        "facts": "identity",
+        "editor": "root",
+        "date": "2026-10-13",
+        "report": "ops/reviews/b04-school-learning-facts.md",
+        "editorial_report": "ops/reviews/b04g-editorial.md",
+        "body_sha256": "2654d1f5e394aa88ba5d0d8a2044c9be09f623278e0a71c2e27042e8c37472e5",
+        "reviewed_file_sha256": "e118ac109e5e7eb2867824110dd0aace4115b68292b1ae71885caed0ee04387f",
+        "engineering": "B04G production and actual desktop/mobile passed; sampled print and final sync recorded in ops/checks/b04g-acceptance.json"
+      },
+      "original_full_sha256": "96f249b976ac41ef5780504fa6c4f6077cc1958ebbd0c00b616e367fe8c62935",
+      "original_body_sha256": "2654d1f5e394aa88ba5d0d8a2044c9be09f623278e0a71c2e27042e8c37472e5",
+      "initial_frozen_full_sha256": "4faf3e17b4f656026a3818377e11f36fb63a871d237d4aa89ad2823bf6fad5d4",
+      "initial_frozen_body_sha256": "a710466c6d06c71e8ba758f273a02987acd79731ff2b719d9300ac2f1cdb4c30",
+      "final_full_sha256": "4faf3e17b4f656026a3818377e11f36fb63a871d237d4aa89ad2823bf6fad5d4",
+      "final_body_sha256": "a710466c6d06c71e8ba758f273a02987acd79731ff2b719d9300ac2f1cdb4c30",
+      "body_sha256": "a710466c6d06c71e8ba758f273a02987acd79731ff2b719d9300ac2f1cdb4c30",
+      "final_bytes": 35310,
+      "final_lines": 187,
+      "semantic_conclusion": "16组差分保留各校类别、2026身份费表及GST、FAS公民条件/项目、Edusave禁用、AL6—8、学校评估与资源、PSLE复核5工作日和升中截止、SPED转介及外国学额例外、IEP/ITP、义务教育/MOE批准、国际校合同费用和FPS边界。表格只删单元格尾句，未改结构。",
+      "read_scope": "old and current full changed paragraphs plus all unified-diff context; unchanged text mechanically confirmed and original accepted fact scope inherited, not a new full-source fact review",
+      "changed_line_ranges": [
+        {
+          "kind": "replace",
+          "old_lines": [
+            27,
+            27
+          ],
+          "final_lines": [
+            27,
+            27
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            29,
+            29
+          ],
+          "final_lines": [
+            29,
+            29
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            45,
+            45
+          ],
+          "final_lines": [
+            45,
+            45
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            59,
+            59
+          ],
+          "final_lines": [
+            59,
+            59
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            63,
+            63
+          ],
+          "final_lines": [
+            63,
+            63
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            80,
+            80
+          ],
+          "final_lines": [
+            80,
+            80
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            112,
+            112
+          ],
+          "final_lines": [
+            112,
+            112
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            147,
+            147
+          ],
+          "final_lines": [
+            147,
+            147
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            153,
+            153
+          ],
+          "final_lines": [
+            153,
+            153
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            161,
+            161
+          ],
+          "final_lines": [
+            161,
+            161
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            165,
+            165
+          ],
+          "final_lines": [
+            165,
+            165
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            169,
+            169
+          ],
+          "final_lines": [
+            169,
+            169
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            173,
+            173
+          ],
+          "final_lines": [
+            173,
+            173
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            177,
+            177
+          ],
+          "final_lines": [
+            177,
+            177
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            179,
+            179
+          ],
+          "final_lines": [
+            179,
+            179
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            185,
+            185
+          ],
+          "final_lines": [
+            185,
+            185
+          ]
+        }
+      ],
+      "protected_sequence_equality": {
+        "metadata": true,
+        "h2": true,
+        "table_rows": false,
+        "links": true,
+        "bold": true,
+        "numbers": true
+      },
+      "actual_source_reads": [],
+      "author_feedback_changes": 0,
+      "reverse_equals_initial_frozen": true,
+      "remaining_factual_issues": []
+    },
+    {
+      "path": "content/book/people/school/school-life.md",
+      "status": "passed",
+      "reviewer": "review_state_audit",
+      "maintenance_author": "root (earlier HUM author and current correction author)",
+      "review_date": "2026-10-14",
+      "original_fact_report": "ops/reviews/b04-school-life-facts.md",
+      "original_editorial_report": "ops/reviews/b04-school-life-editorial.md",
+      "original_acceptance": {
+        "author": "daily_history",
+        "facts": "care_finance",
+        "editor": "root",
+        "date": "2026-10-13",
+        "report": "ops/reviews/b04-school-life-facts.md",
+        "editorial_report": "ops/reviews/b04-school-life-editorial.md",
+        "body_sha256": "fc044bc26adc3f60d53b8e1207bff3b0bcb1c2682851ebb30d3298277d60fd33",
+        "reviewed_file_sha256": "197b896490d80082702c43fed06350857dcd11fe60d3aa808d49615f82d8ed10",
+        "engineering": "B04I production and actual desktop/mobile passed; sampled print and final sync recorded in ops/checks/b04i-acceptance.json"
+      },
+      "original_full_sha256": "5cb9957578fbdec08f339a633f360b713eb06b5bf06b8c0ef99dc67ea49ffee9",
+      "original_body_sha256": "fc044bc26adc3f60d53b8e1207bff3b0bcb1c2682851ebb30d3298277d60fd33",
+      "initial_frozen_full_sha256": "0193a73e82a59daed28703f26e7bc08ac498ebb580bc1ea83be7ad7affe9f97b",
+      "initial_frozen_body_sha256": "4174d82e656dfdf99a34bb5c780ff0c0c9fe741eacfd15ed6b34ca3c3249cce0",
+      "final_full_sha256": "0193a73e82a59daed28703f26e7bc08ac498ebb580bc1ea83be7ad7affe9f97b",
+      "final_body_sha256": "4174d82e656dfdf99a34bb5c780ff0c0c9fe741eacfd15ed6b34ca3c3249cce0",
+      "body_sha256": "4174d82e656dfdf99a34bb5c780ff0c0c9fe741eacfd15ed6b34ca3c3249cce0",
+      "final_bytes": 24195,
+      "final_lines": 122,
+      "semantic_conclusion": "删CCA缺席和搬家服务泛用的尾句；CCA是指导时数及先商量、公民/PR在读P1—5且搬家、不能自选/不保证及未获安排继续原校均保留。",
+      "read_scope": "old and current full changed paragraphs plus all unified-diff context; unchanged text mechanically confirmed and original accepted fact scope inherited, not a new full-source fact review",
+      "changed_line_ranges": [
+        {
+          "kind": "replace",
+          "old_lines": [
+            62,
+            62
+          ],
+          "final_lines": [
+            62,
+            62
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            106,
+            106
+          ],
+          "final_lines": [
+            106,
+            106
+          ]
+        }
+      ],
+      "protected_sequence_equality": {
+        "metadata": true,
+        "h2": true,
+        "table_rows": true,
+        "links": true,
+        "bold": true,
+        "numbers": true
+      },
+      "actual_source_reads": [],
+      "author_feedback_changes": 0,
+      "reverse_equals_initial_frozen": true,
+      "remaining_factual_issues": []
+    },
+    {
+      "path": "content/book/work/business/starting-business.md",
+      "status": "passed",
+      "reviewer": "review_state_audit",
+      "maintenance_author": "root (earlier HUM author and current correction author)",
+      "review_date": "2026-10-14",
+      "original_fact_report": "ops/reviews/b05-business-facts.md",
+      "original_editorial_report": "ops/reviews/b05-business-editorial.md",
+      "original_acceptance": {
+        "author": "root",
+        "facts": "care_finance",
+        "editor": "daily_history",
+        "date": "2026-10-13",
+        "report": "ops/reviews/b05-business-facts.md",
+        "editorial_report": "ops/reviews/b05-business-editorial.md",
+        "body_sha256": "4e8f99eef6c9a26012eab8ac7aa39ef74a81484ff164c91dd01653674c8fc03a",
+        "reviewed_file_sha256": "d6fa0603beec208e72f62c20e64782bb4ccf00b7efa9e17c32d15b110b2c2dff",
+        "engineering": "B04G production and actual desktop/mobile passed; sampled print and final sync recorded in ops/checks/b04g-acceptance.json"
+      },
+      "original_full_sha256": "ee6415f96da0b8495b50d482d1bf3585456ee41f0d13202bf9c4747ddc49ebba",
+      "original_body_sha256": "4e8f99eef6c9a26012eab8ac7aa39ef74a81484ff164c91dd01653674c8fc03a",
+      "initial_frozen_full_sha256": "7ab4afecd0e115a45ecca27d1e4aa669afaa4490e526a47b71af88baf2ddef59",
+      "initial_frozen_body_sha256": "880879035efc0c4f039ee60d550b34921f080808bacc12380a1d20b7b703f6e5",
+      "final_full_sha256": "7ab4afecd0e115a45ecca27d1e4aa669afaa4490e526a47b71af88baf2ddef59",
+      "final_body_sha256": "880879035efc0c4f039ee60d550b34921f080808bacc12380a1d20b7b703f6e5",
+      "body_sha256": "880879035efc0c4f039ee60d550b34921f080808bacc12380a1d20b7b703f6e5",
+      "final_bytes": 22526,
+      "final_lines": 135,
+      "semantic_conclusion": "8组差分保留准证权限及DP配偶分支、EP第二董事批准/无关联评估、外国CSP要求与Singpass步骤页冲突、本地任职条件、股本和营运预算、成功通知/UEN/牌照。ACRA原件支持不能仅凭登录自行递交；这是先核资格的具体操作边界，未改成所有外国人永不可自办。",
+      "read_scope": "old and current full changed paragraphs plus all unified-diff context; unchanged text mechanically confirmed and original accepted fact scope inherited, not a new full-source fact review",
+      "changed_line_ranges": [
+        {
+          "kind": "replace",
+          "old_lines": [
+            15,
+            15
+          ],
+          "final_lines": [
+            15,
+            15
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            35,
+            35
+          ],
+          "final_lines": [
+            35,
+            35
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            42,
+            42
+          ],
+          "final_lines": [
+            42,
+            42
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            70,
+            70
+          ],
+          "final_lines": [
+            70,
+            70
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            74,
+            74
+          ],
+          "final_lines": [
+            74,
+            74
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            102,
+            102
+          ],
+          "final_lines": [
+            102,
+            102
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            121,
+            121
+          ],
+          "final_lines": [
+            121,
+            121
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            129,
+            129
+          ],
+          "final_lines": [
+            129,
+            129
+          ]
+        }
+      ],
+      "protected_sequence_equality": {
+        "metadata": true,
+        "h2": true,
+        "table_rows": false,
+        "links": true,
+        "bold": true,
+        "numbers": true
+      },
+      "actual_source_reads": [
+        "ACRA-B01",
+        "ACRA-B19",
+        "ACRA-B02-sole"
+      ],
+      "author_feedback_changes": 0,
+      "reverse_equals_initial_frozen": true,
+      "remaining_factual_issues": []
+    },
+    {
+      "path": "content/book/work/employment/injury.md",
+      "status": "passed",
+      "reviewer": "review_state_audit",
+      "maintenance_author": "root (earlier HUM author and current correction author)",
+      "review_date": "2026-10-14",
+      "original_fact_report": "ops/reviews/b05-injury-facts.md",
+      "original_editorial_report": "ops/reviews/b05-injury-editorial.md",
+      "original_acceptance": {
+        "author": "identity",
+        "facts": "care_finance",
+        "editor": "root",
+        "date": "2026-10-13",
+        "report": "ops/reviews/b05-injury-facts.md",
+        "editorial_report": "ops/reviews/b05-injury-editorial.md",
+        "body_sha256": "ded294aee91cf2d8babaee9a2f4365fb56ccd7262283e6e4b1ff42805a2d2109",
+        "reviewed_file_sha256": "feca57baaab690b3c51d79fe2b8b5c233674ac41f54013d9e158f9e349053f87",
+        "engineering": "B04I production and actual desktop/mobile passed; sampled print and final sync recorded in ops/checks/b04i-acceptance.json"
+      },
+      "original_full_sha256": "8efd0ecdcbec83d50a5c1da97bfd44f3831347fb555bead0637ab49a925c4d97",
+      "original_body_sha256": "ded294aee91cf2d8babaee9a2f4365fb56ccd7262283e6e4b1ff42805a2d2109",
+      "initial_frozen_full_sha256": "071e2a45269ed1dd77271329f5d294e37e2c6375ab8615d496cb87d1d114d267",
+      "initial_frozen_body_sha256": "b526577e956003e2977a41a397617168c69ab75cba10184a8e5ac140e8caded1",
+      "final_full_sha256": "d05a7d75fced8fbfb20a1690609773dd072de1a1132b963850bbe4a09a933292",
+      "final_body_sha256": "1e76a24351dabfd145383c46f2e0e6e3d5e9d34ee6fea7e9cb5e394c2e103ab8",
+      "body_sha256": "1e76a24351dabfd145383c46f2e0e6e3d5e9d34ee6fea7e9cb5e394c2e103ab8",
+      "final_bytes": 34064,
+      "final_lines": 218,
+      "semantic_conclusion": "16组维护差分中的两处规则强化已由root按反馈修正；最终保留员工或代表通知雇主、按ACOP核平台热措施。AME/工作日/轻工作、PI上下限乘百分比、职业病双期限、平台ADE/AME、多平台取高、14/28日转换、MDW保险、WBGT和2026-12-01未来措施均保留。数字及加粗序列差异来自重复116000/12月工资基数/14与28等提示删除和明确通知对象，不能称全部数字或加粗不变。",
+      "read_scope": "old and current full changed paragraphs plus all unified-diff context; unchanged text mechanically confirmed and original accepted fact scope inherited, not a new full-source fact review",
+      "changed_line_ranges": [
+        {
+          "kind": "replace",
+          "old_lines": [
+            15,
+            15
+          ],
+          "final_lines": [
+            15,
+            15
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            61,
+            61
+          ],
+          "final_lines": [
+            61,
+            61
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            65,
+            65
+          ],
+          "final_lines": [
+            65,
+            65
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            95,
+            95
+          ],
+          "final_lines": [
+            95,
+            95
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            107,
+            111
+          ],
+          "final_lines": [
+            107,
+            111
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            121,
+            121
+          ],
+          "final_lines": [
+            121,
+            121
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            128,
+            128
+          ],
+          "final_lines": [
+            128,
+            128
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            132,
+            132
+          ],
+          "final_lines": [
+            132,
+            132
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            150,
+            152
+          ],
+          "final_lines": [
+            150,
+            152
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            160,
+            160
+          ],
+          "final_lines": [
+            160,
+            160
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            172,
+            172
+          ],
+          "final_lines": [
+            172,
+            172
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            176,
+            176
+          ],
+          "final_lines": [
+            176,
+            176
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            184,
+            186
+          ],
+          "final_lines": [
+            184,
+            186
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            198,
+            198
+          ],
+          "final_lines": [
+            198,
+            198
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            204,
+            204
+          ],
+          "final_lines": [
+            204,
+            204
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            210,
+            210
+          ],
+          "final_lines": [
+            210,
+            210
+          ]
+        }
+      ],
+      "protected_sequence_equality": {
+        "metadata": true,
+        "h2": true,
+        "table_rows": false,
+        "links": true,
+        "bold": false,
+        "numbers": false
+      },
+      "actual_source_reads": [
+        "WICA-I01",
+        "WICA-I10",
+        "WICA-I28",
+        "WICA-I32"
+      ],
+      "author_feedback_changes": 2,
+      "reverse_equals_initial_frozen": true,
+      "remaining_factual_issues": []
+    },
+    {
+      "path": "content/book/work/employment/leaving-job.md",
+      "status": "passed",
+      "reviewer": "review_state_audit",
+      "maintenance_author": "root (earlier HUM author and current correction author)",
+      "review_date": "2026-10-14",
+      "original_fact_report": "ops/reviews/b02-employment-tax-facts.md",
+      "original_editorial_report": null,
+      "original_acceptance": {
+        "author": "identity",
+        "facts": "care_finance",
+        "editor": "root",
+        "date": "2026-10-13",
+        "report": "ops/reviews/b02-employment-tax-facts.md",
+        "body_sha256": "ec71de55198a61e0796c2c393f0013c37b40ce86cf95abee1d87f1f7789c9e03",
+        "reviewed_file_sha256": "996ea262ce3b3a1edb6d4a1005c2187a849ae1c2f095108e72ef293259c4486d"
+      },
+      "original_full_sha256": "ddbe6aa35dad63635698e25d251a727c5534185b715e495f82493d63c9ff1ac7",
+      "original_body_sha256": "ec71de55198a61e0796c2c393f0013c37b40ce86cf95abee1d87f1f7789c9e03",
+      "initial_frozen_full_sha256": "24b990abfdde07bed903a8ccc55ff5a355df9e85536bde11c4ded5c1932d60ff",
+      "initial_frozen_body_sha256": "a8359d19444baef8a518f3f2221dbd9f52c02750b6872fd9659353875c720772",
+      "final_full_sha256": "24b990abfdde07bed903a8ccc55ff5a355df9e85536bde11c4ded5c1932d60ff",
+      "final_body_sha256": "a8359d19444baef8a518f3f2221dbd9f52c02750b6872fd9659353875c720772",
+      "body_sha256": "a8359d19444baef8a518f3f2221dbd9f52c02750b6872fd9659353875c720772",
+      "final_bytes": 12071,
+      "final_lines": 99,
+      "semantic_conclusion": "删只看到账总数和移工欠薪/雇主中介争议不可混同的尾句；结算逐项清单、佣金合同、IR21暂扣、MDW合同通知、TADM不受理MDW和MOM渠道完整。",
+      "read_scope": "old and current full changed paragraphs plus all unified-diff context; unchanged text mechanically confirmed and original accepted fact scope inherited, not a new full-source fact review",
+      "changed_line_ranges": [
+        {
+          "kind": "replace",
+          "old_lines": [
+            48,
+            48
+          ],
+          "final_lines": [
+            48,
+            48
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            87,
+            87
+          ],
+          "final_lines": [
+            87,
+            87
+          ]
+        }
+      ],
+      "protected_sequence_equality": {
+        "metadata": true,
+        "h2": true,
+        "table_rows": true,
+        "links": true,
+        "bold": true,
+        "numbers": true
+      },
+      "actual_source_reads": [],
+      "author_feedback_changes": 0,
+      "reverse_equals_initial_frozen": true,
+      "remaining_factual_issues": [],
+      "legacy_fact_report_body_sha256": "42ff50c721cb1705de38013d98c78ffe669b9404bedee090a52b96bfa143d1ae"
+    },
+    {
+      "path": "content/book/work/finance/banking.md",
+      "status": "passed",
+      "reviewer": "review_state_audit",
+      "maintenance_author": "root (earlier HUM author and current correction author)",
+      "review_date": "2026-10-14",
+      "original_fact_report": "ops/reviews/b05-banking-facts.md",
+      "original_editorial_report": "ops/reviews/b05-banking-editorial.md",
+      "original_acceptance": {
+        "author": "root",
+        "facts": "daily_history",
+        "editor": "identity",
+        "date": "2026-10-13",
+        "report": "ops/reviews/b05-banking-facts.md",
+        "editorial_report": "ops/reviews/b05-banking-editorial.md",
+        "reviewed_file_sha256": "f77f3c927690763ecf8bf0a4b0058b14f14f72125a86956a508b7451e07254ae",
+        "body_sha256": "5653a945cadfa69565cf8d2b8530de1ce2eb230f0cf5ae5e17024be13e9b73d2"
+      },
+      "original_full_sha256": "110e68ec16b1f56d0dbf9d0eaf32d1f4218eabdb1545b10bf9fd4a2ca3da59c1",
+      "original_body_sha256": "5653a945cadfa69565cf8d2b8530de1ce2eb230f0cf5ae5e17024be13e9b73d2",
+      "initial_frozen_full_sha256": "e9bf77dfb9eac41d415b7afc02bf6509ae4361c134eb134606a372dd41c43b15",
+      "initial_frozen_body_sha256": "025136e9df7217965d14046229706a0c069bb5f67b3f9f8f6c61b3a98cfde3fb",
+      "final_full_sha256": "e9bf77dfb9eac41d415b7afc02bf6509ae4361c134eb134606a372dd41c43b15",
+      "final_body_sha256": "025136e9df7217965d14046229706a0c069bb5f67b3f9f8f6c61b3a98cfde3fb",
+      "body_sha256": "025136e9df7217965d14046229706a0c069bb5f67b3f9f8f6c61b3a98cfde3fb",
+      "final_bytes": 22459,
+      "final_lines": 142,
+      "semantic_conclusion": "删重复支付的结果警告；失败后查记录、补缴、确认是否重扣并保留凭据仍在，GIRO未获批继续缴费和停止授权动作不变。",
+      "read_scope": "old and current full changed paragraphs plus all unified-diff context; unchanged text mechanically confirmed and original accepted fact scope inherited, not a new full-source fact review",
+      "changed_line_ranges": [
+        {
+          "kind": "replace",
+          "old_lines": [
+            112,
+            112
+          ],
+          "final_lines": [
+            112,
+            112
+          ]
+        }
+      ],
+      "protected_sequence_equality": {
+        "metadata": true,
+        "h2": true,
+        "table_rows": true,
+        "links": true,
+        "bold": true,
+        "numbers": true
+      },
+      "actual_source_reads": [],
+      "author_feedback_changes": 0,
+      "reverse_equals_initial_frozen": true,
+      "remaining_factual_issues": []
+    },
+    {
+      "path": "content/book/work/finance/cpf-basics.md",
+      "status": "passed",
+      "reviewer": "review_state_audit",
+      "maintenance_author": "root (earlier HUM author and current correction author)",
+      "review_date": "2026-10-14",
+      "original_fact_report": "ops/reviews/b01-care-facts.md",
+      "original_editorial_report": null,
+      "original_acceptance": {
+        "author": "care_finance",
+        "facts": "daily_history",
+        "editor": "root",
+        "date": "2026-10-13",
+        "report": "ops/reviews/b01-care-facts.md",
+        "body_sha256": "a02f942c16e6f1bea943646ec62c36555d998b504d552d07d2879b5dcb6966e0",
+        "reviewed_file_sha256": "0d3ee17d1a08807a33436178474b17505ab8af0fef64dec6350faf72ddf8dc7f"
+      },
+      "original_full_sha256": "7c9e8f4af5dd34cf0266a707ea7189e7b602401370e820224156cff6c5d4d3ae",
+      "original_body_sha256": "a02f942c16e6f1bea943646ec62c36555d998b504d552d07d2879b5dcb6966e0",
+      "initial_frozen_full_sha256": "491377d42ff1d8dc5026758fd45714f2034b6a654f4317ab7bc76e0169c490fe",
+      "initial_frozen_body_sha256": "d97936b93e8c6e33f76e4cd9b439005fb0a1c7fb8378d3343e6eede22d492537",
+      "final_full_sha256": "491377d42ff1d8dc5026758fd45714f2034b6a654f4317ab7bc76e0169c490fe",
+      "final_body_sha256": "d97936b93e8c6e33f76e4cd9b439005fb0a1c7fb8378d3343e6eede22d492537",
+      "body_sha256": "d97936b93e8c6e33f76e4cd9b439005fb0a1c7fb8378d3343e6eede22d492537",
+      "final_bytes": 12158,
+      "final_lines": 84,
+      "semantic_conclusion": "删学生二字不可判断的尾句；特定学生/机构豁免及核本人的学校和工作安排明确，SC/PR月总工资50门槛不变。",
+      "read_scope": "old and current full changed paragraphs plus all unified-diff context; unchanged text mechanically confirmed and original accepted fact scope inherited, not a new full-source fact review",
+      "changed_line_ranges": [
+        {
+          "kind": "replace",
+          "old_lines": [
+            26,
+            26
+          ],
+          "final_lines": [
+            26,
+            26
+          ]
+        }
+      ],
+      "protected_sequence_equality": {
+        "metadata": true,
+        "h2": true,
+        "table_rows": true,
+        "links": true,
+        "bold": true,
+        "numbers": true
+      },
+      "actual_source_reads": [],
+      "author_feedback_changes": 0,
+      "reverse_equals_initial_frozen": true,
+      "remaining_factual_issues": []
+    },
+    {
+      "path": "content/book/work/finance/debt-disputes.md",
+      "status": "passed",
+      "reviewer": "review_state_audit",
+      "maintenance_author": "root (earlier HUM author and current correction author)",
+      "review_date": "2026-10-14",
+      "original_fact_report": "ops/reviews/b05-debt-disputes-facts.md",
+      "original_editorial_report": "ops/reviews/b05-debt-disputes-editorial.md",
+      "original_acceptance": {
+        "author": "root",
+        "facts": "care_finance",
+        "editor": "daily_history",
+        "date": "2026-10-13",
+        "report": "ops/reviews/b05-debt-disputes-facts.md",
+        "editorial_report": "ops/reviews/b05-debt-disputes-editorial.md",
+        "body_sha256": "56c13a38c8b52aad3f552d51501861151a21a606db62b6999d3d0bf9c5a167d7",
+        "reviewed_file_sha256": "c59dafc6958316e2f879a2d6061ee37c4832b09b5136093d3617fce83c9588b2",
+        "engineering": "B04E accepted; production, actual desktop/mobile and sampled print passed; ops/checks/b04e-acceptance.json"
+      },
+      "original_full_sha256": "261a51b04a8359ea28e08f5518b90e03d8fbaab27b8279e699a18d1c31b5790d",
+      "original_body_sha256": "56c13a38c8b52aad3f552d51501861151a21a606db62b6999d3d0bf9c5a167d7",
+      "initial_frozen_full_sha256": "9caba04bf6202737ce1f0cd4660ff7c16f2fb55a8f60e23c2baf47070c6ffbda",
+      "initial_frozen_body_sha256": "f702d68d4bc414d096a403fc76f8dec5556624f0892bbaf5960bb60a18c17eef",
+      "final_full_sha256": "d7bb82dd6c001ad3cbb0241df75e09e76f2a63cf1ebadc72959b8a45752b3d6d",
+      "final_body_sha256": "2f7a6567f626b20a300925a6561f09db63db3c3f8ba88e42c78c377cb22b271d",
+      "body_sha256": "2f7a6567f626b20a300925a6561f09db63db3c3f8ba88e42c78c377cb22b271d",
+      "final_bytes": 22279,
+      "final_lines": 149,
+      "semantic_conclusion": "13组差分保留SC/PR规则范围、DBS指定外籍准证/45000/有效期、逾期与新审查、持牌借贷费用法院例外、2026-09-15冷静期、DCP/DMP/MDMP条件及收费；新增还款历史留存断言已移除，最终按CCS原文写更新DMP状态及逐步重建信用。",
+      "read_scope": "old and current full changed paragraphs plus all unified-diff context; unchanged text mechanically confirmed and original accepted fact scope inherited, not a new full-source fact review",
+      "changed_line_ranges": [
+        {
+          "kind": "replace",
+          "old_lines": [
+            21,
+            21
+          ],
+          "final_lines": [
+            21,
+            21
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            23,
+            23
+          ],
+          "final_lines": [
+            23,
+            23
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            55,
+            55
+          ],
+          "final_lines": [
+            55,
+            55
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            57,
+            57
+          ],
+          "final_lines": [
+            57,
+            57
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            59,
+            59
+          ],
+          "final_lines": [
+            59,
+            59
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            65,
+            65
+          ],
+          "final_lines": [
+            65,
+            65
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            75,
+            75
+          ],
+          "final_lines": [
+            75,
+            75
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            83,
+            83
+          ],
+          "final_lines": [
+            83,
+            83
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            100,
+            100
+          ],
+          "final_lines": [
+            100,
+            100
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            117,
+            117
+          ],
+          "final_lines": [
+            117,
+            117
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            119,
+            119
+          ],
+          "final_lines": [
+            119,
+            119
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            123,
+            123
+          ],
+          "final_lines": [
+            123,
+            123
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            145,
+            145
+          ],
+          "final_lines": [
+            145,
+            145
+          ]
+        }
+      ],
+      "protected_sequence_equality": {
+        "metadata": true,
+        "h2": true,
+        "table_rows": false,
+        "links": true,
+        "bold": true,
+        "numbers": true
+      },
+      "actual_source_reads": [
+        "CCS-D06",
+        "MoneySense-D02"
+      ],
+      "author_feedback_changes": 1,
+      "reverse_equals_initial_frozen": true,
+      "remaining_factual_issues": []
+    },
+    {
+      "path": "content/book/work/finance/household-budget.md",
+      "status": "passed",
+      "reviewer": "review_state_audit",
+      "maintenance_author": "root (earlier HUM author and current correction author)",
+      "review_date": "2026-10-14",
+      "original_fact_report": "ops/reviews/b03-budget-facts.md",
+      "original_editorial_report": "ops/reviews/b03-budget-editorial.md",
+      "original_acceptance": {
+        "author": "root",
+        "facts": "care_finance",
+        "editor": "identity",
+        "date": "2026-10-13",
+        "report": "ops/reviews/b03-budget-facts.md",
+        "editorial_report": "ops/reviews/b03-budget-editorial.md",
+        "body_sha256": "dc4146d2f62c6a5bad41b1c450b24ef9fec90b064d000e08f3b24914c0c9a19c",
+        "reviewed_file_sha256": "5323b90bfa02ff23a60695b6afaf93546a47eb4bbdadbf99753283685d0a3eed"
+      },
+      "original_full_sha256": "bfc754e7f40000ca298ec17a9b9d2f84ef3160ba31f24c16f91d6a05a7f0c1cc",
+      "original_body_sha256": "dc4146d2f62c6a5bad41b1c450b24ef9fec90b064d000e08f3b24914c0c9a19c",
+      "initial_frozen_full_sha256": "7f05800d7fb4db5c7582cca202f246a911edf13f262f8398b7c1e29a4b1072e8",
+      "initial_frozen_body_sha256": "3e28c8ebd25730908dde16f701dd92e414d0067822967ef4115b5c3712bbfb56",
+      "final_full_sha256": "7f05800d7fb4db5c7582cca202f246a911edf13f262f8398b7c1e29a4b1072e8",
+      "final_body_sha256": "3e28c8ebd25730908dde16f701dd92e414d0067822967ef4115b5c3712bbfb56",
+      "body_sha256": "3e28c8ebd25730908dde16f701dd92e414d0067822967ef4115b5c3712bbfb56",
+      "final_bytes": 8385,
+      "final_lines": 79,
+      "semantic_conclusion": "仅删预算表不能增加收入的尾句；教学虚构数字、现金缺口处理、必要照护医疗不可随意压缩及时间安排不变。",
+      "read_scope": "old and current full changed paragraphs plus all unified-diff context; unchanged text mechanically confirmed and original accepted fact scope inherited, not a new full-source fact review",
+      "changed_line_ranges": [
+        {
+          "kind": "replace",
+          "old_lines": [
+            59,
+            59
+          ],
+          "final_lines": [
+            59,
+            59
+          ]
+        }
+      ],
+      "protected_sequence_equality": {
+        "metadata": true,
+        "h2": true,
+        "table_rows": true,
+        "links": true,
+        "bold": true,
+        "numbers": true
+      },
+      "actual_source_reads": [],
+      "author_feedback_changes": 0,
+      "reverse_equals_initial_frozen": true,
+      "remaining_factual_issues": []
+    },
+    {
+      "path": "content/book/work/finance/insurance.md",
+      "status": "passed",
+      "reviewer": "review_state_audit",
+      "maintenance_author": "root (earlier HUM author and current correction author)",
+      "review_date": "2026-10-14",
+      "original_fact_report": "ops/reviews/b05-insurance-facts.md",
+      "original_editorial_report": "ops/reviews/b05-insurance-editorial.md",
+      "original_acceptance": {
+        "author": "root",
+        "facts": "daily_history",
+        "editor": "identity",
+        "date": "2026-10-13",
+        "report": "ops/reviews/b05-insurance-facts.md",
+        "editorial_report": "ops/reviews/b05-insurance-editorial.md",
+        "reviewed_file_sha256": "529db8751f08a2231fdd1f36b2ed8dd41bbb829a4c24dd4b29f90bd9c9b50812",
+        "body_sha256": "6a265268616755a8e32b10ba4dea99d7556c6a727e1e1c6a178731301ffa8133",
+        "engineering": "B04D accepted; production, actual desktop/mobile and sampled print passed; ops/checks/b04d-acceptance.json"
+      },
+      "original_full_sha256": "9f0590964ded81108640578ffe0dadb938029ab6cba86bb32c16e1cea6b041c8",
+      "original_body_sha256": "6a265268616755a8e32b10ba4dea99d7556c6a727e1e1c6a178731301ffa8133",
+      "initial_frozen_full_sha256": "91335624f038af7a641430e8067ed2c208bf7edf8386bf44da59dd5dc615beb4",
+      "initial_frozen_body_sha256": "09c3a9811a00fb0b660630a123e531e2fe3b57c1d123b5a40ce0aee89bf1ba91",
+      "final_full_sha256": "91335624f038af7a641430e8067ed2c208bf7edf8386bf44da59dd5dc615beb4",
+      "final_body_sha256": "09c3a9811a00fb0b660630a123e531e2fe3b57c1d123b5a40ce0aee89bf1ba91",
+      "body_sha256": "09c3a9811a00fb0b660630a123e531e2fe3b57c1d123b5a40ce0aee89bf1ba91",
+      "final_bytes": 23113,
+      "final_lines": 145,
+      "semantic_conclusion": "6组差分保留MSL身份、认可外国准证及实际核保、医生网络、2026rider最低自付/5%/6000不含自付、最终合同批注、14/21日例外退款、所选旅行保单与活动风险；新以所选保单为准是原有产品范围的简写，未设统一排除。",
+      "read_scope": "old and current full changed paragraphs plus all unified-diff context; unchanged text mechanically confirmed and original accepted fact scope inherited, not a new full-source fact review",
+      "changed_line_ranges": [
+        {
+          "kind": "replace",
+          "old_lines": [
+            29,
+            29
+          ],
+          "final_lines": [
+            29,
+            29
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            31,
+            31
+          ],
+          "final_lines": [
+            31,
+            31
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            56,
+            56
+          ],
+          "final_lines": [
+            56,
+            56
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            95,
+            95
+          ],
+          "final_lines": [
+            95,
+            95
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            97,
+            97
+          ],
+          "final_lines": [
+            97,
+            97
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            107,
+            107
+          ],
+          "final_lines": [
+            107,
+            107
+          ]
+        }
+      ],
+      "protected_sequence_equality": {
+        "metadata": true,
+        "h2": true,
+        "table_rows": true,
+        "links": true,
+        "bold": true,
+        "numbers": true
+      },
+      "actual_source_reads": [],
+      "author_feedback_changes": 0,
+      "reverse_equals_initial_frozen": true,
+      "remaining_factual_issues": []
+    },
+    {
+      "path": "content/book/work/finance/saving-investing.md",
+      "status": "passed",
+      "reviewer": "review_state_audit",
+      "maintenance_author": "root (earlier HUM author and current correction author)",
+      "review_date": "2026-10-14",
+      "original_fact_report": "ops/reviews/b05-saving-investing-facts.md",
+      "original_editorial_report": "ops/reviews/b05-saving-investing-editorial.md",
+      "original_acceptance": {
+        "author": "root",
+        "facts": "care_finance",
+        "editor": "daily_history",
+        "date": "2026-10-13",
+        "report": "ops/reviews/b05-saving-investing-facts.md",
+        "editorial_report": "ops/reviews/b05-saving-investing-editorial.md",
+        "reviewed_file_sha256": "8485664857c2c7d15d7bdac32ee1faabb8e4803c69753e8ae2b1e20737d0f17f",
+        "body_sha256": "4e77083b14a248c638cfdf7e398d523d2a58115fafa2dcf16e9f2004d39f6495",
+        "engineering": "B04D accepted; production, actual desktop/mobile and sampled print passed; ops/checks/b04d-acceptance.json"
+      },
+      "original_full_sha256": "9476dbe4e4f4995b829e786562148cb8f2da4c84422917f49ca6e416d0e3b907",
+      "original_body_sha256": "4e77083b14a248c638cfdf7e398d523d2a58115fafa2dcf16e9f2004d39f6495",
+      "initial_frozen_full_sha256": "d22539bf44c2fdecfe857e1d3012538dca4527446bfe6730705d1da695c34b45",
+      "initial_frozen_body_sha256": "7fa57b733d4ed93e4eb7acfea4d54f1009d613b6d788ea4a4b5d9d5a889a499d",
+      "final_full_sha256": "d22539bf44c2fdecfe857e1d3012538dca4527446bfe6730705d1da695c34b45",
+      "final_body_sha256": "7fa57b733d4ed93e4eb7acfea4d54f1009d613b6d788ea4a4b5d9d5a889a499d",
+      "body_sha256": "7fa57b733d4ed93e4eb7acfea4d54f1009d613b6d788ea4a4b5d9d5a889a499d",
+      "final_bytes": 23033,
+      "final_lines": 141,
+      "semantic_conclusion": "5组差分保留CDP/DCS两通知、SSB柜台不受理/ATM、公司行动通知、一般个人投资免税及贷款利息/合伙例外、资料变更及FIDReC期限；未把投资亏损改成可获赔。",
+      "read_scope": "old and current full changed paragraphs plus all unified-diff context; unchanged text mechanically confirmed and original accepted fact scope inherited, not a new full-source fact review",
+      "changed_line_ranges": [
+        {
+          "kind": "replace",
+          "old_lines": [
+            65,
+            65
+          ],
+          "final_lines": [
+            65,
+            65
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            74,
+            74
+          ],
+          "final_lines": [
+            74,
+            74
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            131,
+            131
+          ],
+          "final_lines": [
+            131,
+            131
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            133,
+            133
+          ],
+          "final_lines": [
+            133,
+            133
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            141,
+            141
+          ],
+          "final_lines": [
+            141,
+            141
+          ]
+        }
+      ],
+      "protected_sequence_equality": {
+        "metadata": true,
+        "h2": true,
+        "table_rows": true,
+        "links": true,
+        "bold": true,
+        "numbers": true
+      },
+      "actual_source_reads": [],
+      "author_feedback_changes": 0,
+      "reverse_equals_initial_frozen": true,
+      "remaining_factual_issues": []
+    },
+    {
+      "path": "content/book/work/finance/srs.md",
+      "status": "passed",
+      "reviewer": "review_state_audit",
+      "maintenance_author": "root (earlier HUM author and current correction author)",
+      "review_date": "2026-10-14",
+      "original_fact_report": "ops/reviews/b05-srs-facts.md",
+      "original_editorial_report": "ops/reviews/b05-srs-editorial.md",
+      "original_acceptance": {
+        "author": "root",
+        "facts": "daily_history",
+        "editor": "identity",
+        "report": "ops/reviews/b05-srs-facts.md",
+        "reviewed_file_sha256": "bf9b066e02b3b1847717dfe53aabd9c37155fd83a37e7ddb518512540487b80a",
+        "body_sha256": "0e1044105ab9d7dd48c8383ac3c8680d2c8ad04c9f9541c7e27f33f2157f0190",
+        "date": "2026-10-13",
+        "editorial_report": "ops/reviews/b05-srs-editorial.md",
+        "engineering": "B04C accepted; production, actual desktop/mobile and sampled print passed; ops/checks/b04c-acceptance.json"
+      },
+      "original_full_sha256": "a58ceb3b0bb94ea4b6dfa1f04157f459ae4bbc3f49e2fded778904ac4920b75e",
+      "original_body_sha256": "0e1044105ab9d7dd48c8383ac3c8680d2c8ad04c9f9541c7e27f33f2157f0190",
+      "initial_frozen_full_sha256": "e5d7eccf223cbbd486a259fce66c877e55f81b66be75184422d1d14757bd0a7b",
+      "initial_frozen_body_sha256": "efff60da58ba40e1967f309efce78316ff9dc0b6f760a30788de9b4f845f930f",
+      "final_full_sha256": "e5d7eccf223cbbd486a259fce66c877e55f81b66be75184422d1d14757bd0a7b",
+      "final_body_sha256": "efff60da58ba40e1967f309efce78316ff9dc0b6f760a30788de9b4f845f930f",
+      "body_sha256": "efff60da58ba40e1967f309efce78316ff9dc0b6f760a30788de9b4f845f930f",
+      "final_bytes": 22887,
+      "final_lines": 145,
+      "semantic_conclusion": "4组差分保留5000收入减免不等退税的教学例、逐银行证件、DBS分行提款与海外安排、PR预扣和税务居民最终计税；删除尾句不把PR写为税务居民。",
+      "read_scope": "old and current full changed paragraphs plus all unified-diff context; unchanged text mechanically confirmed and original accepted fact scope inherited, not a new full-source fact review",
+      "changed_line_ranges": [
+        {
+          "kind": "replace",
+          "old_lines": [
+            25,
+            25
+          ],
+          "final_lines": [
+            25,
+            25
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            40,
+            40
+          ],
+          "final_lines": [
+            40,
+            40
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            119,
+            119
+          ],
+          "final_lines": [
+            119,
+            119
+          ]
+        },
+        {
+          "kind": "replace",
+          "old_lines": [
+            135,
+            135
+          ],
+          "final_lines": [
+            135,
+            135
+          ]
+        }
+      ],
+      "protected_sequence_equality": {
+        "metadata": true,
+        "h2": true,
+        "table_rows": true,
+        "links": true,
+        "bold": true,
+        "numbers": true
+      },
+      "actual_source_reads": [],
+      "author_feedback_changes": 0,
+      "reverse_equals_initial_frozen": true,
+      "remaining_factual_issues": []
+    },
+    {
+      "path": "content/book/work/tax/cross-border.md",
+      "status": "passed",
+      "reviewer": "review_state_audit",
+      "maintenance_author": "root (earlier HUM author and current correction author)",
+      "review_date": "2026-10-14",
+      "original_fact_report": "ops/reviews/b05-tax-cross-border-facts.md",
+      "original_editorial_report": "ops/reviews/b05-tax-cross-border-editorial.md",
+      "original_acceptance": {
+        "author": "root",
+        "facts": "identity",
+        "editor": "daily_history",
+        "date": "2026-10-13",
+        "report": "ops/reviews/b05-tax-cross-border-facts.md",
+        "editorial_report": "ops/reviews/b05-tax-cross-border-editorial.md",
+        "body_sha256": "34f41a148d60a75df96c860de5fe04763765b6a9545defcbb69f81acac779adc",
+        "reviewed_file_sha256": "1fdb5a63c9ac60ee8d4ebe5f2f3a0c94fdc0d882736e5709440e242e360a9eb4",
+        "engineering": "B04F production and actual desktop/mobile passed; sampled print and final sync recorded in ops/checks/b04f-acceptance.json"
+      },
+      "original_full_sha256": "b892cfe425f75d9cf68c5393d518d69b191d6520a55863246b1f7b0f36edbc89",
+      "original_body_sha256": "34f41a148d60a75df96c860de5fe04763765b6a9545defcbb69f81acac779adc",
+      "initial_frozen_full_sha256": "329b28b6a8be1449b07acfaab321f565749e1dc75b24c0ef0ed8ebb3146c6af6",
+      "initial_frozen_body_sha256": "470a9fd5652d316bbd14e717d8ad15bf405a251a6e557f61c19def6a33da1382",
+      "final_full_sha256": "329b28b6a8be1449b07acfaab321f565749e1dc75b24c0ef0ed8ebb3146c6af6",
+      "final_body_sha256": "470a9fd5652d316bbd14e717d8ad15bf405a251a6e557f61c19def6a33da1382",
+      "body_sha256": "470a9fd5652d316bbd14e717d8ad15bf405a251a6e557f61c19def6a33da1382",
+      "final_bytes": 17904,
+      "final_lines": 104,
+      "semantic_conclusion": "仅删个人不可误作自行报CRS报表的尾句；金融机构收集/向IRAS报送与个人所得申报用途仍明确，2027生效/2028交换及个人资料更新责任保留。",
+      "read_scope": "old and current full changed paragraphs plus all unified-diff context; unchanged text mechanically confirmed and original accepted fact scope inherited, not a new full-source fact review",
+      "changed_line_ranges": [
+        {
+          "kind": "replace",
+          "old_lines": [
+            96,
+            96
+          ],
+          "final_lines": [
+            96,
+            96
+          ]
+        }
+      ],
+      "protected_sequence_equality": {
+        "metadata": true,
+        "h2": true,
+        "table_rows": true,
+        "links": true,
+        "bold": true,
+        "numbers": true
+      },
+      "actual_source_reads": [],
+      "author_feedback_changes": 0,
+      "reverse_equals_initial_frozen": true,
+      "remaining_factual_issues": []
+    },
+    {
+      "path": "content/book/work/tax/personal-tax.md",
+      "status": "passed",
+      "reviewer": "review_state_audit",
+      "maintenance_author": "root (earlier HUM author and current correction author)",
+      "review_date": "2026-10-14",
+      "original_fact_report": "ops/reviews/b02-employment-tax-facts.md",
+      "original_editorial_report": null,
+      "original_acceptance": {
+        "author": "identity",
+        "facts": "care_finance",
+        "editor": "root",
+        "date": "2026-10-13",
+        "report": "ops/reviews/b02-employment-tax-facts.md",
+        "body_sha256": "51d4abf45e7317f4a744a0395ac6c809f4a382add5ec49397f60b491162e6ab6",
+        "reviewed_file_sha256": "2f46f8e5be7e5822c6ff8e98b00e77e451b8c19c78ebb2484b5aca0d2f257385"
+      },
+      "original_full_sha256": "e6ff76d775fec6ab97deeeba01247ab64aedae4bce9a397487aba65f2f255c2a",
+      "original_body_sha256": "51d4abf45e7317f4a744a0395ac6c809f4a382add5ec49397f60b491162e6ab6",
+      "initial_frozen_full_sha256": "b126f3e0f93d6787fa54ddee53591864ccec395abdd79fb5b004e7be5739d7de",
+      "initial_frozen_body_sha256": "4679b77f7ea631ffb14f41aa3ca111625d43ec7475e8a3515cb834e8fa0530a6",
+      "final_full_sha256": "b126f3e0f93d6787fa54ddee53591864ccec395abdd79fb5b004e7be5739d7de",
+      "final_body_sha256": "4679b77f7ea631ffb14f41aa3ca111625d43ec7475e8a3515cb834e8fa0530a6",
+      "body_sha256": "4679b77f7ea631ffb14f41aa3ca111625d43ec7475e8a3515cb834e8fa0530a6",
+      "final_bytes": 10835,
+      "final_lines": 79,
+      "semantic_conclusion": "仅删重复2026年份截止不可当未来通知的尾句；正文仍明确以2026报税季为实例并要求届时另查2027真实通知，日期未预测或顺延。",
+      "read_scope": "old and current full changed paragraphs plus all unified-diff context; unchanged text mechanically confirmed and original accepted fact scope inherited, not a new full-source fact review",
+      "changed_line_ranges": [
+        {
+          "kind": "replace",
+          "old_lines": [
+            20,
+            20
+          ],
+          "final_lines": [
+            20,
+            20
+          ]
+        }
+      ],
+      "protected_sequence_equality": {
+        "metadata": true,
+        "h2": true,
+        "table_rows": true,
+        "links": true,
+        "bold": true,
+        "numbers": false
+      },
+      "actual_source_reads": [],
+      "author_feedback_changes": 0,
+      "reverse_equals_initial_frozen": true,
+      "remaining_factual_issues": [],
+      "legacy_fact_report_body_sha256": "c0301bdc53dc1db3d13f300ce60e8251dab6da100e04f53003f63b51e4a88edc"
+    }
+  ],
+  "boundaries": {
+    "limited_maintenance_fact_review": true,
+    "all_changed_paragraphs_read": true,
+    "original_facts_inherited_for_unchanged_text": true,
+    "new_full_source_fact_review": false,
+    "verified_dates_changed": false,
+    "new_network_by_this_reviewer": false,
+    "pdfs_reextracted_or_visually_checked_by_this_reviewer": false,
+    "hugo_or_production_build": false,
+    "browser_or_print_review": false,
+    "accepted_changed": false,
+    "source_content_changed_by_reviewer": false,
+    "stage_or_commit": false
+  }
+}

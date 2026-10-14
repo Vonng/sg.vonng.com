@@ -7,7 +7,7 @@ scope: "新加坡；男性公民和 PR、准备申请身份者及其家庭的国
 status: integrated
 draft: false
 verified: "2026-10-13"
-reviewed_by: "care_finance（独立事实审）；root（编辑静态审）"
+reviewed_by: "care_finance（独立事实审）；root（编辑静态审）；HUM10限定维护：coverage_audit（事实）；review_state_audit（第三编辑）"
 weight: 30
 ---
 

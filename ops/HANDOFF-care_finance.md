@@ -1,6 +1,33 @@
 # care_finance 当前交接（2026-10-13）
 
+## 2026-10-14 08:42 主控接收追记（当前）
+
+以下作者断点为Oct13历史。成人学习、照护者支持、房产税三篇已完整两审及B06A实际工程集成；HUM10将50维护版本限定两审/当前SHA/工程全部闭合，accepted保留旧审范围与原verified，public340产物一致。新所有权与具体下一步见CHECKPOINT：care_writer老年、review_state_audit法律、root困难三任务，coverage_audit独审。旧代理句柄/PID与“待成人/照护事实”等描述不作当前运行状态。retirement已完整两审待下一批工程；employment-claims完整作者冻结交独立事实。主控只在此追记接收，不代称旧作者做了新工程。
+
+## 原作者交接（历史）
+
+
 工作目录 /Users/vonng/www/sg.vonng.com；Singapore日期本轮实际核为2026-10-13（19:08）。用户已明确续跑，旧交接的暂停/等待授权约束已经上级解除；持续执行同一完整目标。主控工具目标状态由root处理，本人不改变它。
+
+## 当前：caregiver限定修交daily最终事实；retirement实际研究中
+
+2026-10-13 20:42 Singapore，caregiver-support按daily三组反馈修订（GP及拟入住前六个月报告材料、HCG新加坡多物业、deputy十二个月从申请获批起及主管另定期限），原件相关段重新实读，三个完整改段复读。25,390 B／fullcaff71e623c704160ff295df63a9c0504cd1e5326e9aa2cdfd8ace1fa8179c17／body7c5267d96d43b4deba17e05d3b5bfcb7ed9ec1e7c4b58c41f9416aafd9d865a7，三组严格逆替回首冻，元数据与URL不变。精确记录caregiver-support/author-facts-feedback.json，交daily_history最终独立事实，root第三编辑；正文重新冻结，不自签。
+
+退休研究已实际读MOM主干、2026-07再就业指引18页全部文字、CPF55/65主干、MRSS/Silver Support和AAC。真实分段范围及未读清单存retirement/read-checkpoint.md；open7刚取得尚待处理，关键EAP三张表仍须实际目视。出生三批次再就业期与EAP减档中点不同，不能把当前一般页的64岁／30个月推给全部人。下一动作补原件缺口并写完整退休篇，随后长期照护／预先安排／身后事。root拟交房产税成熟稿事实，此时尚未冻结，不接半稿；收到正式稿再安排。
+
+以下首冻及旧队列是审计历史，当前版本和归属以本节为准。
+
+## 当前：caregiver-support完整作者稿冻结交daily_history；B04I两事实稿已接收
+
+2026-10-13 Singapore，caregiver-support完整125行已作者实际自审，三处自审精修后完整改段复读。25,140 B／fullc06f223fdd4e7860c8cbe8651ce6ee07459472b0f725089dc9150045755e4499／body9fdef2668eb91cd03980594949e0ba07a3066613c86f5c5d648e33852d9c93be，仍written/draft:true/核验空，九字段／加粗／无H1／11实际integrated内链静态通过。CG01—23、五PDF及真实九图页完整在ops/evidence/b04-care-ageing.md；原件/研究范围/作者机器记录/首冻副本在.cache/research/b04-care-ageing/caregiver-support/。冻结交daily_history独立事实，root第三编辑；问题本人修，不自签。
+
+HCG AV网页under与金额表<=冲突已由2026-06-01条款物理19及MOF物理3核为<=21000；条款11/19图已实读，12个月代理/账户具体边界保留。TAFEP新web失败止损，实际复读同日已接受真实原返回src-043。ESH FAQ web超时正常HTTPS成功，全文三页文字/1和2图；Q1旧2025场地与Q10暂免收费不外推。2027 ID/ASD四计划拓宽细则仍未来。完整稿覆盖照护操作与办理链，没有囤为孤立补贴表。
+
+root报告B04I已实际接收school-life、injury、tax-corrections，前两篇本人事实正文SHA分别fc044bc2…及ded294ae…未变；本人机器再核实际文件integrated/draft:false。root工程16路径双视口48+36、3网页及PDF327/378/455/457、471页打印、138源83主题2草稿、328产物同步、累计81接收；本人不代称亲自工程。root负责本地保存提交。
+
+下一动作：作者caregiver保持冻结，转ageing retirement必要完整研究，联MOM退休/再就业2026批次、CPF/LIFE、root已集成SRS与生活服务；随后long-term-care、planning-ahead、death全部必要种子。收到成熟稿事实任务优先闭稿，不重做已接受未变稿。
+
+root最新改排已执行：caregiver事实由daily_history独占，identity不接以免和adult-learning并队；同一冻结版CG证据与原件已直接转发daily，root第三不变。
 
 ## 当前补充：injury与学校稿均完成第三编辑限定事实继承
 

@@ -7,7 +7,7 @@ scope: 新加坡 HDB、私人公寓及有地住宅的业主和居住者；含公
 status: integrated
 draft: false
 verified: "2026-10-13"
-reviewed_by: "identity（独立事实）；root（第三人编辑）"
+reviewed_by: "identity（独立事实）；root（第三人编辑）；HUM10限定维护：coverage_audit（事实）；review_state_audit（第三编辑）"
 weight: 50
 search_keywords: ["MD", "CMC", "CDRT", "STB", "CRU", "MCST", "邻里纠纷", "噪音"]
 ---

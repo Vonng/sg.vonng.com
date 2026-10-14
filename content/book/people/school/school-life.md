@@ -7,7 +7,7 @@ scope: "新加坡在校儿童、青少年与家长；主流学校安排为主，
 status: integrated
 draft: false
 verified: '2026-10-13'
-reviewed_by: care_finance（独立事实）；root（第三编辑）
+reviewed_by: "care_finance（独立事实）；root（第三编辑）；HUM10限定维护：review_state_audit（事实）；coverage_audit（第三编辑）"
 weight: 30
 search_keywords: ["学校生活", "Parents Gateway", "学生托管", "SCFA", "CCA", "SLS", "PLD", "霸凌", "欺凌", "转学", "LOA", "返校", "OSC", "SSCC"]
 ---

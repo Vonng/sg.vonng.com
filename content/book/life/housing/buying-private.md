@@ -7,7 +7,7 @@ scope: 在新加坡购买普通私人住宅的个人及家庭，含公民、PR�
 status: integrated
 draft: false
 verified: "2026-10-13"
-reviewed_by: "identity（独立事实）；root（第三人编辑）"
+reviewed_by: "identity（独立事实）；root（第三人编辑）；HUM10限定维护：coverage_audit（事实）；review_state_audit（第三编辑）"
 weight: 35
 search_keywords: ["SLA", "LDAU", "RPA", "URA", "CEA", "INLIS", "公寓", "地屋", "OTP", "楼花", "收楼"]
 ---

@@ -1,6 +1,6 @@
 # 全书内容地图
 
-更新：2026-10-13（Asia/Singapore）。用户本次明确续跑，get_goal已实查active；继续完整五部分28领域。此前82源交接快照保留；本次恢复核实109源与实际审核版本，恢复三条独立写审线。恢复后累计接收81主题，学校生活／工伤／税务更正见checks/b04i-acceptance.json；残障支持见checks/b04h-acceptance.json；学校课程／创业经营见checks/b04g-acceptance.json；劳动权益／心理健康／跨境个税见checks/b04f-acceptance.json，债务与预防支付日期维护见checks/b04e-acceptance.json；分居安全／TG／储蓄投资／保险及预防原版见checks/b04d-acceptance.json；高教／药品／家政移工／SRS见checks/b04c-acceptance.json；医疗记录／托育及上一六篇分别见b04b与b04a。历史现场见HANDOFF-2026-10-13.md。这是持续目标的覆盖地图；候选路径只登记于此，不生成空正文。覆盖认定须检查每个领域的必要分支，文章数量不作完成门槛。
+更新：2026-10-14 08:29（Asia/Singapore）。B06A/HUM10已接收：84主题本地集成，50篇维护差分异人事实与第三编辑、当前正文SHA和实际工程均闭合，原verified不因表达维护更新。146源/86主题/4draft为本批门禁实况；340产物已同步public并逐路径/大小/SHA一致。退休首稿已完成并在独立事实收尾，admission仍待核心原文；两个新章导读为私有draft，不公开占位。原109候选现为84接收+退休/admission两稿+23无正文；困难援助拆出两候选后为111，完整承接原问题。B06逐领域/身份/生命周期走查仍未整体通过。
 
 ## 内容与资格模型
 
@@ -166,7 +166,7 @@
 |---|---|---|
 | `/book/people/accessibility/mental-health/` | 压力孤独与危机怎样获得支持 | integrated（事实/第三编辑/生产与渲染通过；B04F接收版本见accepted.json） |
 | `/book/people/accessibility/disability/` | 评估辅具交通住宅工作数字无障碍怎样申请 | integrated（care作者/identity事实/root第三编辑及B04H工程通过） |
-| `/book/people/accessibility/caregiver-support/` | 照顾者喘息服务与费用资格怎样查 | researching（care主管原文断点已保存） |
+| `/book/people/accessibility/caregiver-support/` | 照顾者喘息服务与费用资格怎样查 | integrated（独立事实/root第三编辑及B06A生产、桌面手机打印通过） |
 
 ### 15. 亲密关系、婚姻、家庭与生育（family）
 
@@ -199,7 +199,7 @@
 |---|---|---|
 | `/book/people/learning/higher-education/` | 大学理工ITE怎样申请和比较费用 | integrated（独立事实、第三编辑、B04C生产及实际渲染通过；accepted SHA绑定） |
 | `/book/people/learning/tuition-grant/` | TuitionGrant义务和学生实习工作条件 | integrated（B04D两轮审稿及实际工程通过，主管冲突如实保留） |
-| `/book/people/learning/adult-learning/` | SkillsFuture培训质量海外学历职业资格怎样核验 | writing（daily E111—141研究已落证据；在途草稿未完成冻结，不计接收） |
+| `/book/people/learning/adult-learning/` | SkillsFuture培训质量海外学历职业资格怎样核验 | integrated（独立事实/root第三编辑及B06A生产、桌面手机打印通过） |
 
 ### 18. 英语、华语与多语生活（language）
 
@@ -217,8 +217,8 @@
 
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
-| `/book/people/ageing/retirement/` | 退休再就业CPFLIFESRS与收入怎样安排 | planned |
-| `/book/people/ageing/long-term-care/` | 独居认知变化居家机构照护及长期护理保障 | planned |
+| `/book/people/ageing/retirement/` | 退休再就业CPFLIFESRS与收入怎样安排 | written（care_writer完整136行稿；coverage_audit全文事实/root第三编辑通过，待实际工程） |
+| `/book/people/ageing/long-term-care/` | 独居认知变化居家机构照护及长期护理保障 | researching（care_writer独占正文/证据/地图，现行补贴及护理保障逐分支回源） |
 | `/book/people/ageing/planning-ahead/` | LPA预先医疗照护、遗嘱CPF提名怎样安排 | planned |
 | `/book/people/ageing/death/` | 死亡登记丧葬遗产哀伤与跨境善后怎样衔接 | planned |
 
@@ -243,7 +243,10 @@
 | `/book/work/employment/employment-rights/` | 工资工时休假工资单哪些人适用 | integrated（事实/第三编辑/生产与渲染通过；B04F接收版本见accepted.json） |
 | `/book/work/employment/injury/` | 职业安全工伤赔偿保险怎样求助 | integrated（identity作者/care事实/root第三编辑及B04I实际工程通过） |
 | `/book/work/employment/leaving-job/` | 辞职解雇裁员后的准证税务家属怎样处理 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
-| `/book/work/employment/hardship/` | 薪资争议和收入中断怎样找TADM及生活支持 | researching（identity核TADM/ECT/求职支持及ComCare完整链，尚未冻结正文） |
+| `/book/work/employment/hardship/` | 薪资争议和收入中断怎样找TADM及生活支持 | researching（root复用真实TADM/ECT/Jobseeker/ComCare原件；拆后本页承接日常困难与生活援助） |
+
+| `/book/work/employment/employment-claims/` | 工资与解雇申索：TADM调解、和解登记、ECT送达开庭与执行上诉；从hardship按争议程序拆出 | written（root完整109行/body268f4822…，20组证据，coverage_audit事实在途） |
+| `/book/work/employment/jobseeker-support/` | 非自愿失业后的求职支持：资格、申请、积分活动、月款、复工停止与申诉；从hardship按支援计划拆出 | researching（root复用现行AskGov详问及真实官方事实表，旧公民单一资格不采用） |
 
 ### 22. 银行、CPF、储蓄、投资与保险（finance）
 
@@ -268,7 +271,7 @@
 | `/book/work/tax/personal-tax/` | 居民身份YA和所得期间、申报报送缴税怎样衔接 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 | `/book/work/tax/leaving-singapore/` | 离职离境IR21税务清算哪些人适用 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 | `/book/work/tax/cross-border/` | 海外收入与跨境工作、COR/FTC、资产账户CRS/FATCA | integrated（事实/第三编辑/生产与渲染通过；B04F接收版本见accepted.json） |
-| `/book/work/tax/property-tax/` | 自住出租空置的年度房产税与租金所得、买卖税费交叉 | researching（root P01—07实际阅读范围已记evidence/b05-property-tax；无正文） |
+| `/book/work/tax/property-tax/` | 自住出租空置的年度房产税与租金所得、买卖税费交叉 | integrated（care_writer全文事实/review_state_audit第三编辑/B06A工程通过；正文d1090e1a…） |
 | `/book/work/tax/corrections-disputes/` | 申报更正、税单异议、自愿披露与缴款困难 | integrated（root作者/identity事实/daily第三编辑及B04I实际工程通过；VDP真实冲突明示） |
 
 ### 24. 创业、企业、经营与公司税务（business）
@@ -289,7 +292,7 @@
 
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
-| `/book/rights/legal/legal-system/` | 法律政策和宗教法制度怎样识别 | planned |
+| `/book/rights/legal/legal-system/` | 法律政策和宗教法制度怎样识别 | researching（review_state_audit完整104行首稿/bodya938037a…，24组证据，待root全文回源事实） |
 | `/book/rights/legal/getting-help/` | 调解法律援助律师裁判庭怎样选 | planned |
 | `/book/rights/legal/rights-notices/` | 通知证据送达期限、隐私平等表达集会规则 | planned |
 

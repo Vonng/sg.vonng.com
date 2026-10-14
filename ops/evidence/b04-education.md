@@ -363,3 +363,13 @@ care已正式事实通过上述版本。root第三编辑随后列13处重复旁�
 - 新P1官方入口`https://p1.placement.moe.gov.sg/`仅在成人研究搜索中定位，**未实际打开**；它是admission后续可查的新URL条件，不把搜索2026日期当已核P1资格。旧admission／HDB／EC失败不因此一并重试。
 
 下一为完整adult-learning作者成稿、作者全文／静态及冻结，交identity独立事实；任何实际未知保留对应制度边界，不用三金额表或机构目录缩窄整篇。正式正文未自行提升核验状态。
+
+### 成人学习完整首冻及学校生活接收（2026-10-13 20:32）
+
+`adult-learning.md`作者完整稿正式冻结：36,893B／175行，full `75f4f3928fefa4a433a0f57b3a13abdd8ee0d649196de18ee9d0a3512db44105`／body `52cca49970a23ac1f5bed3ec112d3af33edb7f27a62b78aa6d88f5b3d5f3492f`。作者先实际通读1—110、111—139与141—175正文，随后对SFC改班／异步14日／个人记录6月及14日、WSS凭证、PEI4.1全部退款触发与3／10／7工作日、AHPC段逐段回源复读并修清。11H2、81HTTPS、6内链6目标全部已integrated、3表均3列、九元数据written/draft:true／核验空、加粗与EOF／无内部标记静态通过。完整固定副本及机器结果分别在`adult-learning-author-frozen.md`、`adult-learning-author-check.json`。本轮没有构建、浏览器或打印，事实审未开始，交identity异人回源，再交root第三编辑。
+
+20:40限定修订：identity已独立事实审进行中，提出工时外培训津贴须明确本人工资时薪基准。作者实际复读`adult-source-26.txt`中MOM问答L34—36及议会答复L43，将唯一短语“按小时计算的津贴”改为“按本人工资时薪计算的津贴”；完整改段复读，无其余变化。当前36,905B／175行，full `ee9bcfedf6811a64222aa3ef4aa40765e3ca09d0675ba3af0a59a8b84c080ee1`／body `77f54b5b2cbd6768e8671b33ee1c3ccfe892c3f9defe9247efad79cebbedc4c8`。唯一字符串逆替严格恢复首冻全文，检查和差分在`adult-learning-feedback1-check.json`／`adult-learning-feedback1.diff`。已返identity统一最终事实复核，保持作者冻结，不自行签通过。
+
+审阅提醒：SFC FAQ及指南明确开课日含在申领窗，申请人条款3.2以unless otherwise permitted及before start date表述，正文按现行明确窗口且建议先报名／及时办理；改班额外采用正式条款原日前书面同意及原新日期较早者。WSS Basic原文交易凭证`within three months from course end date`，正文按结束日起三个月描述；独审如需收紧必须反馈作者。Level-Up详细目录未成功，不采用搜索1500／3000双层表，仅MOM已实际全文公告年度18000与40前／后24月，40后与Mid-Career TA共用按TA条款5.7。e-attendance采用Q9—22／36—53，75%限定其TA课程，不套全部IHL；PEI4.1整份XML实读无Word目视；SMC11页文字实读、独立费表1页真实目视。原失败不重复探测。
+
+学校生活已由root明确完成B04I两审、实际工程与本地提交4da4c93；本人核实际integrated/draft:false，正文body `fc044bc26adc3f60d53b8e1207bff3b0bcb1c2682851ebb30d3298277d60fd33`保持。本节替代旧“学校待工程”状态，详细检查由root保存在`ops/checks/b04i-acceptance.json`。

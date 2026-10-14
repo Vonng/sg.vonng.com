@@ -28,3 +28,5 @@ weight: 30
 因疾病、事故或残障需要调整岗位或复工时，查[工作与辅具支持](/book/people/accessibility/disability/)，核就业服务、雇主申请的岗位调整资助及适用条件。
 
 工作受伤、确诊职业病或雇主未报事故时，查[工伤索偿](/book/work/employment/injury/)，核就医费用、休养收入、通知期限及准证取消后的处理；家政工作者使用该篇的专门保障分支。
+
+在职兼读或安排雇主培训时，查[成人学习](/book/people/learning/adult-learning/)的学制、工作许可、付款与培训补偿；需要照顾亲友，可从[照护事项](/docs/routes/caregiving/)核服务接纳、费用与接替。

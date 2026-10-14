@@ -28,3 +28,5 @@ weight: 50
 日常接送、课后托管、家校联系，以及欺凌或网络伤害求助，查[学校生活与学生保护](/book/people/school/school-life/)；搬家或海外就学前也在该篇核对衔接安排。
 
 家人需要辅具或住宅调整时，从[残障支持](/book/people/accessibility/disability/)了解评估、验证及申请材料，并让实际使用者参与设备和服务选择。
+
+家属进修可用[成人学习事项](/docs/routes/adult-learning/)区分课程、费用资助及学习工作权限；准备长期照顾亲友，先用[照护事项](/docs/routes/caregiving/)接稳日常安排和临时接替。

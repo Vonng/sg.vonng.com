@@ -1,5 +1,8 @@
 # B05 职业、劳动关系与经济困难
 
+2026-10-14 08:42主控接收追记：成人学习/照护者已B06A两审与实际工程集成；50维护版本HUM10独立限定两审/工程闭合，当前正文SHA以accepted及对应HUM10报告为准。退休136行body66abb2b5…完整事实/第三编辑通过待工程；困难三任务拆页见BOOKMAP和b06-employment-claims地图；原稿历史SHA与作者旧状态不替代当前版。
+
+
 作者／正文与本地图所有者 identity；2026-10-13（Asia/Singapore）。root明确分派本批正文，Tuition Grant事实及保险第三编辑均已完成接收。此地图先登记独占边界，没有建立公开空页或将计划标成写完。root保留finance／tax／business，care独立事实，root第三编辑与工程接收。
 
 ## 页面和顺序
@@ -8,7 +11,7 @@
 | --- | --- | --- |
 | `content/book/work/employment/employment-rights.md` | 入职及在职怎样核合同、关键雇佣条款、工资单、工资／扣款／发薪、工时加班、休息和假期；雇主不履行时保存什么材料、找谁办理 | integrated／draft:false，care最终独立事实及root第三编辑通过，B04F生产、桌面／手机、打印和public同步已由root实际接收；按首轮仅补年病假表近邻全职／兼职范围，事实冻结版36,219 B／body45a995d41c5ed6832475a2e5e6881f9b291170b5768c2fc4aa86a71632499a95。作者全文自审／静态及修改段复读，R01—55详源及未知矩阵已落盘。逐项核EA覆盖与Part IV门槛、职位／薪资口径、全职兼职／定期合同，公民PR与各外籍准证、MDW、海员／公职、自雇和平台工作者边界；假期各制度的孩子国籍／婚姻／工作时长／出生或收养批次不能相互推定 |
 | `content/book/work/employment/injury.md` | 职业风险、事故或职业病后怎样就医、报告、保存工资及医学记录，如何走工伤索偿／保险与争议 | integrated／draft:false；218行完整稿已作者自审、care独立事实及root第三编辑通过；两处纯表达精简经care严格逆差分继承，最终作者35242B／bodyded294aee91cf2d8babaee9a2f4365fb56ccd7262283e6e4b1ff42805a2d2109。root B04I已实际构建、桌面手机／打印与public接收；正文保持冻结。I01—33详源矩阵完整；一般雇员／平台／MDW／自雇、报告及工资医费／PI死亡／职业病／争议、外籍离境、unsafe与现行及2026-12-01未来热措施均覆盖。未运行计算器／登录服务，未把投保门槛当赔偿资格 |
-| `content/book/work/employment/hardship.md` | 欠薪、失业、债务及生活困难怎样选MOM／TADM／ECT／工会与社会支援，提交、调解、命令和执行怎样接续 | researching；TADM／ECT与JS、ComCare真实原件和阅读断点已存.cache/research/b05-hardship/read-checkpoint.md；尚无正文。依root优先税务更正独立事实后续。雇员／自雇／平台／MDW分别核入口；工作及离职时间、请求种类和金额／期限、公司清算、移民状态与社会救助SC／PR／外国人资格；SkillsFuture Jobseeker Support与社区方案须读当期独立资格，不凭失业身份推定 |
+| `content/book/work/employment/hardship.md` | 欠薪、失业、债务及生活困难怎样选MOM／TADM／ECT／工会与社会支援，提交、调解、命令和执行怎样接续 | researching；TADM／ECT与JS、ComCare真实原件和阅读断点已存.cache/research/b05-hardship/read-checkpoint.md；尚无正文。税务更正事实已完成接收，现续完整正文；adult-learning成熟后优先独立事实。雇员／自雇／平台／MDW分别核入口；工作及离职时间、请求种类和金额／期限、公司清算、移民状态与社会救助SC／PR／外国人资格；SkillsFuture Jobseeker Support与社区方案须读当期独立资格，不凭失业身份推定 |
 
 ## 既有主文与边界
 
@@ -19,4 +22,4 @@
 
 ## 研究纪律与下一步
 
-优先MOM、CPF Board、MSF、WSG、TADM及法院各制度详细原文；数据和条款按实际查阅日、政策有效期及适用条件逐项登记至独占`ops/evidence/b05-employment.md`（有实际来源后才建）。现有失败源先查已留记录，无新URL／版本不重探；必要时最多一次正常8888，不关闭TLS或绕挑战。Tuition Grant事实及保险第三编辑已经通过；劳动权益已integrated并保持正文冻结；injury已由root B04I完成第三编辑与实际工程接收integrated，最终两表达修订事实继承通过；实际原返回及首次冻稿在.cache/research/b05-injury，本人续hardship研究。root税务更正争议成熟稿正式交来时优先独立事实，再回hardship。school事实已通过并root接收，不重审未变正文；不建公开计划空页。
+优先MOM、CPF Board、MSF、WSG、TADM及法院各制度详细原文；数据和条款按实际查阅日、政策有效期及适用条件逐项登记至独占`ops/evidence/b05-employment.md`（有实际来源后才建）。现有失败源先查已留记录，无新URL／版本不重探；必要时最多一次正常8888，不关闭TLS或绕挑战。Tuition Grant事实及保险第三编辑已经通过；劳动权益已integrated并保持正文冻结；injury已由root B04I完成第三编辑与实际工程接收integrated，最终两表达修订事实继承通过；实际原返回及首次冻稿在.cache/research/b05-injury，本人续hardship研究。root税务更正争议独立事实及限定继承已正式通过并接收；下一成熟成人学习稿到达后优先独立事实，再回hardship。school事实已通过并root接收，不重审未变正文；不建公开计划空页。

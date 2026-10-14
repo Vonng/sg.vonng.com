@@ -7,7 +7,7 @@ scope: 在新加坡生活的不同年龄、身份和收入读者；社区参与�
 status: integrated
 draft: false
 verified: "2026-10-13"
-reviewed_by: "care_finance（独立事实）；identity（第三人编辑）"
+reviewed_by: "care_finance（独立事实）；identity（第三人编辑）；HUM10限定维护：coverage_audit（事实）；review_state_audit（第三编辑）"
 weight: 30
 search_keywords: ["CV", "VC", "SG Cares", "志愿", "交朋友", "互助"]
 ---
