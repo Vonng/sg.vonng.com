@@ -157,7 +157,7 @@ HUM10将HUM02—09实际改变的50篇正文与4da4c93旧接收逐改段独立�
 - [x] `content/book/people/healthcare/healthcare-payments.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
 - [x] `content/book/people/language/_index.md` — HUM06—HUM08批次全文通读过判据，无新增改句，2026-10-13。
 - [x] `content/book/people/language/everyday-language.md` — HUM04删1处，命中行逐条过判据，2026-10-13。
-- [○] `content/book/people/school/admission.md`
+- [x] `content/book/people/school/admission.md` — HUM11通读无改句（2026-10-15，入学资格与期限边界类否定全部通过判据），07e4da2集成版。
 
 ### rights（3）
 
@@ -303,14 +303,14 @@ B04I 追增后新增、此前未入队的源，均为在途 draft：
 - [x] `content/book/rights/safety/controlled-items.md` — B142全文HUM及两术语限定，C完整facts／A第三／root B06G工程，body2f2bcba0…。
 - [x] `content/book/rights/outdoors/parks-water.md` — C110全文19操作／四HUM轮，B完整facts／root真正第三及B06H工程，body1b4b4267…。
 - [x] `content/book/rights/outdoors/travel-borders.md` — B163全文17HUM／三政策／六释义，C完整facts及限定重绑／A真正第三和B06H工程，body5322f08a…。
-- ○ `content/book/rights/outdoors/travel-support.md` — 原51已明确转C唯一完整作者，完整HUM／冻结／独审待闭。
-- ○ `content/book/life/digital/privacy-data.md` — 外来39初稿，B唯一接续现法/完整任务及HUM，未审。
+- [x] `content/book/rights/outdoors/travel-support.md` — HUM11删3处（2026-10-15全文通读，含环保倡议中纯品德项），07e4da2集成版。
+- [x] `content/book/life/digital/privacy-data.md` — HUM11删2处（2026-10-15全文通读，清单标签句与机构视角说教），07e4da2集成版。
 
 ### B06G新增工作稿追登
 
-- ○ `content/book/life/housing/buying-hdb.md` — A133首冻及自修，核心条件缺口不消；独审与工程未做。
-- ○ `content/book/life/housing/buying-ec.md` — A124正式作者冻，13HUM整块及全diff／逆替已实读，核心资格与独审待。
-- ○ `content/book/rights/contracts/disputes.md` — root缓存123完整draft2，15＋2改块／两全diff／最终全文和root逆替真闭；唯一术语替换URL误改已修，支持／正式冻／独审仍待。
+- [x] `content/book/life/housing/buying-hdb.md` — HUM11通读无改句（2026-10-15，否定均为资格/期限/资金误判防护），07e4da2集成版。
+- [x] `content/book/life/housing/buying-ec.md` — HUM11删2处（2026-10-15全文通读，复述尾巴），07e4da2集成版。
+- [x] `content/book/rights/contracts/disputes.md` — HUM11删1处（2026-10-15全文通读，建议标签句），07e4da2集成版。
 
 ### B06H新增导航追登（2026-10-14）
 
