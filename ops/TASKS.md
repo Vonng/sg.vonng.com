@@ -1,6 +1,6 @@
 # 任务总账
 
-更新：2026-10-14 09:20（Asia/Singapore）。用户active持续目标继续执行；B06B新增退休、长期照护、劳动申索和法律体系完整四篇，累计88可读主题。最终154源/92主题/4draft、152HTML、零错误警告；356输出同步public逐路径/大小/SHA一致。求职援助在独审收尾、法律帮助/预先规划在作者冻结中、生活困难继续成稿；全书五部分28领域范围未缩小。
+更新：2026-10-14 10:12（Asia/Singapore）。用户active持续目标继续执行；B06C新增求职援助、生活困难及法律求助完整三篇，累计91可读主题。最终158源/94主题/3draft、157HTML、零错误警告；366输出同步public逐路径/大小/SHA一致。三篇全文事实/真正第三编辑与同版工程已闭，预先规划独审、权利通知作者自审冻结、死亡研究与成稿、持续经营详文补齐并行继续；全书五部分28领域范围未缩小。
 
 | 任务 | 所有者 | 状态 | 依赖与完成标准 |
 |---|---|---|---|
@@ -19,13 +19,16 @@
 | AUDIT 进展与续作提示词 | root；两位只读审计者 | complete（状态审计） | 源码覆盖、审核SHA、Git与实际生产门禁已核；不等于全书事实/内容完成，见PROGRESS-AUDIT及checks/progress-audit-2026-10-13.json |
 | P0 HUM版本与成熟稿接收 | root；A/B交叉独审；care_writer | integrated（B06A/HUM10） | 50篇维护双独审及三事实修正闭合；三成熟稿完整两审、70路径双视口/打印、340产物同步，详见b06a-acceptance |
 | B06B 退休、照护、劳动申索、法律体系 | care_writer老年；review_state_audit法律；root申索；coverage_audit事实轮换 | integrated | 四篇完整两审及同版SHA、21路径双视口58基础+56额外、打印/九个目视样本及356输出一致；checks/b06b-acceptance |
-| B06C 求职援助、生活困难、法律帮助与预先规划 | root生活支持；review_state_audit法律；care_writer规划；coverage_audit独审 | writing / reviewing | JS100行第三冻结fa94423a…，原独审已通过，末两编辑改段限定重绑/第三编辑待签；getting-help/planning-ahead完整作者稿需冻证据；ComCare及当期措施仍root作者，全链逐稿两审后工程 |
+| B06C 求职援助、生活困难与法律帮助 | root两生活支持；review_state_audit法律；coverage_audit事实；B/root轮换第三编辑 | integrated | 最终bodyfa94423a…/8203ba48…/048320bb…各完整两审；23路径62基础+70额外实际检查、打印545页/八PDF与三网页目视、366输出一致；checks/b06c-acceptance |
+| B06D 预先规划、权利通知、死亡与经营后续 | care_writer规划/死亡作者；review_state_audit通知作者；coverage_audit规划事实；root规划第三/通知事实/经营作者 | writing / reviewing / researching | 规划58采用组/五PDF真实事实在途，CPF未18寡妇例外由作者修订再冻；通知实际draft自审与证据冻结，事实root/第三care_writer；死亡完整稿冻后coverage_audit事实/B第三；经营完整稿后B事实/C第三，依真正可用角色轮换 |
+| B06E 求职与职场、合同安全户外 | coverage_audit先job-search作者，其他所有权由root按在途轮换 | queued / planned | A规划正式事实后接job-search完整作者稿，若death已冻结可先审死亡；offer/workplace、合同三篇、安全两篇及户外三篇各逐必要种子完成，不用入口替正文 |
 | HUM 全书说人话校对 | root；coverage_audit/review_state_audit交叉限定两审 | in progress（已公开源闭合） | 按 ops/HUMANIZE.md（提示词v2）初始94队列并追增实际源（二核140，已补登caregiver-support/property-tax）；礼节/小贩两份九处表达已限定事实及第三编辑通过，主控已应用并完成B04A生产、双视口及打印验收。删说教/免责/无信息量否定，事实层零变动；在途draft待集成后补；独立版本与accepted SHA绑定，闭环后主控工程验收 |
 
 ## 日期触发与来源缺口
 
 | 触发日 | 重核对象 | 来源与受影响正文 |
 |---|---|---|
+| 2026-10-20 | ACRA年度申报新增CEO角色声明的实际表件与登记匹配 | running-business研究中已实读ACRA2026-10-07步骤L129，将来起点明确标注，未提前写当前已经启用 |
 | 每年1月1日/12月31日；匹配入账时 | MRSS资格、年度上限与终身上限、截止含当日及入账时公民身份 | retirement；CPF当期条件，未因年度合资格忽略翌年入账身份 |
 | 2027-03-31 | 取消公民/PR后CPF关户过渡利息安排终点 | retirement/CPF；CPF当前关户详页，不套成普通海外居住月款规则 |
 | 2027-01-04前；2027-03-31 | My Legacy个人资料、funeral plan与will records关闭删除，以及SAL新Wills Repository数字存档免费期 | planning-ahead当前作者实际LifeSG详FAQ/SAL原文；须下载个人各section，ACP/CPF提名/LPA不受该删除影响，等待该稿独审后正式接收 |

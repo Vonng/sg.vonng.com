@@ -1,6 +1,6 @@
 # 全书内容地图
 
-更新：2026-10-14 09:20（Asia/Singapore）。B06B已接收退休、长期照护、劳动申索和法律体系四篇，累计88主题本地集成；四篇完整异人事实及第三编辑、同版SHA和实际工程均闭合。ageing/legal两个真实章节导读及退休/法律通知事项已公开。最终154源/92主题/4draft、152HTML、零错误警告；356产物已同步public逐路径/大小/SHA一致。111候选当前为88接收、4草稿（admission、jobseeker-support、getting-help、planning-ahead）及19未建正文，草稿成熟程度另按正式冻结与报告判断。B06A/HUM10的50维护版本及三主题不重复研究未变内容。B06逐领域/身份/生命周期最终走查仍未整体通过。
+更新：2026-10-14 10:12（Asia/Singapore）。B06C已接收求职援助、生活困难及法律求助三篇，累计91主题本地集成；三篇完整异人事实及第三编辑、最终正文SHA和实际工程闭合。新增生活困难事项与低收入家庭入口，相关身份/离职/法律导航和术语已接入。最终158源/94主题/3draft、157HTML、零错误警告；366产物已同步public逐路径/大小/SHA一致。111候选当前为91接收、3草稿（admission、planning-ahead、rights-notices）及17未建正文，成熟程度按作者冻结与正式报告判断。B06B四主题、B06A/HUM10的50维护版本及三主题不重复研究未变内容。全28领域必要分支与五读者情境最终走查仍未整体通过。
 
 ## 内容与资格模型
 
@@ -219,8 +219,8 @@
 |---|---|---|
 | `/book/people/ageing/retirement/` | 退休再就业CPFLIFESRS与收入怎样安排 | integrated（care_writer作者/coverage_audit事实/root第三编辑及B06B实际工程，body66abb2b5…） |
 | `/book/people/ageing/long-term-care/` | 独居认知变化居家机构照护及长期护理保障 | integrated（care_writer作者/coverage_audit事实/root第三编辑及B06B实际工程，代理限制已修并复核，body65c36629…） |
-| `/book/people/ageing/planning-ahead/` | LPA预先医疗照护、遗嘱CPF提名怎样安排 | writing（care_writer独占，完整稿在作者自审/证据冻结中，仍draft） |
-| `/book/people/ageing/death/` | 死亡登记丧葬遗产哀伤与跨境善后怎样衔接 | planned |
+| `/book/people/ageing/planning-ahead/` | LPA预先医疗照护、遗嘱CPF提名怎样安排 | reviewing（care_writer完整冻结及事实反馈修订，coverage_audit逐58采用组和必要PDF全文事实中；root已全文预读、待正式事实后第三编辑，仍draft） |
+| `/book/people/ageing/death/` | 死亡登记丧葬遗产哀伤与跨境善后怎样衔接 | researching（care_writer独占死亡/跨境/多宗教/遗产完整链；龛位主管冲突保留，不建公开空页） |
 
 ## 工作、收入、财务与经营
 
@@ -243,10 +243,10 @@
 | `/book/work/employment/employment-rights/` | 工资工时休假工资单哪些人适用 | integrated（事实/第三编辑/生产与渲染通过；B04F接收版本见accepted.json） |
 | `/book/work/employment/injury/` | 职业安全工伤赔偿保险怎样求助 | integrated（identity作者/care事实/root第三编辑及B04I实际工程通过） |
 | `/book/work/employment/leaving-job/` | 辞职解雇裁员后的准证税务家属怎样处理 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
-| `/book/work/employment/hardship/` | 薪资争议和收入中断怎样找TADM及生活支持 | researching（root复用真实TADM/ECT/Jobseeker/ComCare原件；拆后本页承接日常困难与生活援助） |
+| `/book/work/employment/hardship/` | 基本生活费不足怎样核ComCare、全户材料、申请续期、2026临时援助及外籍社区支持 | integrated（root作者/coverage_audit全文事实及修订复核/review_state_audit第三编辑/B06C实际工程；body8203ba48…） |
 
 | `/book/work/employment/employment-claims/` | 工资与解雇申索：TADM调解、和解登记、ECT送达开庭与执行上诉；从hardship按争议程序拆出 | integrated（root作者/coverage_audit事实/review_state_audit第三编辑及B06B实际工程，body27f947d9…） |
-| `/book/work/employment/jobseeker-support/` | 非自愿失业后的求职支持：资格、申请、积分活动、月款、复工停止与申诉；从hardship按支援计划拆出 | written（root100行完整稿，29组证据；独审两反馈及末两编辑改段已应用，bodyfa94423a…，coverage_audit限定重绑/第三编辑待签） |
+| `/book/work/employment/jobseeker-support/` | 非自愿失业后的求职支持：资格、申请、积分活动、月款、复工停止与申诉；从hardship按支援计划拆出 | integrated（root作者/coverage_audit全文事实及修订复核/review_state_audit第三编辑/B06C实际工程；bodyfa94423a…） |
 
 ### 22. 银行、CPF、储蓄、投资与保险（finance）
 
@@ -281,7 +281,7 @@
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
 | `/book/work/business/starting-business/` | 独资合伙公司、外国人权限、UENCorppass牌照 | integrated（care事实/daily第三编辑/B04G实际工程通过；版本见accepted.json） |
-| `/book/work/business/running-business/` | 董事秘书申报银行记账发票GST公司税雇主责任 | planned |
+| `/book/work/business/running-business/` | 董事秘书申报银行记账发票GST公司税雇主责任 | researching（root独占作者，ACRA新步骤/当期变更及IRAS2026申报原文实际读；GST/账目/雇主详文待补，不建公开空页） |
 | `/book/work/business/risk-exit/` | 合同知识产权数据融资保险与跨境停业退出 | planned |
 
 ## 法律、风险与外部环境
@@ -293,8 +293,8 @@
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
 | `/book/rights/legal/legal-system/` | 法律政策和宗教法制度怎样识别 | integrated（review_state_audit作者/root全文事实/care_writer第三编辑及B06B实际工程，AGC标签限定复核闭合，body0c45b213…） |
-| `/book/rights/legal/getting-help/` | 调解法律援助律师裁判庭怎样选 | writing（review_state_audit158行已作者冻结c99fd489…，coverage_audit独立事实在途，仍draft） |
-| `/book/rights/legal/rights-notices/` | 通知证据送达期限、隐私平等表达集会规则 | planned |
+| `/book/rights/legal/getting-help/` | 调解法律援助律师裁判庭怎样选 | integrated（review_state_audit作者/coverage_audit全文事实/root第三编辑/B06C实际工程；body048320bb…） |
+| `/book/rights/legal/rights-notices/` | 通知证据送达期限、隐私平等表达集会规则 | writing（review_state_audit独占，实际draft正文已有，作者自审及证据冻结中；PDPC细部失败止损不推privacy-data候选完成） |
 
 ### 26. 合同、签约、责任与纠纷（contracts）
 

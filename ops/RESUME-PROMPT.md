@@ -1,6 +1,6 @@
 # 《新加坡生活指南》继续执行提示词
 
-以下可直接交给执行会话。已执行至2026-10-14 B06B，累计88已接收主题；执行时重新核日期与现场，以CHECKPOINT最新段为准。
+以下可直接交给执行会话。已执行至2026-10-14 B06C，累计91已接收主题；执行时重新核日期与现场，以CHECKPOINT最新段为准。
 
 ---
 
@@ -16,12 +16,12 @@
 
 核Asia/Singapore当前日期、Git日志/工作树/staged清单、Hugo子模块、实际正文、审核SHA、活跃代理和预览端口。可能有别的会话在同目录校对，先确认文件所有者和冻结边界，保留在途改稿。主控独占配置、模板、导读、导航、共享总账和构建；执行者只写明确分配的正文与自己的证据、地图、审稿记录。同一文件同时一个所有者。
 
-当前恢复基线：B06B已完整接收退休、长期照护、劳动申索及法律体系，累计88主题本地可读、public356产物路径/大小/SHA一致。四篇最终正文分别66abb2b5…/65c36629…/27f947d9…/0c45b213…，完整事实/第三编辑/实际工程闭合，ageing/legal真实章导读、退休/法律通知事项已公开。最新门禁154源/92主题/4draft、152HTML、零错误警告；21路径双视口58基础+56额外实点、打印119节点/88来源表/527页、root三网页及六PDF页样本，见b06b-acceptance。B06A/HUM10此前已闭合50篇维护版本与三成熟主题，旧事实和verified继承在accepted.previous_review，不重做未变HUM50。新增在途稿可使源计数继续增加，恢复须重算。
+当前恢复基线：B06C已完整接收求职援助、生活困难及法律求助，累计91主题本地可读，public366产物路径/大小/SHA一致。三最终bodyfa94423a…/8203ba48…/048320bb…完整异人事实、真正第三编辑与实际工程闭合；生活困难事项和低收入家庭入口已衔接。最新门禁158源/94主题/3draft、157HTML、零错误警告；23路径双视口62基础+70额外实点，打印122节点/91来源表/545页，root三网页与八物理PDF页目视，见b06c-acceptance。B06B退休/照护/申索/法律体系、B06A三成熟主题与HUM10的50维护版本已接收，旧事实和verified继承在accepted.previous_review，不重做未变HUM50。提交前HEADc4db84d，本检查点随B06C提交，恢复git log核实际HEAD；新增在途稿使计数变化须重新核。
 
 ## 恢复后立即继续下一批
 
-1. **闭合当前稿件。** JS完整100行/root作者，第三冻结body `fa94423aeb6b9de271bbb0fa54d5925b51656916989b20959b94babf5b172d23`；coverage_audit已正式全文事实通过第二冻结，末两段编辑修订待其限定重绑，review_state_audit第三编辑签发在途。两事实反馈已作者应用：积分顺延须按当期目标、首笔付款失业满一月的现行分支向主管核问，不当已确认/废除规则。getting-help完整158行/review_state_audit作者，body `c99fd4896847e2ffa2dcbf56ab02bfd4256a91b6410fe2376270690d04eb2f06`，31URL及两主管图，coverage_audit完整事实在途/root第三编辑待事实。planning-ahead/care_writer完整作者稿自审与证据冻结中，之后root异人事实/coverage_audit第三编辑。恢复核最新正式报告与实际SHA，不以旧首冻自动签新版本。
-2. **作者写作继续。** root立即完成hardship生活困难/ComCare/2026当期临时措施/外国社区服务完整稿；care_writer预先规划后接death；review_state_audit先闭JS第三，再rights-notices；coverage_audit完成法律帮助事实后轮换其他正文写作/审阅。困难原范围已拆employment-claims/jobseeker-support/hardship三任务，候选111=88接收+4草稿+19未建；不缩题或把链接当完整回答。使用最新HANDOFF与真实已读原件，LPA/ACP/AMD/遗嘱CPF提名、死亡丧葬遗产及多群体跨境、求职经营法律合同安全户外全部持续推进。
+1. **闭合当前稿件。** planning-ahead由care_writer作者完整冻结171行38117 B，最终body `b2d9492f525b75ae79410e34269c9d68332c6b6faf795519dcf01e453ccccc32`，full `6c6db03fda4749479533dc521b98a8987267f756588a3bb8fbc5266344ca885b`；coverage_audit逐58采用组/五PDF真实全文事实在途，root第三编辑已完整首冻预读，待正式facts与三修订段/最终版复读。Deputy记录及OPG年报、CPF未18寡妇窄例、本人指示合法代签三意见由唯一作者应用，累计完整差分/逆替在author-feedback1-3。rights-notices由review_state_audit作者已有实际draft，自审和证据冻结中→root事实/care_writer第三；death由care_writer研究成稿→coverage_audit事实/B第三。恢复核正式报告与实际SHA，不由预读提前签全篇，不用旧首冻签新版本。
+2. **作者写作继续。** root正在补running-business：ACRA新当期申报/寄存器/变更及IRAS2026公司税详文已实际读，GST/账目/雇主链待补，再完整冻稿交B事实/C第三。coverage_audit规划正式facts后先完整写job-search；若death先冻可先短批独审死亡，再job-search。B通知冻后轮换合同，C死亡冻后轮换安全户外/受限住房，按实际可用角色交审。困难原范围已拆employment-claims/jobseeker-support/hardship并全部接收；候选111=91接收+3草稿+17未建，不缩题或把链接当完整回答。LPA/ACP/AMD/遗嘱CPF提名、死亡丧葬遗产及多群体跨境、求职经营法律合同安全户外全部持续推进。
 3. **主控统一验收。** 独立两审与最终SHA完成后，补与成熟正文相符的事项、身份和术语，避免链接未建/未接受公开页；已有ageing/legal导读不重建空章。运行 `make check DESTINATION=.cache/production-review`；零错误警告后实际桌面手机、折叠菜单/键盘/非当前叶子、搜索明暗、中文宽表长词、打印引用与指定目视。B06B首次DOS无命中已靠metadata别名修复并真实重跑，正文未改。通过后 `make sync`核路径/大小/SHA，正式integrated/draft:false并复核最终元数据门禁，失败不覆盖public。
 4. **关闭新的版本差分。** 若恢复发现当前非draft正文与accepted不符，协调所有者冻结，未参与改写的人读原/新稿及全部改段，语义变化回主管；另一编辑全文/结构/引用/静态。保留旧审范围，限定继承未变事实，不单改哈希或回滚他人校对规避门禁。已完成的B06A/HUM10只检查版本对应，不重复全套未变研究。
 
@@ -35,7 +35,7 @@ SHA统一为UTF-8 `text.split('---',2)[2]`，保留frontmatter关闭后的空白
 
 - **老年人生线**：`people/ageing/{retirement,long-term-care,planning-ahead,death}`。退休再就业收入；独居认知/居家机构及护理保障；LPA/ACP/AMD/遗嘱CPF提名；死亡登记丧葬遗产宗教哀伤与跨境善后。引用既有CPF/SRS/保险主文，另完整回答人生安排。
 - **工作经营线**：`work/career/{job-search,offer,workplace}`、`work/employment/hardship`、`work/business/{running-business,risk-exit}`。招聘背景资格、入职转职和日常职场、经济困难争议、董事秘书会计申报/公司税/GST/雇主、IP数据融资保险及跨境停业退出。结合既有准证、劳动权益工伤、离职和税清，形成完整链。
-- **法律风险户外线**：`rights/legal/{legal-system,getting-help,rights-notices}`、`rights/contracts/{before-signing,performance,disputes}`、`rights/safety/{tropical-hazards,controlled-items}`、`rights/outdoors/{parks-water,travel-borders,travel-support}`。第五部分12候选目前2主题已接收、1草稿、9未建，必须补余下主线；复用已有租赁消费劳动、药品关卡和应急程序，补真实规则与行动。
+- **法律风险户外线**：`rights/legal/{legal-system,getting-help,rights-notices}`、`rights/contracts/{before-signing,performance,disputes}`、`rights/safety/{tropical-hazards,controlled-items}`、`rights/outdoors/{parks-water,travel-borders,travel-support}`。第五部分12候选目前3主题已接收、1草稿、8未建，必须补余下主线；复用已有租赁消费劳动、药品关卡和应急程序，补真实规则与行动。
 
 分别维护具体来源缺口：`life/housing/{buying-hdb,buying-ec}`、`life/digital/privacy-data`和学校 `admission`。HDB家庭身份/BTO转售/HFE/EC、PDPA查阅更正撤回同意投诉、AEIS/S-AEIS年龄CEQ窗口和P1框架须实际主管详原文。交接中的 `https://p1.placement.moe.gov.sg/`只是新入口定位，读原文才采用。ONE完整公开续期、PEP家属角色、HDB特殊住房关系等未知按COVERAGE逐项承接，不由邻近制度推定。
 
@@ -47,7 +47,7 @@ SHA统一为UTF-8 `text.split('---',2)[2]`，保留frontmatter关闭后的空白
 
 逐制度区分公民、PR取得途径阶段、各工作准证、学生、ICA/MOM家属、访客，并区分国籍、税务居民、雇佣、家庭、年龄收入房型与残障条件。宣布与实施分开；恢复和交付时核TASKS中已到触发日任务，未来维护不阻塞当前写作。编辑日期不替代核验日期。
 
-自然中文直陈规则与行动，按HUMANIZE删无用训导、免责、跨题对比和重复归纳，保护违法、失权、安全、资金结果的必要规则。每篇全文通读；模式零命中不当全文审。四草稿及所有新增稿补表达处理和审阅。
+自然中文直陈规则与行动，按HUMANIZE删无用训导、免责、跨题对比和重复归纳，保护违法、失权、安全、资金结果的必要规则。每篇全文通读；模式零命中不当全文审。实际在途草稿及所有新增稿补表达处理和审阅。
 
 作者→异人回源事实→第三人编辑→主控接收→实际构建渲染→正式集成，每批及时闭合。更新BOOKMAP/TASKS/CHECKPOINT/COVERAGE和HUM进度，最新状态置顶，历史标清。生成下载先验证忽略，原件截图PDF/public/缓存依赖不入Git；提交核大小类型/staged清单，仅提交本批拥有的必要文件，保留用户 `ops/PROMPT-ORIGIN.md`、无关改动、stash与历史。
 
@@ -55,7 +55,7 @@ SHA统一为UTF-8 `text.split('---',2)[2]`，保留frontmatter关闭后的空白
 
 全部五部分28领域的每个必要种子均有完整实质正文或明确有效的跨章承接；当前候选均有接收结果或经覆盖审批准的拆合对应。需要新页则登记，111不是硬上限；篇数、构建一次或来源数量都不代表完书。重要来源缺口仍未闭时明确报告，全书不能提前记complete。
 
-补孩子入学、照顾家人、退休、创业、亲人去世、买房、困难援助事项，准备来新/身份变化/长期离境返回的完整路线，以及低收入、残障和照护生活处境入口；先改善start-work及ns-family与已有成熟正文的衔接。docs仅选路，不维护第二套详细规则。
+补孩子入学、创业、亲人去世、买房及准备来新/身份变化/长期离境返回完整路线；照顾家人、退休、困难援助事项与低收入、残障和照护入口已按成熟正文建设，后续新正文接收后补对应分支。先改善start-work及ns-family与已有成熟正文的衔接。docs仅选路，不维护第二套详细规则。
 
 完成B06逐领域/种子/身份/生命周期/可及性矩阵；实际走读初到外籍工作家庭、公民失业照护、PR孩子学业NS、学生入学租住实习、老人长期照护善后，核条件、材料、真实入口、结果、受阻求助。全书HUM、独立版本审核、最终生产门禁、实际浏览器打印及public一致性都通过后，才报告本轮整书完成。未来维护保存日期任务；上线不属于本地完成条件。
 

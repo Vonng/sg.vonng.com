@@ -1,5 +1,17 @@
 # 当前检查点
 
+## 2026-10-14 10:15 B06C三主题已验收，持续下一批
+
+用户持续目标active，不在本批后停工。提交前HEADc4db84dd5448136682bdd645050f67aa620c9336（B06B本地提交）；本检查点随B06C保存，恢复以git log核提交号。求职援助bodyfa94423a…、困难8203ba48…、法律求助048320bb…已真正异人全文事实/第三编辑和root实际工程接收，累计91 integrated/draft:false。核验日14日，作者审原完整SHA与工程元数据SHA分开保存在accepted。困难4处immediate family member事实修正和3编辑段均实际回源重绑；JS两事实与末两编辑段已闭；外国未成年CLAS程序由作者补具体核问，经原独审复核后root全文第三编辑通过。
+
+新增生活困难事项与低收入家庭入口，六身份、离职/法律通知、两章导读和术语已衔接。最终make check158源/94主题/3draft、157HTML、30564内部引用、8374外链跳过HTTP，零错误警告。23路径1440×1000/390×844共62基础+70额外实际检查，通过三主题非当前分支Space/Enter/叶子实点、三搜索、21交叉和两新首页菜单；无本地请求或页面脚本错误。
+
+打印122书节点/5083外链/91来源表/545物理页，暗色导出白底黑字、无断锚或相对链接。root实际目视三网页图及PDF434/435/436/439/441/534/535/536八页，仅抽样。366产物已make sync，与最终门禁逐路径/大小/SHA一致；完整清单/角色/实查范围见checks/b06c-acceptance.json。首门禁157源/93主题/2draft，作者新rights-notices随后增加一draft，公开HTML未变；最终三draft均不公开。预览1328当前实查PID33900，为原自有session22653；恢复实查，不继承已完成浏览器/构建session。
+
+下一实际工作：care_writer planning-ahead最终171行38117 B，bodyb2d9492f525b75ae79410e34269c9d68332c6b6faf795519dcf01e453ccccc32/full6c6db03fda4749479533dc521b98a8987267f756588a3bb8fbc5266344ca885b；A三反馈（Deputy义务、CPF未18寡妇窄例、合法本人指示代签）已作者应用，58采用组/五PDF完整事实尚在途，root已读首冻全171行及最终三完整段，待facts正式结论和实际差分复读后第三编辑。B rights-notices实稿自审证据冻结中→root事实/C第三；C继续death多群体/跨境/遗产完整作者稿→A事实/B第三。root正在写running-business，已有新ACRA/IRAS详原文，GST/账目/雇主链待补；作者冻后B事实/C第三。A规划正式facts后先job-search完整作者，death若先冻结可先独审死亡。
+
+111候选实际91接收、3draft、17未建，完整目标不缩为篇数。admission、HDB/EC、PDPA具体原文及其他career/contracts/safety/outdoors余项继续，五情境与28领域种子最终走查仍未通过。用户PROMPT-ORIGIN保留不stage；在途planning/rights/death及其未闭证据交接不混进本批。原件/图/PDF/public继续忽略，无外部推送部署联络私有登录代办。下一命令先核本批文本大小类型/staged清单并本地提交；持续推进上述写审，成熟后根统一下一门禁/实际QA/sync。
+
 ## 2026-10-14 09:20 B06B四主题已验收，继续下一批
 
 用户持续目标active，完整五部分28领域仍在执行。提交前HEAD5a10a90（B06A/HUM10已本地提交），本检查点随B06B本地提交保存，恢复须git log核实际提交号。退休body66abb2b5…、长期照护65c36629…、劳动申索27f947d9…、法律体系0c45b213…已完整异人事实/第三编辑及root实际工程接收，累计88 integrated/draft:false；原核验日期14日，作者审原完整SHA与工程后元数据SHA分别保存accepted。LTC代申请“其他照护者仅在父母/配偶/子女无法申请时”已经作者修正/异人回源/root第三编辑；法律AGC标签只改来源导航，root限定事实重绑；申索三术语补充已两审。

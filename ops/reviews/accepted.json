@@ -1741,5 +1741,44 @@
     "review_source_file_sha256": "b88d21692514582e2603500158151cde81495ccf8a42cde327aa20cee385e671",
     "engineering": "B06B: production gate, 21 paths desktop/mobile, 56 extra live checks with search alias correction, print structure and six PDF/three web visual samples passed; final metadata gate/sync recorded in ops/checks/b06b-acceptance.json.",
     "engineering_date": "2026-10-14"
+  },
+  "content/book/work/employment/jobseeker-support.md": {
+    "author": "root",
+    "facts": "coverage_audit",
+    "editor": "review_state_audit",
+    "date": "2026-10-14",
+    "report": "ops/reviews/b06-jobseeker-support-facts.md",
+    "editorial_report": "ops/reviews/b06-jobseeker-support-editorial.md",
+    "body_sha256": "fa94423aeb6b9de271bbb0fa54d5925b51656916989b20959b94babf5b172d23",
+    "reviewed_file_sha256": "0d31cb269a3fd74ebec230a933fd3e0be2d8c1cec856e76becdfaf78a8d31277",
+    "review_source_file_sha256": "094424d25f8c74ad53c7e5b09b05e5f46b4d92c8a5a3244e54a9266de4d27dec",
+    "engineering": "B06C: production gate, 23 paths desktop/mobile (62 checks), 70 extra actual topic/menu/search/navigation checks, print structure and eight PDF/three web visual samples passed; final metadata gate and public sync recorded in ops/checks/b06c-acceptance.json.",
+    "engineering_date": "2026-10-14"
+  },
+  "content/book/rights/legal/getting-help.md": {
+    "author": "review_state_audit",
+    "facts": "coverage_audit",
+    "editor": "root",
+    "date": "2026-10-14",
+    "report": "ops/reviews/b06-getting-help-facts.md",
+    "editorial_report": "ops/reviews/b06-getting-help-editorial.md",
+    "body_sha256": "048320bb71097d87f6732e667e4ebdf0346bad5127560e200d30d83f493e1bbb",
+    "reviewed_file_sha256": "6e03a3d5ff844026900f9d96341db4bc48f8111c8a2c79d444f09f01aad1d3f4",
+    "review_source_file_sha256": "878662a551578cabb7d7a0bac39dcc2c8ed356a754bd6b95af7a8ae1edc1f2ee",
+    "engineering": "B06C: production gate, 23 paths desktop/mobile (62 checks), 70 extra actual topic/menu/search/navigation checks, print structure and eight PDF/three web visual samples passed; final metadata gate and public sync recorded in ops/checks/b06c-acceptance.json.",
+    "engineering_date": "2026-10-14"
+  },
+  "content/book/work/employment/hardship.md": {
+    "author": "root",
+    "facts": "coverage_audit",
+    "editor": "review_state_audit",
+    "date": "2026-10-14",
+    "report": "ops/reviews/b06-hardship-facts.md",
+    "editorial_report": "ops/reviews/b06-hardship-editorial.md",
+    "body_sha256": "8203ba4849aef8fda72595cd9188bcd0e542760016c644bdefcc67dc30283dae",
+    "reviewed_file_sha256": "573db8c1d130025a817881304336404ceb3f1bd3814c714c0d58958760fa88fd",
+    "review_source_file_sha256": "48b459843d06626dbd7e415e5fe387a18fb21695f90596fb9552026053f8abf7",
+    "engineering": "B06C: production gate, 23 paths desktop/mobile (62 checks), 70 extra actual topic/menu/search/navigation checks, print structure and eight PDF/three web visual samples passed; final metadata gate and public sync recorded in ops/checks/b06c-acceptance.json.",
+    "engineering_date": "2026-10-14"
   }
 }

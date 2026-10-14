@@ -235,3 +235,13 @@ menus:
     name: 收到法律文件或争议通知
     pageRef: /docs/routes/legal-notice/
     weight: 65
+  - identifier: routes-financial-hardship
+    parent: routes
+    name: 收入中断或付不起基本生活费
+    pageRef: /docs/routes/financial-hardship/
+    weight: 70
+  - identifier: profiles-low-income
+    parent: profiles
+    name: 低收入家庭与生活困难
+    pageRef: /docs/profiles/low-income/
+    weight: 80

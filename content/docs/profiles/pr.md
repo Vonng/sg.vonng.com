@@ -24,3 +24,5 @@ weight: 20
 拥有住宅或出租房屋，按[房产税与出租所得](/book/work/tax/property-tax/)核自住期间、变更通知、缴款和租金申报。
 
 退休与再就业、CPF和公民专属补助分开核，按[退休事项](/docs/routes/retirement/)准备；长期护理的PR补贴、保险及家庭条件见[长期照护](/book/people/ageing/long-term-care/)。工资争议接[劳动申索](/book/work/employment/employment-claims/)，收到其他法律文件接[法律通知事项](/docs/routes/legal-notice/)。
+
+非自愿失业时核[求职支援](/book/work/employment/jobseeker-support/)；基本生活困难时核[家庭援助与同户条件](/book/work/employment/hardship/)。需要法律帮助，按[法律援助](/book/rights/legal/getting-help/)分别核民事、刑事和公益计划。

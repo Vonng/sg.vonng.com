@@ -17,6 +17,6 @@ weight: 65
 2. 整理一页时间线、合同与账单、付款和来往记录，注明自己要解决什么。需要翻译、口译或设备协助时，预约前说清需要。
 3. 工资、不当解雇、TADM调解或ECT文件，进入[劳动申索](/book/work/employment/employment-claims/)核提交、付款、送达、DOS、出席及后续期限。
 4. 消费退款、保修或维修看[消费者权益](/book/life/household/consumer-rights/)；银行、保险和债务看[金融争议](/book/work/finance/debt-disputes/)；租约看[入住、维修和退租](/book/life/housing/tenancy/)；家庭保护及离婚看[分居与安全](/book/people/family/separation-safety/)。
-5. 需要律师时，带完整通知、预算和已有材料，按法律正文核注册与承办范围、服务内容、费用和下一步日期。刑事被控时，先核通知上的提讯与出席安排，再尽早寻求相应法律帮助。
+5. 需要法律意见或代理时，带完整通知、预算和已有材料，按[法律求助](/book/rights/legal/getting-help/)核LAB、PDO、CLAS或公益服务的受理范围，也可核自费律师、委托和费用。刑事被控时，先核通知上的提讯与出席安排，再尽早申请相应帮助。
 
 已经协商、投诉或寻求帮助，也要另外安排适用程序的回应和出席。眼前有人身危险，先按[紧急求助](/book/rights/safety/emergencies/)处理医疗或安全，再接续文件与争议。

@@ -32,3 +32,5 @@ weight: 30
 在职兼读或安排雇主培训时，查[成人学习](/book/people/learning/adult-learning/)的学制、工作许可、付款与培训补偿；需要照顾亲友，可从[照护事项](/docs/routes/caregiving/)核服务接纳、费用与接替。
 
 欠薪或不当解雇需正式申索时，按[劳动申索](/book/work/employment/employment-claims/)核自己的雇佣关系与TADM、ECT流程；年长雇员按[退休与再就业](/book/people/ageing/retirement/)另核适用保护及专门期限。其他正式法律文件可用[法律通知事项](/docs/routes/legal-notice/)安排材料与求助。
+
+收入中断或基本生活困难时，查[生活援助的外籍与移工分支](/book/work/employment/hardship/)；需要律师或付不起费用时，查[法律求助](/book/rights/legal/getting-help/)中的外国被告、移工、家政和公益指导入口，分别核受理条件。

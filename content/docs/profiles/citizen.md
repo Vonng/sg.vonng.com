@@ -22,3 +22,5 @@ weight: 10
 拥有住宅或出租房屋，按[房产税与出租所得](/book/work/tax/property-tax/)核自住期间、变更通知、缴款和租金申报。
 
 退休或继续工作，用[退休事项](/docs/routes/retirement/)核出生批次、CPF月款与适用补助；安排长者照护，用[长期照护](/book/people/ageing/long-term-care/)核服务、保险和费用。有工资或正式法律文件问题，分别进入[劳动申索](/book/work/employment/employment-claims/)和[法律通知事项](/docs/routes/legal-notice/)。
+
+非自愿失业或基本生活费不足时，用[生活困难事项](/docs/routes/financial-hardship/)衔接求职支援和家庭援助；付不起法律费用，按[法律援助](/book/rights/legal/getting-help/)核案件、经济条件和材料。

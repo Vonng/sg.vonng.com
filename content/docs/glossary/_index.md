@@ -112,3 +112,7 @@ weight: 30
 | SDA / RAF / eFASS / HPC+ | 严重残障评估 / 护理院住户评估表 / AIC申请系统 / 增强居家个人照护 | [评估、服务与申请](/book/people/ageing/long-term-care/) |
 | TADM / ECT / SA / CRC / CJTS / DOS | 劳动争议调解机构 / 劳动申索裁判庭 / 和解协议 / 申索转介证明 / 社区司法与裁判庭系统 / 送达声明 | [劳动申索完整程序](/book/work/employment/employment-claims/) |
 | AGC / SSO / ROC / OC / OA / ACO | 总检察署 / 法律文本查询 / 法院规则 / 两类民事起诉文件 / 法院裁令真实性核查；OA在CPF语境另指普通账户 | [法律、文件与机构](/book/rights/legal/legal-system/) |
+| SkillsFuture Jobseeker Support / GovCash | 非自愿失业求职支援计划 / 指定现金领取渠道；申请、活动和付款分别核 | [求职支援](/book/work/employment/jobseeker-support/) |
+| ComCare / SSO / SMTA / LTA / IA | 家庭生活援助 / 社会服务办事处 / 短中期援助 / 长期援助 / 临时援助；SSO在法律文本语境另指Singapore Statutes Online | [生活困难与援助](/book/work/employment/hardship/) |
+| SupportGoWhere / FSC / Zakat | 支持计划与申请入口 / 家庭服务中心 / 伊斯兰宗教援助；服务及资格按具体计划 | [申请、社区与宗教支持](/book/work/employment/hardship/) |
+| LAB / PDO / CLAS / LASCO / FJSS / IPS | 民事援助局 / 公设辩护署 / 刑事法律援助 / 死刑罪名代理 / 家事公益援助 / 律师服务不足投诉；身份、案件和费用范围分别判断 | [法律援助与律师服务](/book/rights/legal/getting-help/) |
