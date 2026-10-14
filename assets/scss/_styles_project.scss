@@ -1,27 +1,663 @@
-.sg-home {max-width:1140px;margin:auto;padding:2rem 1.5rem 4rem;line-height:1.7;}
-.sg-home section{margin-top:3rem;}
-.sg-hero {display:grid;grid-template-columns:1.1fr 1fr;align-items:center;gap:2rem;padding:1.5rem 0;}
-.sg-hero h1{font-size:clamp(2rem,4vw,3.4rem);font-weight:750;letter-spacing:.02em;}
-.sg-eyebrow{font-size:.9rem;opacity:.75;}
-.sg-lead{font-size:1.15rem;max-width:32em;}
-.sg-hero img{width:100%;height:auto;border-radius:1rem;}
-.sg-start{display:inline-block;background:#245b54;color:white!important;padding:.65rem 1.4rem;border-radius:.45rem;text-decoration:none;}
-.sg-parts{display:grid;grid-template-columns:1fr 1fr;gap:1.4rem;}
-.sg-parts article{border-top:2px solid #729b8c;padding-top:.7rem;}
-.sg-parts ul{display:flex;flex-wrap:wrap;gap:.4rem 1.3rem;list-style:none;padding:0 1rem;}
-.sg-cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:1rem;}
-.sg-card{display:block;padding:1rem;border:1px solid var(--bs-border-color);border-radius:.6rem;color:inherit;text-decoration:none;height:100%;}
-.sg-parts .sg-card{border:0;height:auto;}
-.sg-card h3{font-size:1.2rem;margin:0 0 .6rem;}.sg-card p{font-size:.95rem;margin:0;opacity:.85;}
-.sg-card:hover{background:rgba(80,135,112,.09);}.sg-card:focus-visible,.sg-start:focus-visible{outline:3px solid #bd851f;outline-offset:3px;}
 .editorial-meta{display:flex;flex-wrap:wrap;gap:.4rem 1.2rem;border-left:3px solid #729b8c;padding:.65rem 1rem;margin:1rem 0 1.5rem;font-size:.85rem;background:rgba(80,135,112,.06);}
 .td-content a{overflow-wrap:anywhere;}.td-content table{font-size:.94rem;}.td-content td{min-width:6rem;}
-@media(max-width:700px){.sg-hero,.sg-parts{grid-template-columns:1fr;}.sg-hero{gap:1rem;}.sg-hero img{max-height:220px;}.sg-home{padding:1rem 1rem 3rem;}.sg-home section{margin-top:2rem;}}
 @media print{.editorial-meta{display:block;font-size:9pt;}.editorial-meta span{margin-right:1em;}.td-content a{overflow-wrap:anywhere;}}
-
-.sg-home section{padding:0;}.sg-home section+section{margin-top:3rem;}
-.sg-home-page .sg-home section{padding:0;}
-.sg-home .sg-card,.sg-home .sg-card h3,.sg-home .sg-card p{color:var(--bs-body-color);}
 .sg-print-references{font-size:9pt;line-height:1.4;margin-top:2rem;}.sg-print-references h2{font-size:12pt;}.sg-print-references li{break-inside:avoid;margin-bottom:.6em;}.sg-print-references a{overflow-wrap:anywhere;}
 @media print{html,body{background:#fff!important;color:#111!important;color-scheme:light!important;}}
 @media print{.td-content table th,.td-content table td{color:#111!important;background:#fff!important;box-shadow:none!important;}}
+
+// ============================================================================
+// 首页 Landing — Tailwind 式的克制与秩序（与《加拿大生活指南》同一套设计语言）
+// 白色卡片 + 极细描边（ring）+ 轻阴影 + 浅灰分区带；适配 Oink 四种预设与亮暗模式
+// ============================================================================
+
+.guide-home {
+  // ---- 色彩：以 Bootstrap 语义色映射 Tailwind 的 gray 色阶，跟随主题切换 ----
+  --guide-ink: var(--bs-body-color);                       // gray-700
+  --guide-ink-strong: var(--bs-emphasis-color);            // gray-900
+  --guide-muted: var(--bs-secondary-color);                // gray-600
+  --guide-subtle: var(--bs-tertiary-color);                // gray-400/500
+  --guide-canvas: var(--bs-body-bg);
+  --guide-surface: var(--td-brand-elev, #fff);             // white
+  --guide-band: color-mix(in srgb, var(--bs-emphasis-color) 2.5%, var(--guide-canvas)); // gray-50
+  --guide-fill: color-mix(in srgb, var(--bs-emphasis-color) 4%, var(--guide-surface));  // gray-100
+  --guide-ring: color-mix(in srgb, var(--bs-emphasis-color) 9%, transparent);            // ring-gray-900/5
+  --guide-ring-strong: color-mix(in srgb, var(--bs-emphasis-color) 16%, transparent);
+
+  --guide-accent: #245b54;
+  --guide-accent-hover: #1b4640;
+  --guide-accent-fg: #fff;
+  --guide-accent-soft: color-mix(in srgb, var(--guide-accent) 9%, var(--guide-surface));
+  --guide-accent-ring: color-mix(in srgb, var(--guide-accent) 40%, transparent);
+
+  // ---- 形状与阴影 ----
+  --guide-radius-sm: 8px;   // rounded-lg
+  --guide-radius-md: 12px;  // rounded-xl
+  --guide-radius-lg: 16px;  // rounded-2xl
+  --guide-shadow-sm: 0 1px 2px 0 rgb(0 0 0 / .05);
+  --guide-shadow-md: 0 4px 6px -1px rgb(0 0 0 / .07), 0 2px 4px -2px rgb(0 0 0 / .05);
+  --guide-hover-lift: -2px;
+
+  --guide-mono: var(--bs-font-monospace, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace);
+  --guide-serif: "Songti SC", "STSong", "Source Han Serif SC", "Noto Serif CJK SC", Georgia, serif;
+
+  .td-site-container {
+    max-width: 1280px;
+    padding-inline: 2rem;
+  }
+
+  .td-site-header {
+    border-bottom: 1px solid var(--guide-ring);
+    &::after { display: none; }
+  }
+
+  .td-landing-landing {
+    --td-primary-bg: var(--guide-accent);
+    --td-primary-bg-hover: var(--guide-accent-hover);
+    --td-primary-fg: var(--guide-accent-fg);
+    background: var(--guide-canvas);
+    color: var(--guide-ink);
+
+    &::before { display: none; }
+  }
+
+  a:focus-visible {
+    outline: 2px solid var(--guide-accent);
+    outline-offset: 2px;
+  }
+
+  // --------------------------------------------------------------------------
+  // 1. Hero 卷首：左侧书名、导语与按钮；右侧站点主题插画（保持原图比例）
+  // --------------------------------------------------------------------------
+  .td-main .guide-home-hero {
+    min-height: 0;
+    padding: 56px 0 44px;
+    border-bottom: 1px solid var(--guide-ring);
+
+    > .td-site-container {
+      display: grid;
+      gap: 48px;
+      align-items: center;
+    }
+  }
+
+  .td-landing-hero__glow,
+  .td-landing-status-dot {
+    display: none;
+  }
+
+  .td-landing-hero__title {
+    margin-bottom: 18px;
+    font-family: var(--guide-serif);
+    font-size: clamp(2.15rem, 3.35vw, 3.25rem);
+    font-weight: 750;
+    letter-spacing: .16em;
+    margin-inline-end: -.16em;
+    line-height: 1.22;
+    color: var(--guide-ink-strong);
+    white-space: nowrap;
+  }
+
+  .td-landing-hero__lead {
+    max-width: 25.2em;
+    margin: 0;
+    font-size: 1.04rem;
+    line-height: 1.85;
+    color: var(--guide-muted);
+    text-wrap: stable;
+  }
+
+  .td-landing-hero__actions {
+    margin: 24px 0 0;
+    gap: 12px;
+  }
+
+  .td-landing-hero__media {
+    display: block;
+    aspect-ratio: 28 / 15; // static/images/neighbourhood.svg 为 560 × 300
+    transform: none;
+    border-radius: 16px;
+    background-size: cover;
+    box-shadow: var(--guide-shadow-sm);
+  }
+
+  // --------------------------------------------------------------------------
+  // 2. 分区与标题：大留白、白底 / 浅灰底交替
+  // --------------------------------------------------------------------------
+  .guide-section {
+    padding-block: 4.5rem;
+    border: 0;
+    background: var(--guide-canvas);
+  }
+
+  .guide-routes:not(.guide-profiles),
+  .guide-tools {
+    background: var(--guide-band);
+    border-block: 1px solid var(--guide-ring);
+  }
+
+  .guide-head {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 1.5rem;
+    margin-bottom: 2.25rem;
+  }
+
+  .guide-head__text {
+    min-width: 0;
+
+    h2 {
+      margin: 0;
+      font-size: clamp(1.5rem, 2.2vw, 1.875rem);
+      font-weight: 700;
+      line-height: 1.25;
+      letter-spacing: -.01em;
+      color: var(--guide-ink-strong);
+    }
+  }
+
+  .guide-head__desc {
+    margin: .625rem 0 0;
+    font-size: 1rem;
+    line-height: 1.6;
+    color: var(--guide-muted);
+  }
+
+  .guide-head__more {
+    flex-shrink: 0;
+    display: inline-flex;
+    align-items: center;
+    gap: .375rem;
+    font-size: .875rem;
+    font-weight: 600;
+    line-height: 1.5rem;
+    color: var(--guide-accent);
+    text-decoration: none;
+
+    i {
+      font-size: .75rem;
+      transition: transform .15s ease;
+    }
+
+    &:hover {
+      color: var(--guide-accent-hover);
+      i { transform: translateX(3px); }
+    }
+  }
+
+  // 通用卡片：白底、极细描边、轻阴影
+  .guide-part,
+  .guide-route,
+  .guide-tool-card {
+    background: var(--guide-surface);
+    border: 0;
+    box-shadow: var(--guide-shadow-sm), 0 0 0 1px var(--guide-ring);
+  }
+
+  // 通用徽章：rounded-md、浅底、细描边
+  %guide-badge {
+    display: inline-flex;
+    align-items: center;
+    padding: .25rem .625rem;
+    font-size: .8125rem;
+    font-weight: 500;
+    line-height: 1.25rem;
+    color: var(--guide-ink);
+    background: var(--guide-band);
+    border-radius: 6px;
+    box-shadow: inset 0 0 0 1px var(--guide-ring);
+    text-decoration: none;
+    white-space: nowrap;
+    transition: color .15s ease, background-color .15s ease, box-shadow .15s ease;
+
+    &:hover {
+      color: var(--guide-accent);
+      background: var(--guide-accent-soft);
+      box-shadow: inset 0 0 0 1px var(--guide-accent-ring);
+    }
+  }
+
+  // --------------------------------------------------------------------------
+  // 3. 全书目录：每部分一张大卡片，上方标题与说明，下方章节条目
+  // --------------------------------------------------------------------------
+  .guide-parts__list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+
+  .guide-part {
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+    padding: 1.75rem 1.75rem 1.25rem;
+    border-radius: var(--guide-radius-lg);
+  }
+
+  .guide-part__intro {
+    min-width: 0;
+    display: flex;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: .25rem 1rem;
+  }
+
+  .guide-part__title {
+    margin: 0;
+    font-size: 1.125rem;
+    font-weight: 700;
+    line-height: 1.75rem;
+
+    a {
+      color: var(--guide-ink-strong);
+      text-decoration: none;
+      &:hover { color: var(--guide-accent); }
+    }
+  }
+
+  .guide-part__desc {
+    margin: 0;
+    font-size: .875rem;
+    line-height: 1.5rem;
+    color: var(--guide-subtle);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .guide-part__chapters {
+    list-style: none;
+    margin: 0 -.75rem;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: .25rem .5rem;
+  }
+
+  .guide-chapter {
+    min-width: 0;
+  }
+
+  .guide-chapter__link {
+    display: flex;
+    flex-direction: column;
+    gap: .125rem;
+    padding: .75rem;
+    border-radius: var(--guide-radius-sm);
+    text-decoration: none;
+    transition: background-color .15s ease;
+
+    &:hover {
+      background: var(--guide-band);
+
+      .guide-chapter__title { color: var(--guide-accent); }
+    }
+  }
+
+  .guide-chapter__title {
+    font-size: .9375rem;
+    font-weight: 600;
+    line-height: 1.5rem;
+    color: var(--guide-ink-strong);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    transition: color .15s ease;
+  }
+
+  .guide-chapter__desc {
+    font-size: .8125rem;
+    line-height: 1.25rem;
+    color: var(--guide-muted);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  // --------------------------------------------------------------------------
+  // 4. 按事项查 / 按处境查：特性卡片网格（事项 5 列，处境 4 列）
+  // --------------------------------------------------------------------------
+  .guide-routes__grid {
+    --guide-columns: 5;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(var(--guide-columns), minmax(0, 1fr));
+    gap: 1rem;
+  }
+
+  .guide-routes__item {
+    min-width: 0;
+  }
+
+  .guide-route {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    padding: 1.25rem;
+    border-radius: var(--guide-radius-md);
+    text-decoration: none;
+    transition: box-shadow .2s ease, transform .2s ease;
+
+    &:hover {
+      box-shadow: var(--guide-shadow-md), 0 0 0 1px var(--guide-accent-ring);
+      transform: translateY(var(--guide-hover-lift));
+
+      .guide-route__icon {
+        background: var(--guide-accent);
+        color: var(--guide-accent-fg);
+      }
+      .guide-route__name { color: var(--guide-accent); }
+    }
+  }
+
+  .guide-route__head {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1rem;
+  }
+
+  .guide-route__icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: var(--guide-radius-sm);
+    background: var(--guide-accent-soft);
+    color: var(--guide-accent);
+    font-size: 1rem;
+    transition: background-color .2s ease, color .2s ease;
+  }
+
+  .guide-route__name {
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 1.5rem;
+    color: var(--guide-ink-strong);
+    transition: color .2s ease;
+  }
+
+  .guide-route__desc {
+    margin-top: .25rem;
+    font-size: .8125rem;
+    line-height: 1.25rem;
+    color: var(--guide-muted);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  // --------------------------------------------------------------------------
+  // 5. 查询与说明：3 列工具卡片
+  // --------------------------------------------------------------------------
+  .guide-tools__grid {
+    --guide-columns: 3;
+    display: grid;
+    grid-template-columns: repeat(var(--guide-columns), minmax(0, 1fr));
+    gap: 1.5rem;
+  }
+
+  .guide-tool-card {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    padding: 1.75rem;
+    border-radius: var(--guide-radius-lg);
+  }
+
+  .guide-tool-card__title {
+    margin: 0;
+    font-size: 1.0625rem;
+    font-weight: 700;
+    line-height: 1.75rem;
+
+    a {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 1rem;
+      color: var(--guide-ink-strong);
+      text-decoration: none;
+
+      &:hover { color: var(--guide-accent); }
+    }
+  }
+
+  .guide-tool-card__icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: var(--guide-radius-sm);
+    background: var(--guide-accent-soft);
+    color: var(--guide-accent);
+    font-size: 1rem;
+  }
+
+  .guide-tool-card__desc {
+    margin: .25rem 0 0;
+    font-size: .875rem;
+    line-height: 1.5rem;
+    color: var(--guide-muted);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .guide-tool-card__links {
+    list-style: none;
+    margin: auto 0 0;
+    padding: 1.25rem 0 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: .5rem;
+
+    a { @extend %guide-badge; }
+  }
+
+  // --------------------------------------------------------------------------
+  // 6. 响应式
+  // --------------------------------------------------------------------------
+  @media (max-width: 1199px) {
+    .guide-routes__grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+    .guide-profiles .guide-routes__grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  }
+
+  @media (max-width: 991px) {
+    .guide-part__chapters { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .guide-tools__grid { grid-template-columns: 1fr; }
+  }
+
+  @media (max-width: 899px) {
+    .td-main .guide-home-hero {
+      padding: 36px 0 32px;
+      > .td-site-container {
+        grid-template-columns: 1fr;
+        gap: 28px;
+      }
+    }
+    .td-landing-hero__media {
+      max-width: none;
+      border-radius: 12px;
+    }
+    .guide-section { padding-block: 3rem; }
+  }
+
+  @media (max-width: 575px) {
+    .td-site-container { padding-inline: 1.25rem; }
+    .guide-part,
+    .guide-tool-card { padding: 1.25rem; }
+    .guide-part__chapters { grid-template-columns: 1fr; }
+    .guide-routes__grid,
+    .guide-profiles .guide-routes__grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .guide-head {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: .75rem;
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .guide-route { transition: none; &:hover { transform: none; } }
+  }
+}
+
+// ============================================================================
+// 四种 Oink 预设（paper / slate / ink / terminal）及暗色模式
+// ============================================================================
+
+[data-bs-theme="dark"] .guide-home {
+  --guide-accent: #5fb3a6;
+  --guide-accent-hover: #7cc6ba;
+  --guide-accent-fg: #0c1715;
+  --guide-accent-soft: color-mix(in srgb, var(--guide-accent) 14%, var(--guide-surface));
+  --guide-ring: color-mix(in srgb, var(--bs-emphasis-color) 11%, transparent);
+  --guide-shadow-sm: 0 1px 2px 0 rgb(0 0 0 / .3);
+  --guide-shadow-md: 0 8px 20px -6px rgb(0 0 0 / .5);
+}
+
+// Slate：冷静的石板蓝
+[data-td-theme-preset="slate"] .guide-home {
+  --guide-accent: #1d5d8f;
+  --guide-accent-hover: #164870;
+  --guide-serif: var(--bs-body-font-family);
+}
+[data-td-theme-preset="slate"][data-bs-theme="dark"] .guide-home {
+  --guide-accent: #63a9e0;
+  --guide-accent-hover: #82bcf0;
+  --guide-accent-fg: #09131c;
+}
+
+// Ink：零圆角、零阴影、实线描边、国旗红
+[data-td-theme-preset="ink"] .guide-home {
+  --guide-accent: #b81d24;
+  --guide-accent-hover: #93151b;
+  --guide-radius-sm: 0px;
+  --guide-radius-md: 0px;
+  --guide-radius-lg: 0px;
+  --guide-shadow-sm: 0 0 0 0 transparent;
+  --guide-shadow-md: 0 0 0 0 transparent;
+  --guide-ring: var(--bs-border-color);
+  --guide-hover-lift: 0px;
+
+  .td-landing-hero__media { border-radius: 0; }
+}
+[data-td-theme-preset="ink"][data-bs-theme="dark"] .guide-home {
+  --guide-accent: #ff5c5c;
+  --guide-accent-hover: #ff7a7a;
+  --guide-accent-fg: #140808;
+}
+
+// Terminal：等宽排印、2px 圆角、无阴影
+[data-td-theme-preset="terminal"] .guide-home {
+  --guide-accent: #0d6e66;
+  --guide-accent-hover: #09524c;
+  --guide-serif: var(--guide-mono);
+  --guide-radius-sm: 2px;
+  --guide-radius-md: 2px;
+  --guide-radius-lg: 2px;
+  --guide-shadow-sm: 0 0 0 0 transparent;
+  --guide-shadow-md: 0 0 0 0 transparent;
+  --guide-hover-lift: 0px;
+
+  .td-landing-hero__media { border-radius: 2px; }
+
+  .td-landing-hero__title,
+  .guide-head h2,
+  .guide-part__title,
+  .guide-route__name,
+  .guide-tool-card__title {
+    font-family: var(--guide-mono);
+  }
+}
+[data-td-theme-preset="terminal"][data-bs-theme="dark"] .guide-home {
+  --guide-accent: #4cc9bd;
+  --guide-accent-hover: #6ee0d5;
+  --guide-accent-fg: #071412;
+}
+
+// ============================================================================
+// 站点页脚（全站）：品牌 + 四列链接，Tailwind 式的安静排版
+// ============================================================================
+
+.td-site-footer {
+  background: color-mix(in srgb, var(--bs-emphasis-color) 2.5%, var(--bs-body-bg));
+  border-top: 1px solid color-mix(in srgb, var(--bs-emphasis-color) 9%, transparent);
+
+  &__container {
+    padding: 3.5rem 2rem 2.5rem;
+  }
+
+  &__inner {
+    grid-template-columns: minmax(240px, 1fr) minmax(0, 2fr);
+    gap: 2.5rem 4rem;
+  }
+
+  &__grid {
+    gap: 2rem;
+  }
+
+  &__logo {
+    gap: .625rem;
+    margin-bottom: .75rem;
+
+    img {
+      width: 26px;
+      height: 26px;
+    }
+
+    span {
+      background: none;
+      color: var(--bs-emphasis-color);
+      -webkit-text-fill-color: currentColor;
+      font-family: inherit;
+      font-size: 1.0625rem;
+      font-weight: 700;
+      letter-spacing: .04em;
+    }
+  }
+
+  &__tagline {
+    font-size: .875rem;
+    line-height: 1.6;
+  }
+
+  &__column {
+    padding-inline-start: 0;
+
+    h2 {
+      margin: 0 0 1rem;
+      color: var(--bs-emphasis-color);
+      font-family: inherit;
+      font-size: .875rem;
+      font-weight: 600;
+      letter-spacing: 0;
+      text-transform: none;
+    }
+
+    li + li { margin-top: .75rem; }
+
+    a {
+      font-size: .875rem;
+      line-height: 1.5;
+    }
+  }
+
+  @media (max-width: 767px) {
+    &__container { padding: 2.5rem 1.25rem 2rem; }
+    &__inner { grid-template-columns: minmax(0, 1fr); gap: 2rem; }
+    &__grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  }
+}
+
+// 版权行与上方四列共用同一条居中容器边线
+.td-site-footer + .td-shell-footline {
+  padding-inline: unquote('max(2rem, calc((100% - 1280px) / 2 + 2rem))');
+}

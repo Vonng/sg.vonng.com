@@ -9,7 +9,8 @@ draft: false
 verified: ''
 reviewed_by: root（编辑导航审阅）
 layout: landing
-body_class: sg-home-page
+landing: home
+body_class: guide-home
 no_list: true
 ---
 

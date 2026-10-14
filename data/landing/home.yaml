@@ -1,0 +1,146 @@
+# 首页 landing 数据（《新加坡生活指南》）
+# 由 content/_index.md（layout: landing, landing: home）引用。
+# 章节标题与链接取自真实 Hugo 分区（site.GetPage + .Sections.ByWeight），这里只覆盖单行说明；
+# 只有已有正式正文的章节才会出现在首页。所有 page 引用缺失时构建报错。
+
+sections:
+  - type: hero
+    data:
+      class: guide-home-hero
+      title: 新加坡生活指南
+      lead: 读懂新加坡社会，找到日常生活与人生事务的办事指南。
+      image:
+        src: /images/sg-life-hero.webp
+        alt: 滨海湾步道、金沙酒店与擎天树的新加坡生活主题插画
+      media:
+        ratio: 1fr 1.1fr
+        max_width: 600px
+      actions:
+        - { label: 阅读, url: /book/, style: primary, icon: fa-solid fa-book-open }
+        - { label: 按事项, url: "#routes", style: ghost, icon: fa-solid fa-list-check }
+        - { label: 按处境, url: "#profiles", style: ghost, icon: fa-solid fa-id-card }
+
+  - type: guide-parts
+    partial: landing/sections/guide-parts.html
+    key: parts
+    data:
+      title: 全书目录
+      desc: 从社会背景到人生事务，每部分先有导读，各章均可独立查用。
+      more: { label: 展开完整目录, url: "/book/#contents" }
+      items:
+        - page: /book/foundations
+          desc: 岛国空间、历史形成、国家制度与族群。
+          chapters:
+            geography: 生活圈比较、地址天气与资源来源
+            history: 海峡港口、独立建国与组屋记忆
+            government: 国家机构、公共服务与公众参与
+            society: 身份分类、节庆礼节与迁徙家庭
+            culture: 相处分寸、小贩中心与阶层压力
+            world: 东盟邻国、贸易人流与外交立场
+        - page: /book/life
+          desc: 证件准证、住房、采购、交通与数字生活。
+          chapters:
+            documents: 身份判断、准证续期、PR与国民服役
+            housing: 租房入住、私宅购买与邻里纠纷
+            household: 买菜吃饭、水电维修与消费退换
+            transport: 地铁巴士、出租驾车与跨境关卡
+            digital: Singpass账户、通信合约与反诈
+            community: 图书馆、社区课程与邻里网络
+        - page: /book/people
+          desc: 就医、婚育、教育、语言与养老照护。
+          chapters:
+            healthcare: 看病入口、医疗费用与用药病历
+            accessibility: 心理支持、辅具评估与照护喘息
+            family: 婚姻同居、怀孕出生与托育家政
+            school: 课程考试、家校沟通与课后照顾
+            learning: 大学理工、学费资助与成人进修
+            language: 多语表达、办事沟通与家庭语言
+            ageing: 退休再就业、长期照护与身后事
+        - page: /book/work
+          desc: 求职就业、劳动权益、CPF、税务与经营。
+          chapters:
+            career: 求职渠道、简历面试与中介核验
+            employment: 劳动权益、工资申索与工伤失业
+            finance: 银行支付、CPF、保险与储蓄投资
+            tax: 居民申报、税单更正与离境税清
+            business: 企业注册、持续申报与停业善后
+        - page: /book/rights
+          desc: 法律程序、求助机构与公共安全应急。
+          chapters:
+            legal: 法院规则、法律援助与通知期限
+            contracts: 签约核对、付款交付与违约责任
+            safety: 紧急求助、住家火灾与日常风险
+            outdoors: 公园水域、跨境旅行与出行支援
+
+  - type: guide-routes
+    partial: landing/sections/guide-routes.html
+    key: routes
+    data:
+      title: 按事项查
+      desc: 按正在处理的事情串联跨章主题，理清前置条件与办理顺序。
+      more: { label: 全部事项, url: /docs/routes/ }
+      columns: 5
+      items:
+        - { name: 安顿, desc: 住处安排、日常采购与预算, page: /docs/routes/settling-in, icon: fa-solid fa-couch }
+        - { name: 租房, desc: 租客资格、房源核验与签约, page: /docs/routes/renting, icon: fa-solid fa-key }
+        - { name: 工作, desc: 工作权限、报到与工资账户, page: /docs/routes/start-work, icon: fa-solid fa-briefcase }
+        - { name: 离职, desc: 最后工资、准证与IR21税清, page: /docs/routes/leaving-job, icon: fa-solid fa-right-from-bracket }
+        - { name: 跨境, desc: 旅行文件、车辆与返新申报, page: /docs/routes/cross-border-trip, icon: fa-solid fa-bridge }
+        - { name: 生病, desc: 就医入口、补贴保险与账单, page: /docs/routes/illness, icon: fa-solid fa-stethoscope }
+        - { name: 生育, desc: 产检、出生登记与托育安排, page: /docs/routes/having-child, icon: fa-solid fa-baby-carriage }
+        - { name: 被骗, desc: 止损、留证报案与恢复服务, page: /docs/routes/digital-safety, icon: fa-solid fa-user-shield }
+        - { name: 退休, desc: 再就业、每月收入与乐龄支持, page: /docs/routes/retirement, icon: fa-solid fa-umbrella-beach }
+        - { name: 丧亲, desc: 死亡证明、葬礼与遗产善后, page: /docs/routes/when-someone-dies, icon: fa-solid fa-dove }
+
+  - type: guide-routes
+    partial: landing/sections/guide-routes.html
+    key: profiles
+    data:
+      class: guide-profiles
+      title: 按处境查
+      desc: 同一件事因国籍、准证与家庭处境不同，适用规则也不同。
+      more: { label: 全部处境, url: /docs/profiles/ }
+      columns: 4
+      items:
+        - { name: 公民, desc: CPF、医疗保障与家庭安排, page: /docs/profiles/citizen, icon: fa-solid fa-id-card }
+        - { name: 永久居民, desc: 取得途径、REP与离境安排, page: /docs/profiles/pr, icon: fa-solid fa-house-user }
+        - { name: 准证持有人, desc: 按准证类型核对权限与手续, page: /docs/profiles/worker, icon: fa-solid fa-id-badge }
+        - { name: 学生, desc: 学生准证、打工条件与日常安排, page: /docs/profiles/student, icon: fa-solid fa-graduation-cap }
+        - { name: 家属, desc: 每位成员的准证与签发机构, page: /docs/profiles/family, icon: fa-solid fa-people-roof }
+        - { name: 短期访客, desc: 停留期限、交通与就医安排, page: /docs/profiles/visitor, icon: fa-solid fa-suitcase-rolling }
+        - { name: 残障与照护, desc: 评估、辅具、合理调整与照护, page: /docs/profiles/disability-care, icon: fa-solid fa-universal-access }
+        - { name: 生活困难, desc: 生活、医疗、孩子与法律支持, page: /docs/profiles/low-income, icon: fa-solid fa-hand-holding-heart }
+
+  - type: guide-tools
+    partial: landing/sections/guide-tools.html
+    key: tools
+    data:
+      class: guide-home-tools
+      title: 查询与说明
+      desc: 检索全书主题、核对英文缩写与本地用语，或查看阅读说明。
+      columns: 3
+      items:
+        - title: 全书查询索引
+          desc: 按事项、处境与关键词检索全书主题页。
+          icon: fa-solid fa-magnifying-glass
+          page: /docs
+          links:
+            - { label: 按事项查, page: /docs/routes }
+            - { label: 按处境查, page: /docs/profiles }
+            - { label: 全书完整目录, page: /book, anchor: contents }
+        - title: 术语对照表
+          desc: 从英文缩写与本地用语查对应解释。
+          icon: fa-solid fa-language
+          page: /docs/glossary
+          links:
+            - { label: CPF 公积金, page: /book/work/finance/cpf-basics }
+            - { label: Singpass 账户, page: /book/life/digital/accounts }
+            - { label: EP / S Pass, page: /book/life/documents/work-passes }
+            - { label: IR21 税清, page: /book/work/tax/leaving-singapore }
+        - title: 关于这本指南
+          desc: 了解本书范围、来源与阅读方式。
+          icon: fa-solid fa-book-bookmark
+          page: /docs/about
+          links:
+            - { label: 全书导读, page: /book }
+            - { label: 整书打印视图, url: /_print/book/ }

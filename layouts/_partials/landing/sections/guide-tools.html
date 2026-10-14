@@ -1,0 +1,43 @@
+{{- /* 首页“查询与说明”：工具卡片（图标、标题、单行说明、快捷入口徽章）。
+       page 引用经 site.GetPage 校验，缺失时构建报错；url 仅用于非页面产物（如整书打印视图）。 */ -}}
+{{- $data := .data -}}
+{{- $id := .id -}}
+<section id="{{ $id }}" class="td-landing-section guide-section guide-tools{{ with $data.class }} {{ . }}{{ end }}" aria-labelledby="{{ $id }}-title">
+  <div class="td-site-container">
+    {{- partial "landing/guide-head.html" (dict "data" $data "id" $id) }}
+    <div class="guide-tools__grid" style="--guide-columns: {{ $data.columns | default 3 }}">
+      {{- range $index, $item := $data.items }}
+      {{- $target := site.GetPage $item.page -}}
+      {{- if not $target }}{{ errorf "home landing: tool card %q not found" $item.page }}{{ end -}}
+      {{- $titleID := printf "%s-card-%d-title" $id $index }}
+      <article class="guide-tool-card" aria-labelledby="{{ $titleID }}">
+        <h3 id="{{ $titleID }}" class="guide-tool-card__title">
+          <a href="{{ $target.RelPermalink }}">
+            {{- with $item.icon }}<span class="guide-tool-card__icon"><i class="{{ . }}" aria-hidden="true"></i></span>{{ end }}
+            <span>{{ $item.title | default $target.LinkTitle }}</span>
+          </a>
+        </h3>
+        {{- with ($item.desc | default $target.Description) }}
+        <p class="guide-tool-card__desc">{{ . }}</p>
+        {{- end }}
+        {{- with $item.links }}
+        <ul class="guide-tool-card__links">
+          {{- range . }}
+          {{- $href := "" -}}
+          {{- if .page }}
+            {{- $linked := site.GetPage .page -}}
+            {{- if not $linked }}{{ errorf "home landing: tool link %q not found" .page }}{{ end -}}
+            {{- $href = $linked.RelPermalink -}}
+            {{- with .anchor }}{{ $href = printf "%s#%s" $href . }}{{ end -}}
+          {{- else }}
+            {{- $href = .url | relLangURL -}}
+          {{- end }}
+          <li><a href="{{ $href }}">{{ .label }}</a></li>
+          {{- end }}
+        </ul>
+        {{- end }}
+      </article>
+      {{- end }}
+    </div>
+  </div>
+</section>

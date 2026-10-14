@@ -1,0 +1,25 @@
+# 站点页脚（Oink fat footer）：品牌 + 四列 × 三行链接；版权行见 hugo.yaml params.copyright。
+brand:
+  name: 新加坡生活指南
+  tagline: 读懂新加坡社会，找到日常生活与人生事务的办事指南。
+columns:
+  - title: 阅读
+    links:
+      - { label: 阅读全书, url: /book/ }
+      - { label: 事项索引, url: /docs/routes/ }
+      - { label: 处境索引, url: /docs/profiles/ }
+  - title: 查询
+    links:
+      - { label: 查询索引, url: /docs/ }
+      - { label: 术语对照, url: /docs/glossary/ }
+      - { label: 版本说明, url: /docs/about/ }
+  - title: 生活指南
+    links:
+      - { label: 加拿大生活指南, url: "https://ca.vonng.com/", external: true }
+      - { label: 美利坚生活指南, url: "https://us.vonng.com/", external: true }
+      - { label: 新加坡生活指南, url: / }
+  - title: 其他链接
+    links:
+      - { label: vonng.com, url: "https://vonng.com/", external: true }
+      - { label: pgsty.com, url: "https://pgsty.com/", external: true }
+      - { label: pg.center, url: "https://pg.center/", external: true }

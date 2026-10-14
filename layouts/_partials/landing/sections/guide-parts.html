@@ -1,0 +1,46 @@
+{{- /* 首页“全书目录”：每个部分一张大卡片，标题与单行说明在上，章节（标题 + 单行说明）网格在下。
+       章节标题与链接取自真实分区，只列出已有正式正文的章节；data 只可覆盖单行说明。 */ -}}
+{{- $data := .data -}}
+{{- $id := .id -}}
+<section id="{{ $id }}" class="td-landing-section guide-section guide-parts{{ with $data.class }} {{ . }}{{ end }}" aria-labelledby="{{ $id }}-title">
+  <div class="td-site-container">
+    {{- partial "landing/guide-head.html" (dict "data" $data "id" $id) }}
+    <ol class="guide-parts__list">
+      {{- range $index, $item := $data.items }}
+      {{- $part := site.GetPage $item.page -}}
+      {{- if not $part }}{{ errorf "home landing: book part %q not found" $item.page }}{{ end -}}
+      {{- $chapters := slice -}}
+      {{- range $part.Sections.ByWeight }}{{ if .RegularPagesRecursive }}{{ $chapters = $chapters | append . }}{{ end }}{{ end -}}
+      {{- if $chapters }}
+      {{- $titleID := printf "%s-part-%d" $id $index }}
+      <li class="guide-part">
+        <div class="guide-part__intro">
+          <h3 id="{{ $titleID }}" class="guide-part__title">
+            <a href="{{ $part.RelPermalink }}">{{ $part.LinkTitle }}</a>
+          </h3>
+          {{- with ($item.desc | default $part.Description) }}
+          <p class="guide-part__desc">{{ . }}</p>
+          {{- end }}
+        </div>
+        <ul class="guide-part__chapters" aria-labelledby="{{ $titleID }}">
+          {{- range $chapters }}
+          {{- $slug := path.Base (strings.TrimSuffix "/" .RelPermalink) -}}
+          {{- $chDesc := "" -}}
+          {{- with $item.chapters }}{{ with index . $slug }}{{ $chDesc = . }}{{ end }}{{ end -}}
+          {{- if not $chDesc }}{{ $chDesc = .Description }}{{ end }}
+          <li class="guide-chapter">
+            <a class="guide-chapter__link" href="{{ .RelPermalink }}">
+              <strong class="guide-chapter__title">{{ .LinkTitle }}</strong>
+              {{- with $chDesc }}
+              <span class="guide-chapter__desc">{{ . }}</span>
+              {{- end }}
+            </a>
+          </li>
+          {{- end }}
+        </ul>
+      </li>
+      {{- end }}
+      {{- end }}
+    </ol>
+  </div>
+</section>

@@ -1,0 +1,25 @@
+{{- /* 首页“按事项查 / 按处境查”：图标、标题与单行说明的特性卡片网格。 */ -}}
+{{- $data := .data -}}
+{{- $id := .id -}}
+<section id="{{ $id }}" class="td-landing-section guide-section guide-routes{{ with $data.class }} {{ . }}{{ end }}" aria-labelledby="{{ $id }}-title">
+  <div class="td-site-container">
+    {{- partial "landing/guide-head.html" (dict "data" $data "id" $id) }}
+    <ul class="guide-routes__grid" style="--guide-columns: {{ $data.columns | default 5 }}">
+      {{- range $item := $data.items }}
+      {{- $target := site.GetPage $item.page -}}
+      {{- if not $target }}{{ errorf "home landing: %s item %q not found" $id $item.page }}{{ end }}
+      <li class="guide-routes__item">
+        <a class="guide-route" href="{{ $target.RelPermalink }}">
+          <span class="guide-route__head">
+            <span class="guide-route__icon"><i class="{{ $item.icon }}" aria-hidden="true"></i></span>
+            <strong class="guide-route__name">{{ $item.name | default $target.LinkTitle }}</strong>
+          </span>
+          {{- with ($item.desc | default $target.Description) }}
+          <span class="guide-route__desc">{{ . }}</span>
+          {{- end }}
+        </a>
+      </li>
+      {{- end }}
+    </ul>
+  </div>
+</section>

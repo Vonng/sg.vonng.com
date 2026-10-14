@@ -1,0 +1,15 @@
+{{- /* 首页分区标题：主标题、单行导语，右侧可选“查看全部”入口。 */ -}}
+{{- $data := .data -}}
+{{- $id := .id -}}
+<header class="guide-head">
+  <div class="guide-head__text">
+    <h2 id="{{ $id }}-title">{{ $data.title }}</h2>
+    {{- with $data.desc }}<p class="guide-head__desc">{{ . }}</p>{{ end }}
+  </div>
+  {{- with $data.more }}
+  <a class="guide-head__more" href="{{ .url | relLangURL }}">
+    <span>{{ .label }}</span>
+    <i class="fa-solid fa-arrow-right" aria-hidden="true"></i>
+  </a>
+  {{- end }}
+</header>
