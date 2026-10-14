@@ -1,5 +1,20 @@
 # 当前检查点
 
+## 2026-10-14 19:26 用户要求停止，保存未完成状态
+
+用户明确回复“别几把研究了，我删掉了，赶紧收尾结束吧”。三执行者已中断，停止研究、续写、补源、修订和缓存重建；持续目标按本次用户指令暂停，不标完成。用户也确认首页仍由另一个会话维护。
+
+当前HEAD `6f1fb41995d9d6a48f1c82941eda1496cd530efb`，本段随后随本地收尾提交保存。实查.cache整个不存在，public仍存在；本轮无新构建／sync。最后可靠本地验收为B06H105主题／411产物（3a6eafb）；原件、逆替、浏览器图与PDF缓存已由用户删除，历史报告所列cache位置当前不可访问，未重建或继承虚构新阅读旗标。
+
+实际111篇主题＝105 integrated＋6 written/draft:true（HDB、EC、privacy-data、admission、travel-support、disputes）。本轮修改均保持草稿，不接入公开导航。准备B06I导航脚本因.cache已删在写文件前失败，未修改任何导航、配置或首页。
+
+- 合同争议123行18171B，body `bca873254c950ca2da73c3231992730f095412af1fb6a2fa92aaae50f5349156`／full `e0ce734b906ce6861b0ee62e92575d57285811009e402697ecb00fc6ff7c6c2f`。B完整19原源事实及三术语限定报告86行16598B SHAf93f3c82…已落；A真正第三40行6282B SHAb399af86…已落，root已读该第三。两审不代本地工程，尚未接收集成。六事实和三术语修订已真正完成，旧差分原件现已删。
+- 个人资料128行25663B，body `41b9cfdf997698b67f30111671cb1234e48507777a011c6bcad2a3232125a89a`／full `7ffe9845018220ffca7ad49f430461c9abe44f1f436d3331d6c8c67374993334`。C87行完整facts SHA4cea0350…仅绑定原5dfdb44d／14bf3aa6，原26源／38必要PDF文字15图实际读完成。B已明确RAW120撤回通知接收主体，root已真读完整新旧／全diff、自身逆替并全读128／88证据／45map；C限定原段已真读，但正式同版重绑尚未写，A第三未签。不能把原报告直接当新稿正式同版通过。
+- HDB133仍body427cbeb4…，root真读17必要组、三实体5文字4图及9完整作者操作／全diff／独立逆替，正式PENDING记录已保存。原AnnexA1是≥3-room，root与A重渲原页确认；文字提取漏等号横线导致的错误反馈已撤回且正文未误改。MOP RAW34须澄清领钥匙起算和扣未占用范围；重要SC／PR、非居民配偶、特殊家庭、Plus／Prime产权与PHG资格仍未详细全文闭合。
+- EC124、admission166、travel-support133均已作者完整草稿／支持，仍待核心补研及独立审核。C尚未读入学35必要原件，B尚未完成支援26原件，不签新事实通过。
+
+全28种子／六身份关键制度分支／五真实情境／准备来新、买房、孩子入学和身份变化路线／全书HUM与最终首页验收仍未通过；ONE续期及PEP家属具体申请角色仍有任务。未外部推送、部署或真实办理。未来只有用户再次明确要求继续时，才按RESUME-PROMPT恢复；届时先核另一会话所有权与真实现场，不能从已删cache的旧句柄恢复或重复探测失败源。
+
 ## 2026-10-14 18:39 工作区分批清理提交完成，进入发布准备
 
 按用户指示把H后残余工作区按逻辑分三批本地提交，每批均核staged清单／UTF-8类型／diff --check：cc764b3外部首页品牌（landing partials、landing/home与footer数据、样式重写、favicon套件、hero图、logo.svg移除——17:19门禁及H门禁均随全树构建验证）；51c4f2c六在途草稿（admission、disputes、HDB、EC、privacy-data、travel-support，均written/draft:true不入公开构建）及hdb/ec/privacy-data/travel-support证据地图；6fe576b四作者HANDOFF、disputes证据53行／map22行与本18:35检查点。末批把用户ops/PROMPT-ORIGIN.md加入.gitignore保持本地不入库。未运行新门禁：本机提交不改正文内容，H的411产物仍与当前integrated树一致。清理后git status清空；并行作者会话（A入学、B争议facts、C support冻结、root HDB/EC）继续在途，其新产出按各自批次提交。未外部推送部署。

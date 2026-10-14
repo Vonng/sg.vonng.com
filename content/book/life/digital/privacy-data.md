@@ -117,7 +117,7 @@ DNC 适用于新加坡电话号码，登记免费；住家、办公室和手机�
 
 21 天后仍收到适用的营销讯息，保留号码、时间和讯息原件，经 PDPC 的电话营销分支报告。登记并不自动撤回给某个机构的具体同意，也不是所有服务通知、垃圾邮件或诈骗来电都适用同一规则；向发件机构明确要求停止、核是否有有效营销同意，并把登记和交涉记录一起交给 PDPC 判断。[PDPC：电话营销入口](https://eservice.pdpc.gov.sg/)、[PDPC：DNC 同意与适用讯息指南](https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/advisory-guidelines/advisory-guidelines-on-the-dnc-provisions-1-feb-2021.pdf)
 
-如果你曾同意某机构向该号码发送营销讯息，向它直接发撤回通知，写清号码、讯息范围和渠道。DNC 专门规则要求收件人在 **收到撤回通知之日后 21 天** 的规定期间届满后，停止相应讯息并使其代理停止；这与登记处的登记日期、查阅请求的 30 天和一般撤回的 10 个工作日经验参考各有不同起点和依据。保留通知及收件证明，期满后仍收到相关讯息时附上它们报告。[DNC 规例 17 条](https://sso.agc.gov.sg/SL/PDPA2012-S709-2013?ProvIds=P1V-&ValidDate=20210201)、[PDPC：DNC 指南 8.13—8.15](https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/advisory-guidelines/advisory-guidelines-on-the-dnc-provisions-1-feb-2021.pdf)
+如果你曾同意某机构向该号码发送营销讯息，向它直接发撤回通知，写清号码、讯息范围和渠道。DNC 专门规则要求收到撤回通知的机构在 **收到撤回通知之日后 21 天** 的规定期间届满后，停止相应讯息并使其代理停止；这与登记处的登记日期、查阅请求的 30 天和一般撤回的 10 个工作日经验参考各有不同起点和依据。保留通知及收件证明，期满后仍收到相关讯息时附上它们报告。[DNC 规例 17 条](https://sso.agc.gov.sg/SL/PDPA2012-S709-2013?ProvIds=P1V-&ValidDate=20210201)、[PDPC：DNC 指南 8.13—8.15](https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/advisory-guidelines/advisory-guidelines-on-the-dnc-provisions-1-feb-2021.pdf)
 
 ## 公共部门、电话求助与法律通知
 

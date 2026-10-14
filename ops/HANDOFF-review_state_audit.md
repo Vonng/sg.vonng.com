@@ -1,3 +1,15 @@
+# 2026-10-14 18:55 SG：contracts/disputes完整异人facts正式PASS；privacy保持作者冻结
+
+root唯一作者的disputes已由B完整独立回源事实通过：ops/reviews/b06-contracts-disputes-facts.md 74行／14397 B，SHA 5bbe35be43226f7c6394e55c39bdf437446bf28e4a48bb6804629db9677930da，单EOF LF。绑定正文123行18093 B／body47011b280abd88c406ce73c2b5452d6120d9cd4f6ef34f0de21b17a161c71778／full263b061bacabce7547aa97454315411a53f1264b1c26a682bb39d3128ca7e0cd；最终61evi a58450ac／28map f394d94a均完整实读。作者三文件未被B改，第三编辑／工程／共享账均另归root派单。
+
+十九采用组必要完整原文均B实际读，不继承root flags；新web3法院主文及contact辅助核号真正读，其余14日原件实复。两真PDF B自行独立重抽17必要文字、亲view8真图（既有root由同实体render的图片，未冒称B重render）；旧7workingdays与current7days、旧2021CJTS截图与当前公开入口明确。15＋2完整HUM旧新／两全部diff／两B独立inverse闭；首冻唯一误URL已作者第二轮修复，未假称各历史轮URL均不变。
+
+六精确段由root作者应用：corporate entity实际清算清盘而非普通停業／法人定义泛推、company送达不套全经营主体、soleprop owner本人、eMed双方同意及法院批准、法院执行费用一般不退但可能追偿、电话地域“仅”删除及同段Corppass原品牌。B已实际6完整旧新＋全部diff＋6必要源段回核＋最终123全稿＋61／28支持；由自己的首冻副本独立inverse准确4617…，重算diff与作者一致。无剩余正文事实修订要求。真实cache在.cache/research/b06-contracts-disputes-facts/，正式包及SHA、source/pdfs/readtraces/inverse保存；下载和计数不等于阅读。
+
+privacy-data B128作者稿 body5dfdb44d／full14bf3aa6、82evi be5fe6ea／41map675562e8仍冻，C已正式独占全facts；仅C具体反馈才B修。border163/body5322f08a成熟已root唯一工程，B不得再改三文件；parks C110/B80facts4d87ec14亦已交root，未越权。
+
+下一：root已有A入学正式冻，拟在本facts完成后交B真正第三；按完整正式包／同版facts签而不提前代审。若C privacy具体反馈到，唯一作者B按准确段／源修并交C原审限定重绑。未build/navigation/accepted/共享账/stage/commit、无真实申请联络；全书进度由root统管。下方为既有历史交接，旧等待状态不代表当前。
+
 # 2026-10-14 18:25 SG：privacy-data正式作者首冻交异人审
 
 root已明确B唯一接续privacy-data；本文128 RAW与26采用必要原件/四成功PDF38文字15真图、HUM12整段/完整diff和最终全文、82evi与41map均B真正完整读。正文written/drafttrue/verified与reviewed_by空，作者不自签。root下一派异人完整facts，第三角色另派；B三作者文件冻结，仅具体反馈才改。

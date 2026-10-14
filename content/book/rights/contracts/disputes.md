@@ -53,7 +53,7 @@ CMC面向新加坡居民的关系与社区纠纷，免费调解；官网明确�
 | 对方及送达 | 索赔须向在新加坡的被申请人送达，不能向境外送达；准备可核的姓名及地址。 |
 | 应另选程序 | 雇佣事项、涉及机动车使用的财产损害及邻居造成的财产损害，不属该入口；其他法定消费请求按法院列明条件核。 |
 
-金额超过法定上限时，可核放弃超出部分的选择和后果；不得为了符合金额限额，把同一请求拆成多宗SCT案。任何一方个人破产，须取得负责个人破产事务的法定受托人（Official Assignee）相应许可；本方实体在清算或结业中，须核官方接管人（Official Receiver）或清算人的许可；对清算或结业中的被申请实体继续索赔，则须核高等法院许可。[法院：金额及破产、清算条件](https://www.judiciary.gov.sg/civil/cases-eligible-small-claim)
+金额超过法定上限时，可核放弃超出部分的选择和后果；不得为了符合金额限额，把同一请求拆成多宗SCT案。任何一方个人破产，须取得负责个人破产事务的法定受托人（Official Assignee）相应许可；本方以处于清算或清盘程序的企业实体（corporate entity）申索时，须核官方接管人（Official Receiver）或清算人的许可；对处于清算或清盘程序的这类被申请实体继续索赔，则须核高等法院许可。[法院：金额及破产、清算条件](https://www.judiciary.gov.sg/civil/cases-eligible-small-claim)
 
 公民、PR、工作准证持有人、学生、家属和访客，都先按实际当事人及争议核程序，另安排身份证件、联系地址、系统登录及出庭。法律援助的国籍、居留、收入和案件条件另查[法律帮助](/book/rights/legal/getting-help/)。尚未成年、替孩子或家属处理案件时，先向法庭登记处核谁列为当事人、谁可签署及获准代表的安排，保留授权资料。
 
@@ -61,7 +61,7 @@ CMC面向新加坡居民的关系与社区纠纷，免费调解；官网明确�
 
 把合同、发票、收据、租约、印花税证明、照片、邮件及消息按事项整理成PDF，附简明时间线和逐项计算。对方是企业时，准备立案前一个月内取得的新加坡会计与企业管理局（ACRA）的商业档案（Business Profile）；本方代表企业申索，还须准备自己的相应资料及抬头纸授权信。非英文文件须附英文翻译。[法院：立案资料及文件](https://www.judiciary.gov.sg/civil/how-to-file-serve-small-claim)
 
-CJTS的个人用户用Singpass登录；实体用户须有CorpPass安排，再按入口指示登录。不具Singpass／CorpPass申请资格者，可核CJTS Pass入口；按当前申请及登记处指示准备核身份材料。没有电脑时，可询国家法院二楼的公共电脑及服务；CJTS帮助电话为6587 8423，1800 587 8423仅适用新加坡拨打。登录或注册受阻时，联系CJTS帮助人员，确认适用登录方式、材料和核身份安排。[法院：CJTS登录、协助与付款](https://www.judiciary.gov.sg/services/cjts)
+CJTS的个人用户用Singpass登录；实体用户须有Corppass安排，再按入口指示登录。不具Singpass／Corppass申请资格者，可核CJTS Pass入口；按当前申请及登记处指示准备核身份材料。没有电脑时，可询国家法院二楼的公共电脑及服务；CJTS帮助电话为6587 8423或1800 587 8423。登录或注册受阻时，联系CJTS帮助人员，确认适用登录方式、材料和核身份安排。[法院：CJTS登录、协助与付款](https://www.judiciary.gov.sg/services/cjts)
 
 先在CJTS做立案前评估，保存评估编号，再填索赔资料。评估结果帮助检查案件范围；立案及法庭对管辖权的判断仍须按制度处理。没有对方姓名、地址等必要资料时，应先补齐；安排代理或翻译，也要留出申请及准备时间。[法院：立案前评估](https://www.judiciary.gov.sg/civil/cases-eligible-small-claim)、[立案说明](https://www.judiciary.gov.sg/civil/file-small-claim)
 
@@ -75,13 +75,13 @@ SCT按请求金额及当事人类别收立案费，反请求也适用。独资�
 | 超过S$5,000至S$10,000 | S$20 | S$100 |
 | 超过S$10,000至S$30,000 | 请求金额的1% | 请求金额的3% |
 
-立案申请付款后才处理；随后选择首次庭前协商（consultation）日期，保存并打印索赔及Notice of Consultation。准备预算时，另列取得企业资料、翻译、送达及后续执行可能产生的支出。SCT立案费在撤回、终止等情形一般不退，先核请求及证据。[法院：立案及付款步骤](https://www.judiciary.gov.sg/civil/how-to-file-serve-small-claim)、[案件结果及费用](https://www.judiciary.gov.sg/civil/understand-outcomes-small-claim)
+立案申请付款后才处理；随后选择首次庭前协商（consultation）日期，保存并打印索赔及庭前协商通知（Notice of Consultation）。准备预算时，另列取得企业资料、翻译、送达及后续执行可能产生的支出。SCT立案费在撤回、终止等情形一般不退，先核请求及证据。[法院：立案及付款步骤](https://www.judiciary.gov.sg/civil/how-to-file-serve-small-claim)、[案件结果及费用](https://www.judiciary.gov.sg/civil/understand-outcomes-small-claim)
 
 ## 申请人立案后，完成送达和送达声明
 
 立案后须在七天内向被申请人送达索赔及Notice of Consultation；首次庭前协商之前，在CJTS提交Declaration of Service（DOS，送达声明）和证明。立案后立即安排送达，保留寄送及收到文件的记录。[法院：送达期限及DOS](https://www.judiciary.gov.sg/civil/how-to-file-serve-small-claim)
 
-送达可用法院规定的亲自递交或挂号邮寄。个人按规定向本人递交，或挂号寄至最后已知住所／注册地址；企业按规定向办公场所送达，或挂号寄至ACRA注册地址并写明被申请实体。保存挂号凭据或签收等证明，按CJTS要求上传。[法院：个人及企业的送达方式](https://www.judiciary.gov.sg/civil/how-to-file-serve-small-claim)
+送达可用法院规定的亲自递交或挂号邮寄。个人按规定向本人递交，或挂号寄至最后已知住所／注册地址；公司按规定向办公场所送达，或挂号寄至ACRA注册地址并写明被申请实体。被申请人是独资业务、合伙或其他主体时，先向登记处确认应列名的当事人和适用送达方法。保存挂号凭据或签收等证明，按CJTS要求上传。[法院：个人及企业的送达方式](https://www.judiciary.gov.sg/civil/how-to-file-serve-small-claim)
 
 无法送达时，仍须按时出席庭前协商，说明尝试及困难，由登记官决定是否指示其他方式，例如电邮。先自行发一封电邮，不能据此假定已经完成法庭要求的送达。[法院：送达失败后的办理](https://www.judiciary.gov.sg/civil/how-to-file-serve-small-claim)
 
@@ -93,11 +93,11 @@ SCT按请求金额及当事人类别收立案费，反请求也适用。独资�
 
 ## 协商、调解与出庭怎样衔接
 
-SCT案件可在CJTS尝试eNegotiation：由被申请人启动，最多五轮；也可由任一方申请eMediation，是否安排须经法院同意。谈妥后按系统及法院要求申请同意命令，或由申请人按安排撤回；完成相应程序后再核出庭安排。仍在讨论、申请未获准或没有和解时，须按法院日期出席。[法院：线上协商、调解与结案](https://www.judiciary.gov.sg/alternatives-to-trial/enegotiation-emediation)
+SCT案件可在CJTS尝试线上协商（eNegotiation）：由被申请人启动，最多五轮；也可由任一方申请线上调解（eMediation），双方同意并经法院批准后安排。谈妥后按系统及法院要求申请同意命令，或由申请人按安排撤回；完成相应程序后再核出庭安排。仍在讨论、申请未获准或没有和解时，须按法院日期出席。[法院：线上协商、调解与结案](https://www.judiciary.gov.sg/alternatives-to-trial/enegotiation-emediation)
 
 首次庭前协商由登记官尝试调解；不能解决时，可安排进一步庭前协商、调解或由小额索赔法庭法官听审，也可能判断案件不属管辖范围。双方须按通知到场；若要改日期，尽早在CJTS申请并附材料，未收到批准仍按原日期出席。[法院：首次庭前协商](https://www.judiciary.gov.sg/civil/at-small-claims-consultation)、[改期及出席要求](https://www.judiciary.gov.sg/civil/before-going-to-court-small-claim)
 
-SCT的庭前协商和听审由当事人自行陈述，律师不能代表参加这两阶段；律师可以在庭外提供建议。个人因年老、不识字或身心状况不能自行陈述时，可申请经法庭批准、由本人授权的代表。企业、合伙及协会须用制度允许的负责人或全职员工，并有充分决定和解及约束本方的权限。家人、朋友或志愿者陪同及协助翻译也有申请安排，提前询问。[法院：代表、授权及陪同](https://www.judiciary.gov.sg/civil/before-going-to-court-small-claim)
+SCT的庭前协商和听审由当事人自行陈述，律师不能代表参加这两阶段；律师可以在庭外提供建议。个人因年老、不识字或身心状况不能自行陈述时，可申请经法庭批准、由本人授权的代表。独资业务由业主本人出席；公司、合伙及协会须用制度允许的负责人或全职员工，并有充分决定和解及约束本方的权限。家人、朋友或志愿者陪同及协助翻译也有申请安排，提前询问。[法院：代表、授权及陪同](https://www.judiciary.gov.sg/civil/before-going-to-court-small-claim)
 
 出庭带身份证件、已上传文件的原件、送达声明及企业授权原件。非英文文件附英文译本；普通话、福建话等本地华语方言、马来语和淡米尔语可按CJTS或庭前协商说明所需语言，其他语言自行安排并支付口译。证人须预先联系，在庭前协商告知登记官；听审时由法官决定是否让其作证。听审按法官安排轮流陈述事实和证据，裁决可能当日或稍后作出。[法院：语言、证人及原件](https://www.judiciary.gov.sg/civil/before-going-to-court-small-claim)、[听审过程](https://www.judiciary.gov.sg/civil/at-small-claims-hearing)
 
@@ -110,9 +110,9 @@ SCT的庭前协商和听审由当事人自行陈述，律师不能代表参加�
 | 对方未履行命令 | 由获命令方核国家法院的执行程序、费用及可执行资产；这一阶段可委任律师。 |
 | 因本人缺席而作命令 | 可在命令日期起一个月内，通过CJTS申请set aside并附原因和证据；此申请免费，是否撤销由法庭决定。 |
 | 登记官在庭前协商终止案件 | 按法院列明程序在命令起一个月内向小额索赔法庭法官申诉；其决定为最终决定。 |
-| 对小额索赔法庭法官裁决提出法律或管辖权问题 | 先核是否属可上诉命令；须在命令日期后14天内向District Court申请准许，再在获准日起一个月内递交向高等法院的上诉通知。 |
+| 对小额索赔法庭法官裁决提出法律或管辖权问题 | 先核是否属可上诉命令；须在命令日期后14天内向地方法院（District Court）申请准许，再在获准日起一个月内递交向高等法院的上诉通知。 |
 
-执行按[执行SCT命令](https://www.judiciary.gov.sg/civil/small-claims/execute-enforce-a-small-claims-order)办理；2022年4月1日或以后开始的执行程序按法院所列《Rules of Court 2021》执行安排核。缴费、取得命令及申请执行都有不同步骤，执行费用不可退且不能保证成功追收。[法院：执行命令的一般程序](https://www.judiciary.gov.sg/civil/civil-claims-(from-1-april-2022)/enforce-an-order-or-judgment-(from-1-april-2022))
+执行按[执行SCT命令](https://www.judiciary.gov.sg/civil/small-claims/execute-enforce-a-small-claims-order)办理；2022年4月1日或以后开始的执行程序按法院所列《Rules of Court 2021》执行安排核。缴费、取得命令及申请执行都有不同步骤；执行中向法院缴付的费用一般不退，但可能向被执行人追回，实际执行也不能保证追收成功。[法院：执行命令的一般程序](https://www.judiciary.gov.sg/civil/civil-claims-(from-1-april-2022)/enforce-an-order-or-judgment-(from-1-april-2022))
 
 缺席撤销申请提交后，要按通知出席相关庭期；申请本身不会自动撤销命令，也不会自动停止执行。[法院：缺席命令的撤销申请](https://www.judiciary.gov.sg/civil/set-aside-small-claims-order) 上诉通常限法律或管辖权问题，不能仅因不满意事实判断或希望补交新证据而重审；同意命令、缺席命令、终止及转法院等结果有不同限制。获准后还须办理通知、送达、记录和论据等阶段；公司在高等法院上诉原则上须由律师代表，除非法院准许自行代表。先把实际命令和日期交律师核，上诉不会自动暂停原命令。[法院：上诉范围、期限及后续步骤](https://www.judiciary.gov.sg/civil/appeal-small-claims-order)
 

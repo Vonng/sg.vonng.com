@@ -4,7 +4,7 @@
 
 ## 当前正式作者版
 
-`content/book/life/digital/privacy-data.md`：128行／25645B，body `5dfdb44d63d0cf2387668a97ece5ebfb71b649361d8be481aa4eab096d5a3b6d`，full `14bf3aa6e1f43dabe5992505dcc4776bc0b9c1fbb9e311dd111d88cbafc059fd`；written/draft:true/verified与reviewed_by空。完整有用作者稿已成文并全文/HUM/源码静态，不是公开已接收，也没有异人事实或第三编辑。
+`content/book/life/digital/privacy-data.md`：128行／25663B，body `41b9cfdf997698b67f30111671cb1234e48507777a011c6bcad2a3232125a89a`，full `7ffe9845018220ffca7ad49f430461c9abe44f1f436d3331d6c8c67374993334`；written/draft:true/verified与reviewed_by空。C首冻完整facts已通过，A唯一语言反馈由B应用成第二冻，待C限定重绑及A末版真正第三；仍未工程接收，作者不自签。
 
 旧外部39行原文、evi/map/HANDOFF及manifest真实快照全部在.cache/research/b06-privacy-data/incoming-*；外部阅读声明不继承。旧正确body c675a459/full32192f47，原95dd口径未照抄；旧正文的三类30、仅法保留，以及旧地图的22A携带候选误认，分别经本篇现行必要原文纠正。
 
@@ -36,6 +36,10 @@ SSO主法/2022全指南等既有失败全项目记录已读不重探；本次新
 
 ## 作者文字闭合与下一步
 
-working1—5留真断点；research-feedback1/2和source-feedback1完整段/全部diff/作者逆替；HUM1十二整段真读与diff完整真读，只有重复历史30数字减少一次，全部条件/例外/数字事实保留；最终128 RAW1—64/65—128实读不截断，author-frozen1/check1绑定同SHA。
+working1—5留真断点；research-feedback1/2和source-feedback1完整段/全部diff/作者逆替；HUM1十二整段真读与diff完整真读，只有重复历史30数字减少一次，全部条件/例外/数字事实保留；首冻最终128 RAW1—64/65—128实读不截断，author-frozen1/check1绑定首冻5dfdb44d／14bf3aa6。
 
-root下一派异人事实→真正第三全文编辑静态→root本地工程渲染门禁接收。作者保持body/evidence/map冻结，仅精确反馈时改并重绑；不自签、不改导航、accepted/共享总账，不build/stage/commit。根应决定两个具体未知能否按有用边界接收，不能把本作者完成当未知已核完。
+C已完成首冻完整异人事实→本页唯一词义修订待C限定同版重绑→A末版真正第三→root本地工程渲染门禁接收。作者三文件保持第二冻，仅精确反馈时再改；不自签、不改导航、accepted/共享总账，不build/stage/commit。两个具体未知仍按真实有用边界保留，不能把事实或作者完成当未知已核完。
+
+## 第二冻仅明确撤回通知接收主体
+
+RAW120仅从“收件人”明确为“收到撤回通知的机构”，原21天起点、代理／讯息范围／近邻引用及其余正文不变。B实际重新读PD23完整8.13—8.15与PD24第17条，完整旧新／唯一diff／逆替精确首冻已核；作者不把这一步伪称新的全26事实审。初版128／25645B的三文件及C87 facts4cea0350保持历史原件，当前二冻128／25663B版本如上，C限定核义重绑后A签真正第三。

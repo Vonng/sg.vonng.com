@@ -272,3 +272,12 @@ root已正式将正文/evidence/map转C；51/24/21原件fullf3600015/e998c3fc/70
 26必要真实URL＝24实质＋2主管目录定位／47外引，24web含两locator＋2PDF；所有必要采用原文本人真实读取，不继承外部摘录旗标。当前Income实体普通TLS200自行取得44物理页，完整必要20物理文字＋7真图；GIA成功旧实体复读必要2物理文字＋辅助1文字、物理11一真图，共22必要＋1辅助文字／8真图，未假整份PDF全读或图核。GIA旧承保概览、旧公司电话和未经核新时期规则不采用。eRegister公开FAQ实际支持公民及PR家庭成员，PR登记不推出公民领事资格；无Singpass公共联系邮箱真实HTML取得。Income出发后投保截点时区原必要段未直接说明，正文要求向公司确认；MFA临时证件网上C1与不能网上C2材料分别采用。
 
 九元数据written/drafttrue核验字段空、单EOF／noCR／无H1／加粗外空格通过；11内引的9真实目标均integrated/draftfalse，不链公开空页。完整条件、时期、未知、真实取得及阅读日期在证据和source-adoptions；全原件、author-frozen/check/identities/readable-trace、23完整旧新与diff和准确inverse／PDF scope／cache manifest在.cache/research/b06-travel-support。三文件正式冻结，仅C按准确审稿反馈改；不自签事实／第三、不构建/stage/sharedledger/真实代办或联络。root已接H成熟parks/border工程及提交3a6eafb，C不再改其三文件。下一把本完整包交root异人审；privacy-data128初冻完整facts待root明确角色派单后才开始，不把B旗标当本人阅读。
+
+
+## 2026-10-14T19:00:59.178602+08:00 privacy-data完整异人事实正式PASS／travel-support作者继续冻结
+
+ops/reviews/b06-privacy-data-facts.md 87行／21854B／SHA4cea03502a1fb38a804b3cc701aac78c5523b9db30373ab6f4d6163eeabc4ac3，单EOF/noCR。绑定B128RAW25645B／body5dfdb44d63d0cf2387668a97ece5ebfb71b649361d8be481aa4eab096d5a3b6d／full14bf3aa6e1f43dabe5992505dcc4776bc0b9c1fbb9e311dd111d88cbafc059fd，82证据be5fe6ead8c53f47402228e2533eacf3d128d9354a4f1a2561e6b337e8d46714／41map675562e875e3253f29f3cf26c65fe8923ff342657a2e90de4d191e3a244aba2e，作者三文件未改，无待作者事实修订。初与源核后128 RAW均1—64/65—128真实全读，82证据/41map截断后完整补读；26必要主管组逐原段读齐、4真实实体本人重新抽38完整必要文字和独立render/view15原页；5PDF/ashx仅成功编号主文0新实体0图准确。未继承B读取旗标或取得日期；45原件SHA核/副本与本人原128/82/41保存，三新官方域search中最后同2020Act第14NewPartVIB/DATAPORTABILITY及26F—J真实全文读，只闭另属部分的标题辨别，未推现行携带施行细目。旧失败URL无新origin请求/8888重试。
+
+三research/source版本9+1+2完整操作及HUM12共24操作全部完整旧新与四全diff本人真读（首轮截断第9和diff已补）；逐整段C独立inverse精确各working1—4。30预计回复、查阅合理书面费/更正无费、10businessdays经验、两更正一年/creditbureau、userprovided/activity窄例、22A保全/规例8程序延长、定向DNC21收件日起/登记21区别、公私/六身份/NRIC与QSM主线全核。六投诉展开表身份/附件/期限/无Singpass替代、资料携带实施范围/程序仍明确未知，不把准备建议或未施行范围签为已知。report87完整1—46/47—87实读及最后3完整补源行19/41/77也实读；源码集合/元数据/内链static只单列，不代事实或工程。本人cache C-readrecords/PDFscope/delta/static/trace/report副本及manifest齐。
+
+下一root派A真正第三及root工程；本C只在明确作者修正后限定核义重绑，不签第三或改B正文/证据/map。travel-support作者133/bodyb769c261/full1a335c805三文件保持冻结待异人审，H parks/border已root工程不写回。无shared账/nav/build/stage/commit/私人查询或真人联络代办。

@@ -1,6 +1,6 @@
 # B06 合同争议：唯一作者证据
 
-唯一作者root；主管获取与本人的实际阅读日期为2026-10-14 Asia/Singapore。作者独立保存原返回与PDF，仅在缓存研究，不继承加拿大／相邻制度／别人的阅读旗标。本篇完整123行／17813 B；body `a665f2190236041ceb21457fe8d6e9a28149769ed8e93e986c543faa59d4978f`／full `4617eccc7a17aee0b2d01dffedc6f540155c8b3f17a73139566900206fd720de`。九字段written／draft:true／verified及reviewed_by空；首段直接回答、无正文H1。
+唯一作者root；主管获取与本人的实际阅读日期为2026-10-14 Asia/Singapore。作者独立保存原返回与PDF，仅在缓存研究，不继承加拿大／相邻制度／别人的阅读旗标。首冻历史版本完整123行／17813 B；body `a665f2190236041ceb21457fe8d6e9a28149769ed8e93e986c543faa59d4978f`／full `4617eccc7a17aee0b2d01dffedc6f540155c8b3f17a73139566900206fd720de`。九字段written／draft:true／verified及reviewed_by空；首段直接回答、无正文H1。
 
 ## 十九个正文采用主管详细原文
 
@@ -8,22 +8,22 @@
 
 | 组与真实URL | 本人实际必要范围 | 支持事实／读者动作 | 条件、时期、未知 |
 | --- | --- | --- | --- |
-| DS01 [出庭准备](https://www.judiciary.gov.sg/civil/before-going-to-court-small-claim) | L50—193 | 整理逐项案情／发票／缺陷、原件、英文翻译、代表及和解授权、口译／证人和改期 | SCT庭前协商与听审，自述及获准代表分别；未声称所有外语免费或家属自动可代表 |
+| DS01 [出庭准备](https://www.judiciary.gov.sg/civil/before-going-to-court-small-claim) | L50—193 | 整理逐项案情／发票／缺陷、原件、英文翻译、独资本人出席／代表及和解授权、口译／证人和改期 | SCT庭前协商与听审，自述及获准代表分别；未声称所有外语免费或家属自动可代表 |
 | DS02 [CASE消费投诉](https://www.case.org.sg/submit-a-complaint/) | L18—138 | 个人消费、咨询和协助信／会员／处理费用及排除范围 | 不是法院裁决，不把企业交易／租赁／境外商家都当可处理 |
 | DS03 [SMC商业调解](https://mediation.com.sg/our-services/overview-of-services/mediation/) | 全页0—94实际读，采用L9—34 | 商业调解、申请和服务入口 | 调解须自愿；不把全部争议一概归同一收费服务 |
 | DS04 [SMC完整调解FAQ](https://mediation.com.sg/resources/faqs/) | 必要L85—146 | 各方同意、律师非必需、按争议与反请求核费用、签协议效力及双方同意申请法院命令 | 具体费用60k边界未采用；其他服务FAQ不在采用范围，签协议不自动变法院命令 |
 | DS05 [CMC社区与关系调解](https://cmc.mlaw.gov.sg/our-service/faqs/) | 必要L27—161；本次完整135行再次实际读 | 新加坡居民关系／邻里纠纷、免费、合同及商业不适合；房东租客关系与租约责任不同 | 现存原件Total276，必要27—161有完整原段；旧读取游标的279全页计数不作为本冻结证明；不把志愿调解员公民资格推给服务对象 |
-| DS06 [SCT管辖与立案](https://www.judiciary.gov.sg/civil/cases-eligible-small-claim) | 必要L50—175 | 20k／书面同意30k／诉因两年、商品服务／两年以内住宅租约、许可／雇佣／机动车／邻里损害排除、SG送达、不拆分／放弃超额、个人破产与实体清算许可 | 个人OfficialAssignee／本方OfficialReceiver或liquidator／对清算被申请实体须HighCourt许可各自；案件种类以完整主管表为准 |
-| DS07 [立案付款与送达](https://www.judiciary.gov.sg/civil/how-to-file-serve-small-claim) | 必要L53—216，后续又实际读53—184 | 证据／ACRA一月内／授权及英文译本、个人10／20／1%与其他实体50／100／3%、反请求同费、付款／选日期／Notice、7days送达／DOS／个人及企业地址／失败出席 | sole-proprietor是其他实体收费；当前7days优先于旧PDF7workingdays；无法送达须出席，登记官可指示替代方式，不因自发电邮视送达完成 |
-| DS08 [CJTS公共登录与帮助](https://www.judiciary.gov.sg/services/cjts) | 全170工具行曾实际读，采用L53—109；open09又读必要L53—116 | Singpass／Corppass／非合资格CJTS Pass、公共电脑、65878423与SG内18005878423、付款和帮助 | 只主管公开说明；未登录私人账户，CJTS Pass表字段／预约与核身份未取得，不以2021手册界面当当前私表 |
+| DS06 [SCT管辖与立案](https://www.judiciary.gov.sg/civil/cases-eligible-small-claim) | 必要L50—175 | 20k／书面同意30k／诉因两年、商品服务／两年以内住宅租约、许可／雇佣／机动车／邻里损害排除、SG送达、不拆分／放弃超额、个人破产与实体清算许可 | 个人OfficialAssignee／本方corporate entity实际清算清盘下OfficialReceiver或liquidator／对处于该程序corporate entity须HighCourt许可各自；案件种类以完整主管表为准 |
+| DS07 [立案付款与送达](https://www.judiciary.gov.sg/civil/how-to-file-serve-small-claim) | 必要L53—216，后续又实际读53—184 | 证据／ACRA一月内／授权及英文译本、个人10／20／1%与其他实体50／100／3%、反请求同费、付款／选日期／Notice、7days送达／DOS／个人及公司地址／失败出席 | sole-proprietor是其他实体收费；当前7days优先于旧PDF7workingdays；无法送达须出席，登记官可指示替代方式，不因自发电邮视送达完成 |
+| DS08 [CJTS公共登录与帮助](https://www.judiciary.gov.sg/services/cjts) | 全170工具行曾实际读，采用L53—109；open09又读必要L53—116 | Singpass／Corppass／非合资格CJTS Pass、公共电脑、65878423或18005878423（无未明地域限制）、付款和帮助 | 只主管公开说明；未登录私人账户，CJTS Pass表字段／预约与核身份未取得，不以2021手册界面当当前私表 |
 | DS09 [SCT立案总入口](https://www.judiciary.gov.sg/civil/file-small-claim) | 必要L53—135 | 立案前评估及编号、申请／付款／第一次庭前协商的完整办理入口 | 评估不是最终管辖裁决／获批保证；没有必要对方姓名地址先补齐 |
 | DS10 [SCT结果与命令](https://www.judiciary.gov.sg/civil/understand-outcomes-small-claim) | 全268工具行曾实际读，采用L53—118／141—145 | 金钱／工作／合资格未付租金收房、consent／default／dismiss／discontinue／transfer，立案费一般不退，获命令自行执行 | 不作自动追款／有资产保证；不能把每项命令都放进同一上诉路线 |
 | DS11 [回应与反请求](https://www.judiciary.gov.sg/civil/how-to-respond-small-claim) | 必要L53—157完整实际读 | Notice／一次性编号、承认争议／部分承认或分期仍出席、反请求另评估／收费／送达／DOS | 并不因不同意或双方讨论而免庭期；反请求按正式流程，不代个案定性 |
-| DS12 [网上协商与调解](https://www.judiciary.gov.sg/alternatives-to-trial/enegotiation-emediation) | 必要L53—175完整实际读 | eNegotiation被申请人启动最多五轮、任一方可申eMediation但court须同意、和解consent order／withdraw后核出席 | 单纯申请／正在谈不免法院日期，平台其他harassment／tribunal制度不扩到SCT |
+| DS12 [网上协商与调解](https://www.judiciary.gov.sg/alternatives-to-trial/enegotiation-emediation) | 必要L53—175完整实际读 | eNegotiation被申请人启动最多五轮、任一方可申eMediation且双方同意及court批准、和解consent order／withdraw后核出席 | 单纯申请／正在谈不免法院日期，平台其他harassment／tribunal制度不扩到SCT |
 | DS13 [首次庭前协商](https://www.judiciary.gov.sg/civil/at-small-claims-consultation) | 完整输出L53—161实际读，采用L53—88 | 登记官调解、进一步协商／调解／法官听审或判断不属管辖；双方出席 | 首次consultation为庭前协商的说明译，不假称仲裁或登记官为律师代理 |
 | DS14 [SCT听审](https://www.judiciary.gov.sg/civil/at-small-claims-hearing) | 完整输出L53—158实际读，采用L53—92 | 听审轮流陈述事实证据、裁决当日或稍后 | 未输出159以后不称读，法官安排和证人获准不作自动保证 |
 | DS15 [执行SCT命令](https://www.judiciary.gov.sg/civil/small-claims/execute-enforce-a-small-claims-order) | 全223工具行曾实际读，采用L53—100；原请求enforce-small-claims-order真实转址 | 国家法院执行、此阶段可律师、自行启动及费用／资产，未履行不自动追款 | 原requested URL与当前正文canonical分开；不把SCT禁律师推到执行／所有上诉 |
-| DS16 [2021法院规则执行一般说明](https://www.judiciary.gov.sg/civil/civil-claims-(from-1-april-2022)/enforce-an-order-or-judgment-(from-1-april-2022)) | 完整必要L53—88实际读 | 1Apr2022后开始的执行程序依ROC2021、执行步骤／不可退费用／不保证追收 | 适用执行开始时点，未从全文89后或未读私表扩写不同执行令申请细节 |
+| DS16 [2021法院规则执行一般说明](https://www.judiciary.gov.sg/civil/civil-claims-(from-1-april-2022)/enforce-an-order-or-judgment-(from-1-april-2022)) | 完整必要L53—88实际读 | 1Apr2022后开始的执行程序依ROC2021、执行步骤／向法院费用一般不退且可能向被执行人追回／不保证追收 | 适用执行开始时点，未从全文89后或未读私表扩写不同执行令申请细节 |
 | DS17 [缺席命令撤销](https://www.judiciary.gov.sg/civil/set-aside-small-claims-order) | 全258工具行曾实际读，采用L53—103／133—135 | 命令日一个月／CJTS免费／原因与证据／听审／非自动撤销与非自动停止执行 | 一个calendar month，不能写28days或因申请即无需履行 |
 | DS18 [SCT上诉](https://www.judiciary.gov.sg/civil/appeal-small-claims-order) | 必要L53—310全部实际读；source-six03前53—150与续段合读 | 登记官discontinue一月／magistrate最终，tribunal法律或管辖14天DCpermission／permission后一个月Notice、default等排除、企业高院须律师或准自述、上诉不自动stay | 不把事实／新证据当可重审，不能以28天替一个月；311—454未采用不称全页，后续通知送达纪录论据只概述已读公开阶段 |
 | DS19 [一般民事起诉与时效](https://www.judiciary.gov.sg/civil/civil-claims-(from-1-april-2022)/start-a-civil-claim-(from-1-april-2022)/start-a-civil-claim-by-originating-claim-(from-1-apr-2022)) | L66—160与open12 L53—100合读，必要L53—160 | 通常合同诉因六年／SCT两年不同、事实争议起诉申索和法院／送达／答辩／费用等选择 | 通常非无例外统一期限；搜索到SGHC／SGDC仅定位未采用；不代表读完所有法院表件及仲裁法律效力 |
@@ -51,3 +51,17 @@ root实际读完整draft0，再15个完整段／表块自修、全部diff和完�
 author-humanizer-changes-1/2.json及两diff／两inverse均在cache，操作完整旧新与源规则分开。本篇正文31外引／19URL已按括号平衡解析；十次内引对应九个integrated/draft:false真实目标，元数据已实际核。九字段／UTF8／单EOF／加粗普通空格／无工具标记检查属于作者源码静态，不代异人事实／第三编辑／主控构建和实际渲染。
 
 本证据及map形成完整首冻；B review_state_audit已明确分派全篇异人回源facts，真正第三将由另一人签，root只按反馈改作者完整段／保留差分和新SHA后交原审重绑。日期是作者阅读日，不是机构政策编辑日或所有来源的新施行日。全书完成与工程均未自签。
+
+## 独立事实反馈：唯一作者第二冻
+
+2026-10-14T18:49:55.830918+08:00，B完整十九原源核阅后提出六完整段精度：corporate entity原英文及真实清算／清盘程序，不自行定义法人或扩到普通停业；公司送达不扩全经营主体；独资由业主本人出庭；执行中向法院费用一般不退但可能向被执行人追回；删无直接依据的1800地域“仅”并用Corppass原品牌；eMediation还须双方同意。root只按准确反馈改六完整段，原19URL／31外引、十内引／九目标、meta与结构均不变。
+
+root实际复读B14日新取得cases L128—152／file-serve154—184／before-court67—104完整原段，加自己已有currentgeneralEO65—88／CJTS76—109／eMed127—149；取得人B与阅读人root日期分开，不称root新下载全十九或重看旧PDF。六完整旧新及唯一全diff已真读、root独立逆替精确首冻，后续整体最终读及正式facts同版绑定。当前123行／18093B，body `47011b280abd88c406ce73c2b5452d6120d9cd4f6ef34f0de21b17a161c71778`／full `263b061bacabce7547aa97454315411a53f1264b1c26a682bb39d3128ca7e0cd`；首冻4617eccc及其证据d27cb106／map e410af38与五段中间工作版保留缓存。
+
+当前两审与工程仍待；不以B反馈或作者改稿自签事实。原十九来源／两辅助PDF读取继承作者首冻实际范围，修正后的源索引另保原版，不重新探失败或引入新私人程序。
+
+## 第三编辑术语反馈：唯一作者第三冻
+
+2026-10-14 19:07，A已读原完整稿／B正式facts及全部作者改写链，只提出三个首次术语释义：庭前协商通知（Notice of Consultation）、线上协商／调解（eNegotiation／eMediation）、地方法院（District Court）。root只改两完整段和一完整表行，实际读全部旧新／唯一全diff并独立逆替精确第二冻263b061b…；另实际回读既有法院同版DS07 L135—156、网上协商原段L53—78、上诉原段L134—154核英文名称，不冒新十九来源或PDF全面重读。
+
+当前123行／18171B，body `bca873254c950ca2da73c3231992730f095412af1fb6a2fa92aaae50f5349156`／full `e0ce734b906ce6861b0ee62e92575d57285811009e402697ecb00fc6ff7c6c2f`；B原完整facts的19源／17必要PDF文字／8真图范围继承，三处措辞交B限定核义重绑，再交A末读签真正第三。正文仍written／draft:true／核验空，原规则数字日期引用内链和meta未变。

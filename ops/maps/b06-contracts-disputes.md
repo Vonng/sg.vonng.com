@@ -1,6 +1,6 @@
 # B06 合同争议：完整作者地图
 
-root唯一作者；2026-10-14 Asia/Singapore首冻，content/book/rights/contracts/disputes.md123行／17813B，body `a665f2190236041ceb21457fe8d6e9a28149769ed8e93e986c543faa59d4978f`／full `4617eccc7a17aee0b2d01dffedc6f540155c8b3f17a73139566900206fd720de`，written/draft:true／核验空。此地图仅内部研究与审核接续，不建计划空页，不计集成。
+root唯一作者；2026-10-14 Asia/Singapore首冻历史版本，content/book/rights/contracts/disputes.md123行／17813B，body `a665f2190236041ceb21457fe8d6e9a28149769ed8e93e986c543faa59d4978f`／full `4617eccc7a17aee0b2d01dffedc6f540155c8b3f17a73139566900206fd720de`，written/draft:true／核验空。此地图仅内部研究与审核接续，不建计划空页，不计集成。
 
 | 读者问题／必要种子 | 完整行动链及单源承接 | 原依据／条件 |
 | --- | --- | --- |
@@ -20,3 +20,13 @@ root唯一作者；2026-10-14 Asia/Singapore首冻，content/book/rights/contrac
 作者实际完整draft0／draft1／最终123draft2、15＋2完整HUM旧新／两全diff／两精确逆替已闭，首SCT释义和唯一URL误替已修。静态、全稿阅读、来源原文和图片不同范围分别记，不以source-adoptions哈希／计数代阅读。未运行共享build／sync／stage，九字段保留主题初稿状态。
 
 当前接续：B已分派全篇独立回源facts，正式支持交到后再签；真正第三由异人、root工程之后。root为唯一语义作者，只按准确反馈应用整段并给原审最终版本；任何关键条件不由相邻劳动／消费／邻里制度推定。全书五部分28领域总覆盖由root共享账另核，本首冻不计全书完成。
+
+## 六段事实修订与第二冻
+
+root按B完整事实反馈精确改六段，corporate entity保原词及实际清算／清盘、公司送达、独资本人、一般法院费用与可能追偿、电话地域断言删除、eMediation双方同意。源采用与原十九不变，六必要原段真实读／完整旧新及全diff／独立逆替精确首冻已闭。当前123行18093B／body `47011b280abd88c406ce73c2b5452d6120d9cd4f6ef34f0de21b17a161c71778`／full `263b061bacabce7547aa97454315411a53f1264b1c26a682bb39d3128ca7e0cd`，仍written／draft:true／核验空。
+
+本文覆盖角色、费用与结果前提通过此次修订具体保留，不用普通停业推公司清盘、工作人员推独资或一句法院同意吞双方同意。原首冻与版本证据缓存保留，B待准确最终支持及全稿后同版正式签，异人真正第三与root工程随后。
+
+## 第三冻：A术语编辑待限定重绑
+
+root仅按A三首次名称建议修改两整段／一全表行，全部旧新及全diff实际读，作者逆替准确第二冻；限定原段只核名称，十九完整作者原文与B完整事实范围继承。当前123行／18171B，body `bca873254c950ca2da73c3231992730f095412af1fb6a2fa92aaae50f5349156`／full `e0ce734b906ce6861b0ee62e92575d57285811009e402697ecb00fc6ff7c6c2f`；B限定核义与A最后第三、root工程未完成。

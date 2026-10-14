@@ -1,5 +1,31 @@
 # coverage_audit 当前交接
 
+## 2026-10-14 19:01 Singapore 最新有效断点：两份真正第三待限定末版
+
+root正式分派本人先合同纠纷、后个人资料真正第三，随后travel-support全文事实须另明确派单。本人不写这两稿正文或作者支持；纠纷唯一作者root、独立事实B，个人资料唯一作者B、独立事实C。本节优先于下列18:50及更早历史段；本人admission/HDB/EC三作者包继续原SHA冻结，核心缺口不以作者成稿关闭。
+
+纠纷第二冻123行18093B/body `47011b280abd88c406ce73c2b5452d6120d9cd4f6ef34f0de21b17a161c71778` / full `263b061bacabce7547aa97454315411a53f1264b1c26a682bb39d3128ca7e0cd` 已完整真正读；B74行正式facts SHA `5bbe35be43226f7c6394e55c39bdf437446bf28e4a48bb6804629db9677930da`、61证据a58450ac…/28地图f394d94a…均全读。17HUM与六事实完整旧新/三完整diff实际读，A从自己副本独立逐轮逆替准确4617eccc→2d89d3aa→4a6b4c91；旧轮误替URL确存在且第二轮已修，不继承第一轮“URL未变”旗标。源码静态31外引/19URL、十内引/九真实integrated目标全PASS，九目标元数据另真读。只交作者三处功能词建议：实际RAW78 Notice of Consultation、96线上协商/调解、113地方法院；我第一次误报76已主动纠正为78。等作者准确应用或明确决定、B限定核义重绑后本人末版读并签，不提前PASS。
+
+个人资料预备第三同版128行25645B/body `5dfdb44d63d0cf2387668a97ece5ebfb71b649361d8be481aa4eab096d5a3b6d` / full `14bf3aa6e1f43dabe5992505dcc4776bc0b9c1fbb9e311dd111d88cbafc059fd`；C87行正式facts SHA `c39f1197e131dea2a3ccdf518637f6ec3b9ad254deb99e2ec66743e697528a77`、82证据be5fe6ea…/41地图675562e8…全部真读。12HUM及三research/source轮九/一/二共24完整操作与四完整diff已读；A逆替逐轮准确working4/3/2/1，机器不代人读。64外引26URL/六内引三真实integrated目标源码静态PASS，三目标元数据真读。唯一RAW120“收件人”明确为“收到撤回通知的机构”建议已交B与C；收到完整old/new、唯一diff与C限定事实重绑后，同版末读并签。六展开表身份/附件/期限及携带施行细目仍未知，第三不把它们签已核。
+
+两个私有缓存 .cache/research/b06-contracts-disputes-editorial / b06-privacy-data-editorial 已核ignored，保留自己冻结正文/支持/事实副本、三/四轮独立逆替及源码记录。没有新十九/二十六组事实回源、两/四PDF图审、共享构建、渲染、accepted、导航、总账、stage/commit或真实办理；正式编辑报告此刻尚未签发。
+
+## 2026-10-14T18:50:02.600644+08:00 最新有效断点：入学作者首冻；住房等待root事实反馈
+
+本文以下14:48及随后工作断点均为历史，当前以本节与各正文SHA为准。唯一作者coverage_audit拥有admission及已冻HDB/EC三包，只按精确异人反馈改稿；root管shared账/导航/工程。本阶段没有build/stage/commit/goal/对外发送事务或真实孩子办理。
+
+admission正式166行28726B，body `212f41509f5f08900e4af252f429b747ac48c6d2c408b9fdff4531363021deb0` / full `2ec419cb1c01143f00142528511ebc9dc4439615c5636f7e5545b1d8ccce8422`；仍written/draft:true/核验空。证据100行25108B/SHA `48c0e70df2558b76577b18d1000cc969cf56f712add301166ffb2ef8ac8bead2`，地图43行5782B/SHA `63637b331435729940e3ebed0562b902b3dfb46d7f507c3fcf092c6b4937fa93`；完整原件、135问答原文校验、35采用/5locator、3PDF实体及三真页图、12作者完整自修/全diff/inverse、author-frozen/check/final-readable-trace均在.cache/research/b06-admission。作者真读首终166、100证据/全map、八内目标完整metadata；静态79外引40URL/11内引8integrated目标全部PASS，独立事实/第三/工程尚无。
+
+15FAQ分类来自daily_history13日正常公开200原HTML，不装15次新联网；本人14日真读P1全部117题612行、国际18题84行及回流18/转校19完整采用段。18采用web为本人本日实际详工具原文、两个正文一页PDF均完整文字与真图；AEIS-sec另一个一页只辅助读，不增正文源数。一次恢复实际查到环境HTTP/HTTPS代理8888，自己的默认urllib三个成功新PDF和一个新FAQ202请求原meta direct/no proxy不准确，已按真实环境代理唯一请求更正并完整读两支持旧新行；未重取成功源，SHA/日期/正文不变。acquisition-routing-correction.json/.diff可复查。
+
+G01—08核心仍开放：现行AEIS/S-AEIS完整DOB/CEQ最低档与年龄基准；2026考试日期/确认关闭；2027考试窗；2027P1公布框架；完整全国2A/2B；全六组距离排序；替代未交房/转售地址30月起点；国家外国P1意向日历。此刻不是全篇可发布/教育完工；不以咨询动作、原FAQ数或已有流程计完成。旧placement正常+唯一8888/其余MOE验证URL无新条件不重探；外部Jul17/Apr23壳与媒体/单校只找路。
+
+HDB133/body427cbeb4…和EC124/body8d8166c2…三作者文件仍各原冻结，root正在独立facts，不能提前签17源或全核心已闭。root刚提供HDB事实cache新官方索引完整选段与其direct无主文失败后发现旧bounds重复一次已STOP；我尚未实际读这些新选段，也没应用任何住房改稿。等root准确反馈后本人完整读必要原段/旧新、限定修改、重冻再交原审；必须区别索引选段与真实主管HTML取得以及未见脚注。border真正第三44行7153B/c39b1da0…已交root，正文/作者支持归原B冻结，不再本人编辑。
+
+下一动作：root分派admission异人核实已写全部采用范围并继续G01—08；本人保持版本，响应精确住房/admission反馈或接新独立审稿单，不能替自己签facts，不能抢root共有文件。
+
+---
+
 实际2026-10-14T14:48:22.952745+08:00，Asia/Singapore。本人只写分派正文／证据／地图和审稿记录，主控拥有导航、配置、共享账及工程；不build／stage／commit。下面是当前恢复点，此前13:04或14:13工作断点是历史，不再用于当前计数。
 
 ## 职场篇：作者正式首冻待异人
