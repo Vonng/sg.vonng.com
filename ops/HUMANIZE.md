@@ -299,13 +299,18 @@ B04I 追增后新增、此前未入队的源，均为在途 draft：
 - [x] `content/book/work/career/workplace.md` — A131全文HUM17处及FWA限定，B完整facts／C第三／root B06G工程，bodye028dcf6…。
 - [x] `content/book/rights/safety/tropical-hazards.md` — C142全文HUM12整段及十释义，root完整事实／限定重绑、A第三及root B06G工程，bodyd40bb71d…。
 - [x] `content/book/rights/safety/controlled-items.md` — B142全文HUM及两术语限定，C完整facts／A第三／root B06G工程，body2f2bcba0…。
-- ○ `content/book/rights/outdoors/parks-water.md` — C110全文19操作／四HUM轮，B完整facts已PASS，root第三及工程待做。
-- ○ `content/book/rights/outdoors/travel-borders.md` — B163全文17HUM与三事实反馈、C完整facts已闭，A真正第三及工程待做。
+- [x] `content/book/rights/outdoors/parks-water.md` — C110全文19操作／四HUM轮，B完整facts／root真正第三及B06H工程，body1b4b4267…。
+- [x] `content/book/rights/outdoors/travel-borders.md` — B163全文17HUM／三政策／六释义，C完整facts及限定重绑／A真正第三和B06H工程，body5322f08a…。
 - ○ `content/book/rights/outdoors/travel-support.md` — 原51已明确转C唯一完整作者，完整HUM／冻结／独审待闭。
 - ○ `content/book/life/digital/privacy-data.md` — 外来39初稿，B唯一接续现法/完整任务及HUM，未审。
 
 ### B06G新增工作稿追登
 
 - ○ `content/book/life/housing/buying-hdb.md` — A133首冻及自修，核心条件缺口不消；独审与工程未做。
-- ○ `content/book/life/housing/buying-ec.md` — A122完整工作稿，未全篇读回／HUM／证据及冻。
-- ○ `content/book/rights/contracts/disputes.md` — root缓存123完整稿／15完整块自修，最终全读与全差分仍待；未建正式路径。
+- ○ `content/book/life/housing/buying-ec.md` — A124正式作者冻，13HUM整块及全diff／逆替已实读，核心资格与独审待。
+- ○ `content/book/rights/contracts/disputes.md` — root缓存123完整draft2，15＋2改块／两全diff／最终全文和root逆替真闭；唯一术语替换URL误改已修，支持／正式冻／独审仍待。
+
+### B06H新增导航追登（2026-10-14）
+
+- [x] `content/book/rights/outdoors/_index.md` — root17行完整新章、两正文选路与B06H实际工程。
+- [x] `content/docs/routes/long-leave-return.md` — root22行完整新路线，只选路；同版21导航全部完整改段及206行全diff实际读，25路径双视口及42跨链实点通过。

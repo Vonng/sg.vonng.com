@@ -42,3 +42,5 @@ weight: 50
 取得聘书后，用[录用与入职](/book/work/career/offer/)核本人工作许可、主证变化与家属衔接；家庭共同签住房、服务或保证，先在[签约前检查](/book/rights/contracts/before-signing/)明确谁是签约人、付款人及代理人，再按[合同履行](/book/rights/contracts/performance/)安排改约、通知和结算。
 
 已获准工作的成员用[职场篇](/book/work/career/workplace/)准备协作、反馈与照护相关安排请求；家庭用[环境风险](/book/rights/safety/tropical-hazards/)落实接送、设备备用和每位成员的付款路线。携药、烟酒或电子烟相关规则及家属治疗支持，接[受管制物品](/book/rights/safety/controlled-items/)。
+
+全家旅行逐人用[跨境准备](/book/rights/outdoors/travel-borders/)核证件、准证和携带品；孩子NS与长期海外安排分别接[NS家庭事项](/docs/routes/ns-family/)和[离境与返回事项](/docs/routes/long-leave-return/)。亲子或照护家庭的本地活动，用[公园与水域](/book/rights/outdoors/parks-water/)核体力、可达性、许可及回程。

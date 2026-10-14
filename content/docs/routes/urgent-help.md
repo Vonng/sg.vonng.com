@@ -20,3 +20,5 @@ weight: 5
 涉及家庭暴力、儿童或弱势成人安全时，使用[家庭保护与求助](/book/people/family/separation-safety/)选择保护路径，安排临时住处、证据及后续支持。
 
 有自伤风险或心理危机时，使用[心理健康的即时帮助](/book/people/accessibility/mental-health/#眼前有危险先取得即时帮助)按眼前危险程度联系救援或危机支持。
+
+危险发生在海滩、水库、保护区或离岛，先按紧急求助篇联系救援，后用[户外与水域篇](/book/rights/outdoors/parks-water/)核位置说明、撤离和后续记录；同行者丢护照或准证，接[丢证处理](/book/rights/outdoors/travel-borders/)找对应主管。

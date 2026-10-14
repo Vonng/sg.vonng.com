@@ -34,3 +34,5 @@ weight: 20
 收到聘书，读[录用与入职](/book/work/career/offer/)核职业要求、CPF和报到；签住房、服务或保证文件前，用[合同检查](/book/rights/contracts/before-signing/)明确角色与附件。搬家或长期离境影响合同安排时，按[履行与结束](/book/rights/contracts/performance/)协调通知、交还物品和最后付款。
 
 工作中的协作、反馈与弹性请求用[职场篇](/book/work/career/workplace/)；烟霾等[环境风险](/book/rights/safety/tropical-hazards/)沿PR付款分支核补贴、保险与家庭照护。烟酒、药物和其他产品的当地规则、治疗与通知，接[受管制物品](/book/rights/safety/controlled-items/)。
+
+外出探亲前，用[跨境准备](/book/rights/outdoors/travel-borders/)核REP、换护照后的资料、NS义务和携带品；长期外出用[离境与返回事项](/docs/routes/long-leave-return/)安排工作、家属和日常合约。周末活动接[公园与水域](/book/rights/outdoors/parks-water/)核本人活动及许可条件。

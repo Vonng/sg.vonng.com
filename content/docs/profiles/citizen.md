@@ -32,3 +32,5 @@ weight: 10
 收到聘书，用[录用与入职](/book/work/career/offer/)核工资、CPF、附件和报到；租房、预付服务或替家人担保之前，用[签约前检查](/book/rights/contracts/before-signing/)确认自己承担的责任，之后按[合同履行](/book/rights/contracts/performance/)留付款和结算记录。
 
 在职协作、反馈与弹性请求用[职场篇](/book/work/career/workplace/)；烟霾等[环境风险](/book/rights/safety/tropical-hazards/)按年龄、卡类和诊所核公民就医计划，同时安排家庭照护。烟酒、药物或电子烟相关规则与治疗，接[受管制物品](/book/rights/safety/controlled-items/)。
+
+本地徒步、露营或海滩活动，用[公园与水域](/book/rights/outdoors/parks-water/)安排许可、同行者和回程；海外探亲先用[跨境证件与携带品](/book/rights/outdoors/travel-borders/)核个人和孩子的手续。长期外出另接[离境与返回事项](/docs/routes/long-leave-return/)。

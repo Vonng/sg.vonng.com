@@ -17,3 +17,5 @@ book_kind: chapter
 日常出门和家中准备，用[烟霾、雨雷、积水、高温与登革热](/book/rights/safety/tropical-hazards/)查预警、调整活动与照护，处理水电燃气中断，并保存事故及保险材料。
 
 购买、持有或使用烟酒、电子烟、药品、烟花和武器前，用[受管制物品](/book/rights/safety/controlled-items/)核产品、行为、场所和许可；收到查扣或康复通知、需要成瘾治疗时，也由该篇分流。
+
+到公园、保护区、海滩或水库活动时，结合[地点许可与水域安全](/book/rights/outdoors/parks-water/)准备路线、救生装备和结束活动的条件；跨境携带药物或其他物品，按[出入境规则](/book/rights/outdoors/travel-borders/)核批准、申报与查验。

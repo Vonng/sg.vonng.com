@@ -24,3 +24,5 @@ weight: 80
 收到聘书时，用[录用与入职](/book/work/career/offer/)把固定报酬、本人扣项与酌情奖励分开；接受分期、预付或保证之前，用[签约前检查](/book/rights/contracts/before-signing/)计算完整责任。已有付款困难，接[合同履行](/book/rights/contracts/performance/)提出可实行的安排并保存答复，债务援助另按上面的对应路径。
 
 工作量、反馈或照护与排班冲突，用[职场篇](/book/work/career/workplace/)准备具体请求与求助；家中缺降温或避烟空间，接[环境风险](/book/rights/safety/tropical-hazards/)查社区入口，并按身份核就医费用。成瘾治疗及家属支援，接[治疗与转介](/book/rights/safety/controlled-items/)核收费和材料。
+
+选择可负担的本地活动时，用[公园与水域](/book/rights/outdoors/parks-water/)一并核交通、场地或装备费用、许可和回程。计划出境，用[跨境准备](/book/rights/outdoors/travel-borders/)先确认必要文件及申请费用；网上操作受阻时从同篇的主管联系入口取得办理指引。

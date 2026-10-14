@@ -42,3 +42,5 @@ weight: 30
 已有录用机会，按[录用与入职](/book/work/career/offer/)核固定工资、扣项、旧职和家属衔接，完成本人准证路线再安排报到。租约、服务或个人保证用[签约前检查](/book/rights/contracts/before-signing/)核责任，工作或居留变化后按[合同履行](/book/rights/contracts/performance/)处理实际通知与结算。
 
 在职会议、轮班交接、反馈和安全报告用[职场篇](/book/work/career/workplace/)，家政与平台工作按专门分支；户外烟霾和高温接[环境风险](/book/rights/safety/tropical-hazards/)核工作保护及本人医疗保险。烟酒、个人药物和电子烟的规则、通知与治疗，接[受管制物品](/book/rights/safety/controlled-items/)。
+
+出境前用[跨境准备](/book/rights/outdoors/travel-borders/)核本人准证、护照、预计返新日期及家属状态；长期外出用[离境与返回事项](/docs/routes/long-leave-return/)衔接雇主、税务和合约。休息日户外活动接[公园与水域](/book/rights/outdoors/parks-water/)核路线、许可和装备。

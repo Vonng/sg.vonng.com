@@ -1,5 +1,23 @@
 # 当前检查点
 
+## 2026-10-14 18:23 B06H已本地验收，继续核心正文
+
+现场更新：2026-10-14 18:23（Asia/Singapore）。B06H公园水域与跨境旅行已完整异人事实、真正第三和本地工程通过，累计105 integrated／411产物与public路径、大小、SHA一致；提交前HEAD为B06G d402661，恢复核实际Git。现场110主题＝105已接收＋5草稿；111候选余disputes一个未建正式正文。root已真读其123行自修终稿、15＋2完整改块与两全diff，独立逆替已闭，证据／地图／正式冻／异审尚待。A的HDB133／EC124已正式作者冻但核心资格未知，A现唯一接续admission；B唯一privacy-data作者正在现法与完整请求，C唯一travel-support作者。户外两稿已分别按body1b4b4267…／5322f08a…接收，不再交审或按旧planned抢稿。首页18原输入字节未变，新增未跟踪458364B图保留不stage；全28种子、五情境和住房／入学等核心条件仍未整体完成。
+
+parks body1b4b4267ded825fde6dd3f8c8f1832186876ca30e9e1cb31043ce9dc254cf048；border5322f08a37f9d996d73f4e59148f83bd9f430c08f8e4b34478abaed6d05dce23。正式两审同版PASS；root parks实际110／83证据／34map／80facts／19旧新四diff及四逆替，border163／94证据／34map／120facts／A44第三、三政策／六名称旧新两diff及自身逆替已闭，未代新29／44回源或新PDF目视。只metadata进入integrated，body未变；原地图SHA与新增工程说明分别留receipt。
+
+21导航完整改段和全206行diff实际读；25路径66＋104实点、PFD／NP727搜索点击、42组跨链与两事项菜单、折叠键盘与双视口／暗色均通过。139打印节点／105来源表／672物理页；四网页及658／661／664／665／667／670／671／672八页真实目视，不签全672。首终门禁180源110主题5draft、177HTML／39319内部／10919外链跳过HTTP，零错误警告；411初终／public逐字节一致。receipt93358B／fa96c44749810acc441832addbfdcb4a6e184aad676632b3a37cb08e3418e58f。三工程session3268／70418／96718及final30714／pdftotext14382实际完成；初始缺glossary目录、无fitz、异步文本未完读取分别修复，失败不算pass。1328自有PID33900恢复实查。
+
+下一命令：仅stage两H正文、21导航、八作者支持及审稿、accepted／Hreceipt和七共享记录40个文本，核大小类型／stagedblob／diffcheck后本地提交；不混用户PROMPT-ORIGIN、未知首页配置／小图标／新增图、其他在途正文支持及HANDOFF。随后root完成disputes证据／map／规范source索引与冻结，安排异人全文facts及真正第三；A admission、B privacy、C support继续唯一作者。root接住房独立facts及新成功核心详文；learning的TP新canonical另做限定版本维护。所有28必要种子／五情境最终未通过，不markcomplete；goal active，无外部推送部署DNS联络私人登录代办。
+
+## 2026-10-14 17:54 G已本地保存；户外两稿两审已齐；入学唯一作者转A
+
+HEAD d4026617db7031c1c7809e8cd7eac09f9c1c949e，G显式44 UTF-8文本692543B已完整staged清单／blobSHA／diffcheck后本地提交，index为空。103 integrated及403public一致为可靠基线；未外部推送。parks root真正第三46行6131B／a1c4835b…已正式PASS：实际110正文／83证据／34map／B80完整facts、19整次操作／四全diff及root四逆替，31含页锚地址／29来源实体定义已澄清，未改C正文也未新29回源。border A第三44行7153B／c39b1da0…正式PASS，当前B163 body5322f08a…／full1c9c5104…、C120事实0b7b88ea…／94证据c85947a7…／34map815eaf6b…；root尚未完整接此最终包，不能直接登记105已集成。
+
+A已完成HDB133／EC124正式作者冻，资格核心未知逐条保留；现在旧identity学校admission108行bodyd371e9d6…／fullfe706868…明确转A唯一接续作者。A已接受，须保存旧B02支持并重读新成功MOE必要原文，旧P1placement失败不重探，不把考试年和入学年混用。B唯一privacy-data作者（规范原c675a459），新规例主体已实际读，资料保全和携带义务须分开核，不沿旧22A携带猜测；C唯一travel-support作者正在完整保单／MFA与本国领馆链，eRegister原文“公民”不含only，公民及PR问答已完整读后澄清，不能扩PR领事待遇。三个作者均不动root共享／导航／build。
+
+下一命令：root完整接border最终163／94evi／34map／C120facts／A44第三和必要政策／六名反馈，parks接已读正式包；之后真户外章／导航／双视口搜索菜单打印／门禁sync，并继续disputes缓存123稿完整HUM读／支持／冻／异审。HDB／EC待安排独立facts与核心新成功来源，全部28种子／五情境仍未整体通过。本条只登记新断点，source/cache SHA不代阅读。
+
 ## 2026-10-14 17:19 B06G完成本地接收，继续剩余正文
 
 现场更新：2026-10-14 17:19（Asia/Singapore）。B06G职场协作、热带风险与受管制物品已同版完整两审及实际本地接收，累计103 integrated／403产物，public逐路径、大小、SHA一致；提交前基线B06F 60f0853，实际HEAD恢复时核Git。当前110主题＝103已接收＋7草稿；111候选余disputes一个未建正式正文，其123行完整工作稿在root ignored cache，尚未HUM最终复读／支持／冻结。A独占HDB／EC并优先border真正第三；HDB133首冻但核心资格仍未知，EC122工作稿未冻。B转privacy-data唯一作者，C转travel-support唯一作者；parks C110已B完整facts PASS交root第三，border B163已C完整facts PASS交A第三。外来初稿和旧旗标不代接续阅读，不按旧planned抢文件。首页源稿保留，三处16:52—54新资料已全文读并另门禁复现已测403产物，不混未知UI／图标提交；全28种子、五情境与核心条件仍未整体完成。

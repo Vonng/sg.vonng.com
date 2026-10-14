@@ -23,3 +23,5 @@ weight: 18
 8. 用[热带风险与家庭准备](/book/rights/safety/tropical-hazards/)安排天气提示、应急联络与照护；烟酒、个人药物或其他物品，先核[当地管制与携带许可](/book/rights/safety/controlled-items/)。
 
 有宠物或准备领养时，入住前再读[养宠物](/book/life/household/keeping-pets/)，把数量、住宅条件、执照和照顾安排一并核对。
+
+出发来新或携宠物迁入时，先用[出入境准备](/book/rights/outdoors/travel-borders/)核每人的证件、物品与宠物手续。住处安顿后，周末去公园或水边用[户外活动篇](/book/rights/outdoors/parks-water/)选择适合同行者的路线与许可。

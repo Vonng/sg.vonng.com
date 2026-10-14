@@ -140,3 +140,6 @@ weight: 30
 | HSS / PHPC / MFEC | 烟霾补贴计划、公共卫生防范诊所及医疗费用豁免卡；身份、卡类与就诊地点分别核 | [烟霾就医资格与费用](/book/rights/safety/tropical-hazards/) |
 | TVCA / SPS / MDA / GEWCA | 烟草与电子烟管制法、指定精神活性物质、滥用药物法及枪械爆炸物武器管制法；产品与行为各有适用规则 | [电子烟、药物与物品管制](/book/rights/safety/controlled-items/) |
 | HPB / QuitLine / NAMS / CNB | 保健促进局、戒烟支持电话、成瘾治疗服务及中央肃毒局；治疗、举报和本人自首分别办理 | [治疗与求助选路](/book/rights/safety/controlled-items/) |
+| NParks / PFD / AVS | 国家公园局 / 个人漂浮装置 / 动物与兽医事务组；活动、装备与野生动物求助分别核 | [公园与水域](/book/rights/outdoors/parks-water/) |
+| NP727 / e727 / BNI | 跨境现金及无记名可转让票据网上申报的表件与工具；金额、时间及申报人按主管条件 | [现金与物品申报](/book/rights/outdoors/travel-borders/) |
+| AVS Schedule I、II、III / PRSEP | 猫狗进口来源及条件分类 / PR单次入境证；宠物居住历史与个人返新身份分别判断 | [宠物与返新准备](/book/rights/outdoors/travel-borders/) |

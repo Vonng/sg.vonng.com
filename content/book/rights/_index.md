@@ -20,3 +20,5 @@ icon: fa-solid fa-scale-balanced
 收到正式通知或准备启动争议程序，从[法律体系](/book/rights/legal/legal-system/)分辨适用机构与规则，再按[法律文件事项](/docs/routes/legal-notice/)核证据、回应和出席。工资与不当解雇有自己的[劳动申索流程](/book/work/employment/employment-claims/)。
 
 接受报价、付款或签字前，从[签约前检查](/book/rights/contracts/before-signing/)核主体、价格、附件和保证责任；合同已经开始，接[履行与结束](/book/rights/contracts/performance/)处理交付、变更、通知及结算。
+
+安排徒步、水上活动、海滩或离岛，用[公园与水域](/book/rights/outdoors/parks-water/)核开放、许可、装备和回程；出国探亲或返回新加坡，用[跨境证件与携带品](/book/rights/outdoors/travel-borders/)检查每人的准证、REP、申报、药物和宠物手续。

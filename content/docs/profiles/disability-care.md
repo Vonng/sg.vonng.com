@@ -26,3 +26,5 @@ weight: 70
 收到聘书后，用[录用与入职](/book/work/career/offer/)确认职责、报到和已约定的沟通或环境调整。需要协助阅读、翻译或代家人签文件时，接[签约前检查](/book/rights/contracts/before-signing/)核版本和授权；照护变化影响原服务或付款，按[合同履行](/book/rights/contracts/performance/)保存变更、通知与结算安排。
 
 在职沟通、辅助方式及弹性请求，用[职场篇](/book/work/career/workplace/)说明具体职责与需要；停电、积水或高温时的设备备用、到门口协助和接送，用[环境风险](/book/rights/safety/tropical-hazards/)提前落实。用药或成瘾治疗接[药物与求助](/book/rights/safety/controlled-items/)，向接收机构说明语言、行动及陪同需要。
+
+户外路线、厕所、休息点和水上活动参加条件，用[公园与水域](/book/rights/outdoors/parks-water/)按使用者需要逐项核。跨境出行另用[证件与携药](/book/rights/outdoors/travel-borders/)准备本人及同行者材料，再向承运方说明协助需要。

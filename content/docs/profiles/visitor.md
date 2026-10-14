@@ -24,3 +24,5 @@ weight: 60
 已有工作机会，读[录用与入职](/book/work/career/offer/)的访客权限与开工安排。预订服务、住宿或接受长期收费之前，用[签约前检查](/book/rights/contracts/before-signing/)核期限、总价和取消办法；离境前按[合同履行](/book/rights/contracts/performance/)留下交还、退款及后续联系记录。
 
 出门前查[环境风险](/book/rights/safety/tropical-hazards/)，记好住处完整地址、天气避护与本人保险联络。携个人药物或购买烟酒、其他产品前，用[受管制物品](/book/rights/safety/controlled-items/)核当地规则、许可及无Singpass咨询入口。
+
+到公园、保护区、海滩或离岛，用[户外活动篇](/book/rights/outdoors/parks-water/)核许可资格、当天条件与回程。离境和再次入境，用[证件、携带品与丢证处理](/book/rights/outdoors/travel-borders/)按本人的国籍和实际停留安排办理。

@@ -1,6 +1,6 @@
 # 全书内容地图
 
-现场更新：2026-10-14 17:19（Asia/Singapore）。B06G职场协作、热带风险与受管制物品已同版完整两审及实际本地接收，累计103 integrated／403产物，public逐路径、大小、SHA一致；提交前基线B06F 60f0853，实际HEAD恢复时核Git。当前110主题＝103已接收＋7草稿；111候选余disputes一个未建正式正文，其123行完整工作稿在root ignored cache，尚未HUM最终复读／支持／冻结。A独占HDB／EC并优先border真正第三；HDB133首冻但核心资格仍未知，EC122工作稿未冻。B转privacy-data唯一作者，C转travel-support唯一作者；parks C110已B完整facts PASS交root第三，border B163已C完整facts PASS交A第三。外来初稿和旧旗标不代接续阅读，不按旧planned抢文件。首页源稿保留，三处16:52—54新资料已全文读并另门禁复现已测403产物，不混未知UI／图标提交；全28种子、五情境与核心条件仍未整体完成。
+现场更新：2026-10-14 18:23（Asia/Singapore）。B06H公园水域与跨境旅行已完整异人事实、真正第三和本地工程通过，累计105 integrated／411产物与public路径、大小、SHA一致；提交前HEAD为B06G d402661，恢复核实际Git。现场110主题＝105已接收＋5草稿；111候选余disputes一个未建正式正文。root已真读其123行自修终稿、15＋2完整改块与两全diff，独立逆替已闭，证据／地图／正式冻／异审尚待。A的HDB133／EC124已正式作者冻但核心资格未知，A现唯一接续admission；B唯一privacy-data作者正在现法与完整请求，C唯一travel-support作者。户外两稿已分别按body1b4b4267…／5322f08a…接收，不再交审或按旧planned抢稿。首页18原输入字节未变，新增未跟踪458364B图保留不stage；全28种子、五情境和住房／入学等核心条件仍未整体完成。
 
 ## 内容与资格模型
 
@@ -97,7 +97,7 @@
 | `/book/life/housing/buying-hdb/` | BTO与转售怎样判断家庭资格、HFE和贷款 | written（A133首冻body427cbeb4…，17详来源；核心PR全家／非公民配偶／特殊家庭／PlusPrime产权等仍具体未知，尚无独审） |
 | `/book/life/housing/buying-private/` | 私宅类型、外国人产权批准与买卖交接怎样办理 | integrated（异人事实、第三编辑、生产及实际渲染通过；版本见accepted.json） |
 | `/book/life/housing/neighbours/` | 市镇理事会MCST和邻里纠纷找谁 | integrated（异人事实/第三编辑/生产与实际渲染通过） |
-| `/book/life/housing/buying-ec/` | EC新售、MOP及后续批次的购房国籍资格怎样判断 | written（A122完整工作稿已落，未全篇读回／HUM／证据／冻结；逐批次规则及TOP起算未知仍保留） |
+| `/book/life/housing/buying-ec/` | EC新售、MOP及后续批次的购房国籍资格怎样判断 | written（A124正式作者冻body8d8166c2…；核心国籍／家庭／旧住房／补贴及批次起算未知，待完整facts和真正第三） |
 | `/book/life/housing/purchase-costs/` | 购房税、现金CPF、HDB银行贷款和共同购买怎样核对 | integrated（异人事实、第三编辑、生产及实际渲染通过；版本见accepted.json） |
 
 ### 9. 衣食、购物与家庭运转（household）
@@ -132,7 +132,7 @@
 | `/book/life/digital/accounts/` | SingpassMyinfo怎样设立使用与恢复 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 | `/book/life/digital/telecom/` | 手机宽带合约订阅和取消怎样比较 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
 | `/book/life/digital/privacy-fraud/` | 怎样判断信息和处理账户泄露诈骗：含线下入口 | integrated（事实/第三编辑/生产与渲染通过；接收版本见accepted.json） |
-| `/book/life/digital/privacy-data/` | 向机构查阅更正撤回同意与资料投诉；从防骗即时应对拆出完整权利申请任务 | written（外部39行初稿15:00已交root接续；2019分章PDF与2020后现法、费用例外/身份验证/DPO/投诉展开等核心未核，不计完成） |
+| `/book/life/digital/privacy-data/` | 向机构查阅更正撤回同意与资料投诉；从防骗即时应对拆出完整权利申请任务 | written（已转B唯一完整作者；现行请求、保全／携带、DNC21天分支正在补源和HUM，未正式冻或独审） |
 
 ### 12. 社区、公共服务、文化与休闲（community）
 
@@ -304,7 +304,7 @@
 |---|---|---|
 | `/book/rights/contracts/before-signing/` | 签字前怎样核对主体报价订金押金附件保证 | integrated（bodyfbd61158…；C作者/B完整35主体facts/A真正第三/root B06F工程，见accepted和checks/b06f-acceptance） |
 | `/book/rights/contracts/performance/` | 续约变更取消违约赔偿和责任怎样读 | integrated（body02385c9b…；C作者/root完整26主体facts及五术语限定核/A真正第三/root B06F工程，见accepted和checks/b06f-acceptance） |
-| `/book/rights/contracts/disputes/` | 协商调解小额索赔如何留证并启动 | researching／private complete draft（root123行工作稿；现行SCT程序、SMC商调和一般时效已读，15完整块HUM后最终读／证据／冻结仍待，不建空公开页） |
+| `/book/rights/contracts/disputes/` | 协商调解小额索赔如何留证并启动 | researching／private complete draft（root123行draft2全文和15＋2HUM改块／两diff已真读逆替；证据地图及正式冻／异审待，不建空公开页） |
 
 ### 27. 公共安全、事故与应急（safety）
 
@@ -322,8 +322,8 @@
 
 | 候选路径 | 读者问题与说明 | 状态 |
 |---|---|---|
-| `/book/rights/outdoors/parks-water/` | 公园保护区海岸岛屿游泳野生动物怎样准备 | written（C110首冻body1b4b4267…；B29必要原文全facts80行4d87ec14…正式PASS，root真正第三待做） |
-| `/book/rights/outdoors/travel-borders/` | 通关证件药品物品宠物出入境怎样查 | written（B163末冻bodyeec08eab…；C44必要原文及三事实反馈全facts110行16f7219c…PASS，A真正第三在途） |
+| `/book/rights/outdoors/parks-water/` | 公园保护区海岸岛屿游泳野生动物怎样准备 | integrated（C作者／B29必要原文完整facts／root真正第三及B06H实际工程，body1b4b4267…；见accepted及checks/b06h-acceptance） |
+| `/book/rights/outdoors/travel-borders/` | 通关证件药品物品宠物出入境怎样查 | integrated（B作者／C44必要原文完整facts及三政策／六机构限定重绑、A真正第三及root B06H工程，body5322f08a…） |
 | `/book/rights/outdoors/travel-support/` | 区域旅行保险境外求助与环境实践 | written（外51原稿明确转C唯一完整接续作者；原件已读存，不继承外来阅读旗标，完整正文及独审待闭） |
 
 ## 事项与身份入口计划

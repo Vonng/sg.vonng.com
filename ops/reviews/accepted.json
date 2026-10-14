@@ -1936,5 +1936,31 @@
     "review_source_file_sha256": "44543edd6f2ff91e6522c37ccccde212f9659331b3d41b2b932d9201725f9fa5",
     "engineering": "B06G: final production gate zero errors/warnings;25paths1440/390,66base+118extra actual checks,fold/keyboard/search/dark/crosslinks;print103sources/655physicalpages and root6web+10PDF actualsamples;403outputs QA/final/public path,size,SHA identical. Full receipt:ops/checks/b06g-acceptance.json.",
     "engineering_date": "2026-10-14"
+  },
+  "content/book/rights/outdoors/parks-water.md": {
+    "author": "care_writer",
+    "facts": "review_state_audit",
+    "editor": "root",
+    "date": "2026-10-14",
+    "report": "ops/reviews/b06-parks-water-facts.md",
+    "editorial_report": "ops/reviews/b06-parks-water-editorial.md",
+    "body_sha256": "1b4b4267ded825fde6dd3f8c8f1832186876ca30e9e1cb31043ce9dc254cf048",
+    "reviewed_file_sha256": "dd7de0f74563ee9d3901f73aa79b73242bbd7e0a627c06be2212311016521d99",
+    "review_source_file_sha256": "26c739f6f102212d79cc5a3948af9c1da1144ed19919085a80220242fd0c6494",
+    "engineering": "B06H: final production gate zero errors/warnings;25paths1440/390,66base+104extra actualchecks,fold/keyboard/leaf/search/dark/42crosslinks/2menus;print105sources/672physicalpages,root4web+8PDF actualsamples;411initial/final/public paths,size,SHA identical. Full receipt:ops/checks/b06h-acceptance.json.",
+    "engineering_date": "2026-10-14"
+  },
+  "content/book/rights/outdoors/travel-borders.md": {
+    "author": "review_state_audit",
+    "facts": "care_writer",
+    "editor": "coverage_audit",
+    "date": "2026-10-14",
+    "report": "ops/reviews/b06-travel-borders-facts.md",
+    "editorial_report": "ops/reviews/b06-travel-borders-editorial.md",
+    "body_sha256": "5322f08a37f9d996d73f4e59148f83bd9f430c08f8e4b34478abaed6d05dce23",
+    "reviewed_file_sha256": "1f8f375d9b749f91d8be30d555075273cbf908e0bd45521ae1de4e189877e595",
+    "review_source_file_sha256": "1c9c51044b46a84016b5fa98d4cc10090820dbd7360964f7d424e7a1fdd723cd",
+    "engineering": "B06H: final production gate zero errors/warnings;25paths1440/390,66base+104extra actualchecks,fold/keyboard/leaf/search/dark/42crosslinks/2menus;print105sources/672physicalpages,root4web+8PDF actualsamples;411initial/final/public paths,size,SHA identical. Full receipt:ops/checks/b06h-acceptance.json.",
+    "engineering_date": "2026-10-14"
   }
 }

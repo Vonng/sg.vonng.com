@@ -34,3 +34,5 @@ weight: 40
 已有兼职、实习或毕业岗位，用[录用与入职](/book/work/career/offer/)核工作关系、报酬和合法开工。课程、住宿、分期或保证文件，用[签约前检查](/book/rights/contracts/before-signing/)确认当事人、家长与担保角色；转学或离境影响付款和服务时，接[合同履行](/book/rights/contracts/performance/)安排变更及结束。
 
 已获准工作的学生可用[职场篇](/book/work/career/workplace/)安排交接、汇报和反馈；烟霾等[环境风险](/book/rights/safety/tropical-hazards/)按本人身份核学校、就医及保险安排。烟酒、个人药物、电子烟及治疗求助，接[产品与行为规则](/book/rights/safety/controlled-items/)核年龄和适用条件。
+
+假期出境或海外学习，用[跨境准备](/book/rights/outdoors/travel-borders/)核本人学生准证、护照、返新日期及适用NS安排；长期外出接[离境与返回事项](/docs/routes/long-leave-return/)。学校或自行组织户外活动，用[公园与水域](/book/rights/outdoors/parks-water/)核团体许可、同行者条件和回程。
