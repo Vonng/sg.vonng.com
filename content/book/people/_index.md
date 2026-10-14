@@ -22,3 +22,5 @@ icon: fa-solid fa-people-roof
 孩子入校后，按[学校生活](/book/people/school/school-life/)安排家校沟通、托管、学生保护与转返校。
 
 日常活动受到持续影响时，可从[残障支持、辅具与无障碍生活](/book/people/accessibility/disability/)安排评估、试用设备，以及住宅、学校和工作调整。
+
+准备退休、继续就业或安排乐龄生活，从[退休事项](/docs/routes/retirement/)衔接工作与每月收入；认知、身体功能或家庭人手改变时，接[长期照护](/book/people/ageing/long-term-care/)核医疗评估、服务、报价和支付。

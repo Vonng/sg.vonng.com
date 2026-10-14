@@ -14,3 +14,5 @@ icon: fa-solid fa-scale-balanced
 ---
 
 遇到即时危险，先进入紧急求助；危险过去后，再处理报案、住房和证据。法律与风险问题应按发生的事情选择机构，保存通知、记录和办理结果。
+
+收到正式通知或准备启动争议程序，从[法律体系](/book/rights/legal/legal-system/)分辨适用机构与规则，再按[法律文件事项](/docs/routes/legal-notice/)核证据、回应和出席。工资与不当解雇有自己的[劳动申索流程](/book/work/employment/employment-claims/)。

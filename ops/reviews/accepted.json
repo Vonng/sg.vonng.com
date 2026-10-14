@@ -1689,5 +1689,57 @@
     "reviewed_file_sha256": "8772579fcbab6b8c182ba35517161b909ec86537f1e6c6a17ea8a542e16a9e5b",
     "engineering": "B06A: production gate and 70 paths desktop/mobile, 50 extra live checks, print structure and six PDF visual samples passed; final metadata build/sync recorded in ops/checks/b06a-acceptance.json.",
     "engineering_date": "2026-10-14"
+  },
+  "content/book/people/ageing/retirement.md": {
+    "author": "care_writer",
+    "facts": "coverage_audit",
+    "editor": "root",
+    "date": "2026-10-14",
+    "report": "ops/reviews/b06-retirement-facts.md",
+    "editorial_report": "ops/reviews/b06-retirement-editorial.md",
+    "body_sha256": "66abb2b52f0825878e0603d32b59e8f97344b1b73ed9d521d3610081634475e7",
+    "reviewed_file_sha256": "28c407b46340aa6eabb483ec34ba0b79bfc11b9c2ab94a373de98c9d928d9244",
+    "review_source_file_sha256": "55e61aa29f70b3941e59d62f6f94bb0c54d0035b6939a85b76bf3c0f2c1a501e",
+    "engineering": "B06B: production gate, 21 paths desktop/mobile, 56 extra live checks with search alias correction, print structure and six PDF/three web visual samples passed; final metadata gate/sync recorded in ops/checks/b06b-acceptance.json.",
+    "engineering_date": "2026-10-14"
+  },
+  "content/book/people/ageing/long-term-care.md": {
+    "author": "care_writer",
+    "facts": "coverage_audit",
+    "editor": "root",
+    "date": "2026-10-14",
+    "report": "ops/reviews/b06-long-term-care-facts.md",
+    "editorial_report": "ops/reviews/b06-long-term-care-editorial.md",
+    "body_sha256": "65c366291e32ab80c10b2fc7db4e39763850029ec9468a3ebdb130f0c8ca5a11",
+    "reviewed_file_sha256": "1d430877a08f717aad56be7edf7dca331d42392ecb2032ea243678b1feca7727",
+    "review_source_file_sha256": "f5035644108416ee1c808b5dc4aa4497488bcffcd31f2322159b85b56b538626",
+    "engineering": "B06B: production gate, 21 paths desktop/mobile, 56 extra live checks with search alias correction, print structure and six PDF/three web visual samples passed; final metadata gate/sync recorded in ops/checks/b06b-acceptance.json.",
+    "engineering_date": "2026-10-14"
+  },
+  "content/book/work/employment/employment-claims.md": {
+    "author": "root",
+    "facts": "coverage_audit",
+    "editor": "review_state_audit",
+    "date": "2026-10-14",
+    "report": "ops/reviews/b06-employment-claims-facts.md",
+    "editorial_report": "ops/reviews/b06-employment-claims-editorial.md",
+    "body_sha256": "27f947d9a5d4a6c9ed2dea860202e9b26c770a2079c3158e8df26e4a8f87bacc",
+    "reviewed_file_sha256": "5a52ac0a75b04fe43a6a2c91381337267e6517e8167f0604eb92bce470881e7a",
+    "review_source_file_sha256": "f9691c2732b32b33080fddeab0827346dbbb809bfdcfee91fb89c89b25cad1d1",
+    "engineering": "B06B: production gate, 21 paths desktop/mobile, 56 extra live checks with search alias correction, print structure and six PDF/three web visual samples passed; final metadata gate/sync recorded in ops/checks/b06b-acceptance.json.",
+    "engineering_date": "2026-10-14"
+  },
+  "content/book/rights/legal/legal-system.md": {
+    "author": "review_state_audit",
+    "facts": "root",
+    "editor": "care_writer",
+    "date": "2026-10-14",
+    "report": "ops/reviews/b06-legal-system-facts.md",
+    "editorial_report": "ops/reviews/b06-legal-system-editorial.md",
+    "body_sha256": "0c45b213625e115fc2e454cce80c725dae108e66b509384bbed90cd643e522f9",
+    "reviewed_file_sha256": "9c4e32818ddff9058fe45440b5e265d300eb83c68d669c1d59f1bb15b3631b02",
+    "review_source_file_sha256": "b88d21692514582e2603500158151cde81495ccf8a42cde327aa20cee385e671",
+    "engineering": "B06B: production gate, 21 paths desktop/mobile, 56 extra live checks with search alias correction, print structure and six PDF/three web visual samples passed; final metadata gate/sync recorded in ops/checks/b06b-acceptance.json.",
+    "engineering_date": "2026-10-14"
   }
 }

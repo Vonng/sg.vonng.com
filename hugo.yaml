@@ -225,3 +225,13 @@ menus:
     name: 残障者与照护家庭
     pageRef: /docs/profiles/disability-care/
     weight: 70
+  - identifier: routes-retirement
+    parent: routes
+    name: 安排退休、再就业与乐龄生活
+    pageRef: /docs/routes/retirement/
+    weight: 60
+  - identifier: routes-legal-notice
+    parent: routes
+    name: 收到法律文件或争议通知
+    pageRef: /docs/routes/legal-notice/
+    weight: 65

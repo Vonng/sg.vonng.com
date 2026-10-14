@@ -107,3 +107,8 @@ weight: 30
 | SFC / MCES / TA / WSS / WSQ / SOA | SkillsFuture Credit、增强课程资助、培训津贴、Workfare技能支持及技能资格/模块证书；各按本人的计划条件 | [成人学习](/book/people/learning/adult-learning/) |
 | HCG / CTG / FAR / CAF / HPC+ | 居家照护现金补助、照护培训补助、功能/支持评估及增强居家个人护理；对象和评估分别判断 | [照护者支持](/book/people/accessibility/caregiver-support/) |
 | AV / OOTR / VRB | 物业年值 / 自住房产税率 / 估值复核委员会；房产税与租金所得分别处理 | [房产税与出租所得](/book/work/tax/property-tax/) |
+| CPF LIFE / EAP / MRSS / Silver Support / AAC | CPF终身月款计划 / 就业援助金 / 退休储蓄配对补助 / 乐龄补贴 / 乐龄活跃中心；各自资格与开始日期分别核 | [退休与再就业](/book/people/ageing/retirement/) |
+| CareShield Life / ElderShield / MediSave Care / IDAPE / ElderFund | 长期护理保险及现金提款、援助；保单、年龄、残障、账户和身份条件分别判断 | [长期照护与支付](/book/people/ageing/long-term-care/) |
+| SDA / RAF / eFASS / HPC+ | 严重残障评估 / 护理院住户评估表 / AIC申请系统 / 增强居家个人照护 | [评估、服务与申请](/book/people/ageing/long-term-care/) |
+| TADM / ECT / SA / CRC / CJTS / DOS | 劳动争议调解机构 / 劳动申索裁判庭 / 和解协议 / 申索转介证明 / 社区司法与裁判庭系统 / 送达声明 | [劳动申索完整程序](/book/work/employment/employment-claims/) |
+| AGC / SSO / ROC / OC / OA / ACO | 总检察署 / 法律文本查询 / 法院规则 / 两类民事起诉文件 / 法院裁令真实性核查；OA在CPF语境另指普通账户 | [法律、文件与机构](/book/rights/legal/legal-system/) |

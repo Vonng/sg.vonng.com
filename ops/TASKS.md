@@ -1,6 +1,6 @@
 # 任务总账
 
-更新：2026-10-14 08:29（Asia/Singapore）。用户active持续目标继续执行；B06A/HUM10已实际接收50篇表达维护和三成熟新主题，累计84可读主题。146源/86主题/4draft、144HTML，零错误警告；340输出同步public逐路径/大小/SHA一致。退休在事实收尾，长期照护/法律/困难援助持续成稿；全书五部分28领域范围未缩小。
+更新：2026-10-14 09:20（Asia/Singapore）。用户active持续目标继续执行；B06B新增退休、长期照护、劳动申索和法律体系完整四篇，累计88可读主题。最终154源/92主题/4draft、152HTML、零错误警告；356输出同步public逐路径/大小/SHA一致。求职援助在独审收尾、法律帮助/预先规划在作者冻结中、生活困难继续成稿；全书五部分28领域范围未缩小。
 
 | 任务 | 所有者 | 状态 | 依赖与完成标准 |
 |---|---|---|---|
@@ -18,7 +18,8 @@
 | B06 全书覆盖与情境走查 | root+独立审阅者 | planned | 全28领域种子/身份/生命周期/弱势处境逐条证明 |
 | AUDIT 进展与续作提示词 | root；两位只读审计者 | complete（状态审计） | 源码覆盖、审核SHA、Git与实际生产门禁已核；不等于全书事实/内容完成，见PROGRESS-AUDIT及checks/progress-audit-2026-10-13.json |
 | P0 HUM版本与成熟稿接收 | root；A/B交叉独审；care_writer | integrated（B06A/HUM10） | 50篇维护双独审及三事实修正闭合；三成熟稿完整两审、70路径双视口/打印、340产物同步，详见b06a-acceptance |
-| B06B 退休、法律与困难完整链 | care_writer老年；review_state_audit法律；root困难；coverage_audit独立事实 | writing / reviewing | 退休全文事实→root第三编辑；长期照护与法律成稿；困难拆三任务完整回源写作，按冻结版本轮换两审，不积压 |
+| B06B 退休、照护、劳动申索、法律体系 | care_writer老年；review_state_audit法律；root申索；coverage_audit事实轮换 | integrated | 四篇完整两审及同版SHA、21路径双视口58基础+56额外、打印/九个目视样本及356输出一致；checks/b06b-acceptance |
+| B06C 求职援助、生活困难、法律帮助与预先规划 | root生活支持；review_state_audit法律；care_writer规划；coverage_audit独审 | writing / reviewing | JS100行第三冻结fa94423a…，原独审已通过，末两编辑改段限定重绑/第三编辑待签；getting-help/planning-ahead完整作者稿需冻证据；ComCare及当期措施仍root作者，全链逐稿两审后工程 |
 | HUM 全书说人话校对 | root；coverage_audit/review_state_audit交叉限定两审 | in progress（已公开源闭合） | 按 ops/HUMANIZE.md（提示词v2）初始94队列并追增实际源（二核140，已补登caregiver-support/property-tax）；礼节/小贩两份九处表达已限定事实及第三编辑通过，主控已应用并完成B04A生产、双视口及打印验收。删说教/免责/无信息量否定，事实层零变动；在途draft待集成后补；独立版本与accepted SHA绑定，闭环后主控工程验收 |
 
 ## 日期触发与来源缺口
@@ -27,6 +28,7 @@
 |---|---|---|
 | 每年1月1日/12月31日；匹配入账时 | MRSS资格、年度上限与终身上限、截止含当日及入账时公民身份 | retirement；CPF当期条件，未因年度合资格忽略翌年入账身份 |
 | 2027-03-31 | 取消公民/PR后CPF关户过渡利息安排终点 | retirement/CPF；CPF当前关户详页，不套成普通海外居住月款规则 |
+| 2027-01-04前；2027-03-31 | My Legacy个人资料、funeral plan与will records关闭删除，以及SAL新Wills Repository数字存档免费期 | planning-ahead当前作者实际LifeSG详FAQ/SAL原文；须下载个人各section，ACP/CPF提名/LPA不受该删除影响，等待该稿独审后正式接收 |
 | 2026-11-30／12-01 | 两职业病项目移出过渡结束及四项户外热应激措施转强制 | injury；MOM职业病FAQ与热措施现行详页，当前与未来已明确区分 |
 | 2027-01-01 | SCFA收入门槛4500／1125变为6500／1625；提前申请窗口真实表述差异届时重核 | school-life；MSF现行SCFA详页及COS2026，SSCC条件另核 |
 | 2027（具体生效日及细则待公布） | HCG、残障MDW levy、CTG、Pioneer disability对ID/ASD特殊照护需要的资格拓宽；照顾者触点与培训框架 | care_finance实际读取MOH2026-09-04讲话；caregiver-support研究证据承接。现行CAF-R不得等同未来扩围，来源路径见本人HANDOFF |

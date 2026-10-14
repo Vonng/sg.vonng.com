@@ -1,5 +1,17 @@
 # 当前检查点
 
+## 2026-10-14 09:20 B06B四主题已验收，继续下一批
+
+用户持续目标active，完整五部分28领域仍在执行。提交前HEAD5a10a90（B06A/HUM10已本地提交），本检查点随B06B本地提交保存，恢复须git log核实际提交号。退休body66abb2b5…、长期照护65c36629…、劳动申索27f947d9…、法律体系0c45b213…已完整异人事实/第三编辑及root实际工程接收，累计88 integrated/draft:false；原核验日期14日，作者审原完整SHA与工程后元数据SHA分别保存accepted。LTC代申请“其他照护者仅在父母/配偶/子女无法申请时”已经作者修正/异人回源/root第三编辑；法律AGC标签只改来源导航，root限定事实重绑；申索三术语补充已两审。
+
+ageing/legal真实导读与退休/法律通知事项、身份/照护离职入口和术语已加入。最终make check154源/92主题/4draft、152HTML、28809内部引用、8030外链跳过HTTP，零错误警告。21路径双视口58基础+56额外实点，通过三章节四叶子Space/Enter与MRSS/IDAPE/DOS/ACO搜索、10跨章和两菜单。首次DOS实测未找到目标，根仅补搜索metadata关键词；完整body未改，重跑双视口实点通过。探针原法律标题与真实标题不符，在到该步前修脚本，无产品标题改动。
+
+打印119书节点/4873外链/88来源表/527物理页，暗色导出白底黑字，无相对链接/断锚。root真实目视三网页图及PDF383/385/391/394/431/519六页，仅抽样。356产物已make sync且与最终门禁逐路径/大小/SHA一致；细表checks/b06b-acceptance.json。1328本轮实查监听PID33900，为原session22653自有服务，恢复重查。原件/图/PDF/public仍忽略，用户PROMPT-ORIGIN不stage，未外部推送部署联络私有登录代办。
+
+下一具体工作：root完成hardship（生活困难/ComCare/2026临时措施/外籍服务）完整稿→coverage_audit事实；JS100行三冻13181B/bodyfa94423a…，独审两反馈及末两编辑改段均由root应用；coverage_audit限定重绑、review_state_audit第三编辑签发在途。review_state_audit getting-help158行/bodyc99fd489…已经作者冻结，coverage_audit全文事实/root第三编辑；先闭合JS第三再rights-notices。care_writer planning-ahead完整稿在自审/证据冻结中，再root异人事实/coverage_audit第三编辑，后death。四在途草稿均不计接收；其他career/business/contracts/safety/outdoors及住房/隐私/入学核心仍需逐条完成。
+
+本批提交前核所有文本大小类型/staged清单，只收已冻结拥有文件；不要stage在途help/planning及其未冻交接。更新RESUME和覆盖/HUM的最新状态，不重复B06A未变50维护研究。全书必要种子与五情境最终走查未通过，不能mark goal complete。
+
 ## 2026-10-14 08:29 B06A/HUM10已验收，持续补全在途
 
 用户持续目标active。已闭合50篇HUM维护版的独立限定事实/第三编辑，工伤两处及DMP一处按主管修正并再核；accepted保存previous_review，原verified仍Oct13。成人学习/照护者/房产税三篇完整两审及主控实际工程通过，累计84主题integrated/draft:false。正文SHA分别77f54b5b…/7c5267d9…/d1090e1a…，完整当前版本见accepted。三新导航、相关身份/导读/菜单术语已更新。

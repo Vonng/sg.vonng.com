@@ -20,3 +20,5 @@ weight: 55
 5. 医疗费用看[支付与补贴](/book/people/healthcare/healthcare-payments/)，辅具住宅和复工调整看[残障支持](/book/people/accessibility/disability/)；照护者持续压力从[心理健康](/book/people/accessibility/mental-health/)求助。
 
 孩子的接替须结合[托育](/book/people/family/childcare/)与[学校支持](/book/people/school/learning/)的实际时间表。当天已无法安全接手，照护者正文列出如何向现有医疗团队、社工和AIC说明即时需要；眼前有医疗或安全危险，使用[紧急求助](/book/rights/safety/emergencies/)。
+
+认知或生活功能持续改变、日间与居家服务仍不足时，接[长期照护](/book/people/ageing/long-term-care/)核护理院申请、等候期间人手、2026补贴、CareShield及其他付款来源；入住后继续追踪照护计划与费用。

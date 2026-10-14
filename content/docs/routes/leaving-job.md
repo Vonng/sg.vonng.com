@@ -22,3 +22,5 @@ weight: 25
 收入中断后，先重排[家庭预算](/book/work/finance/household-budget/)；若无法维持原定还款，再按[债务困难与争议](/book/work/finance/debt-disputes/)准备债务清单、选择对应求助渠道并处理来信期限。
 
 争议涉及少发工资、扣款、加班或假期时，先对照[在职劳动权益](/book/work/employment/employment-rights/)保存记录；有跨境收入时，再核[海外收入、协定与抵免](/book/work/tax/cross-border/)。
+
+需要正式提出工资或不当解雇申索，接[劳动申索](/book/work/employment/employment-claims/)核TADM期限、提交付款、调解与ECT后续；涉及退休、再就业或EAP，改按[退休事项](/docs/routes/retirement/)选择专门路径。

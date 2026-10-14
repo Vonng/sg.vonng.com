@@ -1,5 +1,7 @@
 # B06 退休、再就业与乐龄生活：作者证据
 
+2026-10-14 B06B主控接收：本篇已完整两审及实际工程集成，body `66abb2b52f0825878e0603d32b59e8f97344b1b73ed9d521d3610081634475e7`；最新元数据和完整SHA见accepted，验收见checks/b06b-acceptance.json。下方是作者冻结与取得/阅读时的记录，其written/draft叙述是当时状态，不改原证据日期与采用范围。
+
 care_writer独占；实际查阅日期2026-10-14（Asia/Singapore）。复用care_finance在2026-10-13保存的真实原返回与PDF；本作者已经独立复读下列采用范围，旧HANDOFF和read-checkpoint只用于定位，未把它们当原文。新联网、按主管导航取得的原返回及失败记录在忽略目录 `.cache/research/b06-retirement/current1..12.txt`；旧实体和分段返回在 `.cache/research/b04-care-ageing/retirement/`。没有登录CPF、提交政府表单、提款、联络机构或运行共享构建。
 
 ## 来源及采用范围

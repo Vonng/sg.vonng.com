@@ -4,12 +4,14 @@ description: 分辨法律程序、主管机构和可用的求助方式。
 page_id: sg-book-rights-legal-_index
 content_kind: editorial
 scope: 编辑导航；所列制度的适用条件见对应正文
-status: planned
-draft: true
+status: integrated
+draft: false
 verified: ''
 reviewed_by: root（编辑导航审阅）
 weight: 10
 book_kind: chapter
 ---
 
-收到通知或遇到争议，先记下发件机构、文件名称和期限，保存合同与往来记录。发生即时危险时，按[紧急求助](/book/rights/safety/emergencies/)先处理安全，再安排后续文件和程序。
+收到通知或遇到争议，先记下发件机构、文件名称和期限，保存合同与往来记录。按[法律体系](/book/rights/legal/legal-system/)分清法规、机构和民事、刑事或行政程序，再从[收到法律文件事项](/docs/routes/legal-notice/)安排材料和求助。
+
+工资或解雇争议接[劳动申索](/book/work/employment/employment-claims/)，消费退款接[消费者权益](/book/life/household/consumer-rights/)，金融和债务来信接[债务与争议](/book/work/finance/debt-disputes/)。发生即时危险时，按[紧急求助](/book/rights/safety/emergencies/)先处理安全。

@@ -2,6 +2,8 @@
 
 ## 2026-10-14 当前接收范围
 
+B06B四主题（退休136行、长期照护174行、劳动申索109行、法律体系104行）已各由真正第三人全文按判据审、同版事实及实际工程通过，累计88公开正文；root新导航全文通读。JS100行及新法律帮助/预先规划稿继续按作者→事实→第三编辑补登记，admission核心原文未闭，不能以旧136源或本批四篇宣称全书HUM完成。
+
 HUM10将HUM02—09实际改变的50篇正文与4da4c93旧接收逐改段独立事实复核，再交换第三编辑全文/差分/静态审，最终SHA均闭合；B06A生产、70路径双视口和打印抽样通过。工伤主体与平台防热、DMP状态三处语义漂移由root回主管修正，复核后接收，不再称该三处仅纯表达。未变事实继承旧报告，verified不刷新；accepted保留previous_review。成人学习175行、照护者125行和房产税137行已全文第三编辑按唯一判据处理并集成。新增导航全文通读，新稿及admission继续追增，全书HUM不提前记完成。下方v2及HUM02—09计数为当时范围，不拿旧四draft继续跳过已集成三稿。
 
 ## 2026-10-13初始任务与历史量化
@@ -261,4 +263,15 @@ B04I 追增后新增、此前未入队的源，均为在途 draft：
 - [x] `content/docs/profiles/disability-care.md` — root创建后全文表达通读；两新章导读仍私有draft，2026-10-14。
 - [x] `content/book/people/ageing/_index.md` — root创建后全文表达通读；两新章导读仍私有draft，2026-10-14。
 - [x] `content/book/rights/legal/_index.md` — root创建后全文表达通读；两新章导读仍私有draft，2026-10-14。
-- ○ `content/book/people/ageing/retirement.md` — 作者完整自审；待异人事实及第三编辑接收后补登记。
+- [x] `content/book/people/ageing/retirement.md` — root全文第三编辑136行、独立事实及B06B实际工程通过，2026-10-14。
+
+### B06B新增源追登（2026-10-14）
+
+- [x] `content/book/people/ageing/long-term-care.md` — root全文第三编辑174行，独立事实代理限制已补并复核，B06B工程通过。
+- [x] `content/book/work/employment/employment-claims.md` — review_state_audit全文第三编辑109行，三项首次术语由作者补、异人事实再核，B06B工程通过。
+- [x] `content/book/rights/legal/legal-system.md` — care_writer全文第三编辑104行，唯一AGC来源标签改段已事实重绑，B06B工程通过。
+- [x] `content/docs/routes/retirement.md` — root完整新稿与选路引用通读，无重复规则库；B06B工程通过。
+- [x] `content/docs/routes/legal-notice.md` — root完整新稿与选路引用通读；B06B工程通过。
+- ○ `content/book/work/employment/jobseeker-support.md` — root100行完整作者自审，独立事实在途、第三编辑待签。
+- ○ `content/book/rights/legal/getting-help.md` — review_state_audit158行完整作者冻结，待异人事实与第三编辑。
+- ○ `content/book/people/ageing/planning-ahead.md` — care_writer完整作者稿自审/证据在途，未冻结。

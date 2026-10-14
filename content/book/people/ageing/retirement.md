@@ -4,10 +4,10 @@ description: "按身份、出生批次和雇佣条件安排退休或继续工作
 page_id: sg-ageing-retirement
 content_kind: task
 scope: "新加坡退休规划者、乐龄人士及家人；公民、PR、各类准证持有人与访客，分别核雇佣保障、CPF、SRS及社区服务资格"
-status: written
-draft: true
-verified: ""
-reviewed_by: ""
+status: integrated
+draft: false
+verified: "2026-10-14"
+reviewed_by: "coverage_audit（事实）；root（编辑）"
 weight: 10
 search_keywords: ["退休", "再就业", "乐龄", "CPF LIFE", "退休账户", "RA", "Silver Support", "银发", "MRSS", "EAP", "Active Ageing Centre"]
 ---

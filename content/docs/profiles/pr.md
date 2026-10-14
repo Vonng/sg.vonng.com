@@ -22,3 +22,5 @@ weight: 20
 成人进修的PR课程资助与外国学员条件，见[成人学习](/book/people/learning/adult-learning/)；家人需要日常照护，按[照护事项](/docs/routes/caregiving/)核各计划实际身份与评估条件。
 
 拥有住宅或出租房屋，按[房产税与出租所得](/book/work/tax/property-tax/)核自住期间、变更通知、缴款和租金申报。
+
+退休与再就业、CPF和公民专属补助分开核，按[退休事项](/docs/routes/retirement/)准备；长期护理的PR补贴、保险及家庭条件见[长期照护](/book/people/ageing/long-term-care/)。工资争议接[劳动申索](/book/work/employment/employment-claims/)，收到其他法律文件接[法律通知事项](/docs/routes/legal-notice/)。

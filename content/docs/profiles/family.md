@@ -30,3 +30,5 @@ weight: 50
 家人需要辅具或住宅调整时，从[残障支持](/book/people/accessibility/disability/)了解评估、验证及申请材料，并让实际使用者参与设备和服务选择。
 
 家属进修可用[成人学习事项](/docs/routes/adult-learning/)区分课程、费用资助及学习工作权限；准备长期照顾亲友，先用[照护事项](/docs/routes/caregiving/)接稳日常安排和临时接替。
+
+长期看顾长者时，按[长期照护](/book/people/ageing/long-term-care/)核受服务人的接纳、保险、补贴及家庭代申请条件；家人结束工作，从[退休事项](/docs/routes/retirement/)规划收入与居留。收到法院或其他正式文件，进入[法律通知事项](/docs/routes/legal-notice/)核程序。
