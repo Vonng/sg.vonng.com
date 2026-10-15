@@ -601,6 +601,7 @@
   }
 
   &__grid {
+    grid-template-columns: repeat(var(--td-footer-cols, 4), minmax(0, 1fr));
     gap: 2rem;
   }
 
@@ -650,14 +651,32 @@
     }
   }
 
-  @media (max-width: 767px) {
-    &__container { padding: 2.5rem 1.25rem 2rem; }
-    &__inner { grid-template-columns: minmax(0, 1fr); gap: 2rem; }
-    &__grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-  }
 }
 
 // 版权行与上方四列共用同一条居中容器边线
 .td-site-footer + .td-shell-footline {
   padding-inline: unquote('max(2rem, calc((100% - 1280px) / 2 + 2rem))');
+}
+
+// 保持品牌、导航与版权行在平板和手机上沿同一条边线排版。
+@media (max-width: 991.98px) {
+  .td-site-footer__inner {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 2rem;
+  }
+}
+
+@media (max-width: 767px) {
+  .td-site-footer__container { padding: 2.5rem 1.25rem 2rem; }
+  .td-site-footer__grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .td-site-footer__column {
+    h2 { margin-bottom: .5rem; }
+    li + li { margin-top: 0; }
+    a {
+      display: inline-flex;
+      align-items: center;
+      min-height: 44px;
+    }
+  }
+  .td-site-footer + .td-shell-footline { padding-inline: 1.25rem; }
 }

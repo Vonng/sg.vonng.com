@@ -13,13 +13,13 @@ columns:
       - { label: 查询索引, url: /docs/ }
       - { label: 术语对照, url: /docs/glossary/ }
       - { label: 版本说明, url: /docs/about/ }
-  - title: 生活指南
+  - title: 兄弟站点
     links:
       - { label: 加拿大生活指南, url: "https://ca.vonng.com/", external: true }
       - { label: 美利坚生活指南, url: "https://us.vonng.com/", external: true }
       - { label: 新加坡生活指南, url: / }
-  - title: 其他链接
+  - title: 项目与作者
     links:
-      - { label: vonng.com, url: "https://vonng.com/", external: true }
-      - { label: pgsty.com, url: "https://pgsty.com/", external: true }
-      - { label: pg.center, url: "https://pg.center/", external: true }
+      - { label: GitHub 源码, url: "https://github.com/Vonng/sg.vonng.com", external: true }
+      - { label: 作者博客, url: "https://vonng.com/", external: true }
+      - { label: OINK 主题, url: "https://github.com/pgsty/oink", external: true }

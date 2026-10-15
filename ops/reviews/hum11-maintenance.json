@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "date": "2026-10-15",
+  "kind": "editorial-maintenance",
+  "base_commit": "07e4da200cd5b8482f42190757c52e395b0edf84",
+  "edit_commit": "9abd8c707e28a47ab285c08f9190185f120cc7c4",
+  "scope": "HUM11 wording cleanup. Original factual review, eligibility conditions, numbers, citations and verification dates retained; no new policy verification. One general water/energy conservation suggestion removed.",
+  "reviews": {
+    "semantic": {
+      "reviewer": "/root/sg_language_review",
+      "result": "PASS",
+      "report_sha256": "e3888f5be93518d7ebee2ae532f5075df4091c93d96f9de587de9464a091de18"
+    },
+    "static": {
+      "reviewer": "/root/release_review",
+      "result": "PASS",
+      "report_sha256": "7db5883b043d30918130f7df3d2ddf83b0090a5ff0b771c34915869b8372136a"
+    }
+  },
+  "pages": {
+    "content/book/life/digital/privacy-data.md": {
+      "previous_body_sha256": "41b9cfdf997698b67f30111671cb1234e48507777a011c6bcad2a3232125a89a",
+      "body_sha256": "f95e7184f8b495b189656a0442f7a805f60e173c4af09b51dcd4055040187bb6",
+      "file_sha256": "61388d5c38de6a837b6fc00ecbbcc1b4af63060d266c6a1458bf73378be8cea9",
+      "frontmatter_unchanged": true,
+      "citations_unchanged": true,
+      "heading_and_number_sequences_unchanged": true
+    },
+    "content/book/life/housing/buying-ec.md": {
+      "previous_body_sha256": "de169d9070fca5355b513c8f74e59b53887371d04ded8058701ad49d3f7ce282",
+      "body_sha256": "b22bb2a35cb179578e8f8b641d4fb71b02a1f42431a8e247ddc7848c4200c279",
+      "file_sha256": "cda07948b6afa7d874ce5e64445baa0956bfe99de4053bcabae45135bd41674a",
+      "frontmatter_unchanged": true,
+      "citations_unchanged": true,
+      "heading_and_number_sequences_unchanged": true
+    },
+    "content/book/rights/contracts/disputes.md": {
+      "previous_body_sha256": "bca873254c950ca2da73c3231992730f095412af1fb6a2fa92aaae50f5349156",
+      "body_sha256": "18efd8f96e3bb3fc8d203f96dfc3fc8096a4d61278ae3c8eba5d411e9b92d8df",
+      "file_sha256": "d125ba36a5fad2620798dc56551a3b4e7bf5910490e4f8f2621a8d61132f7865",
+      "frontmatter_unchanged": true,
+      "citations_unchanged": true,
+      "heading_and_number_sequences_unchanged": true
+    },
+    "content/book/rights/outdoors/travel-support.md": {
+      "previous_body_sha256": "5df46a39dd271a408fcb7a1c6ed968a463995af35100e060a74b17a3de5cc28e",
+      "body_sha256": "27ee0c5ebf266b5ea2c3c9251617862fa5f84e4c6162e5992da88fa3e837455c",
+      "file_sha256": "6260f52222d6676d4d930e3b6bfb3d7d0a1803edb3ff4a5985403630fd6a383c",
+      "frontmatter_unchanged": true,
+      "citations_unchanged": true,
+      "heading_and_number_sequences_unchanged": true
+    }
+  }
+}
