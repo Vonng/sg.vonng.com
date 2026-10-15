@@ -42,7 +42,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
 params:
-  logo: favicon.svg
+  logo: favicon.svg?v=f37d802e9ce05ec3a3a0e5bff481c5ef7e187aecfc443f7fb4a09873b46ad007
   offline_search: true
   offline_search_index: content
   copyright:

@@ -1,0 +1,14 @@
+{{/* Version every icon URL so browsers replace previously cached site identities. */ -}}
+{{- $icons := slice
+  (dict "file" "favicon.ico" "rel" "icon" "type" "image/x-icon" "sizes" "16x16 32x32 48x48")
+  (dict "file" "favicon-32x32.png" "rel" "icon" "type" "image/png" "sizes" "32x32")
+  (dict "file" "favicon-192x192.png" "rel" "icon" "type" "image/png" "sizes" "192x192")
+  (dict "file" "favicon.svg" "rel" "icon" "type" "image/svg+xml" "sizes" "any")
+  (dict "file" "apple-touch-icon.png" "rel" "apple-touch-icon" "type" "image/png" "sizes" "180x180")
+-}}
+{{- range $icons -}}
+  {{- $source := printf "static/%s" .file -}}
+  {{- $version := crypto.SHA256 (os.ReadFile $source) -}}
+  {{- $url := printf "%s?v=%s" (.file | relURL) $version -}}
+  <link rel="{{ .rel }}" href="{{ $url }}" type="{{ .type }}" sizes="{{ .sizes }}">
+{{ end -}}
